@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-05T03:11:41.884165+00:00",
+  "exit_code": 0,
+  "response": {
+    "success": true,
+    "command": "command",
+    "data": {
+      "command": "menu",
+      "parameters": {
+        "path": "Tools/Áudio/Importar SFX"
+      },
+      "result": {
+        "success": true,
+        "path": "Tools/Áudio/Importar SFX",
+        "items": null,
+        "message": "Executed menu item 'Tools/Áudio/Importar SFX'"
+      },
+      "target": {
+        "host": "127.0.0.1",
+        "port": 7800,
+        "projectPath": "C:\\Users\\ruhtra\\My project"
+      }
+    },
+    "errors": [],
+    "warnings": []
+  }
+}

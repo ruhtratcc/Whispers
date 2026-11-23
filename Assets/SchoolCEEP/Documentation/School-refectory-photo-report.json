@@ -1,0 +1,38 @@
+{
+    "photographicDimensionsEstimated": true,
+    "originalWallCollidersPreserved": true,
+    "originalDoorsAndGradesPreserved": true,
+    "tableSets": 6,
+    "attachedBenches": 12,
+    "servingBays": 3,
+    "carts": 2,
+    "noticeboards": 2,
+    "fixtures": 4,
+    "roofFrames": 4,
+    "roofRibs": 47,
+    "addedColliders": 21,
+    "meshes": 510,
+    "interactiveGrilleLeaves": 1,
+    "eastCirculationWidthMeters": 4.175085544586182,
+    "roofUndersideMeters": 3.2799999713897705,
+    "connectorCeilingMeters": 2.5,
+    "photoSources": [
+        "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-41b23435-dd06-4d5c-954f-599c6411c85a.png",
+        "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-a1942138-9acd-4f18-8b83-83031c71845b.png",
+        "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-f42475ae-c27a-4275-8527-b5049a71996d.png",
+        "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-e54792f1-1460-4c10-a9e3-19cf573d059d.png",
+        "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-b97873f8-d13c-4f11-803f-f8fb0da2e682.png",
+        "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-b9ff1785-5fab-4df6-ad5d-0af409068e0f.png",
+        "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-8711a2dc-0511-4d1b-8c8a-d9a5b5753d03.png"
+    ],
+    "notes": [
+        "The user identifies these seven photographs as the refectory; the last photograph shows its connection with the classroom blocks, not Automotive Maintenance.",
+        "The PDF crop labels the refectory within approximately x1320.64..1463.08 / y808.64..958.88. rooms.json does not contain a refectory row; placement therefore uses the registered service footprint.",
+        "Six cream table/bench assemblies occupy the west bank, leaving a broad east circulation strip and the existing north entrance/door approaches. Native colliders are used only for table tops, benches, two parked carts and the bin.",
+        "Serving bays are shallow visual recesses over existing solid wall spans. Neither the wall colliders nor native doors are removed. Kitchen detail is partial scenic dressing, with no invented traversable kitchen opening.",
+        "The two glass service bays are associated with solid east-wall spans y896.353..913.16 and y941.48..958.88. The closed corrugated hatch is narrower than the photograph because its northern registered solid span is short; association and sizes are estimates.",
+        "Exposed dark steel trusses and corrugated sheet detail sit below the original roof, preserving its footprint and collision. The existing roof height is retained; photographic height is not surveyed.",
+        "A smooth white finish is added below the connector's existing sloped roof. Its existing lights are moved under that finish. The fixed front grilles, native west refectory door and low routes remain unchanged; an open folded side grille is visual only.",
+        "No people, new gameplay interactions, story triggers, audio sources, signs copied from photographs, Meshy assets or menu/office changes are added. Validate the whole map with native capsule traversal after integration."
+    ]
+}

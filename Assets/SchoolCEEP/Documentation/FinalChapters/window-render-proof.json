@@ -1,0 +1,66 @@
+{
+  "approvedObservationPoint": "(-26.00, 1.68, 15.00)",
+  "reports": [
+    {
+      "from": "(-26.00, 1.68, 15.00)",
+      "renderedObstructions": []
+    },
+    {
+      "from": "(-34.00, 1.68, 15.00)",
+      "renderedObstructions": [
+        {
+          "name": "Superfícies agrupadas — Solo e grama",
+          "parent": "Terreno e acessos",
+          "distance": 12.5308361,
+          "p": "(-32.55, 3.91, 27.24)"
+        },
+        {
+          "name": "Superfícies agrupadas — PhotoRoofGrey",
+          "parent": "Acabamento fotográfico da rampa central",
+          "distance": 35.2440224,
+          "p": "(-29.92, 7.96, 49.44)"
+        },
+        {
+          "name": "Superfícies agrupadas — PhotoRampTranslucentRoofAmber",
+          "parent": "Acabamento fotográfico da rampa central",
+          "distance": 35.3014679,
+          "p": "(-29.92, 7.97, 49.49)"
+        }
+      ]
+    },
+    {
+      "from": "(-36.00, 1.68, 18.00)",
+      "renderedObstructions": [
+        {
+          "name": "Superfícies agrupadas — PhotoPlasterWhite",
+          "parent": "main_coordination_south",
+          "distance": 22.58141,
+          "p": "(-32.12, 5.96, 39.83)"
+        },
+        {
+          "name": "Superfícies agrupadas — PhotoRoofGrey",
+          "parent": "Acabamento fotográfico da rampa central",
+          "distance": 31.8029346,
+          "p": "(-30.54, 7.71, 48.74)"
+        },
+        {
+          "name": "Superfícies agrupadas — PhotoRoofSteel",
+          "parent": "Acabamento fotográfico da rampa central",
+          "distance": 28.769516,
+          "p": "(-31.06, 7.14, 45.81)"
+        }
+      ]
+    },
+    {
+      "from": "(-33.00, 1.68, 25.00)",
+      "renderedObstructions": [
+        {
+          "name": "Superfícies agrupadas — PhotoRoofGrey",
+          "parent": "Acabamento fotográfico da rampa central",
+          "distance": 27.733078,
+          "p": "(-29.68, 8.06, 51.78)"
+        }
+      ]
+    }
+  ]
+}

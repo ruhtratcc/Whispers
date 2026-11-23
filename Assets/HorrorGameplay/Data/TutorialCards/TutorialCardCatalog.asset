@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7134349acf9163e499d3e40449fb0bef, type: 3}
+  m_Name: TutorialCardCatalog
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.TutorialCardCatalog
+  cards:
+  - {fileID: 11400000, guid: 344f4571bec026241bc20ee4e9caa33d, type: 2}
+  - {fileID: 11400000, guid: ef4dc85e9ebad0643a9924a1bc281462, type: 2}
+  - {fileID: 11400000, guid: 6c9e3bc4e7f4dbb43b2d793da3ecfee9, type: 2}
+  - {fileID: 11400000, guid: 1a7a24fb144525141a86a607c1c1e1ed, type: 2}
+  - {fileID: 11400000, guid: 7ddfe3c67e2f98144a688208abdebd7e, type: 2}
+  font: {fileID: 11400000, guid: 92bf02c86362174419133d419c626a70, type: 2}

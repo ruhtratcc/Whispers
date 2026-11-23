@@ -1,0 +1,174 @@
+{
+  "status": "completed",
+  "duration": 0.4,
+  "summary": {
+    "total": 23,
+    "passed": 23,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.BreathingResponseTests.HoldingBreathMutesFearWithoutErasingIt",
+      "Status": "Passed",
+      "Duration": 0.0043256,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.BreathingResponseTests.PausedClockPreservesResponse",
+      "Status": "Passed",
+      "Duration": 0.0002375,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.BreathingResponseTests.RunningBuildsEffortAndWalkingRecoversGradually",
+      "Status": "Passed",
+      "Duration": 0.0008254,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.BreathingResponseTests.ScareTriggersBreathingWithoutMovementAndFades",
+      "Status": "Passed",
+      "Duration": 0.0001995,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.BreathingResponseTests.WalkingAndHoldingSprintAgainstWallStaySilent",
+      "Status": "Passed",
+      "Duration": 0.0001488,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.CatalogueUsesAuthorizedChapterOrderAndTitles",
+      "Status": "Passed",
+      "Duration": 0.0027764,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.CompletedPrologueQueuesRoadAndEntersItOnlyOnRequest",
+      "Status": "Passed",
+      "Duration": 0.0014087,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.ContentHasNoInvalidReferencesAndKeepsAuthorizedCompletionPhrases",
+      "Status": "Passed",
+      "Duration": 0.0015166,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.CopyPreservesStateAndOwnsIndependentLists",
+      "Status": "Passed",
+      "Duration": 0.0599221,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.EnvironmentalInscriptionsPreserveTheWrittenEvidence",
+      "Status": "Passed",
+      "Duration": 0.0007624,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.FinalChapterRecordsEndingWithoutQueuingAnotherChapter",
+      "Status": "Passed",
+      "Duration": 0.0004758,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.MainPhoneCallsAndRecordingsPreserveScriptCaptions",
+      "Status": "Passed",
+      "Duration": 0.0007743,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.MilestonesRequireOrderAndEquipmentWithoutDuplicates",
+      "Status": "Passed",
+      "Duration": 0.0008124,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.OnlyTheThreeAuthorizedChaptersHaveAvailableScenes",
+      "Status": "Passed",
+      "Duration": 0.0006005,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.PopulateRejectsNullAndDestroyedUnityObjects",
+      "Status": "Passed",
+      "Duration": 0.0014053,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeProgressTests.SequenceCompletionIsRecordedOnlyOnce",
+      "Status": "Passed",
+      "Duration": 0.0004687,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeSaveTests.ExistingVersionOneCheckpointsRemainReadable",
+      "Status": "Passed",
+      "Duration": 0.0018316,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeSaveTests.UnknownSchemaAndDamagedJsonAreRejected",
+      "Status": "Passed",
+      "Duration": 0.0141524,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeSaveTests.VersionTwoRoundTripPreservesNarrativeAndPendingMap",
+      "Status": "Passed",
+      "Duration": 0.0016011,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.NarrativeChapterGateEnablesRoadAndDisablesPrologue",
+      "Status": "Passed",
+      "Duration": 0.0006554,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.OfficeCannotReceiveFilterEvenAfterChapterIndexChanges",
+      "Status": "Passed",
+      "Duration": 0.0004007,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.SchoolTapePresetIsExplicitAndCannotBleedIntoAnotherScene",
+      "Status": "Passed",
+      "Duration": 0.0018149,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.SchoolTrackingFreezesDuringPauseAndUsesBoundedBriefFaults",
+      "Status": "Passed",
+      "Duration": 0.0010551,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

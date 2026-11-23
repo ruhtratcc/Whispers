@@ -1,0 +1,284 @@
+{
+  "source": "Poly Haven",
+  "approvedByUser": true,
+  "licenseUrl": "https://polyhaven.com/license",
+  "assets": [
+    {
+      "id": "SchoolChair_01",
+      "name": "School Chair 01",
+      "author": "Ethan Place",
+      "url": "https://polyhaven.com/a/SchoolChair_01",
+      "license": "CC0 1.0",
+      "category": "mobiliario",
+      "use": "Cadeiras escolares",
+      "resolution": "2k",
+      "format": "glTF"
+    },
+    {
+      "id": "SchoolDesk_01",
+      "name": "School Desk 01",
+      "author": "Ethan Place",
+      "url": "https://polyhaven.com/a/SchoolDesk_01",
+      "license": "CC0 1.0",
+      "category": "mobiliario",
+      "use": "Carteiras escolares",
+      "resolution": "2k",
+      "format": "glTF"
+    },
+    {
+      "id": "steel_frame_shelves_01",
+      "name": "Steel Frame Shelves 01",
+      "author": "James Ray Cock",
+      "url": "https://polyhaven.com/a/steel_frame_shelves_01",
+      "license": "CC0 1.0",
+      "category": "mobiliario",
+      "use": "Estantes dos arquivos e depósitos",
+      "resolution": "2k",
+      "format": "glTF"
+    },
+    {
+      "id": "cardboard_box_01",
+      "name": "Cardboard Box 01",
+      "author": "Rahul Chaudhary",
+      "url": "https://polyhaven.com/a/cardboard_box_01",
+      "license": "CC0 1.0",
+      "category": "decoracao",
+      "use": "Caixas antigas nos arquivos e depósitos",
+      "resolution": "2k",
+      "format": "glTF"
+    },
+    {
+      "id": "damaged_plaster",
+      "name": "Damaged Plaster",
+      "author": "Amal Kumar",
+      "url": "https://polyhaven.com/a/damaged_plaster",
+      "license": "CC0 1.0",
+      "category": "textures",
+      "use": "Reboco deteriorado",
+      "resolution": "2k",
+      "format": "PBR JPG"
+    },
+    {
+      "id": "rusty_metal_03",
+      "name": "Rusty Metal 03",
+      "author": "Amal Kumar",
+      "url": "https://polyhaven.com/a/rusty_metal_03",
+      "license": "CC0 1.0",
+      "category": "textures",
+      "use": "Detalhes de ferrugem",
+      "resolution": "2k",
+      "format": "PBR JPG"
+    }
+  ],
+  "files": [
+    {
+      "asset": "SchoolChair_01",
+      "path": "assets/models/mobiliario/SchoolChair_01/source/SchoolChair_01_2k.gltf",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/SchoolChair_01/SchoolChair_01_2k.gltf",
+      "bytes": 2695,
+      "md5": "016fdd2aba321eab4403cfd9dc3a8539",
+      "sha256": "f072f367f9282032bcc6fefb9ceb01cc2776166d9026a75583f2c8a7767e9693"
+    },
+    {
+      "asset": "SchoolChair_01",
+      "path": "assets/models/mobiliario/SchoolChair_01/source/textures/SchoolChair_01_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/SchoolChair_01/SchoolChair_01_arm_2k.jpg",
+      "bytes": 325085,
+      "md5": "af75fdea20a3b4243284819a8f6f40e2",
+      "sha256": "270a10398ee3a5753dd4208f2eb3ee97edcb00ccf3ac3227d00b276403d00df4"
+    },
+    {
+      "asset": "SchoolChair_01",
+      "path": "assets/models/mobiliario/SchoolChair_01/source/textures/SchoolChair_01_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/SchoolChair_01/SchoolChair_01_nor_gl_2k.jpg",
+      "bytes": 915279,
+      "md5": "267db01c1df22cae446bd0e948ff9b29",
+      "sha256": "c7f018f35c03f3d42728da0e2aa032c0deea20210cd6b49328c56bde279e60ad"
+    },
+    {
+      "asset": "SchoolChair_01",
+      "path": "assets/models/mobiliario/SchoolChair_01/source/textures/SchoolChair_01_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/SchoolChair_01/SchoolChair_01_diff_2k.jpg",
+      "bytes": 174857,
+      "md5": "f21246498e86dd86c79fdc8e24591def",
+      "sha256": "7fabb6303317102d68afd3ccc9de247c3ec16577133f45a2d0cd13e550728a89"
+    },
+    {
+      "asset": "SchoolChair_01",
+      "path": "assets/models/mobiliario/SchoolChair_01/source/SchoolChair_01.bin",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/SchoolChair_01/SchoolChair_01.bin",
+      "bytes": 134912,
+      "md5": "d1f13f71f9f9979cde18c798e25dd9d3",
+      "sha256": "7d64d556ba88d3962778085b9a190f1adb0d84e667bca8ef032c0ae34b31a9fe"
+    },
+    {
+      "asset": "SchoolDesk_01",
+      "path": "assets/models/mobiliario/SchoolDesk_01/source/SchoolDesk_01_2k.gltf",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/SchoolDesk_01/SchoolDesk_01_2k.gltf",
+      "bytes": 2686,
+      "md5": "9e940791852c775be0e4f84f3c616950",
+      "sha256": "98eb40d3ed2992d73d6e9150d5d5b8acd64937f4a832c1018eb668b72caabea6"
+    },
+    {
+      "asset": "SchoolDesk_01",
+      "path": "assets/models/mobiliario/SchoolDesk_01/source/textures/SchoolDesk_01_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/SchoolDesk_01/SchoolDesk_01_diff_2k.jpg",
+      "bytes": 259340,
+      "md5": "da3cc4cb40e44b04a79f77c2bbb4c4ff",
+      "sha256": "e02cca7645b4ac33aec1d13457d6346fc44bc23e31c321ff1484f32d2523fbf3"
+    },
+    {
+      "asset": "SchoolDesk_01",
+      "path": "assets/models/mobiliario/SchoolDesk_01/source/textures/SchoolDesk_01_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/SchoolDesk_01/SchoolDesk_01_nor_gl_2k.jpg",
+      "bytes": 298581,
+      "md5": "da331c8270ac8b0ac72a9826a8cd5289",
+      "sha256": "6c01d397344d262802516455a70347a668a00e4e73ae39f413ec13c1ba3f8110"
+    },
+    {
+      "asset": "SchoolDesk_01",
+      "path": "assets/models/mobiliario/SchoolDesk_01/source/textures/SchoolDesk_01_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/SchoolDesk_01/SchoolDesk_01_arm_2k.jpg",
+      "bytes": 442908,
+      "md5": "2312848559c4310917f024b2bd94f81a",
+      "sha256": "de68c0fa738d75992e36a9ae5cd1dffeed8db3fa16b1bbb3e30cbb2d754e9f40"
+    },
+    {
+      "asset": "SchoolDesk_01",
+      "path": "assets/models/mobiliario/SchoolDesk_01/source/SchoolDesk_01.bin",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/SchoolDesk_01/SchoolDesk_01.bin",
+      "bytes": 127564,
+      "md5": "af08b1337236d6b951ea9805032abd32",
+      "sha256": "80d0ece097fde9b1efe15a9babfb6bb1573d228bab6e02e3806cb5eca39c2c0c"
+    },
+    {
+      "asset": "steel_frame_shelves_01",
+      "path": "assets/models/mobiliario/steel_frame_shelves_01/source/steel_frame_shelves_01_2k.gltf",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/steel_frame_shelves_01/steel_frame_shelves_01_2k.gltf",
+      "bytes": 2766,
+      "md5": "75cffab01808b3218eef160fe5a64f55",
+      "sha256": "42c992b86966deace163e701fb45df82743d42716eefbedb533e550bcc879b6b"
+    },
+    {
+      "asset": "steel_frame_shelves_01",
+      "path": "assets/models/mobiliario/steel_frame_shelves_01/source/textures/steel_frame_shelves_01_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/steel_frame_shelves_01/steel_frame_shelves_01_diff_2k.jpg",
+      "bytes": 1679686,
+      "md5": "fe1269a8e9cdbe3bd7359269c5f56510",
+      "sha256": "f13b689662757c99dce62503fa98baa54d5c8aec1597fce1ab7c5b8d5a77f721"
+    },
+    {
+      "asset": "steel_frame_shelves_01",
+      "path": "assets/models/mobiliario/steel_frame_shelves_01/source/textures/steel_frame_shelves_01_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/steel_frame_shelves_01/steel_frame_shelves_01_nor_gl_2k.jpg",
+      "bytes": 1350248,
+      "md5": "120ff0ce33e1c82f08a8810996033472",
+      "sha256": "bb5db1bdc40938b7f949d773ffdf4c7d2d8319b285ab291173676114ddb91c7b"
+    },
+    {
+      "asset": "steel_frame_shelves_01",
+      "path": "assets/models/mobiliario/steel_frame_shelves_01/source/steel_frame_shelves_01.bin",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/steel_frame_shelves_01/steel_frame_shelves_01.bin",
+      "bytes": 142312,
+      "md5": "5728ceb7ff0d9b0b5ba5e7ef970aced9",
+      "sha256": "306d7e72d12a5d3047b8a189f8d0add51075eaf7f51f935286fda4e1c16dd066"
+    },
+    {
+      "asset": "steel_frame_shelves_01",
+      "path": "assets/models/mobiliario/steel_frame_shelves_01/source/textures/steel_frame_shelves_01_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/steel_frame_shelves_01/steel_frame_shelves_01_arm_2k.jpg",
+      "bytes": 2393901,
+      "md5": "08fb268ae9d50baac81cd5e90cc89c3e",
+      "sha256": "6aeca77df7c022bec768212cba95011ce4fc67555c5e039e22542db171492a4f"
+    },
+    {
+      "asset": "cardboard_box_01",
+      "path": "assets/models/decoracao/cardboard_box_01/source/cardboard_box_01_2k.gltf",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/cardboard_box_01/cardboard_box_01_2k.gltf",
+      "bytes": 2903,
+      "md5": "3a6c41cabb9dcd03b9a50aeab03edc04",
+      "sha256": "feb1b53fa2edaae3708dc7d4f9f014d13a63e811b8bba334c36d86e75f61a002"
+    },
+    {
+      "asset": "cardboard_box_01",
+      "path": "assets/models/decoracao/cardboard_box_01/source/textures/cardboard_box_01_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/cardboard_box_01/cardboard_box_01_diff_2k.jpg",
+      "bytes": 1987615,
+      "md5": "40a2ca17b3a7fb225798fe4d88868417",
+      "sha256": "5cdf1f747ba3f2fe656ed3258c2b74086f5ad727cbce58a821f34d0940c08053"
+    },
+    {
+      "asset": "cardboard_box_01",
+      "path": "assets/models/decoracao/cardboard_box_01/source/textures/cardboard_box_01_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/cardboard_box_01/cardboard_box_01_nor_gl_2k.jpg",
+      "bytes": 3005768,
+      "md5": "ddb48558effc348622d70b06550ca9a5",
+      "sha256": "b3d77c012e93be72547b9476ef83341b8f617e2c9b5ea9c82c9e8ea1132ea8a2"
+    },
+    {
+      "asset": "cardboard_box_01",
+      "path": "assets/models/decoracao/cardboard_box_01/source/textures/cardboard_box_01_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/cardboard_box_01/cardboard_box_01_arm_2k.jpg",
+      "bytes": 1309578,
+      "md5": "8ce163ffd6f1ed59e0504ff45326b95c",
+      "sha256": "fefb333764dbf17a6679ecd0e04fbe45ae5eb312813796bdb373cb12eb1ffcdd"
+    },
+    {
+      "asset": "cardboard_box_01",
+      "path": "assets/models/decoracao/cardboard_box_01/source/cardboard_box_01.bin",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/cardboard_box_01/cardboard_box_01.bin",
+      "bytes": 381936,
+      "md5": "64bea3a77434981017b8a06da4ccb0df",
+      "sha256": "7212d43b4cb56459e46d31ab34dc7c310fcfbe170f4a588416dea07ae5628a4b"
+    },
+    {
+      "asset": "damaged_plaster",
+      "path": "assets/textures/damaged_plaster/damaged_plaster_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/damaged_plaster/damaged_plaster_diff_2k.jpg",
+      "bytes": 3392885,
+      "md5": "3f3ff6dab4400dd6fca7b3512741bd4e",
+      "sha256": "7bb34e3829bac09d9bc7d667998e7d02b19ffda50b8be3452f9edfdfedb3012f"
+    },
+    {
+      "asset": "damaged_plaster",
+      "path": "assets/textures/damaged_plaster/damaged_plaster_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/damaged_plaster/damaged_plaster_nor_gl_2k.jpg",
+      "bytes": 3665302,
+      "md5": "c9b697254a3d96f76a9d390ded403709",
+      "sha256": "75ddabef98424d57d7b9ab44890532dba886e3f3fca10264b36de0640386d9ab"
+    },
+    {
+      "asset": "damaged_plaster",
+      "path": "assets/textures/damaged_plaster/damaged_plaster_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/damaged_plaster/damaged_plaster_arm_2k.jpg",
+      "bytes": 2130954,
+      "md5": "b907a75e601a04a15eb47c47119b7434",
+      "sha256": "c618562937238681739c4d77f134133977e1370cd473b6ca1cb3948d585c9832"
+    },
+    {
+      "asset": "rusty_metal_03",
+      "path": "assets/textures/rusty_metal_03/rusty_metal_03_diff_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_03/rusty_metal_03_diff_2k.jpg",
+      "bytes": 2860689,
+      "md5": "e5ec75885884f9440a14eae579035c9f",
+      "sha256": "7bd898b6218ab9fb9ddbe07fa7706efb761552252f3e0dc78798b03fef2b2fa2"
+    },
+    {
+      "asset": "rusty_metal_03",
+      "path": "assets/textures/rusty_metal_03/rusty_metal_03_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_03/rusty_metal_03_nor_gl_2k.jpg",
+      "bytes": 2697389,
+      "md5": "666ddf31a9f71b9491f57742e2e2320b",
+      "sha256": "3b4074ac7b6d9c489abcafd2dababfeedd9dc4b8d2d1156d48de4aee3f186543"
+    },
+    {
+      "asset": "rusty_metal_03",
+      "path": "assets/textures/rusty_metal_03/rusty_metal_03_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_03/rusty_metal_03_arm_2k.jpg",
+      "bytes": 2197256,
+      "md5": "7de5edac036faf884ab6ccf6be440c51",
+      "sha256": "56de7c23d6a02bab548a70784ad1542680f978c294904350994f43c626a59a01"
+    }
+  ],
+  "totalBytes": 31885095
+}

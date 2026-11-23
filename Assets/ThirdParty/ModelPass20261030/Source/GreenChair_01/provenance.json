@@ -1,0 +1,48 @@
+{
+  "id": "GreenChair_01",
+  "name": "Green Chair 01",
+  "authors": {
+    "Kirill Sannikov": "All"
+  },
+  "source": "https://polyhaven.com/a/GreenChair_01",
+  "license": "CC0 1.0",
+  "date": "2026-10-30",
+  "polycount": 4213,
+  "files": [
+    {
+      "file": "scene.gltf",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/GreenChair_01/GreenChair_01_1k.gltf",
+      "bytes": 2695,
+      "sha256": "d1e4946ac99ab9e64c82d802fe5cd49d962750e34b8d284762b3fe2b00ba8a45",
+      "md5": "a891e84c1aa77d8f163609b347c1b421"
+    },
+    {
+      "file": "textures/GreenChair_01_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/GreenChair_01/GreenChair_01_arm_1k.jpg",
+      "bytes": 140947,
+      "sha256": "d522e08441f3d54977e085b9e54de125efea7e963d3f433a5bd74cad031d2178",
+      "md5": "b986c428c4db443ed08f7925a08531f1"
+    },
+    {
+      "file": "textures/GreenChair_01_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/GreenChair_01/GreenChair_01_nor_gl_1k.jpg",
+      "bytes": 213507,
+      "sha256": "008b49786f8395301b15b398856f56bd04357096ce542da76f1a3dcad8c28fc8",
+      "md5": "19a8e67d3bf9153e9f68a28f1507aaee"
+    },
+    {
+      "file": "textures/GreenChair_01_diff_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/GreenChair_01/GreenChair_01_diff_1k.jpg",
+      "bytes": 131727,
+      "sha256": "fb7ec456b37dc95fb73d0b08bfa2802c304a40263517d05e674657ad356cfac4",
+      "md5": "7304f991bdcd2c534243bc7e86c62c43"
+    },
+    {
+      "file": "GreenChair_01.bin",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/GreenChair_01/GreenChair_01.bin",
+      "bytes": 119168,
+      "sha256": "9070a41bcf38005997fe71a49e50b942b427ec05938413c9dc204df0b781e410",
+      "md5": "9c84856d32c4d61b87fb5eba1f8339a3"
+    }
+  ]
+}

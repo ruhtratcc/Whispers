@@ -1,0 +1,243 @@
+{
+  "id": "book_encyclopedia_set_01",
+  "materials": [
+    {
+      "name": "book_encyclopedia_set_01_cover",
+      "diffuse": "book_encyclopedia_set_01_cover_diff_1k.jpg",
+      "normal": "book_encyclopedia_set_01_cover_nor_gl_1k.jpg",
+      "metallicSmoothness": "material-0-MetallicSmoothness.png",
+      "occlusion": "material-0-Occlusion.png",
+      "doubleSided": true
+    },
+    {
+      "name": "book_encyclopedia_set_01_paper",
+      "diffuse": "book_encyclopedia_set_01_paper_diff_1k.jpg",
+      "normal": "book_encyclopedia_set_01_paper_nor_gl_1k.jpg",
+      "metallicSmoothness": "material-1-MetallicSmoothness.png",
+      "occlusion": "material-1-Occlusion.png",
+      "doubleSided": true
+    }
+  ],
+  "variants": [
+    {
+      "name": "book_encyclopedia_set_01_book01",
+      "meshDataFile": "book_encyclopedia_set_01_book01.json",
+      "size": {
+        "x": 0.03868885897099972,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3392,
+      "distantTriangles": 1129
+    },
+    {
+      "name": "book_encyclopedia_set_01_book02",
+      "meshDataFile": "book_encyclopedia_set_01_book02.json",
+      "size": {
+        "x": 0.02843072358518839,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1008
+    },
+    {
+      "name": "book_encyclopedia_set_01_book03",
+      "meshDataFile": "book_encyclopedia_set_01_book03.json",
+      "size": {
+        "x": 0.02279712539166212,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1075
+    },
+    {
+      "name": "book_encyclopedia_set_01_book04",
+      "meshDataFile": "book_encyclopedia_set_01_book04.json",
+      "size": {
+        "x": 0.02462200913578272,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1029
+    },
+    {
+      "name": "book_encyclopedia_set_01_book05",
+      "meshDataFile": "book_encyclopedia_set_01_book05.json",
+      "size": {
+        "x": 0.019152477383613586,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3362,
+      "distantTriangles": 982
+    },
+    {
+      "name": "book_encyclopedia_set_01_book06",
+      "meshDataFile": "book_encyclopedia_set_01_book06.json",
+      "size": {
+        "x": 0.018395526334643364,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 973
+    },
+    {
+      "name": "book_encyclopedia_set_01_book07",
+      "meshDataFile": "book_encyclopedia_set_01_book07.json",
+      "size": {
+        "x": 0.024037699215114117,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1073
+    },
+    {
+      "name": "book_encyclopedia_set_01_book08",
+      "meshDataFile": "book_encyclopedia_set_01_book08.json",
+      "size": {
+        "x": 0.021613077260553837,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1053
+    },
+    {
+      "name": "book_encyclopedia_set_01_book09",
+      "meshDataFile": "book_encyclopedia_set_01_book09.json",
+      "size": {
+        "x": 0.021613077260553837,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1031
+    },
+    {
+      "name": "book_encyclopedia_set_01_book10",
+      "meshDataFile": "book_encyclopedia_set_01_book10.json",
+      "size": {
+        "x": 0.021605906076729298,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1053
+    },
+    {
+      "name": "book_encyclopedia_set_01_book11",
+      "meshDataFile": "book_encyclopedia_set_01_book11.json",
+      "size": {
+        "x": 0.017935071140527725,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 995
+    },
+    {
+      "name": "book_encyclopedia_set_01_book12",
+      "meshDataFile": "book_encyclopedia_set_01_book12.json",
+      "size": {
+        "x": 0.022752185352146626,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1055
+    },
+    {
+      "name": "book_encyclopedia_set_01_book13",
+      "meshDataFile": "book_encyclopedia_set_01_book13.json",
+      "size": {
+        "x": 0.03655131906270981,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1089
+    },
+    {
+      "name": "book_encyclopedia_set_01_book14",
+      "meshDataFile": "book_encyclopedia_set_01_book14.json",
+      "size": {
+        "x": 0.03263416700065136,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1096
+    },
+    {
+      "name": "book_encyclopedia_set_01_book15",
+      "meshDataFile": "book_encyclopedia_set_01_book15.json",
+      "size": {
+        "x": 0.03530687466263771,
+        "y": 0.23741817474365234,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1089
+    },
+    {
+      "name": "book_encyclopedia_set_01_book16",
+      "meshDataFile": "book_encyclopedia_set_01_book16.json",
+      "size": {
+        "x": 0.024674546904861927,
+        "y": 0.23741815673699396,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1027
+    },
+    {
+      "name": "book_encyclopedia_set_01_book17",
+      "meshDataFile": "book_encyclopedia_set_01_book17.json",
+      "size": {
+        "x": 0.035646120086312294,
+        "y": 0.23741815673699396,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1090
+    },
+    {
+      "name": "book_encyclopedia_set_01_book18",
+      "meshDataFile": "book_encyclopedia_set_01_book18.json",
+      "size": {
+        "x": 0.021815420128405094,
+        "y": 0.23741815673699396,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1055
+    },
+    {
+      "name": "book_encyclopedia_set_01_book19",
+      "meshDataFile": "book_encyclopedia_set_01_book19.json",
+      "size": {
+        "x": 0.01920239720493555,
+        "y": 0.23741815673699396,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 999
+    },
+    {
+      "name": "book_encyclopedia_set_01_book20",
+      "meshDataFile": "book_encyclopedia_set_01_book20.json",
+      "size": {
+        "x": 0.023786334320902824,
+        "y": 0.23741815673699396,
+        "z": 0.16306231915950775
+      },
+      "triangles": 3364,
+      "distantTriangles": 1027
+    }
+  ]
+}

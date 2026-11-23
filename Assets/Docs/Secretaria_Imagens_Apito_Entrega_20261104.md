@@ -1,0 +1,31 @@
+# Secretaria, imagens e resposta ao apito — 04/11/2026
+
+Escopo: os três últimos pedidos, integrados ao projeto atual. Save pessoal não acessado. Sem ZIP, TTS, nova perseguição, alteração de IDs narrativos ou do FOV49.
+
+- Secretaria: copos e comida removidos com backup. IDs/flags antigos preservados como compatibilidade. Emails2/3 exatos, desenhos da lancheira em três páginas (a última26/10/2026), pegadas de sapatos até a escada, relógio PolyHaven03:07 e chave preservada. Pulso local da primeira visita não libera o lore global antes do mural. Notas antigas migram apenas nos seis IDs conhecidos.
+- Apito: só responde após descoberta na escola. Fonte3D fixa no objeto, atraso0,6–1,2s acrescido de distância/oclusão/estresse; filtro low-pass, ganho e alcance editáveis no WhistleConfig. Cap4 escolhe o próximo pertence ainda não coletado, com quatro combinações de gravação/pitch. Cap5 responde na direção quieta; apontar para Helena produz silêncio. Figura não recebe emissor. Sem alvo: eco breve do toque gravado. Excesso continua usando a reação existente de Helena, sem bloquear o apito.
+- Artes:20 originais por IA sem texto; quatro variantes adicionais da fachada; nove imagens por código; dez reaproveitadas/derivadas locais; duas capturas nativas novas; quatro placeholders para imagens fornecidas pelo usuário.49 arquivos preparados, sem dupla contagem da data sobreposta ou da fonte da fachada. Fontes IA1448×1086 nos desenhos/fachada; exportação2048 por Lanczos não é detalhe nativo novo. Cartazes1024×1536. Seis decals IA têm alfa real.
+- PC/celular: foto do armário reaproveitada, duas fotos nativas ligadas às mensagens, fachada no wallpaper/final, imagem do jornal no navegador. Manchete exata: “Quatro alunos desaparecem na SEEPE”. Nitidez/RT/fontes/Canvas do PC preservados.
+- Quatro casos: `Assets/ThirdParty/Images/Cases/caso_01..04.png`, cada um com material e superfície próprios. Aguardam suas imagens; não inventei o conteúdo.
+- Dublagem: seis reações da secretaria e quatro respostas de João prontas para gravação. CSV/XLSX mestra1020 IDs, abas/IDs anteriores preservados.22 textos antigos ajustados, sem clipe humano vinculado encontrado; lista REGRAVAR? específica em Regravar_Copos.md. Word antigo não foi regenerado e não deve ser usado para esses trechos atualizados.
+
+Arquivos principais: `SecretaryEvidence.cs`, `SecretaryEvidenceText.cs`, inspeção paginada existente; `WhistleChildAnswers.cs`, `WhistleConfig.cs`, pequenas integrações no WhistleSystem; `WhispersImageTools.cs`, `WhispersPhotoCapture.cs`, campo opcional de imagem em DesktopPage/browser; imagens em ThirdParty/Images, áudio em Audio/SFX/WhistleAnswers; Docs/Imagens_Necessarias.csv, Faltam_Imagens.md, Prompts_Imagens.md e Imagens_Importacao.json. Backups por tarefa em Assets/_Substituidos.
+
+Como testar:
+1. Em perfil de teste, entrar na secretaria, tocar o apito e examinar as pegadas/relógio. Abrir gaveta, navegar pelas três páginas da lancheira, ler as mensagens existentes e obter a chave da biblioteca.
+2. Ler a anotação do apito no mural. Tocar perto de um item e esperar a resposta distante; antes da descoberta não há resposta infantil. No cap4, conferir a criança do próximo pertence; no5, comparar lado quieto e frente de Helena. Pausar/restaurar checkpoint não deve deixar resposta pendente tocando.
+3. `Tools > Imagens > Importar e ligar imagens`: colocar arquivos pelo nome em Incoming. Atualizações preservam GUID. Para os casos, pode substituir diretamente os PNGs em Cases e executar o menu. O relatório lista imagens sem superfície compatível e campos opcionais, sem criar fatos narrativos.
+4. `Tools > Capturar fotos > Preparar marcadores` ou `Capturar e restaurar`: cenas precisam estar limpas e fora do Play. Câmeras/props/HUD temporários são restaurados. Capturas vão para Incoming; depois importar. A foto do armário existente é reutilizada. As duas novas usam silhueta adulta técnica, sem personagem humano detalhado final.
+
+Novos downloads: sadWhisle/Splashdust e Male whistle/J_Bond, FreesoundCC0 (previewsHQ públicos); Caveat/PabloImpallari, OFL1.1. Fontes, URLs e hashes em LICENCAS.txt. Os assobios representam timbres infantis; não são gravações de crianças. Nenhum áudio foi sintetizado por código.
+
+Pendências e limites: as quatro imagens dos casos e vozes novas dependem de material humano. Decals de espelho/mão sem uma superfícieUV segura ficam disponíveis e documentados, preservando os efeitos geométricos existentes; ícones e placa sem slot atual também estão preparados. Capturas com silhueta técnica não equivalem a um personagem final detalhado. OCR de todas as texturas históricas, mixagem por escuta humana/headset, campanha contínua completa e novo executável: **NÃO VERIFICADO**. Nenhum novo fato de investigação foi criado; relatório policial usa o texto canônico existente.
+
+Validação real: **387 testes únicos aprovados**,362Editor e25Play na escola. A última regressão de25 tinha24aprovados e uma falha de temporização no teste de expansão; esse teste foi corrigido para aguardar a onda e reexecutado1/1. Os dois testes novos de resposta foram repetidos2/2 após limitar emissores a objetos; a secretaria com máscara final passou1/1. A manchete exata exigiu atualizar uma expectativa antiga e o Editor completo foi repetido362/362. Resultados antigos com falhas foram preservados, não ocultados; verification-final.json usa o último resultado de cada teste, sem somar repetições.
+
+Também: imagens decodificadas/dimensões/alfa, textos canônicos, planilha sem erros de fórmula e IDs preservados; 88 GUIDs de assets existentes comparados aos backups, todos preservados. Prova nativa: três páginas da lancheira, relógio/pegadas,0 scripts faltando,0 props temporários de foto no mapa. Capturas da data, relógio e sapatos revistas visualmente. Duas fotos nativas revistas, com limitação de silhueta técnica descrita acima.
+
+Unity restaurada: cenaUntitled limpa, fora doPlay, sem compilação, fila de save vazia e TestSaveDirectoryNULL. Guard work/TrocaCopos20261103/workspace.json.restored. Save pessoal não acessado; checkpoints descartáveis foram usados.
+
+O reset gratuito autorizado foi consumido automaticamente ao esgotar a cota; monitor concluiu e parou. Nenhuma compra de créditos. Nenhum ZIP ou executável novo criado.
+

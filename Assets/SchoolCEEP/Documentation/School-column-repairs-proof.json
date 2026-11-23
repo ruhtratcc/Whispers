@@ -1,0 +1,1739 @@
+{
+  "passed": true,
+  "sourceRevision": 1,
+  "addedColumns": 11,
+  "newMasonrySpans": 11,
+  "editorPhysicsOnly": true,
+  "gameplayExecuted": false,
+  "checkpointTouched": false,
+  "apertureArraysPreserved": true,
+  "sourceRectanglesVerified": 11,
+  "registeredApertureConflicts": 0,
+  "physicalSamples": 33,
+  "missingPhysicalSamples": 0,
+  "renderedFaceSamples": 66,
+  "missingRenderedFaceSamples": 0,
+  "rejectedApertureCandidates": 1,
+  "axisOffsetCandidatesSkipped": 21,
+  "duplicateCadRectangles": 1,
+  "columnEvidence": [
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 36,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 1354.28,
+      "endPdf": 1357.04,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 1354.28,
+      "nativeEndPdf": 1357.04,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": true,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            19.2150974
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                19.2150974
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                19.2150974
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            19.2150974
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                19.2150974
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                19.2150974
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            19.2150974
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                19.2150974
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                19.2150974
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 43,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 1303.28,
+      "endPdf": 1306.04,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 1303.28,
+      "nativeEndPdf": 1306.04,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": false,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            22.81343
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                22.81343
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                22.81343
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            22.81343
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                22.81343
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                22.81343
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            22.81343
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                22.81343
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                22.81343
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 47,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 1252.16,
+      "endPdf": 1255.04,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 1252.16,
+      "nativeEndPdf": 1255.04,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": false,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            26.4159927
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                26.4159927
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                26.4159927
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            26.4159927
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                26.4159927
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                26.4159927
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            26.4159927
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                26.4159927
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                26.4159927
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 51,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 1201.16,
+      "endPdf": 1204.04,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 1201.16,
+      "nativeEndPdf": 1204.04,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": false,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            30.0143261
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                30.0143261
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                30.0143261
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            30.0143261
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                30.0143261
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                30.0143261
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            30.0143261
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                30.0143261
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                30.0143261
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 55,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 1150.16,
+      "endPdf": 1153.04,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 1150.16,
+      "nativeEndPdf": 1153.04,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": false,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            33.61266
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                33.61266
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                33.61266
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            33.61266
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                33.61266
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                33.61266
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            33.61266
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                33.61266
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                33.61266
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 59,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 1099.16,
+      "endPdf": 1101.92,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 1099.16,
+      "nativeEndPdf": 1101.92,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": false,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            37.21523
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                37.21523
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                37.21523
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            37.21523
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                37.21523
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                37.21523
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            37.21523
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                37.21523
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                37.21523
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 63,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 1048.16,
+      "endPdf": 1050.92,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 1048.16,
+      "nativeEndPdf": 1050.92,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": false,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            40.81356
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                40.81356
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                40.81356
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            40.81356
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                40.81356
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                40.81356
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            40.81356
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                40.81356
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                40.81356
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 67,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 997.04,
+      "endPdf": 999.92,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 997.04,
+      "nativeEndPdf": 999.92,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": false,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            44.4161339
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                44.4161339
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                44.4161339
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            44.4161339
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                44.4161339
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                44.4161339
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            44.4161339
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                44.4161339
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                44.4161339
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 71,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 946.04,
+      "endPdf": 948.92,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 946.04,
+      "nativeEndPdf": 948.92,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": false,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            48.0144653
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                48.0144653
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                48.0144653
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            48.0144653
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                48.0144653
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                48.0144653
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            48.0144653
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                48.0144653
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                48.0144653
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 78,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 844.04,
+      "endPdf": 846.8,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 844.04,
+      "nativeEndPdf": 846.8,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": true,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            55.2153664
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                55.2153664
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                55.2153664
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            55.2153664
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                55.2153664
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                55.2153664
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            55.2153664
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                55.2153664
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                55.2153664
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "block": "west_south",
+      "vertical": true,
+      "pdfRectangleIndex": 80,
+      "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+      "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+      "axisPdf": 368.919983,
+      "startPdf": 895.04,
+      "endPdf": 897.92,
+      "thicknessPdf": 2.87997437,
+      "pdfStrokeWidth": 0.72,
+      "nativeAxisPdf": 368.919983,
+      "nativeStartPdf": 895.04,
+      "nativeEndPdf": 897.92,
+      "nativeThicknessMeters": 0.203198209,
+      "floorHeightMeters": 1.5,
+      "verifiedTerminal": false,
+      "sourceMatches": true,
+      "apertureConflict": false,
+      "allPhysical": true,
+      "allRendered": true,
+      "samples": [
+        {
+          "heightAboveFloor": 0.52,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            2.02,
+            51.6128
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                2.02,
+                51.6128
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                2.02,
+                51.6128
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 1.6,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            3.1,
+            51.6128
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                3.1,
+                51.6128
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                3.1,
+                51.6128
+              ]
+            }
+          ]
+        },
+        {
+          "heightAboveFloor": 3.1,
+          "physical": true,
+          "worldPoint": [
+            -73.66564,
+            4.6,
+            51.6128
+          ],
+          "faces": [
+            {
+              "side": "negative",
+              "rendered": true,
+              "worldPoint": [
+                -73.76724,
+                4.6,
+                51.6128
+              ]
+            },
+            {
+              "side": "positive",
+              "rendered": true,
+              "worldPoint": [
+                -73.56404,
+                4.6,
+                51.6128
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "name": "Existing CAD aperture arrays unchanged",
+      "detail": "Independent value/order comparison and SHA256 recomputation cover every before/after door and window record.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column source revision",
+      "detail": "Native proof uses the current source matcher revision.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Eleven confirmed P01 columns",
+      "detail": "Exactly the independently identified native P01 column rectangle identities are added.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/36",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 36",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 36",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 36",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/43",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 43",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 43",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 43",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/47",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 47",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 47",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 47",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/51",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 51",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 51",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 51",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/55",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 55",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 55",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 55",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/59",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 59",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 59",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 59",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/63",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 63",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 63",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 63",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/67",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 67",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 67",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 67",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/71",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 71",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 71",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 71",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/78",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 78",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 78",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 78",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Native PDF column rectangle 0/80",
+      "detail": "The inspector reloads the original vector rectangle and independently derives its registered axis, endpoints and thickness.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Column avoids registered aperture 80",
+      "detail": "Independent checks retain widened registered door clearances and every source window interval.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Full-height physical column 80",
+      "detail": "Three native masonry samples at 0.52m, 1.60m and 3.10m above the actual occupied floor.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Final rendered column faces 80",
+      "detail": "Both transverse faces at all three heights exist in the final enabled opaque mesh triangles, including combined surfaces.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "name": "Expected native column sample totals",
+      "detail": "Every one of the eleven source columns has three interior physical points and six independently checked visible face points.",
+      "passed": true,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ],
+  "notes": [
+    "Read-only final saved-scene inspection. No generic joint filling, door leaf changes or gameplay execution.",
+    "Plan-source footprints are measured independently; full-height/paint dimensions reuse the surrounding native wall convention."
+  ]
+}

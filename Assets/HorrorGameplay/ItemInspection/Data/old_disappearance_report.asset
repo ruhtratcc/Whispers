@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: old_disappearance_report
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: old_disappearance_report
+  title: "Relat\xF3rio da noite dos desaparecimentos"
+  description: "Um relat\xF3rio esquecido no arquivo antigo."
+  frontText: "RELAT\xD3RIO INTERNO\n\nARQUIVO DE OCORR\xCANCIAS \u2014 C\xD3PIA INTERNA\n\nNa noite dos desaparecimentos, a chamada foi interrompida. As p\xE1ginas seguintes foram arrancadas.\n\nEntre os nomes ainda leg\xEDveis: Jo\xE3o de Claus. Uma anota\xE7\xE3o a l\xE1pis pede que a fotografia seja devolvida \xE0 Sala de apoio aos alunos.\n\nA chave do arquivo foi guardada no Dep\xF3sito t\xE9cnico, no fim deste corredor. A porta do arquivo fica na antiga Inform\xE1tica B.\n\nAlgu\xE9m escreveu na margem: n\xE3o apague meu nome."
+  backText: "NOME NO REGISTRO:\nJo\xE3o de Claus\n\nN\xE3o divulgar."
+  detailText: "A assinatura foi arrancada. A data continua leg\xEDvel: 1984."
+  alternateBackText: "ELE LEMBROU DE VOC\xCA."
+  recordingText: 
+  model: {fileID: 1894511668701271827, guid: 8f020af2a3f700c47afc54ae664676d9, type: 3}
+  frontTexture: {fileID: 2800000, guid: 7eaca32934c58a047990e961445a97b0, type: 3}
+  backTexture: {fileID: 2800000, guid: 7eaca32934c58a047990e961445a97b0, type: 3}
+  recordInNotes: 1
+  canPlay: 0
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0.12
+  maximumStress: 5
+  pickupSound: {fileID: 11400000, guid: 3006a2c4d9f2d794a8cb65d783062973, type: 2}
+  whisper: {fileID: 11400000, guid: ae6eb24ea089d6a46af30914918cf529, type: 2}
+  recording: {fileID: 0}

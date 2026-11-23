@@ -1,0 +1,41 @@
+{
+  "status": "completed",
+  "duration": 38.72,
+  "summary": {
+    "total": 4,
+    "passed": 4,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFiveSceneTests.ActualLastChapterFourDoorHandsOffInPlaceWithItsWorldAndGear",
+      "Status": "Passed",
+      "Duration": 4.855492,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFiveSceneTests.ActualMemoriesRecordingsNotebookAndImmaterialGuideFinishOnlyChapterFive",
+      "Status": "Passed",
+      "Duration": 13.4196658,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFiveSceneTests.InterruptedPhotographRevelationResumesFromItsUniqueNoteWithoutReplayingEarlierShocks",
+      "Status": "Passed",
+      "Duration": 10.5789382,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFiveSceneTests.InterruptedRecordingCheckpointAndBlackoutRetryPreservePriorChaptersOnly",
+      "Status": "Passed",
+      "Duration": 9.8564273,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

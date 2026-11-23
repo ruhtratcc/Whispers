@@ -1,0 +1,112 @@
+{
+  "generatedUtc": "2026-10-07T12:50:25.7466710Z",
+  "status": "Passed",
+  "summary": {
+    "failed": 0,
+    "passed": 13,
+    "total": 13
+  },
+  "editMode": 6,
+  "playModeIsolated": 6,
+  "playModeRealSchool": 1,
+  "scope": "First school chapter, tape effects, paused ambience, physical clue raycasts, checkpoint and nine milestones. Real-scene fixture stages positions with safe warps; it does not claim a continuous walkthrough or pursuit test.",
+  "sources": [
+    "School-opening-vintage-tests.json",
+    "School-opening-atmosphere-tests.json",
+    "School-opening-play-tests-first.json (isolated fixture results only)",
+    "School-opening-scene-tests.json"
+  ],
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.NarrativeChapterGateEnablesRoadAndDisablesPrologue",
+      "Status": "Passed",
+      "Duration": 0.014669,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.OfficeCannotReceiveFilterEvenAfterChapterIndexChanges",
+      "Status": "Passed",
+      "Duration": 0.0007374,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.SchoolTapePresetIsExplicitAndCannotBleedIntoAnotherScene",
+      "Status": "Passed",
+      "Duration": 0.0031198,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.SchoolTrackingFreezesDuringPauseAndUsesBoundedBriefFaults",
+      "Status": "Passed",
+      "Duration": 0.0015521,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolAtmosphereEditTests.AmbientClockDoesNotTickOutsideSchool",
+      "Status": "Passed",
+      "Duration": 0.0026523,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolAtmosphereEditTests.PauseFreezesSchoolClockAndSingleFaultRestoresFixture",
+      "Status": "Passed",
+      "Duration": 0.0290263,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.CollectedDrawingCheckpointResumesOnlyCaptionAndPausedBlackoutTimer",
+      "Status": "Passed",
+      "Duration": 2.1305341,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.EntireOpeningUsesPhysicalInteractionsAndEndsAtUnimplementedChapterBoundary",
+      "Status": "Passed",
+      "Duration": 0.9141151,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.EntryAndPhotographWaitDuringPauseThenContinueOnce",
+      "Status": "Passed",
+      "Duration": 1.1394124,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.ObservationRequiresClearSightAndLookingBackNearTheBoard",
+      "Status": "Passed",
+      "Duration": 0.357321,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.PairedDoorSilentStoryPoseKeepsClosedBasisAndNoPlayerEvents",
+      "Status": "Passed",
+      "Duration": 0.230917,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.RestoreIsSilentAndDoesNotOverwriteUnrelatedDoorState",
+      "Status": "Passed",
+      "Duration": 0.0367751,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningSceneTests.RealSchoolOpeningSupportsGateCluesSightlinesAndBlackout",
+      "Status": "Passed",
+      "Duration": 14.2196784,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "authorizedCollider": "Central — mureta do vão superior da escada",
+  "visualProof": {
+    "exactSource": "Central — mureta do vão superior da escada",
+    "directRenderer": true,
+    "removedTriangles": 12,
+    "originalMesh": "Library/unity default resources"
+  },
+  "originalRestBefore": "9D4ED98580D952DB2AB42CD24F26B30048DA3B41F0F27483859E52FCB5CC02EE",
+  "originalRestAfter": "9D4ED98580D952DB2AB42CD24F26B30048DA3B41F0F27483859E52FCB5CC02EE",
+  "guardPosition": "(-28.95318, 4.36000, 57.76807)",
+  "guardSize": "(1.70603, 1.10000, 0.15000)"
+}

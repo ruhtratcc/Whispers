@@ -1,0 +1,511 @@
+# SFX — ligações e pendências
+
+Gerado em 2026-11-05T03:09:56.9792117Z. Sem alterações de gameplay, cenas ou saves.
+
+## ligado
+
+- amb_car_interior | Assets/Audio/Sets/car_interior.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- amb_morning_birds | Assets/Audio/Sets/dawn_birds.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- amb_morning_birds | Assets/HorrorGameplay/Data/Polish20261103/Endings.asset :: morningAmbience[-1] | IDs/flags e demais campos preservados.
+- amb_wind_outside | Assets/Audio/Sets/interior_wind_loop.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- battery_pickup | Assets/Audio/Sets/battery.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- building_creak | Assets/Audio/Sets/room_creak.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- chair_scrape | Assets/Audio/Sets/chair_tile_scrape.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- chair_scrape | Assets/Audio/Sets/chair.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- door_locked_rattle | Assets/Audio/Sets/door_locked.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- door_wood_close | Assets/Audio/Sets/door_close.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- door_wood_open | Assets/Audio/Sets/door_open.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- drawer_close | Assets/Audio/Sets/drawer_close.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- drawer_open | Assets/Audio/Sets/drawer_open.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- flashlight_off | Assets/Audio/Sets/flashlight_off.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- flashlight_on | Assets/Audio/Sets/flashlight_on.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_carpet_walk | Assets/Audio/Sets/step_carpet.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_carpet_walk | Assets/Audio/Sets/steps_carpet.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_carpet_walk | Assets/HorrorGameplay/Audio/Step-Carpet.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_concrete_walk | Assets/Audio/Sets/step_concrete.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_concrete_walk | Assets/Audio/Sets/steps_concrete.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_concrete_walk | Assets/HorrorGameplay/Audio/Step-Concrete.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_land | Assets/HorrorGameplay/Audio/Land-Tile.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_tile_walk | Assets/Audio/Sets/step_tile.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_tile_walk | Assets/Audio/Sets/steps_tile.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_tile_walk | Assets/HorrorGameplay/Audio/Step-Tile.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_wood_walk | Assets/Audio/Sets/step_wood.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_wood_walk | Assets/Audio/Sets/steps_wood.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- foot_wood_walk | Assets/HorrorGameplay/Audio/Step-Wood.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- glass_shatter_mirror | Assets/Audio/Sets/mirror_shatter.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- hdd_seek | Assets/Audio/Sets/mechanical_drive_seek.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- hdd_seek | Assets/Audio/Sets/pc_hd.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- heartbeat_fast | Assets/Audio/Sets/heartbeat_recorded.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- heartbeat_fast | Assets/Audio/Sets/heartbeat.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- item_pickup_soft | Assets/Audio/Sets/item.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- key_pickup | Assets/Audio/Sets/key_pickup.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- lockpick_break | Assets/HorrorGameplay/Data/Lockpick/Snap.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- lockpick_jam | Assets/HorrorGameplay/Data/Lockpick/Blocked.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- lockpick_pin_set | Assets/HorrorGameplay/Data/Lockpick/Pins.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- lockpick_scrape | Assets/HorrorGameplay/Data/Lockpick/Scrape.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- lockpick_success | Assets/HorrorGameplay/Data/Lockpick/Unlock.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- notify_soft | Assets/Audio/Sets/pc_notification.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- paper_rustle | Assets/Audio/Sets/paper.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- pc_boot_jingle | Assets/Audio/Sets/pc_boot.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- pc_fan | Assets/Audio/Sets/computer_fan_loop.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- pc_fan | Assets/Audio/Sets/pc_fan.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- phone_message_sent | Assets/Audio/Sets/phone_send.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- phone_notify | Assets/Audio/Sets/phone_notification.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- phone_typing_dots | Assets/Audio/Sets/phone_screen_taps.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- phone_typing_dots | Assets/Audio/Sets/phone_typing.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- phone_vibrate_soft | Assets/Audio/Sets/phone_vibrate_table.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- phone_vibrate_soft | Assets/Audio/Sets/phone_vibration.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- school_bell_far | Assets/Audio/Sets/bell.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- siren_police_pass | Assets/HorrorGameplay/Data/Polish20261103/Endings.asset :: sirenSound[-1] | IDs/flags e demais campos preservados.
+- sting_mirror | Assets/Audio/Sets/mirror_shock_hit.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- tape_hiss | Assets/Audio/Sets/cassette_hiss_loop.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- tape_play | Assets/Audio/Sets/tape_play.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- tape_rewind | Assets/Audio/Sets/tape_rewind.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- tape_stop | Assets/Audio/Sets/tape_stop.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- ui_click | Assets/Audio/Sets/ui_confirm.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- water_drip | Assets/Audio/Sets/water_drip.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- water_drip | Assets/Audio/Sets/drip.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- whistle_blow | Assets/Audio/Sets/whistle_real.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- whistle_blow | Assets/Audio/Sets/whistle.asset :: clips[-1] | IDs/flags e demais campos preservados.
+- whistle_blow | Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset :: tapClip[-1] | IDs/flags e demais campos preservados.
+- whistle_lost_echo | Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset :: emptyEchoClip[-1] | IDs/flags e demais campos preservados.
+- whistle_reply_bia | Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset :: childAnswerClips[3] | IDs/flags e demais campos preservados.
+- whistle_reply_caio | Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset :: childAnswerClips[1] | IDs/flags e demais campos preservados.
+- whistle_reply_luan | Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset :: childAnswerClips[2] | IDs/flags e demais campos preservados.
+- whistle_reply_marta | Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset :: childAnswerClips[0] | IDs/flags e demais campos preservados.
+
+## sem slot
+
+- amb_office_night | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_exterior_night | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_school_ground | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_school_library | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_school_cafeteria | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_school_classroom | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_school_upper | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_school_corridor | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_school_bathroom | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_secretary_room | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_drone_tension_01 | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_drone_tension_02 | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_drone_mirror | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_fluorescent_buzz | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- amb_clock_tick | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- foot_tile_run | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- foot_wood_run | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- foot_concrete_run | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- foot_gravel_walk | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- foot_stairs | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- foot_stairs_wood | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- breath_calm | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- breath_scared | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- breath_exhausted | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- heartbeat_slow | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- cloth_move | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- door_wood_slam_far | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- door_metal_open | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- door_metal_close | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- key_unlock | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- gate_metal_open | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- gate_metal_close | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- gate_wind_rattle | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- wardrobe_open | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- wardrobe_close | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- lunchbox_open | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- page_turn | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- crayon_scribble | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- flashlight_flicker | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- item_equip | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- item_holster | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- chair_creak | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- desk_drag | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- object_fall_small | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- object_fall_box | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- object_fall_metal | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- pipe_clang | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- glass_clink | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- backpack_zip | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- bones_clack | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- shoe_drop | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- lockpick_tension | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- whistle_echo_hall | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- whistle_place_down | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- whistle_pulse | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- highlight_chime | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- rat_scurry_wall | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- rat_squeak | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- rat_growl | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- rat_gnaw | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- rat_run_ceiling | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- scratch_wall | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- branch_snap_far | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- tree_creak | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- wall_crack | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- bricks_fall | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- light_flicker | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- bulb_die | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- power_down | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- cold_gust | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- door_creak_alone | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- small_steps_far | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- hand_on_glass | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- glass_resonance | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- mirror_delay_tone | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- room_warm_swell | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- intercom_on | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- intercom_off | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- radio_static | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- radio_tune_sweep | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- radio_button | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- car_door_open | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- car_door_close | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- car_engine_start | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- car_engine_stop | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- car_seatbelt | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- car_turn_signal | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- pc_power_button | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- crt_hum | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- crt_degauss | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- crt_static | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- hdd_boot | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- bios_beep | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- keyboard_typing | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- mouse_click | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- mouse_click_double | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- error_beep | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- phone_vibrate_strong | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- office_phone_ring | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- siren_ambulance_pass | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- siren_far | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- tv_room_tone | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- bad_end_wind | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- door_far_close | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- demolition_far | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- chair_slide_empty_room | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- ui_hover | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- card_open | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- objective_check | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- hud_swap | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+- inspect_open | SfxCatalog | Disponível no catálogo. Sugestão: ligar a um evento de áudio existente após conferir nome, categoria e contexto; nenhuma lógica foi criada.
+
+## Slots de áudio nulos encontrados
+
+São referências anteriores à importação ou placeholders narrativos; não são preenchidas por aproximação. Vozes/dublagem e músicas não são substituídas por SFX.
+
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[0].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[0].lines.Array.data[1].voice — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[1].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[2].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[3].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[3].lines.Array.data[1].voice — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[3].lines.Array.data[2].voice — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[4].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[4].lines.Array.data[1].voice — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[5].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/ClosedCaseReport.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/ClosedCaseReport.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/LuanWhistle.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/LuanWhistle.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Bia.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Bia.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Caio.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Caio.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Helena2018.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Helena2018.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Luan.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Luan.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Marta.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Marta.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/StairKey.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/StairKey.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Cups.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Cups.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Evidence.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Evidence.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Key.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Key.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Lunchbox.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Lunchbox.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Report.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Report.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Tape.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Tape.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/CRTDesktop/DesktopContent.asset :: tracks.Array.data[0].clip — pré-existente
+- Assets/HorrorGameplay/Data/CRTDesktop/DesktopContent.asset :: tracks.Array.data[1].clip — pré-existente
+- Assets/HorrorGameplay/Data/Equipment/GRAMPO.asset :: moveSound — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[10].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[11].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[12].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[13].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[14].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[15].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[16].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[17].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[18].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[19].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[1].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[20].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[21].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[22].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[23].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[24].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[25].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[26].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[27].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[28].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[29].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[2].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[30].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[31].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[32].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[33].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[34].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[35].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[36].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[37].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[38].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[39].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[3].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[40].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[41].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[42].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[43].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[44].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[45].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[46].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[47].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[48].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[49].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[4].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[50].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[51].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[52].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[53].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[54].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[55].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[56].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[57].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[58].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[59].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[5].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[60].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[61].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[62].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[6].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[7].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[8].voice — pré-existente
+- Assets/HorrorGameplay/Data/Lockpick/LockpickDialogue.asset :: lines.Array.data[9].voice — pré-existente
+- Assets/HorrorGameplay/Data/Polish20261103/Endings.asset :: goodPhoneLines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/Polish20261103/Endings.asset :: goodPhoneLines.Array.data[1].voice — pré-existente
+- Assets/HorrorGameplay/Data/Polish20261103/Endings.asset :: morningNews.voice — pré-existente
+- Assets/HorrorGameplay/Data/Polish20261103/SchoolAtmosphere.asset :: lightNoise — pré-existente
+- Assets/HorrorGameplay/Data/StoryRefinement20261026/office_case_note.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/StoryRefinement20261026/office_case_note_final.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/StoryRefinement20261026/office_personal_pen.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/StoryRefinement20261026/office_personal_pen.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/StoryRefinement20261026/student_113_pen.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/StoryRefinement20261026/student_113_pen.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[0].lines.Array.data[6].voice — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[0].lines.Array.data[7].voice — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[12].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[13].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[1].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[1].lines.Array.data[1].voice — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[1].lines.Array.data[2].voice — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[3].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[3].lines.Array.data[2].voice — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[4].lines.Array.data[1].voice — pré-existente
+- Assets/HorrorGameplay/Data/WhispersStory.asset :: sequences.Array.data[7].lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/Discovery/HelenaNote.asset :: pickupSound — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/Discovery/HelenaNote.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/Discovery/HelenaNote.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/Discovery/LuanDrawing.asset :: pickupSound — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/Discovery/LuanDrawing.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/Discovery/LuanDrawing.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/Discovery/ScribbledWarning.asset :: pickupSound — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/Discovery/ScribbledWarning.asset :: recording — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/Discovery/ScribbledWarning.asset :: whisper — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[0].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[100].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[101].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[102].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[103].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[104].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[105].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[106].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[107].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[108].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[109].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[10].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[110].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[111].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[112].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[113].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[114].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[115].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[116].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[117].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[118].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[119].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[11].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[120].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[121].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[122].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[123].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[124].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[125].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[126].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[127].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[128].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[129].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[12].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[130].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[131].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[132].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[133].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[134].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[135].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[136].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[137].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[138].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[139].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[13].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[140].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[141].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[142].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[143].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[144].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[145].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[146].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[147].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[148].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[149].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[14].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[150].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[151].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[152].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[153].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[154].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[155].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[156].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[157].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[158].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[159].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[15].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[160].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[161].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[162].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[163].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[164].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[165].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[166].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[167].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[168].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[169].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[16].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[170].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[171].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[172].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[173].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[174].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[175].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[176].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[177].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[178].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[179].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[17].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[180].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[181].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[182].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[18].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[19].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[1].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[20].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[21].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[22].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[23].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[24].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[25].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[26].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[27].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[28].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[29].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[2].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[30].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[31].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[32].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[33].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[34].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[35].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[36].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[37].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[38].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[39].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[3].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[40].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[41].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[42].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[43].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[44].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[45].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[46].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[47].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[48].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[49].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[4].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[50].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[51].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[52].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[53].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[54].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[55].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[56].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[57].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[58].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[59].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[5].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[60].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[61].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[62].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[63].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[64].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[65].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[66].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[67].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[68].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[69].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[6].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[70].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[71].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[72].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[73].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[74].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[75].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[76].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[77].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[78].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[79].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[7].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[80].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[81].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[82].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[83].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[84].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[85].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[86].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[87].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[88].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[89].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[8].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[90].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[91].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[92].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[93].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[94].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[95].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[96].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[97].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[98].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[99].voice — pré-existente
+- Assets/HorrorGameplay/Data/Whistle/WhistleDialogue.asset :: lines.Array.data[9].voice — pré-existente

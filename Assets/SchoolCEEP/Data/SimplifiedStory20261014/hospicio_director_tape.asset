@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: hospicio_director_tape
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: hospicio_director_tape
+  title: "Fita \u2014 registro do diretor"
+  description: "Fita \u2014 registro do diretor"
+  frontText: "Fita B. Arquivo da dire\xE7\xE3o. N\xE3o apagar."
+  backText: "A \xFAltima chamada nunca foi encerrada."
+  detailText: "Fita B. Arquivo da dire\xE7\xE3o. N\xE3o apagar."
+  alternateBackText: 
+  recordingText: "Registro da dire\xE7\xE3o. Arquivo da turma cento e treze. Daniel. O aluno voltou \xE0 sala cento e treze. N\xE3o h\xE1 registro de sa\xEDda naquela noite. Registro encerrado."
+  model: {fileID: 254411693979360367, guid: 20dee0d4bd0b9554db2cafb75c87af57, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  recordInNotes: 1
+  canPlay: 1
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0.08
+  maximumStress: 3
+  pickupSound: {fileID: 11400000, guid: d826124dff1ce5746b98840b305e8ae2, type: 2}
+  whisper: {fileID: 11400000, guid: ae6eb24ea089d6a46af30914918cf529, type: 2}
+  recording: {fileID: 11400000, guid: 5273d53124a14654f9cd8552633d18b1, type: 2}

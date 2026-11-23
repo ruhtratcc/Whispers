@@ -1,0 +1,69 @@
+{
+  "total": 29.0,
+  "passed": 29.0,
+  "failed": 0.0,
+  "runs": [
+    {
+      "report": "shared-tests.json",
+      "status": "completed",
+      "total": 5,
+      "passed": 5,
+      "failed": 0,
+      "duration": 0.31
+    },
+    {
+      "report": "scene-tests.json",
+      "status": "completed",
+      "total": 3,
+      "passed": 3,
+      "failed": 0,
+      "duration": 30.72
+    },
+    {
+      "report": "photograph-checkpoint-tests.json",
+      "status": "completed",
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "duration": 12.68
+    },
+    {
+      "report": "chapter-four-scene-tests.json",
+      "status": "completed",
+      "total": 3,
+      "passed": 3,
+      "failed": 0,
+      "duration": 22.61
+    },
+    {
+      "report": "chapter-four-shared-tests.json",
+      "status": "completed",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "duration": 0.3
+    },
+    {
+      "report": "sanity-regression-tests.json",
+      "status": "completed",
+      "total": 8,
+      "passed": 8,
+      "failed": 0,
+      "duration": 0.41
+    },
+    {
+      "report": "chapter-three-scene-tests.json",
+      "status": "completed",
+      "total": 3,
+      "passed": 3,
+      "failed": 0,
+      "duration": 22.74
+    }
+  ],
+  "checkpointGuardActive": false,
+  "previewsInspected": [
+    "gravador.png",
+    "memoria.png",
+    "escada.png"
+  ]
+}

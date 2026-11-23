@@ -1,0 +1,64 @@
+﻿id;trigger;character;actor;text;priority;direction
+wp_opt_lockpick_avaliar_01;avaliar;João de Claus;Homem1;Talvez dê pra abrir sem chave.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_avaliar_02;avaliar;João de Claus;Homem1;Essa fechadura está gasta.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_avaliar_03;avaliar;João de Claus;Homem1;Preciso olhar essa fechadura melhor.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_avaliar_04;avaliar;João de Claus;Homem1;Talvez eu consiga destrancar isso.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_sem_grampo_01;sem_grampo;João de Claus;Homem1;Se eu tivesse um grampo...;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_sem_grampo_02;sem_grampo;João de Claus;Homem1;Preciso de alguma coisa fina.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_sem_grampo_03;sem_grampo;João de Claus;Homem1;Só com a mão não vai.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_sem_grampo_04;sem_grampo;João de Claus;Homem1;Falta uma ferramenta pra isso.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_comecar_01;comecar;João de Claus;Homem1;Vou tentar com cuidado.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_comecar_02;comecar;João de Claus;Homem1;Devagar, sem forçar.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_comecar_03;comecar;João de Claus;Homem1;Vamos ver se eu consigo.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_comecar_04;comecar;João de Claus;Homem1;Preciso sentir onde prende.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_quase_01;quase;João de Claus;Homem1;Quase...;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_quase_02;quase;João de Claus;Homem1;Está cedendo.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_quase_03;quase;João de Claus;Homem1;Falta pouco.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_quase_04;quase;João de Claus;Homem1;Acho que achei o ponto.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_travou_01;travou;João de Claus;Homem1;Travou.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_travou_02;travou;João de Claus;Homem1;Prendeu de novo.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_travou_03;travou;João de Claus;Homem1;Não está girando.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_travou_04;travou;João de Claus;Homem1;Melhor soltar um pouco.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_quebrou_01;quebrou;João de Claus;Homem1;O grampo quebrou.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_quebrou_02;quebrou;João de Claus;Homem1;Forcei demais.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_quebrou_03;quebrou;João de Claus;Homem1;Pronto. Perdi o grampo.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_quebrou_04;quebrou;João de Claus;Homem1;Preciso de outro grampo.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_conseguiu_01;conseguiu;João de Claus;Homem1;Destrancou.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_conseguiu_02;conseguiu;João de Claus;Homem1;Consegui destrancar.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_conseguiu_03;conseguiu;João de Claus;Homem1;A fechadura cedeu.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_conseguiu_04;conseguiu;João de Claus;Homem1;Foi. Consegui.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_ruido_01;ruido;João de Claus;Homem1;Barulho demais.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_ruido_02;ruido;João de Claus;Homem1;Mais devagar. Está fazendo barulho.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_ruido_03;ruido;João de Claus;Homem1;Preciso fazer isso sem tanta força.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_ruido_04;ruido;João de Claus;Homem1;Fez barulho demais.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_pressa_01;pressa;João de Claus;Homem1;Rápido...;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_pressa_02;pressa;João de Claus;Homem1;Tenho que terminar isso.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_pressa_03;pressa;João de Claus;Homem1;Mais um pouco e eu paro.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_pressa_04;pressa;João de Claus;Homem1;Não posso ficar aqui a noite toda.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_calma_01;calma;João de Claus;Homem1;Calma.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_calma_02;calma;João de Claus;Homem1;Sem afobação.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_calma_03;calma;João de Claus;Homem1;Respira e tenta de novo.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_calma_04;calma;João de Claus;Homem1;Não adianta forçar agora.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_recomecar_01;recomecar;João de Claus;Homem1;Não, de novo.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_recomecar_02;recomecar;João de Claus;Homem1;Vou começar outra vez.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_recomecar_03;recomecar;João de Claus;Homem1;Melhor tirar e tentar de novo.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_opt_lockpick_recomecar_04;recomecar;João de Claus;Homem1;Perdi o ponto. Volta.;P3;Baixo, seco, pensando alto. Sem dramatizar o medo.
+wp_lockpick_pickup_01;pickup;João de Claus;Homem1;É o grampo da Helena.;P2;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_pickup_02;pickup;João de Claus;Homem1;Isso ainda pode servir.;P2;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_pickup_03;pickup;João de Claus;Homem1;Um grampo... vou levar.;P2;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_first_01;first;João de Claus;Homem1;Já fiz isso mais vezes do que devia.;P2;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_first_02;first;João de Claus;Homem1;Aprendi a fazer isso no começo da carreira.;P2;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_first_03;first;João de Claus;Homem1;Faz tempo que eu não tento isso.;P2;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_empty_01;empty;João de Claus;Homem1;Acabaram os grampos.;P3;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_empty_02;empty;João de Claus;Homem1;Era o último.;P3;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_empty_03;empty;João de Claus;Homem1;Vou precisar de outro grampo.;P3;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_note_01;note;João de Claus;Homem1;Deixaram isso guardado aqui.;P3;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_note_02;note;João de Claus;Homem1;Vou guardar esse papel.;P3;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_note_03;note;João de Claus;Homem1;Deixa eu ver o que é isso.;P3;"Baixo, seco, pensando alto; sem explicar a mecânica."
+wp_lockpick_helena_01;helena;Helena-demônio;Mulher_idosa;O senhor não precisa disso. Eu abro para o senhor.;P3;"Baixa, educada e fria; sem ameaça gritante."
+wp_lockpick_helena_02;helena;Helena-demônio;Mulher_idosa;Não precisa forçar. Pode deixar como está.;P3;"Baixa, educada e fria; sem ameaça gritante."
+wp_lockpick_helena_03;helena;Helena-demônio;Mulher_idosa;Tem certeza de que quer abrir?;P3;"Baixa, educada e fria; sem ameaça gritante."
+wp_lockpick_child_01;child;Crianças;Menina1;Devagar.;P3;"Muito baixo, curto e distante; sem gritar."
+wp_lockpick_child_02;child;Crianças;Menina1;Aqui.;P3;"Muito baixo, curto e distante; sem gritar."
+wp_lockpick_child_03;child;Crianças;Menina1;Não.;P3;"Muito baixo, curto e distante; sem gritar."
+wp_lockpick_child_slow_01;child.slow;Crianças;Menina1;Devagar.;P2;"Muito baixo, curto e distante; sem gritar."

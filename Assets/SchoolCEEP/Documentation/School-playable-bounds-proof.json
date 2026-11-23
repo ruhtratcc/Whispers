@@ -1,0 +1,175 @@
+{
+    "revision": 1,
+    "passed": true,
+    "automotiveInaccessible": true,
+    "automotiveGateStatic": true,
+    "automotiveContentsAbsent": true,
+    "technicalRoomDoorsPreserved": true,
+    "physicalLimitsPresent": true,
+    "renderedLimitsPresent": true,
+    "walkingCrossingsBlocked": true,
+    "removedInteriorGroups": 1,
+    "removedInteriorObjects": 35,
+    "removedInteriorRenderers": 33,
+    "removedInteriorColliders": 5,
+    "masonrySections": 10,
+    "physicalSamples": 180,
+    "renderedSamples": 180,
+    "blockedCapsuleCrossings": 30,
+    "remainingInteriorProps": 0,
+    "preservedTechnicalDoorIds": [
+        "school.door.0.43",
+        "school.door.0.44",
+        "school.door.0.45",
+        "school.door.0.49",
+        "school.door.0.77",
+        "school.door.0.78",
+        "school.door.0.79",
+        "school.door.0.83",
+        "school.door.0.84"
+    ],
+    "deliberatelyInaccessibleRooms": [
+        "Oficina Automotiva"
+    ],
+    "removedObjects": [
+        "Oficina Automotiva — função escolar",
+        "Laboratório — bancada técnica",
+        "Pé metálico",
+        "Pé metálico",
+        "Pé metálico",
+        "Pé metálico",
+        "Laboratório — equipamento de bancada",
+        "Laboratório — bancada técnica",
+        "Pé metálico",
+        "Pé metálico",
+        "Pé metálico",
+        "Pé metálico",
+        "Laboratório — equipamento de bancada",
+        "Laboratório — bancada técnica",
+        "Pé metálico",
+        "Pé metálico",
+        "Pé metálico",
+        "Pé metálico",
+        "Laboratório — equipamento de bancada",
+        "Laboratório — bancada técnica",
+        "Pé metálico",
+        "Pé metálico",
+        "Pé metálico",
+        "Pé metálico",
+        "Laboratório — equipamento de bancada",
+        "Laboratório — armário de material — volume físico",
+        "Laboratório — armário de material — fundo",
+        "Laboratório — armário de material — lateral",
+        "Laboratório — armário de material — lateral",
+        "Laboratório — armário de material — prateleira",
+        "Laboratório — armário de material — prateleira",
+        "Laboratório — armário de material — prateleira",
+        "Laboratório — armário de material — prateleira",
+        "Laboratório — armário de material — prateleira",
+        "Laboratório — quadro"
+    ],
+    "failures": [],
+    "notes": [
+        "Only the Automotive bay is inaccessible. Its furniture is removed, its sliding gate is a physical static exterior element without an interaction or save-state opening, and its east internal passage is masonry. The depot and all five neighbouring technical rooms retain their doors and contents.",
+        "The covered approach to the Automotive gate is retained and ends outside the closed panel. The original campus perimeter remains; new 1.25m visible physical walls bound two scenery gardens, the rear of the court and the entrance exit.",
+        "Low walls are placed away from classroom entrances, the new near-canteen ramp, the central circulation, the straight court approach and the library route. The existing player cannot jump; no invisible wall, narrative lock or gameplay event is introduced."
+    ],
+    "boundaries": [
+        {
+            "name": "Jardim reservado atrás da biblioteca — norte",
+            "ax": 1735.0,
+            "ay": 1030.0,
+            "bx": 2215.0,
+            "by": 1030.0,
+            "height": 1.25,
+            "thickness": 0.2199999988079071
+        },
+        {
+            "name": "Jardim reservado atrás da biblioteca — leste",
+            "ax": 2215.0,
+            "ay": 1030.0,
+            "bx": 2215.0,
+            "by": 1190.0,
+            "height": 1.25,
+            "thickness": 0.2199999988079071
+        },
+        {
+            "name": "Jardim reservado atrás da biblioteca — sul",
+            "ax": 2215.0,
+            "ay": 1190.0,
+            "bx": 1735.0,
+            "by": 1190.0,
+            "height": 1.25,
+            "thickness": 0.2199999988079071
+        },
+        {
+            "name": "Jardim reservado atrás da biblioteca — oeste",
+            "ax": 1735.0,
+            "ay": 1190.0,
+            "bx": 1735.0,
+            "by": 1030.0,
+            "height": 1.25,
+            "thickness": 0.2199999988079071
+        },
+        {
+            "name": "Jardim reservado a leste das oficinas — norte",
+            "ax": 2745.0,
+            "ay": 280.0,
+            "bx": 3000.0,
+            "by": 280.0,
+            "height": 1.25,
+            "thickness": 0.2199999988079071
+        },
+        {
+            "name": "Jardim reservado a leste das oficinas — leste",
+            "ax": 3000.0,
+            "ay": 280.0,
+            "bx": 3000.0,
+            "by": 705.0,
+            "height": 1.25,
+            "thickness": 0.2199999988079071
+        },
+        {
+            "name": "Jardim reservado a leste das oficinas — sul",
+            "ax": 3000.0,
+            "ay": 705.0,
+            "bx": 2745.0,
+            "by": 705.0,
+            "height": 1.25,
+            "thickness": 0.2199999988079071
+        },
+        {
+            "name": "Jardim reservado a leste das oficinas — oeste",
+            "ax": 2745.0,
+            "ay": 705.0,
+            "bx": 2745.0,
+            "by": 280.0,
+            "height": 1.25,
+            "thickness": 0.2199999988079071
+        },
+        {
+            "name": "Limite sul atrás da quadra",
+            "ax": 2215.0,
+            "ay": 1570.0,
+            "bx": 3037.0,
+            "by": 1570.0,
+            "height": 1.25,
+            "thickness": 0.2199999988079071
+        },
+        {
+            "name": "Limite do portão de entrada",
+            "ax": 1374.0,
+            "ay": 1628.0,
+            "bx": 1452.0,
+            "by": 1628.0,
+            "height": 1.25,
+            "thickness": 0.2199999988079071
+        }
+    ],
+    "automotiveBay": [
+        2538.47998046875,
+        316.3999938964844,
+        2623.47998046875,
+        526.8800048828125
+    ]
+}

@@ -1,0 +1,2313 @@
+{
+  "purpose": "Photo-informed visual geometry only; coordinates remain tied to registered P01 layout.",
+  "coordinateSystem": {
+    "units": "PDF points",
+    "boxOrder": [
+      "xmin",
+      "ymin",
+      "xmax",
+      "ymax"
+    ],
+    "metersPerPoint": 0.07055555556,
+    "worldFormula": "((x-1413)*metersPerPoint, elevation, (1628-y)*metersPerPoint)"
+  },
+  "sources": [
+    {
+      "id": "hall",
+      "path": "C:/Users/ruhtra/Downloads/corredor principal.jpg"
+    },
+    {
+      "id": "hall_left",
+      "path": "C:/Users/ruhtra/Downloads/corredor principal esquerda.jpg"
+    },
+    {
+      "id": "hall_right",
+      "path": "C:/Users/ruhtra/Downloads/corredor principal direita.jpg"
+    },
+    {
+      "id": "toward_court",
+      "path": "C:/Users/ruhtra/Pictures/parte indo pra quadra na direita .png"
+    },
+    {
+      "id": "from_court",
+      "path": "C:/Users/ruhtra/Pictures/corredor voltando da quadra.png"
+    },
+    {
+      "id": "court_front",
+      "path": "C:/Users/ruhtra/Pictures/parte da frente da quadra.png"
+    },
+    {
+      "id": "school_front",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-a9d30ed7-a442-4205-bbf9-13bc84b7f170.png"
+    },
+    {
+      "id": "level_west_from_hall",
+      "path": "C:/Users/ruhtra/Downloads/IMG-20261002-WA0001.jpg"
+    },
+    {
+      "id": "level_west_access",
+      "path": "C:/Users/ruhtra/Downloads/IMG-20261002-WA0008.jpg"
+    },
+    {
+      "id": "level_south_core_gate",
+      "path": "C:/Users/ruhtra/Downloads/IMG-20261002-WA0007.jpg"
+    },
+    {
+      "id": "level_west_ramp",
+      "path": "C:/Users/ruhtra/Downloads/IMG-20261002-WA0005.jpg"
+    },
+    {
+      "id": "level_games_to_hall",
+      "path": "C:/Users/ruhtra/Downloads/IMG_20261002_085313.jpg"
+    },
+    {
+      "id": "level_refectory_close",
+      "path": "C:/Users/ruhtra/Downloads/IMG_20261002_085552.jpg"
+    },
+    {
+      "id": "level_refectory_front",
+      "path": "C:/Users/ruhtra/Downloads/IMG_20261002_085537.jpg"
+    },
+    {
+      "id": "workshop_side",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-40cb4f06-2757-40ff-8ee8-79f09bb3cf1c.png"
+    },
+    {
+      "id": "workshop_connection",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-ef54ee6e-b05a-487d-93b0-aa568c060416.png"
+    },
+    {
+      "id": "workshop_gate",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-88b423f8-cb97-4d9e-ad08-7d4bd0a901e1.png"
+    },
+    {
+      "id": "automotive_open_band",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-ae575d50-7f66-4300-9163-a615f6bec8f3.png"
+    },
+    {
+      "id": "refectory_latest_1",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-41b23435-dd06-4d5c-954f-599c6411c85a.png",
+      "area": "refectory"
+    },
+    {
+      "id": "refectory_latest_2",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-a1942138-9acd-4f18-8b83-83031c71845b.png",
+      "area": "refectory"
+    },
+    {
+      "id": "refectory_latest_3",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-f42475ae-c27a-4275-8527-b5049a71996d.png",
+      "area": "refectory"
+    },
+    {
+      "id": "refectory_latest_4",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-e54792f1-1460-4c10-a9e3-19cf573d059d.png",
+      "area": "refectory"
+    },
+    {
+      "id": "refectory_latest_5",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-b97873f8-d13c-4f11-803f-f8fb0da2e682.png",
+      "area": "refectory"
+    },
+    {
+      "id": "refectory_latest_6",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-b9ff1785-5fab-4df6-ad5d-0af409068e0f.png",
+      "area": "refectory"
+    },
+    {
+      "id": "refectory_latest_7",
+      "path": "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-8711a2dc-0511-4d1b-8c8a-d9a5b5753d03.png",
+      "area": "refectory_connector"
+    },
+    {
+      "id": "user_colored_plan_20261003",
+      "path": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/User-colored-plan-20261003.png",
+      "area": "whole_school_topology",
+      "legend": "Blue=walls; yellow=doors. Hand-drawn topology uses local building landmarks, not a global metric scale."
+    },
+    {
+      "id": "central_photo_1",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Central-photo-reference\\Central-1.png",
+      "association": "central corridor",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true
+    },
+    {
+      "id": "central_photo_2",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Central-photo-reference\\Central-2.png",
+      "association": "central corridor",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true
+    },
+    {
+      "id": "central_photo_3",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Central-photo-reference\\Central-3.png",
+      "association": "central stair and upper landing",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true
+    },
+    {
+      "id": "central_photo_4",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Central-photo-reference\\Central-4.png",
+      "association": "central stair and upper landing",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true
+    },
+    {
+      "id": "central_photo_5",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Central-photo-reference\\Central-5.png",
+      "association": "central stair and upper landing",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true
+    },
+    {
+      "id": "upper_classrooms_ramp_photo_1",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Upper-classrooms-ramp-reference\\Reference-1.png",
+      "association": "upper right corridor",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true,
+      "classroomsOnBothSidesConfirmedByUser": true
+    },
+    {
+      "id": "upper_classrooms_ramp_photo_2",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Upper-classrooms-ramp-reference\\Reference-2.png",
+      "association": "upper right corridor ceiling",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true,
+      "classroomsOnBothSidesConfirmedByUser": true
+    },
+    {
+      "id": "upper_classrooms_ramp_photo_3",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Upper-classrooms-ramp-reference\\Reference-3.png",
+      "association": "common classroom standard",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true
+    },
+    {
+      "id": "upper_classrooms_ramp_photo_4",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Upper-classrooms-ramp-reference\\Reference-4.png",
+      "association": "common classroom standard",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true
+    },
+    {
+      "id": "upper_classrooms_ramp_photo_5",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Upper-classrooms-ramp-reference\\Reference-5.png",
+      "association": "common classroom standard",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true
+    },
+    {
+      "id": "upper_classrooms_ramp_photo_6",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Upper-classrooms-ramp-reference\\Reference-6.png",
+      "association": "central ramp interior and wall rails",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true
+    },
+    {
+      "id": "upper_classrooms_ramp_photo_7",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Upper-classrooms-ramp-reference\\Reference-7.png",
+      "association": "central ramp opposite garden face and high gabled roof",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true
+    },
+    {
+      "id": "ramp_both_sides_correction_20261004",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Ramp-both-sides-reference\\Correction.png",
+      "association": "masonry on both faces of the central ramp lanes",
+      "locationConfirmedByUser": true,
+      "masonryOnBothSidesConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true,
+      "upperClassroomDoorWidthCorrectionConfirmedByUser": true,
+      "upperMetalEmergencyDoorsAndOpenGroundEndsConfirmedByUser": true
+    },
+    {
+      "id": "ramp_return_gap_20261004",
+      "paths": [
+        "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Ramp-gap-reference\\Gap-1.png",
+        "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Ramp-gap-reference\\Gap-2.png"
+      ],
+      "association": "central intermediate return west-side missing masonry",
+      "locationConfirmedByUser": true,
+      "exactDetailPositionsEstimated": true,
+      "nativeSavedGeometryVerified": true
+    },
+    {
+      "id": "opposite_court_block_connection_20261004",
+      "directory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolCEEP\\Opposite-court-block-reference",
+      "association": "after main corridor, stairs/ramp lead left to higher block and down to lower block",
+      "locationConfirmedByUser": true,
+      "newUpperInteriorPhotosConfirmed": true,
+      "newLowerExteriorPhotoConfirmed": true,
+      "exactPlanAssociationEstimated": true,
+      "newExteriorRampGeometryApplied": true,
+      "highBlock": "west_south",
+      "lowBlock": "west_north",
+      "gradeEstimated": true,
+      "firstTwoWhiteBlueFacadeLocationsConfirmed": false,
+      "finalVisualReviewPassed": true,
+      "meshRevision": 3
+    }
+  ],
+  "levelReference": {
+    "status": "Relative levels confirmed by photos; +0.60 m is an implementation estimate, not surveyed.",
+    "raisedLevelMeters": 0.6,
+    "lowerLevelMeters": 0.0,
+    "firstOccupiedFloorMeters": 3.81,
+    "photoFacts": [
+      {
+        "photo": "level_west_from_hall",
+        "observed": "Hall edge overlooks blue-railed ramp/access and lower garden beside two-storey white/blue wing."
+      },
+      {
+        "photo": "level_west_access",
+        "observed": "Short flight of about four risers beside a ramp reaches the upper hall-side platform."
+      },
+      {
+        "photo": "level_south_core_gate",
+        "observed": "Blue barred entrance is recessed between two white/blue taller building faces; curved blue bench sits on approach."
+      },
+      {
+        "photo": "level_west_ramp",
+        "observed": "Switchback access has blue guardrails, planted edge and blue benches at the higher hall side."
+      },
+      {
+        "photo": "level_games_to_hall",
+        "observed": "Table-tennis court is lower than hall platform; wide blue-painted steps connect them."
+      },
+      {
+        "photo": "level_refectory_close",
+        "observed": "Refectory floor and serving hatches lie below hall approach; entrance has shallow steps, blue tile and blue bars."
+      },
+      {
+        "photo": "level_refectory_front",
+        "observed": "Refectory entrance is centered under hall gable, flanked by blue-barred louvred windows; floor transition descends at entrance."
+      }
+    ],
+    "raisedZones": [
+      {
+        "id": "main_hall_strip",
+        "pdfBox": [
+          1348,
+          963.08,
+          1493.8,
+          1343
+        ],
+        "floorMeters": 0.6
+      },
+      {
+        "id": "hall_west_platform",
+        "pdfBox": [
+          1318.48,
+          963.08,
+          1348,
+          1174.76
+        ],
+        "floorMeters": 0.6
+      },
+      {
+        "id": "administration_south",
+        "pdfBox": [
+          1062.28,
+          1175.84,
+          1348,
+          1343
+        ],
+        "floorMeters": 0.6
+      },
+      {
+        "id": "pedagogy_south",
+        "pdfBox": [
+          1493.8,
+          1175.84,
+          1705.48,
+          1343
+        ],
+        "floorMeters": 0.6
+      }
+    ],
+    "lowerZones": [
+      {
+        "id": "east_games_area",
+        "referencePdfBox": [
+          1493.8,
+          963.08,
+          1712.56,
+          1174.76
+        ],
+        "floorMeters": 0.0,
+        "note": "Right-hand Mesas de Jogos/PCS portion of covered_courtyard; safe table-tennis placement around PDF1610,1090. Do not elevate full covered_courtyard bbox."
+      },
+      {
+        "id": "central_east_services",
+        "pdfBox": [
+          1318.48,
+          801.68,
+          1605.16,
+          959
+        ],
+        "floorMeters": 0.0
+      },
+      {
+        "id": "west_side_plaza",
+        "referencePdfBox": [
+          1062.28,
+          1067.2,
+          1318.48,
+          1175.84
+        ],
+        "floorMeters": 0.0,
+        "note": "Exterior plaza and approach to hall-side ramp, bounded by existing rooms; approximate open-space extent."
+      }
+    ],
+    "connections": [
+      {
+        "id": "west_switchback",
+        "nativePdfBox": [
+          1275.88,
+          1005.56,
+          1319.2,
+          1131.68
+        ],
+        "nativeInclinePercent": 8.0,
+        "fromMeters": 0.0,
+        "toMeters": 0.6,
+        "note": "Two native lanes and south turning landing. Exact endpoint height is not specified by PDF; derive safe slope from assumed rise."
+      },
+      {
+        "id": "west_short_stairs",
+        "nativePdfBox": [
+          1297.08,
+          963.08,
+          1318.48,
+          1004.84
+        ],
+        "fromMeters": 0.0,
+        "toMeters": 0.6,
+        "note": "Native stair position next to north ramp access. A south-platform flight at y1130..1174 would be a photo-based implementation choice, not this original stair."
+      },
+      {
+        "id": "refectory_entry",
+        "openingPdfX": [
+          1409.9,
+          1445.3
+        ],
+        "facadePdfY": 959,
+        "requiredHighFloorCutPdfBox": [
+          1409.9,
+          959,
+          1445.3,
+          981
+        ],
+        "fromMeters": 0.6,
+        "toMeters": 0.0,
+        "estimatedRisers": 4,
+        "note": "Carve high slab/retaining face through stair mouth. Existing y959..963 gap is only about0.29m; not enough for four treads. Cut length remains adjustable by ~2PDF points."
+      },
+      {
+        "id": "front_approach_ramp",
+        "axisPdfX": 1421,
+        "pdfY": [
+          1343,
+          1440
+        ],
+        "fromMeters": 0.0,
+        "toMeters": 0.6,
+        "estimatedRunMeters": 6.844,
+        "estimatedInclinePercent": 8.77,
+        "note": "Implementation assumption within existing approach; boundary gate and parking remain lower."
+      },
+      {
+        "id": "east_games_steps",
+        "referenceBoundaryPdfX": 1493.8,
+        "referencePdfY": [
+          963.08,
+          1174.76
+        ],
+        "fromMeters": 0.6,
+        "toMeters": 0.0,
+        "note": "Photos confirm wide steps at games-facing hall edge; exact extent is estimated. Preserve a clear playable connection and do not create a solid retaining face across it."
+      }
+    ],
+    "unchangedLevels": [
+      "main academic wings remain ground0/upper3.81",
+      "terrain, court, parking and other external paths remain0",
+      "no new occupied storey or roof route"
+    ],
+    "implementationRisks": [
+      "Moving only visible hall floor leaves door thresholds and props at wrong elevations",
+      "Lowering whole site instead would require cutting global slabs and rebuilding existing3.81m stair routes",
+      "West stair native position must not be silently replaced by an inferred south flight",
+      "Temporary translation of photo meshes must not also translate them a second time through their parent",
+      "Refectory serving-side room elevations are inferred0; actual riser count still needs survey/photo refinement"
+    ]
+  },
+  "zones": [
+    {
+      "id": "main_hall",
+      "photos": [
+        "hall",
+        "hall_left",
+        "hall_right",
+        "school_front"
+      ],
+      "pdfBox": [
+        1348,
+        1175.84,
+        1493.8,
+        1343
+      ],
+      "positionConfidence": "high: administration and pedagogy labels plus plan faces",
+      "planDimensionsMeters": {
+        "width": 10.287,
+        "length": 11.795
+      },
+      "observed": [
+        "wide gable roof",
+        "white walls with grey lower band",
+        "navy doors and window bars",
+        "open high side gaps",
+        "blue backless benches",
+        "long metal-framed tables"
+      ],
+      "estimatedDimensionsMeters": {
+        "wallTop": 3.1,
+        "eave": 4.25,
+        "ridge": 5.8,
+        "roofOverhang": 0.4,
+        "postWidth": 0.22,
+        "postBay": 3.93,
+        "greyBandTop": 1.3
+      },
+      "keep": [
+        "existing door apertures",
+        "central walking axis",
+        "connection to covered courtyard north"
+      ],
+      "doNotApplyTo": [
+        "narrow laboratory corridors",
+        "narrow main classroom corridors"
+      ]
+    },
+    {
+      "id": "school_facade",
+      "photos": [
+        "school_front"
+      ],
+      "pdfLine": [
+        1348,
+        1343,
+        1493.8,
+        1343
+      ],
+      "positionConfidence": "high relation to hall and parking; exact face placement estimated",
+      "observed": [
+        "white triangular portal surround",
+        "sky-blue upper CEEP panel",
+        "strong-blue lower band",
+        "blue grille across entrance",
+        "parking paving in front and to sides"
+      ],
+      "estimatedDimensionsMeters": {
+        "openingWidth": 6.5,
+        "grilleHeight": 2.0,
+        "lowerBlueBandTop": 1.45,
+        "topHeight": 6.0
+      },
+      "keep": [
+        "physical opening",
+        "south boundary wall separate from facade"
+      ]
+    },
+    {
+      "id": "front_approach",
+      "photos": [
+        "school_front"
+      ],
+      "pdfBox": [
+        1388,
+        1343,
+        1438,
+        1628
+      ],
+      "positionConfidence": "high plan; front/parking relation explicitly supplied by user",
+      "planDimensionsMeters": {
+        "width": 3.528,
+        "length": 20.108
+      },
+      "boundaryGatePdfY": 1628,
+      "parkingBoxes": [
+        [
+          351,
+          1375,
+          1348,
+          1614
+        ],
+        [
+          1495,
+          1367,
+          2023,
+          1614
+        ]
+      ],
+      "orderFromStreet": [
+        "boundary wall/gate",
+        "approach with parking at sides",
+        "school facade",
+        "main hall"
+      ]
+    },
+    {
+      "id": "covered_courtyard",
+      "photos": [
+        "hall",
+        "hall_left",
+        "hall_right"
+      ],
+      "pdfBox": [
+        1318.48,
+        963.08,
+        1712.56,
+        1174.76
+      ],
+      "positionConfidence": "high plan; photos support visual relationship, not exact camera registration",
+      "observed": [
+        "open lateral access",
+        "blue railing",
+        "raised side platform",
+        "gardens beyond",
+        "blue benches"
+      ],
+      "estimatedDimensionsMeters": {
+        "benchLength": 2.0,
+        "benchWidth": 0.4,
+        "benchSeatHeight": 0.45,
+        "railingHeight": 1.0,
+        "railingTubeDiameter": 0.04
+      },
+      "rampPlanBox": [
+        1275.88,
+        963.08,
+        1319.2,
+        1131.68
+      ],
+      "rampPhotoMatchConfidence": "medium/low; preserve vector position and existing elevation proof",
+      "keep": [
+        "ground-floor-only roof projection",
+        "connections to hall and existing ramp"
+      ]
+    },
+    {
+      "id": "east_external_walkway",
+      "photos": [
+        "toward_court",
+        "from_court",
+        "court_front"
+      ],
+      "pdfBox": [
+        1455,
+        746,
+        2645,
+        775
+      ],
+      "positionConfidence": "medium photo match; high plan corridor extent",
+      "planDimensionsMeters": {
+        "width": 2.046,
+        "length": 83.961
+      },
+      "observed": [
+        "slender gable canopy",
+        "dark square metal posts",
+        "concrete pad at post bases",
+        "terracotta walls above mustard lower band",
+        "tiled path with brown tactile strip",
+        "open grass on opposite side"
+      ],
+      "estimatedDimensionsMeters": {
+        "eave": 2.75,
+        "ridge": 3.25,
+        "roofWidth": 2.3,
+        "postWidth": 0.1,
+        "postBay": 3.3,
+        "mustardBandTop": 1.25,
+        "tactileWidth": 0.3
+      },
+      "keep": [
+        "2.046 m circulation remains clear",
+        "posts stay at outer edge",
+        "photographs do not rename rooms or shift wing footprints"
+      ]
+    },
+    {
+      "id": "court_side_landscape",
+      "photos": [
+        "toward_court",
+        "court_front",
+        "hall_right"
+      ],
+      "referencePlanBoxes": {
+        "eastTeaching": [
+          2266.72,
+          774.6,
+          2544.52,
+          1062.12
+        ],
+        "court": [
+          2653.48,
+          1212.16,
+          2880.28,
+          1552.36
+        ],
+        "openPatio": [
+          2244,
+          1207,
+          2519,
+          1546
+        ]
+      },
+      "positionConfidence": "low exact registration; user confirms court/front context",
+      "observed": [
+        "large grass areas",
+        "irregular mature trees",
+        "low brick-edged planting beds",
+        "bike parking by terracotta wall"
+      ],
+      "estimatedDimensionsMeters": {
+        "bikeLength": 1.7,
+        "bikeWidth": 0.6,
+        "bikeHeight": 1.05,
+        "plantingBedEdgeHeight": 0.25
+      },
+      "keep": [
+        "court surface",
+        "plan patio footprint",
+        "clear path from main hall"
+      ],
+      "placementRule": "Use free land near court for landscape; exact camera and orange wing identities remain provisional. Do not pave all gaps or fill the existing court/patio with lawn."
+    }
+  ],
+  "sideCourtCorrection": {
+    "sources": [
+      "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-62786fb5-db6b-4aee-9c54-aad7f6152b4f.png",
+      "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-bad123d3-2e34-456c-a826-0bc94354f364.png"
+    ],
+    "bothSideCourtsRoofed": false,
+    "mainHallRoofPreserved": true,
+    "westLowPedestrianRoute": [
+      [
+        1260,
+        1160
+      ],
+      [
+        1260,
+        930
+      ],
+      [
+        1290,
+        930
+      ]
+    ],
+    "eastStepsBoundary": {
+      "x": 1493.8,
+      "y": [
+        990,
+        1160
+      ]
+    },
+    "eastRampNearCantina": {
+      "low": [
+        1703,
+        978
+      ],
+      "high": [
+        1555,
+        978
+      ],
+      "widthMeters": 1.55222222232,
+      "runMeters": 10.44222222288
+    },
+    "verification": {
+      "editorPhysicsOnly": true,
+      "passed": true,
+      "checks": 800,
+      "paths": 17
+    },
+    "eastCurvedBenchRemoved": true,
+    "eastStairRailings": false,
+    "eastLStair": {
+      "innerCorner": [
+        1493.8,
+        1160
+      ],
+      "lowCorner": [
+        1512.3,
+        1141.5
+      ],
+      "farX": 1705.48,
+      "risers": 4,
+      "highLevel": 0.644
+    }
+  },
+  "westReturnAndCanteenConnector": {
+    "sources": [
+      "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-99725b8c-8656-40d4-990e-54eddcbac412.png",
+      "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-c0bb9c9d-93fd-4fbc-b77c-5a3f3107d970.png",
+      "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-9dfc3559-a8b4-4c91-9a5a-0aebd432011e.png"
+    ],
+    "positionAndHeightsEstimated": true,
+    "westRamp": {
+      "lowLane": [
+        [
+          1286.48,
+          1021,
+          0.04
+        ],
+        [
+          1286.48,
+          1099.9,
+          0.342
+        ]
+      ],
+      "returnLane": [
+        [
+          1308.6,
+          1099.9,
+          0.342
+        ],
+        [
+          1308.6,
+          1016,
+          0.644
+        ]
+      ],
+      "returnLanding": [
+        1275.88,
+        1099.9,
+        1319.2,
+        1131.68
+      ],
+      "clearLowEntranceY": 1013
+    },
+    "westStairs": {
+      "low": [
+        1286.48,
+        1005,
+        0
+      ],
+      "high": [
+        1286.48,
+        989,
+        0.644
+      ],
+      "risers": 4
+    },
+    "connector": {
+      "roofBox": [
+        1213.2,
+        934,
+        1315.8,
+        961
+      ],
+      "roofFrontHeight": 2.65,
+      "roofRearHeight": 2.9,
+      "clearOpeningX": [
+        1245,
+        1275
+      ],
+      "cantinaExistingDoor": [
+        1320.563,
+        836.74
+      ],
+      "rearWall": false
+    },
+    "verification": {
+      "passed": true,
+      "editorPhysicsOnly": true,
+      "checks": 814,
+      "paths": 21
+    }
+  },
+  "westLayoutCorrection": {
+    "userConfirmedBackWall": true,
+    "sources": [
+      "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-250ee072-da07-432c-b873-82999054087b.png",
+      "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-ae4d693f-14c4-4848-8baf-69f3c25b2cd0.png",
+      "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-38e9876e-211f-46c7-8306-b7103d3943a2.png",
+      "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-eab99417-38c0-4a98-b94c-cc1aa1a697bf.png"
+    ],
+    "connectorRoofBox": [
+      1213.2,
+      809.24,
+      1315.8,
+      851.12
+    ],
+    "connectorSigns": false,
+    "blockCorridorRoute": [
+      [
+        1260,
+        830
+      ],
+      [
+        1193,
+        830
+      ]
+    ],
+    "straightStairs": {
+      "start": [
+        1297.08,
+        995,
+        0
+      ],
+      "end": [
+        1318.48,
+        995,
+        0.644
+      ],
+      "approach": [
+        1260,
+        995
+      ],
+      "exit": [
+        1340,
+        995
+      ],
+      "risers": 4
+    },
+    "returnRampHighEnd": [
+      1308.6,
+      1034,
+      0.644
+    ],
+    "returnRampHighExit": [
+      1340,
+      1023,
+      0.644
+    ],
+    "normalLowPassageBox": [
+      1215,
+      1144,
+      1310,
+      1169
+    ],
+    "verification": {
+      "passed": true,
+      "checks": 820,
+      "paths": 23,
+      "editorPhysicsOnly": true
+    }
+  },
+  "finalWholeMapRevision": {
+    "date": "2026-10-05",
+    "status": "native physics and visual review passed on saved/reopened SourceRevision3 scene",
+    "plannedRoutes": 399,
+    "allRoutesPassed": true,
+    "physicalPaths": 431,
+    "regularChecks": 881,
+    "regularPaths": 34,
+    "inaccessibleTargets": 0,
+    "wallJointSuspects": 0,
+    "missingScripts": 0,
+    "doubleDoorPairs": 14,
+    "doorLeaves": 114,
+    "removedFalseWallSpans": 20,
+    "photographicClassrooms": 22,
+    "classroomSeats": 250,
+    "classroomFurnitureColliders": 269,
+    "centralRampMasonryPanels": 16,
+    "centralRampWallMountedRails": 44,
+    "sourceReports": [
+      "School-whole-map-audit.json",
+      "School-validation-report.json",
+      "School-colored-plan-passages-proof.json",
+      "School-west-block-access-proof.json",
+      "School-opposite-block-photo-report.json",
+      "School-final-state.json"
+    ],
+    "userColoredPlanRevision": {
+      "report": "School-colored-plan-report.json",
+      "proof": "School-colored-plan-passages-proof.json",
+      "removedFalseWallSpans": 20,
+      "removed": [
+        {
+          "level": 0,
+          "block": "west_south",
+          "reason": "Cota horizontal 700 dentro da Sala30 ou do Laboratório de Instalações Elétricas; não é divisória.",
+          "vertical": false,
+          "p": 855.3200073242188,
+          "a": 368.9200134277344,
+          "b": 469.4800109863281
+        },
+        {
+          "level": 0,
+          "block": "west_south",
+          "reason": "Cota horizontal 700 dentro da Sala30 ou do Laboratório de Instalações Elétricas; não é divisória.",
+          "vertical": false,
+          "p": 1023.3200073242188,
+          "a": 497.9200134277344,
+          "b": 597.0399780273438
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+          "vertical": true,
+          "p": 496.3599853515625,
+          "a": 278.3599853515625,
+          "b": 348.0799865722656
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+          "vertical": true,
+          "p": 496.3599853515625,
+          "a": 358.760009765625,
+          "b": 402.2669982910156
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+          "vertical": true,
+          "p": 496.3599853515625,
+          "a": 415.7330017089844,
+          "b": 428.4800109863281
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+          "vertical": true,
+          "p": 496.3599853515625,
+          "a": 428.8399963378906,
+          "b": 498.9200134277344
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+          "vertical": true,
+          "p": 496.3599853515625,
+          "a": 509.6000061035156,
+          "b": 543.2680053710938
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+          "vertical": true,
+          "p": 496.3599853515625,
+          "a": 556.7319946289062,
+          "b": 579.6799926757812
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+          "vertical": true,
+          "p": 496.4800109863281,
+          "a": 580.4000244140625,
+          "b": 650.239990234375
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+          "vertical": true,
+          "p": 496.4800109863281,
+          "a": 660.7999877929688,
+          "b": 704.2680053710938
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+          "vertical": true,
+          "p": 496.4800109863281,
+          "a": 717.7319946289062,
+          "b": 730.6400146484375
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Cota horizontal 700 desenhada dentro de uma das três salas, sob sua parede norte verdadeira.",
+          "vertical": false,
+          "p": 291.32000732421875,
+          "a": 402.8800048828125,
+          "b": 502.8399963378906
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Cota horizontal 700 desenhada dentro de uma das três salas, sob sua parede norte verdadeira.",
+          "vertical": false,
+          "p": 441.9200134277344,
+          "a": 402.8800048828125,
+          "b": 502.8399963378906
+        },
+        {
+          "level": 0,
+          "block": "west_north",
+          "reason": "Cota horizontal 700 desenhada dentro de uma das três salas, sob sua parede norte verdadeira.",
+          "vertical": false,
+          "p": 591.2000122070312,
+          "a": 401.44000244140625,
+          "b": 502.1199951171875
+        },
+        {
+          "level": 0,
+          "block": "main_laboratories_north",
+          "reason": "Limite da PASSARELA COBERTA: linha simples .72 com tracejado paralelo y795.56 no P01, cotas e PLACA abaixo. Não é alvenaria; preservar a lateral estrutural real x829.48.",
+          "vertical": false,
+          "p": 794.3599853515625,
+          "a": 553.1199951171875,
+          "b": 829.47998046875
+        },
+        {
+          "level": 0,
+          "block": "proposed_east_teaching",
+          "reason": "False pairing of facade dashed line y773.12 and PLACA annotation y776.72; yellow doorway in colored plan. Preserve masonry jambs.",
+          "vertical": false,
+          "p": 774.9199829101562,
+          "a": 2400.280029296875,
+          "b": 2407.360107421875
+        },
+        {
+          "level": 0,
+          "block": "main_middle_circulation",
+          "reason": "Topo do retângulo PLACA pareado com a cota 2570; uma anotação de incêndio virou uma falsa parede.",
+          "vertical": false,
+          "p": 837.97998046875,
+          "a": 1153.3599853515625,
+          "b": 1176.760009765625
+        },
+        {
+          "level": 0,
+          "block": "main_middle_circulation",
+          "reason": "Cota 2570 atravessa a circulação aberta; não é alvenaria.",
+          "vertical": false,
+          "p": 839.719970703125,
+          "a": 829.47998046875,
+          "b": 1210.1199951171875
+        },
+        {
+          "level": 0,
+          "block": "proposed_library",
+          "reason": "Vertical 1460 dimension inside library, with text gap and diagonal ticks in native PDF; colored plan shows a single reading room.",
+          "vertical": true,
+          "p": 1910.56005859375,
+          "a": 776.5999755859375,
+          "b": 874.1599731445312
+        },
+        {
+          "level": 0,
+          "block": "proposed_library",
+          "reason": "Vertical 1460 dimension inside library, with text gap and diagonal ticks in native PDF; colored plan shows a single reading room.",
+          "vertical": true,
+          "p": 1910.56005859375,
+          "a": 884.719970703125,
+          "b": 982.1599731445312
+        }
+      ],
+      "formerWallsClear": true,
+      "passed": true,
+      "physicalPaths": 6
+    },
+    "finalVisualReviewPassed": true,
+    "reviewed": true,
+    "oppositeBlockPhotoSourceRevision": 3,
+    "repeatedVerificationSuites": 11
+  },
+  "finalWholeMapRevisionHistory": [
+    {
+      "date": "2026-10-03",
+      "westStairWidthMeters": 2.82222223,
+      "westLowPassageBox": [
+        1034,
+        1144,
+        1310,
+        1169
+      ],
+      "doubleDoorPairs": 14,
+      "plannedRoutes": 394,
+      "allRoutesPassed": true,
+      "physicalPaths": 418,
+      "sealedMasonryCorners": 85,
+      "photoReplacedCorners": 2,
+      "workshopGateWidthMeters": 4.303889,
+      "automotiveLowWallMeters": 1.05,
+      "associationAndDimensions": "Estimated from user photos; refine if measured references arrive.",
+      "removedAnnotationCorners": 3,
+      "automotiveFrontLowWallPdf": [
+        2624.56,
+        526.88,
+        2709.64,
+        526.88
+      ],
+      "automotiveRightSideOpeningPdf": [
+        2709.64,
+        422.36,
+        2709.64,
+        527.96
+      ],
+      "automotiveOrientation": "Facing front low wall: continuous front, large opening on right lateral wall.",
+      "refectoryPhotoPass": {
+        "tableSets": 6,
+        "servingBays": 3,
+        "connectorSmoothCeiling": true,
+        "interactiveGrilleLeaves": 1,
+        "grilleDoor": "school.door.0-40",
+        "grilleStartsClosed": true,
+        "grilleUsesExistingCollider": true,
+        "serviceDoorLightPaint": "school.door.0-38",
+        "geometryEstimated": true
+      },
+      "userColoredPlanRevision": {
+        "source": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/User-colored-plan-20261003.png",
+        "report": "School-colored-plan-report.json",
+        "proof": "School-colored-plan-passages-proof.json",
+        "removedFalseWallSpans": 19,
+        "removed": [
+          {
+            "level": 0,
+            "block": "west_south",
+            "reason": "Cota horizontal 700 dentro da Sala30 ou do Laboratório de Instalações Elétricas; não é divisória.",
+            "vertical": false,
+            "p": 855.3200073242188,
+            "a": 368.9200134277344,
+            "b": 469.4800109863281
+          },
+          {
+            "level": 0,
+            "block": "west_south",
+            "reason": "Cota horizontal 700 dentro da Sala30 ou do Laboratório de Instalações Elétricas; não é divisória.",
+            "vertical": false,
+            "p": 1023.3200073242188,
+            "a": 497.9200134277344,
+            "b": 597.0399780273438
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 278.3599853515625,
+            "b": 348.0799865722656
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 358.760009765625,
+            "b": 402.2669982910156
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 415.7330017089844,
+            "b": 428.4800109863281
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 428.8399963378906,
+            "b": 498.9200134277344
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 509.6000061035156,
+            "b": 543.2680053710938
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 556.7319946289062,
+            "b": 579.6799926757812
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.4800109863281,
+            "a": 580.4000244140625,
+            "b": 650.239990234375
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.4800109863281,
+            "a": 660.7999877929688,
+            "b": 704.2680053710938
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.4800109863281,
+            "a": 717.7319946289062,
+            "b": 730.6400146484375
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Cota horizontal 700 desenhada dentro de uma das três salas, sob sua parede norte verdadeira.",
+            "vertical": false,
+            "p": 291.32000732421875,
+            "a": 402.8800048828125,
+            "b": 502.8399963378906
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Cota horizontal 700 desenhada dentro de uma das três salas, sob sua parede norte verdadeira.",
+            "vertical": false,
+            "p": 441.9200134277344,
+            "a": 402.8800048828125,
+            "b": 502.8399963378906
+          },
+          {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Cota horizontal 700 desenhada dentro de uma das três salas, sob sua parede norte verdadeira.",
+            "vertical": false,
+            "p": 591.2000122070312,
+            "a": 401.44000244140625,
+            "b": 502.1199951171875
+          },
+          {
+            "level": 0,
+            "block": "proposed_east_teaching",
+            "reason": "False pairing of facade dashed line y773.12 and PLACA annotation y776.72; yellow doorway in colored plan. Preserve masonry jambs.",
+            "vertical": false,
+            "p": 774.9199829101562,
+            "a": 2400.280029296875,
+            "b": 2407.360107421875
+          },
+          {
+            "level": 0,
+            "block": "main_middle_circulation",
+            "reason": "Topo do retângulo PLACA pareado com a cota 2570; uma anotação de incêndio virou uma falsa parede.",
+            "vertical": false,
+            "p": 837.97998046875,
+            "a": 1153.3599853515625,
+            "b": 1176.760009765625
+          },
+          {
+            "level": 0,
+            "block": "main_middle_circulation",
+            "reason": "Cota 2570 atravessa a circulação aberta; não é alvenaria.",
+            "vertical": false,
+            "p": 839.719970703125,
+            "a": 829.47998046875,
+            "b": 1210.1199951171875
+          },
+          {
+            "level": 0,
+            "block": "proposed_library",
+            "reason": "Vertical 1460 dimension inside library, with text gap and diagonal ticks in native PDF; colored plan shows a single reading room.",
+            "vertical": true,
+            "p": 1910.56005859375,
+            "a": 776.5999755859375,
+            "b": 874.1599731445312
+          },
+          {
+            "level": 0,
+            "block": "proposed_library",
+            "reason": "Vertical 1460 dimension inside library, with text gap and diagonal ticks in native PDF; colored plan shows a single reading room.",
+            "vertical": true,
+            "p": 1910.56005859375,
+            "a": 884.719970703125,
+            "b": 982.1599731445312
+          }
+        ],
+        "formerWallsClear": true,
+        "passed": true,
+        "physicalPaths": 6,
+        "previews": [
+          "School-colored-central-passage-layout.png",
+          "School-colored-library-aisle-layout.png"
+        ]
+      }
+    }
+  ],
+  "review20261005": {
+    "date": "2026-10-05",
+    "highBlock": "west_south",
+    "lowBlock": "west_north",
+    "exactPlanAssociationEstimated": true,
+    "highFloorMeters": 1.5,
+    "lowFloorMeters": 0.0,
+    "gradeEstimated": true,
+    "externalRampLanes": 3,
+    "externalStairTreads": 8,
+    "rampRunMeters": 5.9944,
+    "rampLaneWidthMeters": 1.4986,
+    "rampInclinePercent": 8.34,
+    "roofSinglePitch": true,
+    "roofNorthMeters": 4.2,
+    "roofSouthMeters": 4.85,
+    "nativeHighCollidersBefore": 284,
+    "nativeHighCollidersAfter": 284,
+    "raisedDoorIds": [
+      "school.door.0.0",
+      "school.door.0.57",
+      "school.door.0.58",
+      "school.door.0.59",
+      "school.door.0.60",
+      "school.door.0.61",
+      "school.door.0.62",
+      "school.door.0.63",
+      "school.door.0.64",
+      "school.door.0.65",
+      "school.door.0.70"
+    ],
+    "highPrincipalCorridorPdf": [
+      483.64,
+      860,
+      483.64,
+      1290
+    ],
+    "terminalNicheRequiresSeparateNativeDoorRoutes": true,
+    "retainedTerminalAccessPdfY": 1305.14,
+    "highFinish": {
+      "walls": "cream/white",
+      "floorGridMeters": 0.3,
+      "darkDoors": true,
+      "glazedTransoms": 11,
+      "woodCeilingPanels": 10,
+      "whiteCrossbeams": 11,
+      "ovalWallFixtures": 7
+    },
+    "lowFinish": {
+      "walls": "yellow tiles",
+      "tileSizeMeters": 0.15,
+      "highStripWindows": 9,
+      "woodSoffitPanels": 9,
+      "columnFinishes": 3,
+      "benches": 1,
+      "gardenGroups": 3
+    },
+    "nativePhysics": {
+      "passed": true,
+      "savedSceneClean": true,
+      "reopenedSavedSceneVerified": true,
+      "paths": 10,
+      "probes": 19,
+      "playerRadiusMeters": 0.32,
+      "playerHeightMeters": 1.8,
+      "temporaryDoorPosesRestored": true,
+      "proof": "School-west-block-access-proof.json"
+    },
+    "firstTwoFacades": {
+      "references": [
+        "Reference-1.png",
+        "Reference-2.png"
+      ],
+      "exactLocationConfirmed": false,
+      "applied": false
+    },
+    "visualReview": {
+      "passed": true,
+      "status": "reviewed: SourceRevision3 uses new Mesh assets per build; diagonal painting artifacts corrected; native captures inspected",
+      "captures": [
+        "School-opposite-block-high-layout.png",
+        "School-opposite-block-low-layout.png",
+        "School-opposite-block-access-layout.png",
+        "School-classroom-front-layout.png",
+        "School-classroom-ceiling-layout.png",
+        "School-ramp-walls-roof-layout.png"
+      ],
+      "reviewed": true,
+      "meshRevision": 3
+    },
+    "newFalseWallRemoval": {
+      "level": 0,
+      "block": "main_laboratories_north",
+      "vertical": false,
+      "p": 794.36,
+      "a": 553.12,
+      "b": 829.48,
+      "reason": "Single-line PASSARELA COBERTA baseline with parallel dashed line; native structural side wall at x829.48 preserved."
+    },
+    "reviewed": true,
+    "meshRevision": 3,
+    "nativeCollidersBeforePhotoPass": 4993,
+    "nativeCollidersAfterPhotoPass": 4993,
+    "meshAssetsUniquePerBuild": true,
+    "repeatedVerificationSuites": 11
+  },
+  "campusConnections20261005": {
+    "date": "2026-10-05",
+    "passed": true,
+    "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+    "nativeSavedSceneReopened": true,
+    "editorPhysicsOnly": true,
+    "gameplayExecuted": false,
+    "checkpointTouched": false,
+    "plannedRoutes": 399,
+    "physicalPaths": 438,
+    "allRoutesPassed": true,
+    "regularChecks": 902,
+    "captures": [
+      "School-opposite-block-access-layout.png",
+      "School-west-ramp-joints-layout.png",
+      "School-west-ramp-connection-layout.png",
+      "School-campus-branches-layout.png",
+      "School-court-photo-layout.png",
+      "School-court-interior-layout.png",
+      "School-receded-blocks-layout.png",
+      "School-workshop-connection-layout.png"
+    ],
+    "currentProofs": [
+      "School-campus-connections-proof.json",
+      "School-west-block-access-proof.json",
+      "School-whole-map-audit.json",
+      "School-validation-report.json",
+      "School-door-pairs-report.json",
+      "School-ramp-emergency-correction-proof.json",
+      "School-upper-classrooms-ramp-proof.json",
+      "School-central-ramp-door-swing-proof.json",
+      "School-central-circulation-proof.json",
+      "School-ramp-gap-proof.json",
+      "School-colored-plan-passages-proof.json",
+      "School-automotive-right-side-proof.json",
+      "School-refectory-circulation-proof.json",
+      "School-workshop-gate-proof.json"
+    ],
+    "noCourtInscription": true,
+    "courtCanopyEndsOutside": true,
+    "westernRailSegmentsChecked": 57,
+    "nativePlayerRadiusMeters": 0.32,
+    "nativePlayerHeightMeters": 1.8,
+    "dimensionsEstimated": true,
+    "finalVisualReview": "Native views inspected from ramp landing, corridor connection, court exterior/interior and block branches.",
+    "blockRecessionMeters": 2.257777690887451,
+    "westernAccessSourceRevision": 4,
+    "sources": [
+      "work/SchoolCEEP/Campus-connections-reference/Reference-1.png",
+      "work/SchoolCEEP/Campus-connections-reference/Reference-2.png",
+      "work/SchoolCEEP/Campus-connections-reference/Reference-3.png",
+      "work/SchoolCEEP/Campus-connections-reference/Reference-4.png",
+      "work/SchoolCEEP/Campus-connections-reference/Reference-5.png"
+    ]
+  },
+  "mapGeometryAndCanteen20261006": {
+    "date": "2026-10-06",
+    "passed": true,
+    "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+    "nativeSavedSceneReopened": true,
+    "editorPhysicsOnly": true,
+    "gameplayExecuted": false,
+    "checkpointTouched": false,
+    "currentIntent": "Keep the workshop gate corridor and the western corridor roof, remove the adjacent wall and high slab, keep the direct court route and widened upper approach, raise the canteen and audit the complete map geometry.",
+    "campusSourceRevision": 5,
+    "westernAccessSourceRevision": 6,
+    "gateCorridorRetained": true,
+    "lateralAutomotivaExtensionsRemoved": true,
+    "noCourtZigzag": true,
+    "directCourtApproach": {
+      "axisPdfX": 2570,
+      "startPdfY": 760,
+      "endPdfY": 1250,
+      "widthMeters": 3
+    },
+    "uncoveredCourtThreshold": {
+      "fromPdfX": 2570,
+      "toPdfX": 2604,
+      "pdfY": 1250
+    },
+    "westernCorridorWidthMeters": 3.6,
+    "westernCorridorCoveringRetained": true,
+    "westernExteriorLabWallRemovedPdfY": 810.68,
+    "adjacentHighSlabRemoved": true,
+    "shortStairAdvanceMeters": 0.6,
+    "photographedRampSinglePitchCanopyRetained": true,
+    "blockRecessionMeters": 2.257777690887451,
+    "canteenClearCeilingMeters": 4.199999809265137,
+    "canteenRoofTopMeters": 4.400000095367432,
+    "hallPartitionEaveMeters": 5.099999904632568,
+    "hallPartitionRidgeMeters": 6.400000095367432,
+    "hallEntranceUpperBand": {
+      "fromPdfX": 1409.9,
+      "toPdfX": 1464.16,
+      "wallPdfY": 960.52,
+      "lowerMeters": 3.35,
+      "upperMeters": 5.1,
+      "independentNativeRays": 20,
+      "independentRenderedTriangleRays": 20
+    },
+    "canteenNativeWallPiecesExtended": 14,
+    "canteenDoorIdentitiesPreserved": true,
+    "canteenHeightAndClosureChecks": 8,
+    "geometrySourceRevision": 1,
+    "wallSpansBefore": 1162,
+    "wallSpansAfter": 1121,
+    "redundantWallSpansRemoved": 41,
+    "collinearOverlapPairsBefore": 20,
+    "collinearOverlapPairsAfter": 1,
+    "remainingParallelOverlapCandidates": 368,
+    "perpendicularWallJunctionPairs": 533,
+    "redundantTrimCollidersOmitted": 979,
+    "roomRepairsSourceRevision": 4,
+    "newVerifiedInteriorPanels": 7,
+    "newVerifiedMasonrySpans": 8,
+    "repairedInteriorSourceEvidence": [
+      {
+        "level": 0,
+        "pdfRectangleIndex": 981,
+        "block": "main_laboratories_north",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P01-1-geometry.json",
+        "side": "east room bank",
+        "axisPdf": 862.2999877929688,
+        "startPdf": 471.20001220703125,
+        "endPdf": 551.9600219726562,
+        "masonryThicknessPdf": 3.240000009536743,
+        "physicalThicknessMeters": 0.22859999537467957,
+        "pdfStrokeWidth": 0.11999999731779099,
+        "spanMeters": 5.6980671882629395,
+        "estimatedSillMeters": 1.0499999523162842,
+        "estimatedHeadMeters": 2.5799999237060547,
+        "heightsEstimated": true
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 980,
+        "block": "main_laboratories_north",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P01-1-geometry.json",
+        "side": "east room bank",
+        "axisPdf": 862.2999877929688,
+        "startPdf": 600.3200073242188,
+        "endPdf": 681.0800170898438,
+        "masonryThicknessPdf": 3.240000009536743,
+        "physicalThicknessMeters": 0.22859999537467957,
+        "pdfStrokeWidth": 0.11999999731779099,
+        "spanMeters": 5.6980671882629395,
+        "estimatedSillMeters": 1.0499999523162842,
+        "estimatedHeadMeters": 2.5799999237060547,
+        "heightsEstimated": true
+      },
+      {
+        "level": 1,
+        "pdfRectangleIndex": 56,
+        "block": "main_laboratories_north",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "side": "east room bank",
+        "axisPdf": 862.2999877929688,
+        "startPdf": 471.20001220703125,
+        "endPdf": 551.9600219726562,
+        "masonryThicknessPdf": 3.240000009536743,
+        "physicalThicknessMeters": 0.22859999537467957,
+        "pdfStrokeWidth": 0.11999999731779099,
+        "spanMeters": 5.6980671882629395,
+        "estimatedSillMeters": 1.0499999523162842,
+        "estimatedHeadMeters": 2.5799999237060547,
+        "heightsEstimated": true
+      },
+      {
+        "level": 1,
+        "pdfRectangleIndex": 55,
+        "block": "main_laboratories_north",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "side": "east room bank",
+        "axisPdf": 862.2999877929688,
+        "startPdf": 600.3200073242188,
+        "endPdf": 681.0800170898438,
+        "masonryThicknessPdf": 3.240000009536743,
+        "physicalThicknessMeters": 0.22859999537467957,
+        "pdfStrokeWidth": 0.11999999731779099,
+        "spanMeters": 5.6980671882629395,
+        "estimatedSillMeters": 1.0499999523162842,
+        "estimatedHeadMeters": 2.5799999237060547,
+        "heightsEstimated": true
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 976,
+        "block": "main_laboratories_north",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P01-1-geometry.json",
+        "side": "west room bank",
+        "axisPdf": 829.5999755859375,
+        "startPdf": 682.8800048828125,
+        "endPdf": 721.760009765625,
+        "masonryThicknessPdf": 4.079999923706055,
+        "physicalThicknessMeters": 0.28786665201187134,
+        "pdfStrokeWidth": 0.11999999731779099,
+        "spanMeters": 2.7432003021240234,
+        "estimatedSillMeters": 1.0499999523162842,
+        "estimatedHeadMeters": 2.5799999237060547,
+        "heightsEstimated": true
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 977,
+        "block": "main_laboratories_north",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P01-1-geometry.json",
+        "side": "west room bank",
+        "axisPdf": 829.5999755859375,
+        "startPdf": 554.1199951171875,
+        "endPdf": 592.8800048828125,
+        "masonryThicknessPdf": 4.079999923706055,
+        "physicalThicknessMeters": 0.28786665201187134,
+        "pdfStrokeWidth": 0.11999999731779099,
+        "spanMeters": 2.734733819961548,
+        "estimatedSillMeters": 1.0499999523162842,
+        "estimatedHeadMeters": 2.5799999237060547,
+        "heightsEstimated": true
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 978,
+        "block": "main_laboratories_north",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P01-1-geometry.json",
+        "side": "west room bank",
+        "axisPdf": 829.5999755859375,
+        "startPdf": 468.44000244140625,
+        "endPdf": 507.32000732421875,
+        "masonryThicknessPdf": 4.079999923706055,
+        "physicalThicknessMeters": 0.28786665201187134,
+        "pdfStrokeWidth": 0.11999999731779099,
+        "spanMeters": 2.7432003021240234,
+        "estimatedSillMeters": 1.0499999523162842,
+        "estimatedHeadMeters": 2.5799999237060547,
+        "heightsEstimated": true
+      }
+    ],
+    "newVerifiedSolidRoomBoundaries": 1,
+    "repairedSolidBoundarySourceEvidence": [
+      {
+        "level": 1,
+        "pdfRectangleIndex": 859,
+        "pdfDoorCurveIndex": 5676,
+        "block": "main_laboratories_north",
+        "room": "Laboratorio 25",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "axisPdf": 831.6400146484375,
+        "startPdf": 340.5199890136719,
+        "endPdf": 409.6400146484375,
+        "masonryThicknessPdf": 1.440000057220459,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "physicalThicknessMeters": 0.10159999877214432,
+        "nativeMinimumThicknessMeters": 0.14000000059604645,
+        "openStartPdf": 409.6400146484375,
+        "openEndPdf": 421.3999938964844,
+        "noLeafAdded": true
+      }
+    ],
+    "falseFurnitureBoundariesRemoved": 8,
+    "falsePartitionNativeAbsenceSamples": 72,
+    "removedFalsePartitionSourceEvidence": [
+      {
+        "level": 1,
+        "rawLayoutWallSlot": 210,
+        "preparedSourceWallSlot": 210,
+        "sourceCurveIndex": 5684,
+        "sourceRectangleIndex": -1,
+        "sourceLineIndex": -1,
+        "block": "main_laboratories_north",
+        "room": "Laboratorio 25",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "axisPdf": 823.8400268554688,
+        "startPdf": 340.5199890136719,
+        "endPdf": 380.239990234375,
+        "oldMasonryThicknessPdf": 2.130000114440918,
+        "reason": "The native PDF outlines a laboratory workbench or sink; it is not a full-height room partition."
+      },
+      {
+        "level": 1,
+        "rawLayoutWallSlot": 208,
+        "preparedSourceWallSlot": 208,
+        "sourceCurveIndex": -1,
+        "sourceRectangleIndex": -1,
+        "sourceLineIndex": 4590,
+        "block": "main_laboratories_north",
+        "room": "Laboratorio 24",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "axisPdf": 820.239990234375,
+        "startPdf": 447.32000732421875,
+        "endPdf": 507.79998779296875,
+        "oldMasonryThicknessPdf": 2.130000114440918,
+        "reason": "The native PDF outlines a laboratory workbench or sink; it is not a full-height room partition."
+      },
+      {
+        "level": 1,
+        "rawLayoutWallSlot": 209,
+        "preparedSourceWallSlot": 208,
+        "sourceCurveIndex": -1,
+        "sourceRectangleIndex": -1,
+        "sourceLineIndex": 4577,
+        "block": "main_laboratories_north",
+        "room": "Laboratorio 23",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "axisPdf": 820.9600219726562,
+        "startPdf": 510.67999267578125,
+        "endPdf": 577.280029296875,
+        "oldMasonryThicknessPdf": 2.130000114440918,
+        "reason": "The native PDF outlines a laboratory workbench or sink; it is not a full-height room partition."
+      },
+      {
+        "level": 1,
+        "rawLayoutWallSlot": 204,
+        "preparedSourceWallSlot": 204,
+        "sourceCurveIndex": -1,
+        "sourceRectangleIndex": 885,
+        "sourceLineIndex": -1,
+        "block": "main_laboratories_north",
+        "room": "Laboratorio 24",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "axisPdf": 654.1599731445312,
+        "startPdf": 425.8399963378906,
+        "endPdf": 507.55999755859375,
+        "oldMasonryThicknessPdf": 2.130000114440918,
+        "reason": "The native PDF outlines a laboratory workbench or sink; it is not a full-height room partition."
+      },
+      {
+        "level": 1,
+        "rawLayoutWallSlot": 205,
+        "preparedSourceWallSlot": 204,
+        "sourceCurveIndex": -1,
+        "sourceRectangleIndex": 886,
+        "sourceLineIndex": -1,
+        "block": "main_laboratories_north",
+        "room": "Laboratorio 23",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "axisPdf": 654.1599731445312,
+        "startPdf": 510.9200134277344,
+        "endPdf": 592.52001953125,
+        "oldMasonryThicknessPdf": 2.130000114440918,
+        "reason": "The native PDF outlines a laboratory workbench or sink; it is not a full-height room partition."
+      },
+      {
+        "level": 1,
+        "rawLayoutWallSlot": 206,
+        "preparedSourceWallSlot": 204,
+        "sourceCurveIndex": -1,
+        "sourceRectangleIndex": 887,
+        "sourceLineIndex": -1,
+        "block": "main_laboratories_north",
+        "room": "Sala de Preparos Quimicos",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "axisPdf": 654.1599731445312,
+        "startPdf": 596.0,
+        "endPdf": 635.1199951171875,
+        "oldMasonryThicknessPdf": 2.130000114440918,
+        "reason": "The native PDF outlines a laboratory workbench or sink; it is not a full-height room partition."
+      },
+      {
+        "level": 1,
+        "rawLayoutWallSlot": 202,
+        "preparedSourceWallSlot": 202,
+        "sourceCurveIndex": -1,
+        "sourceRectangleIndex": 880,
+        "sourceLineIndex": -1,
+        "block": "main_laboratories_north",
+        "room": "Laboratorio 22",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "axisPdf": 653.6199951171875,
+        "startPdf": 638.239990234375,
+        "endPdf": 721.8800048828125,
+        "oldMasonryThicknessPdf": 2.130000114440918,
+        "reason": "The native PDF outlines a laboratory workbench or sink; it is not a full-height room partition."
+      },
+      {
+        "level": 1,
+        "rawLayoutWallSlot": 203,
+        "preparedSourceWallSlot": 202,
+        "sourceCurveIndex": -1,
+        "sourceRectangleIndex": 881,
+        "sourceLineIndex": -1,
+        "block": "main_laboratories_north",
+        "room": "Laboratorio 22 - sink inset",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P02.pdf",
+        "sourceGeometry": "work/SchoolCEEP/P02-1-geometry.json",
+        "axisPdf": 653.6199951171875,
+        "startPdf": 692.9600219726562,
+        "endPdf": 700.0399780273438,
+        "oldMasonryThicknessPdf": 1.7999999523162842,
+        "reason": "The native PDF outlines a laboratory workbench or sink; it is not a full-height room partition."
+      }
+    ],
+    "masonryOptimizationSourceRevision": 2,
+    "nativeRenderedWallPiecesBefore": 1738,
+    "nativeRenderedWallPiecesAfter": 1651,
+    "nativeWallRenderersRemoved": 87,
+    "nativeWallCollidersRemoved": 87,
+    "nativeMasonryMergedRuns": 74,
+    "containedNativeWallPiecesRemoved": 3,
+    "totalArchitectureCollidersBeforeNativeUnion": 4022,
+    "totalArchitectureCollidersAfterNativeUnion": 3935,
+    "exactNativePhysicalUnionPreserved": true,
+    "nativeMasonryInteractionIdsPreserved": true,
+    "nativeMasonryColliderChecks": 1651,
+    "nativeMasonryRenderedFaceSamples": 450,
+    "rendererOnlyTrimsContainedExactly": 979,
+    "rendererOnlyTrimsWithinRendererPrecision": 0,
+    "maxTrimRendererBoundsExcessMeters": 0.0,
+    "trimRendererBoundsToleranceMeters": 1.9999999494757503e-05,
+    "mainWalkwayPavingMaterial": "PhotoWalkwayPavingGrid",
+    "mainWalkwayDetachedJointStripsRemoved": 105,
+    "mainWalkwayPavingTexturePixels": [
+      512,
+      512
+    ],
+    "mainWalkwayPavingMipmaps": true,
+    "mainWalkwayPavingTextureWrap": "Repeat",
+    "mainWalkwayPavingTextureFilter": "Trilinear",
+    "mainWalkwayPavingTextureAnisotropy": 16,
+    "mainWalkwayPavingRepeatMeters": 0.8,
+    "mainWalkwayPavingUvMapping": "worldXZ",
+    "mainWalkwayFloorTopMeters": 0.044,
+    "mainWalkwayFloorRenderedBoundsMatchCollider": true,
+    "campusNativeChecks": 24,
+    "westernFloorGridWidthMeters": 0.008,
+    "westernFloorGridVerticalThicknessMeters": 0.0015,
+    "westernFloorGridCenterAboveFloorMeters": 0.004,
+    "historicalNativeJointsChecked": 90,
+    "historicalNativeJointsSealed": 85,
+    "historicalJointsPhotoReplaced": 2,
+    "historicalAnnotationJointsRemoved": 3,
+    "columnRepairSourceRevision": 1,
+    "verifiedCadColumnsAdded": 11,
+    "verifiedColumnMasonrySpansAdded": 11,
+    "verifiedColumnSourceEvidence": [
+      {
+        "level": 0,
+        "pdfRectangleIndex": 36,
+        "beforeWallSlot": 9,
+        "afterWallSlot": -1,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": true,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 1354.280029296875,
+        "endPdf": 1357.0400390625,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.19473402202129364,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 1354.280029296875,
+        "pdfBottom": 1357.0400390625,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 1354.280029296875,
+        "registeredBottom": 1357.0400390625,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 43,
+        "beforeWallSlot": 8,
+        "afterWallSlot": 9,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": false,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 1303.280029296875,
+        "endPdf": 1306.0400390625,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.19473402202129364,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 1303.280029296875,
+        "pdfBottom": 1306.0400390625,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 1303.280029296875,
+        "registeredBottom": 1306.0400390625,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 47,
+        "beforeWallSlot": 7,
+        "afterWallSlot": 8,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": false,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 1252.1600341796875,
+        "endPdf": 1255.0400390625,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.2032003402709961,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 1252.1600341796875,
+        "pdfBottom": 1255.0400390625,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 1252.1600341796875,
+        "registeredBottom": 1255.0400390625,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 51,
+        "beforeWallSlot": 6,
+        "afterWallSlot": 7,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": false,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 1201.1600341796875,
+        "endPdf": 1204.0400390625,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.2032003402709961,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 1201.1600341796875,
+        "pdfBottom": 1204.0400390625,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 1201.1600341796875,
+        "registeredBottom": 1204.0400390625,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 55,
+        "beforeWallSlot": 5,
+        "afterWallSlot": 6,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": false,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 1150.1600341796875,
+        "endPdf": 1153.0400390625,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.2032003402709961,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 1150.1600341796875,
+        "pdfBottom": 1153.0400390625,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 1150.1600341796875,
+        "registeredBottom": 1153.0400390625,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 59,
+        "beforeWallSlot": 4,
+        "afterWallSlot": 5,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": false,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 1099.1600341796875,
+        "endPdf": 1101.9200439453125,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.19473402202129364,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 1099.1600341796875,
+        "pdfBottom": 1101.9200439453125,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 1099.1600341796875,
+        "registeredBottom": 1101.9200439453125,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 63,
+        "beforeWallSlot": 3,
+        "afterWallSlot": 4,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": false,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 1048.1600341796875,
+        "endPdf": 1050.9200439453125,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.19473402202129364,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 1048.1600341796875,
+        "pdfBottom": 1050.9200439453125,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 1048.1600341796875,
+        "registeredBottom": 1050.9200439453125,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 67,
+        "beforeWallSlot": 2,
+        "afterWallSlot": 3,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": false,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 997.0399780273438,
+        "endPdf": 999.9199829101562,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.2032003402709961,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 997.0399780273438,
+        "pdfBottom": 999.9199829101562,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 997.0399780273438,
+        "registeredBottom": 999.9199829101562,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 71,
+        "beforeWallSlot": 1,
+        "afterWallSlot": 2,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": false,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 946.0399780273438,
+        "endPdf": 948.9199829101562,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.2032003402709961,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 946.0399780273438,
+        "pdfBottom": 948.9199829101562,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 946.0399780273438,
+        "registeredBottom": 948.9199829101562,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 78,
+        "beforeWallSlot": -1,
+        "afterWallSlot": 0,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": true,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 844.0399780273438,
+        "endPdf": 846.7999877929688,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.19473402202129364,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 844.0399780273438,
+        "pdfBottom": 846.7999877929688,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 844.0399780273438,
+        "registeredBottom": 846.7999877929688,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      },
+      {
+        "level": 0,
+        "pdfRectangleIndex": 80,
+        "beforeWallSlot": 0,
+        "afterWallSlot": 1,
+        "block": "west_south",
+        "sourcePdf": "C:/Users/ruhtra/Downloads/EXTINTORES CEEP-P01.pdf",
+        "sourceGeometry": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/P01-1-geometry.json",
+        "vertical": true,
+        "verifiedTerminal": false,
+        "axisPdf": 368.91998291015625,
+        "startPdf": 895.0399780273438,
+        "endPdf": 897.9199829101562,
+        "thicknessPdf": 2.879974365234375,
+        "physicalThicknessMeters": 0.20319817960262299,
+        "lengthMeters": 0.2032003402709961,
+        "pdfStrokeWidth": 0.7200000286102295,
+        "pdfX0": 367.4800109863281,
+        "pdfX1": 370.3599853515625,
+        "pdfTop": 895.0399780273438,
+        "pdfBottom": 897.9199829101562,
+        "registeredX0": 367.4800109863281,
+        "registeredX1": 370.3599853515625,
+        "registeredTop": 895.0399780273438,
+        "registeredBottom": 897.9199829101562,
+        "registrationX": 0.0,
+        "registrationY": 0.0
+      }
+    ],
+    "columnPhysicalSamples": 33,
+    "columnRenderedFaceSamples": 66,
+    "columnMissingPhysicalSamples": 0,
+    "columnMissingRenderedFaceSamples": 0,
+    "columnApertureConflicts": 0,
+    "physicalFurnitureChecked": 388,
+    "furnitureMasonryIntersections": 0,
+    "furnitureMasonryPenetrationToleranceMeters": 0.012,
+    "provisionalFurnitureRelocated": 19,
+    "provisionalFurnitureOmitted": 0,
+    "exactWallCoveragePreserved": true,
+    "apertureArraysPreserved": true,
+    "nativeMasonrySamples": 6952,
+    "nativeMasonryGaps": 0,
+    "roomsWithGeometryEvidence": 70,
+    "roomsWithoutClearSupport": 0,
+    "approximateRoomBoundaryCandidates": 1137,
+    "geometryReviewNotes": [
+      "Os candidatos restantes foram confrontados com a planta e a cena nativa: os 1137 limites de salas usam caixas aproximadas, frequentemente afastadas das paredes reais; os 368 pares paralelos incluem encontros arquitetônicos legítimos e não representam buracos confirmados. As 70 salas mantêm piso livre apoiado e as 399 rotas passam. O único par colinear residual no bloco pedagogy_south conserva duas espessuras CAD distintas (2,13 e 2,04 unidades PDF); não foi unido para não mudar o perfil sólido. A comparação independente da união ocupada registra diferença de volume zero e 6952 amostras sem lacunas. Os fechamentos realmente ausentes confirmados pela fonte foram reparados: sete painéis internos, uma divisória do Laboratório 25 e onze pilares. As 22 capturas finais foram revistas; aberturas de circulação e portas foram preservadas, sem identificar novo buraco ou bloqueio nas áreas inspecionadas."
+    ],
+    "plannedRoutes": 399,
+    "routesWithNativePath": 399,
+    "physicalPaths": 437,
+    "allRoutesPassed": true,
+    "regularChecks": 899,
+    "independentProofs": 21,
+    "campusPaths": 16,
+    "campusBranches": 4,
+    "classroomCount": 22,
+    "pairedDoors": 14,
+    "doorLeaves": 114,
+    "shortStairTreads": 8,
+    "westernRailSegmentsChecked": 51,
+    "courtRoofRibs": 7,
+    "courtWallPanels": 5,
+    "noCourtInscription": true,
+    "courtCanopyEndsOutside": true,
+    "nativePlayerRadiusMeters": 0.32,
+    "nativePlayerHeightMeters": 1.8,
+    "dimensionsEstimated": true,
+    "captures": [
+      "School-opposite-block-access-layout.png",
+      "School-west-ramp-joints-layout.png",
+      "School-west-ramp-connection-layout.png",
+      "School-campus-branches-layout.png",
+      "School-court-photo-layout.png",
+      "School-court-interior-layout.png",
+      "School-receded-blocks-layout.png",
+      "School-workshop-connection-layout.png",
+      "School-refectory-interior-layout.png",
+      "School-refectory-connector-layout.png",
+      "School-canteen-hall-wall-layout.png",
+      "School-opposite-block-high-layout.png",
+      "School-opposite-block-low-layout.png",
+      "School-upper-right-corridor-layout.png",
+      "School-classroom-front-layout.png",
+      "School-ramp-walls-roof-layout.png",
+      "School-automotive-right-layout.png",
+      "School-overview.png",
+      "School-repaired-lab-ground-layout.png",
+      "School-repaired-lab-upper-layout.png",
+      "School-repaired-lab-panels-upper-layout.png",
+      "School-lab-benches-west-layout.png"
+    ],
+    "currentProofs": [
+      "School-campus-connections-proof.json",
+      "School-west-block-access-proof.json",
+      "School-canteen-height-proof.json",
+      "School-geometry-proof.json",
+      "School-room-repairs-proof.json",
+      "School-masonry-optimization-proof.json",
+      "School-furniture-masonry-proof.json",
+      "School-masonry-joins-proof.json",
+      "School-column-repairs-proof.json",
+      "School-whole-map-audit.json",
+      "School-validation-report.json",
+      "School-door-pairs-report.json",
+      "School-ramp-emergency-correction-proof.json",
+      "School-upper-classrooms-ramp-proof.json",
+      "School-central-ramp-door-swing-proof.json",
+      "School-central-circulation-proof.json",
+      "School-ramp-gap-proof.json",
+      "School-colored-plan-passages-proof.json",
+      "School-automotive-right-side-proof.json",
+      "School-refectory-circulation-proof.json",
+      "School-workshop-gate-proof.json"
+    ],
+    "visualReviewCompleted": true,
+    "finalVisualReview": "All 22 fresh native captures were inspected before this record was written.",
+    "latestReferenceScreens": [
+      "work/SchoolCEEP/Straight-campus-reference/Reference-1.png",
+      "work/SchoolCEEP/Straight-campus-reference/Reference-2.png",
+      "work/SchoolCEEP/Straight-campus-reference/Reference-3.png",
+      "work/SchoolCEEP/Straight-campus-reference/Reference-4.png",
+      "work/SchoolCEEP/Straight-campus-reference/Latest-side-wall-and-slab.png"
+    ]
+  }
+}

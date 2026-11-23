@@ -1,0 +1,48 @@
+{
+  "status": "completed",
+  "duration": 0.31,
+  "summary": {
+    "total": 5,
+    "passed": 5,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFiveSharedTests.ChapterFiveCompletionStopsAtTheExistingCardWithoutDevelopingSix",
+      "Status": "Passed",
+      "Duration": 0.0931251,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFiveSharedTests.ChapterFiveShocksAreUniqueAndLoadingDoesNotRepeatThem",
+      "Status": "Passed",
+      "Duration": 0.0479437,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFiveSharedTests.MemoriesExposureUsesTheExistingLightAndPauseRules",
+      "Status": "Passed",
+      "Duration": 0.0452366,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFiveSharedTests.RetryKeepsChaptersThreeAndFourAndOnlyResetsCurrentDiscoveries",
+      "Status": "Passed",
+      "Duration": 0.048729,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFiveSharedTests.SavedChapterFiveBaselineStaysAtEntryInsteadOfTheLaterCheckpoint",
+      "Status": "Passed",
+      "Duration": 0.0459173,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

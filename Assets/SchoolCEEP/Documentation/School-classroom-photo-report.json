@@ -1,0 +1,1020 @@
+{
+    "sourceRevision": 4,
+    "dimensionsEstimated": true,
+    "structuralCollidersPreserved": true,
+    "doorIdsAndInteractionsPreserved": true,
+    "existingLightComponentsPreserved": true,
+    "classrooms": 22,
+    "seats": 250,
+    "furnitureColliders": 269,
+    "oldFurnitureObjectsRemoved": 827,
+    "wallFaces": 400,
+    "ceilingPanels": 66,
+    "beams": 163,
+    "fixtures": 97,
+    "curtains": 40,
+    "wallFans": 22,
+    "projectors": 22,
+    "teacherDesks": 19,
+    "materialAssets": 12,
+    "sharedMeshAssets": 5,
+    "structuralCollidersBefore": 4505,
+    "structuralCollidersAfter": 4505,
+    "lightsBefore": 141,
+    "lightsAfter": 141,
+    "rejectedStructuralFits": 109,
+    "playerRadiusMeters": 0.3199999928474426,
+    "playerHeightMeters": 1.7999999523162842,
+    "rooms": [
+        {
+            "id": "school.classroom.0",
+            "name": "Sala Aula20",
+            "block": "main_laboratories_north",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 14,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 25,
+            "curtains": 6,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 0,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                871.0599975585938,
+                467.6000061035156,
+                959.3200073242188,
+                593.47998046875
+            ],
+            "center": {
+                "x": -35.123260498046875,
+                "y": 3.8499999046325684,
+                "z": 77.43190002441406
+            },
+            "aisleStart": {
+                "x": -35.123260498046875,
+                "y": 3.8499999046325684,
+                "z": 73.5362777709961
+            },
+            "aisleEnd": {
+                "x": -35.123260498046875,
+                "y": 3.8499999046325684,
+                "z": 81.32752227783203
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.5"
+            ]
+        },
+        {
+            "id": "school.classroom.1",
+            "name": "Sala Aula19",
+            "block": "main_laboratories_north",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 14,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 27,
+            "curtains": 6,
+            "reservedDoorApproaches": 2,
+            "rejectedStructuralFits": 0,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                871.0599975585938,
+                596.719970703125,
+                959.3200073242188,
+                721.6400146484375
+            ],
+            "center": {
+                "x": -35.123260498046875,
+                "y": 3.8499999046325684,
+                "z": 68.35563659667969
+            },
+            "aisleStart": {
+                "x": -35.123260498046875,
+                "y": 3.8499999046325684,
+                "z": 64.4938735961914
+            },
+            "aisleEnd": {
+                "x": -35.123260498046875,
+                "y": 3.8499999046325684,
+                "z": 72.21739196777344
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.4",
+                "school.door.1.8"
+            ]
+        },
+        {
+            "id": "school.classroom.2",
+            "name": "Sala Aula18",
+            "block": "main_classrooms_north",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 6,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 17,
+            "curtains": 0,
+            "reservedDoorApproaches": 3,
+            "rejectedStructuralFits": 5,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1070.43994140625,
+                340.1600036621094,
+                1167.0758056640625,
+                464.8399963378906
+            ],
+            "center": {
+                "x": -20.76041603088379,
+                "y": 3.8499999046325684,
+                "z": 86.46583557128906
+            },
+            "aisleStart": {
+                "x": -20.76041603088379,
+                "y": 3.8499999046325684,
+                "z": 82.63899993896484
+            },
+            "aisleEnd": {
+                "x": -20.76041603088379,
+                "y": 3.8499999046325684,
+                "z": 90.31912231445313
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.0",
+                "school.door.1.1",
+                "school.door.1.33"
+            ]
+        },
+        {
+            "id": "school.classroom.3",
+            "name": "Sala Aula17",
+            "block": "main_classrooms_north",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 6,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 19,
+            "curtains": 0,
+            "reservedDoorApproaches": 2,
+            "rejectedStructuralFits": 5,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1070.43994140625,
+                467.6000061035156,
+                1167.0758056640625,
+                593.47998046875
+            ],
+            "center": {
+                "x": -20.76041603088379,
+                "y": 3.8499999046325684,
+                "z": 77.43190002441406
+            },
+            "aisleStart": {
+                "x": -20.76041603088379,
+                "y": 3.8499999046325684,
+                "z": 73.56273651123047
+            },
+            "aisleEnd": {
+                "x": -20.76041603088379,
+                "y": 3.8499999046325684,
+                "z": 81.31905364990234
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.1",
+                "school.door.1.2"
+            ]
+        },
+        {
+            "id": "school.classroom.4",
+            "name": "Sala Aula16",
+            "block": "main_classrooms_north",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 11,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 19,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 5,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1070.43994140625,
+                596.719970703125,
+                1167.0758056640625,
+                721.6400146484375
+            ],
+            "center": {
+                "x": -20.76041603088379,
+                "y": 3.8499999046325684,
+                "z": 68.35563659667969
+            },
+            "aisleStart": {
+                "x": -20.76041603088379,
+                "y": 3.8499999046325684,
+                "z": 64.46000671386719
+            },
+            "aisleEnd": {
+                "x": -20.76041603088379,
+                "y": 3.8499999046325684,
+                "z": 72.24279022216797
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.2"
+            ]
+        },
+        {
+            "id": "school.classroom.5",
+            "name": "Sala Aula15",
+            "block": "main_classrooms_north",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 13,
+            "beams": 6,
+            "fluorescentFixtures": 3,
+            "wallFaces": 25,
+            "curtains": 4,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 2,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1217.8626708984375,
+                340.1600036621094,
+                1393.56005859375,
+                422.3599853515625
+            ],
+            "center": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 87.96443176269531
+            },
+            "aisleStart": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 85.71239471435547
+            },
+            "aisleEnd": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 90.31912231445313
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.11"
+            ]
+        },
+        {
+            "id": "school.classroom.6",
+            "name": "Sala Aula14",
+            "block": "main_classrooms_north",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 9,
+            "beams": 6,
+            "fluorescentFixtures": 3,
+            "wallFaces": 27,
+            "curtains": 4,
+            "reservedDoorApproaches": 2,
+            "rejectedStructuralFits": 2,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1217.8626708984375,
+                425.6000061035156,
+                1393.56005859375,
+                508.1600036621094
+            ],
+            "center": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 81.9234619140625
+            },
+            "aisleStart": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 79.61640167236328
+            },
+            "aisleEnd": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 84.33599853515625
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.10",
+                "school.door.1.11"
+            ]
+        },
+        {
+            "id": "school.classroom.7",
+            "name": "Sala Aula13",
+            "block": "main_classrooms_north",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 9,
+            "beams": 6,
+            "fluorescentFixtures": 3,
+            "wallFaces": 29,
+            "curtains": 4,
+            "reservedDoorApproaches": 2,
+            "rejectedStructuralFits": 2,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1217.8626708984375,
+                511.3999938964844,
+                1393.56005859375,
+                594.0
+            ],
+            "center": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 75.86839294433594
+            },
+            "aisleStart": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 73.57119750976563
+            },
+            "aisleEnd": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 78.17791748046875
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.9",
+                "school.door.1.10"
+            ]
+        },
+        {
+            "id": "school.classroom.8",
+            "name": "Sala Aula12",
+            "block": "main_classrooms_north",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 24,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 33,
+            "curtains": 6,
+            "reservedDoorApproaches": 2,
+            "rejectedStructuralFits": 5,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1217.8626708984375,
+                597.239990234375,
+                1393.56005859375,
+                721.760009765625
+            ],
+            "center": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 68.33305358886719
+            },
+            "aisleStart": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 64.44026184082031
+            },
+            "aisleEnd": {
+                "x": -7.5698089599609375,
+                "y": 3.8499999046325684,
+                "z": 72.13272094726563
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.9",
+                "school.door.1.25"
+            ]
+        },
+        {
+            "id": "school.classroom.9",
+            "name": "Sala Aula27A",
+            "block": "main_auditorium_south",
+            "boardWall": "south",
+            "floor": 1,
+            "seats": 4,
+            "beams": 6,
+            "fluorescentFixtures": 3,
+            "wallFaces": 13,
+            "curtains": 4,
+            "reservedDoorApproaches": 2,
+            "rejectedStructuralFits": 0,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1105.0,
+                851.1199951171875,
+                1210.1199951171875,
+                933.2999877929688
+            ],
+            "center": {
+                "x": -18.0227108001709,
+                "y": 3.8499999046325684,
+                "z": 51.91407012939453
+            },
+            "aisleStart": {
+                "x": -18.0227108001709,
+                "y": 3.8499999046325684,
+                "z": 54.2680549621582
+            },
+            "aisleEnd": {
+                "x": -18.0227108001709,
+                "y": 3.8499999046325684,
+                "z": 49.58089828491211
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.23",
+                "school.door.1.24"
+            ]
+        },
+        {
+            "id": "school.classroom.10",
+            "name": "Sala Aula27B",
+            "block": "main_auditorium_south",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 22,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 31,
+            "curtains": 6,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 5,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1076.1600341796875,
+                936.2000122070313,
+                1210.1199951171875,
+                1062.280029296875
+            ],
+            "center": {
+                "x": -19.04012107849121,
+                "y": 3.8499999046325684,
+                "z": 44.36250686645508
+            },
+            "aisleStart": {
+                "x": -19.04012107849121,
+                "y": 3.8499999046325684,
+                "z": 40.592472076416016
+            },
+            "aisleEnd": {
+                "x": -19.04012107849121,
+                "y": 3.8499999046325684,
+                "z": 48.31032943725586
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.24"
+            ]
+        },
+        {
+            "id": "school.classroom.11",
+            "name": "Sala Aula74",
+            "block": "proposed_east_teaching",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 8,
+            "beams": 7,
+            "fluorescentFixtures": 4,
+            "wallFaces": 11,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 0,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                2290.840087890625,
+                824.0800170898438,
+                2393.0,
+                922.0
+            ],
+            "center": {
+                "x": 65.54046630859375,
+                "y": 3.8499999046325684,
+                "z": 53.26662063598633
+            },
+            "aisleStart": {
+                "x": 65.54046630859375,
+                "y": 3.8499999046325684,
+                "z": 50.31222152709961
+            },
+            "aisleEnd": {
+                "x": 65.54046630859375,
+                "y": 3.8499999046325684,
+                "z": 55.8767204284668
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.26"
+            ]
+        },
+        {
+            "id": "school.classroom.12",
+            "name": "Sala Aula75",
+            "block": "proposed_east_teaching",
+            "boardWall": "west",
+            "floor": 1,
+            "seats": 14,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 13,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 9,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                2290.840087890625,
+                924.0,
+                2393.0,
+                1046.6800537109375
+            ],
+            "center": {
+                "x": 65.54046630859375,
+                "y": 3.8499999046325684,
+                "z": 45.343231201171875
+            },
+            "aisleStart": {
+                "x": 68.48640441894531,
+                "y": 3.8499999046325684,
+                "z": 45.343231201171875
+            },
+            "aisleEnd": {
+                "x": 62.47315979003906,
+                "y": 3.8499999046325684,
+                "z": 45.343231201171875
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.27"
+            ]
+        },
+        {
+            "id": "school.classroom.13",
+            "name": "Sala Aula76",
+            "block": "proposed_east_teaching",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 8,
+            "beams": 7,
+            "fluorescentFixtures": 4,
+            "wallFaces": 19,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 0,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                2418.0,
+                824.0800170898438,
+                2520.39990234375,
+                922.0
+            ],
+            "center": {
+                "x": 74.52076721191406,
+                "y": 3.8499999046325684,
+                "z": 53.26662063598633
+            },
+            "aisleStart": {
+                "x": 74.52076721191406,
+                "y": 3.8499999046325684,
+                "z": 50.31222152709961
+            },
+            "aisleEnd": {
+                "x": 74.52076721191406,
+                "y": 3.8499999046325684,
+                "z": 56.12225341796875
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.28"
+            ]
+        },
+        {
+            "id": "school.classroom.14",
+            "name": "Sala Aula77",
+            "block": "proposed_east_teaching",
+            "boardWall": "north",
+            "floor": 1,
+            "seats": 10,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 21,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 6,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                2418.0,
+                924.0,
+                2520.39990234375,
+                1046.6800537109375
+            ],
+            "center": {
+                "x": 74.52076721191406,
+                "y": 3.8499999046325684,
+                "z": 45.343231201171875
+            },
+            "aisleStart": {
+                "x": 74.52076721191406,
+                "y": 3.8499999046325684,
+                "z": 42.989593505859375
+            },
+            "aisleEnd": {
+                "x": 74.52076721191406,
+                "y": 3.8499999046325684,
+                "z": 48.8663215637207
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 7.019999980926514,
+            "beamUndersideMeters": 6.599999904632568,
+            "doorIds": [
+                "school.door.1.29"
+            ]
+        },
+        {
+            "id": "school.classroom.15",
+            "name": "Sala 06",
+            "block": "main_classrooms_north",
+            "boardWall": "north",
+            "floor": 0,
+            "seats": 11,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 15,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 5,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1070.43994140625,
+                340.1600036621094,
+                1168.0289306640625,
+                464.8399963378906
+            ],
+            "center": {
+                "x": -20.726791381835938,
+                "y": 0.03999999910593033,
+                "z": 86.46583557128906
+            },
+            "aisleStart": {
+                "x": -20.726791381835938,
+                "y": 0.03999999910593033,
+                "z": 82.63899993896484
+            },
+            "aisleEnd": {
+                "x": -20.726791381835938,
+                "y": 0.03999999910593033,
+                "z": 90.31912231445313
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 3.4100000858306885,
+            "beamUndersideMeters": 2.9100000858306885,
+            "doorIds": [
+                "school.door.0.2"
+            ]
+        },
+        {
+            "id": "school.classroom.16",
+            "name": "Sala 05",
+            "block": "main_classrooms_north",
+            "boardWall": "north",
+            "floor": 0,
+            "seats": 11,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 19,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 5,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1070.43994140625,
+                467.6000061035156,
+                1168.0289306640625,
+                593.47998046875
+            ],
+            "center": {
+                "x": -20.726791381835938,
+                "y": 0.03999999910593033,
+                "z": 77.43190002441406
+            },
+            "aisleStart": {
+                "x": -20.726791381835938,
+                "y": 0.03999999910593033,
+                "z": 73.56273651123047
+            },
+            "aisleEnd": {
+                "x": -20.726791381835938,
+                "y": 0.03999999910593033,
+                "z": 81.31905364990234
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 3.4100000858306885,
+            "beamUndersideMeters": 2.9100000858306885,
+            "doorIds": [
+                "school.door.0.3"
+            ]
+        },
+        {
+            "id": "school.classroom.17",
+            "name": "Sala 04",
+            "block": "main_classrooms_north",
+            "boardWall": "north",
+            "floor": 0,
+            "seats": 11,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 19,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 5,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1070.43994140625,
+                596.719970703125,
+                1168.0289306640625,
+                721.6400146484375
+            ],
+            "center": {
+                "x": -20.726791381835938,
+                "y": 0.03999999910593033,
+                "z": 68.35563659667969
+            },
+            "aisleStart": {
+                "x": -20.726791381835938,
+                "y": 0.03999999910593033,
+                "z": 64.46000671386719
+            },
+            "aisleEnd": {
+                "x": -20.726791381835938,
+                "y": 0.03999999910593033,
+                "z": 72.24279022216797
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 3.4100000858306885,
+            "beamUndersideMeters": 2.9100000858306885,
+            "doorIds": [
+                "school.door.0.5"
+            ]
+        },
+        {
+            "id": "school.classroom.18",
+            "name": "Sala Uso Múltiplo 40",
+            "block": "west_north",
+            "boardWall": "west",
+            "floor": 0,
+            "seats": 17,
+            "beams": 8,
+            "fluorescentFixtures": 5,
+            "wallFaces": 6,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 7,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                402.8800048828125,
+                571.3333129882813,
+                508.6000061035156,
+                721.0
+            ],
+            "center": {
+                "x": -67.54000854492188,
+                "y": 0.03999999910593033,
+                "z": 69.27379608154297
+            },
+            "aisleStart": {
+                "x": -64.81278228759766,
+                "y": 0.03999999910593033,
+                "z": 69.27379608154297
+            },
+            "aisleEnd": {
+                "x": -70.76957702636719,
+                "y": 0.03999999910593033,
+                "z": 69.27379608154297
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 3.260000228881836,
+            "beamUndersideMeters": 2.760000228881836,
+            "doorIds": [
+                "school.door.0.53"
+            ]
+        },
+        {
+            "id": "school.classroom.19",
+            "name": "Sala 52",
+            "block": "east_north_classrooms",
+            "boardWall": "south",
+            "floor": 0,
+            "seats": 6,
+            "beams": 7,
+            "fluorescentFixtures": 4,
+            "wallFaces": 4,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 15,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1521.0,
+                306.0,
+                1655.0,
+                416.3333435058594
+            ],
+            "center": {
+                "x": 12.347221374511719,
+                "y": 0.03999999910593033,
+                "z": 89.38212585449219
+            },
+            "aisleStart": {
+                "x": 12.347221374511719,
+                "y": 0.03999999910593033,
+                "z": 91.20812225341797
+            },
+            "aisleEnd": {
+                "x": 12.347221374511719,
+                "y": 0.03999999910593033,
+                "z": 85.98980712890625
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 3.260000228881836,
+            "beamUndersideMeters": 2.760000228881836,
+            "doorIds": [
+                "school.door.0.54"
+            ]
+        },
+        {
+            "id": "school.classroom.20",
+            "name": "Sala 51",
+            "block": "east_north_classrooms",
+            "boardWall": "north",
+            "floor": 0,
+            "seats": 9,
+            "beams": 7,
+            "fluorescentFixtures": 4,
+            "wallFaces": 6,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 13,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1521.0,
+                416.3333435058594,
+                1655.0,
+                526.6666870117188
+            ],
+            "center": {
+                "x": 12.347221374511719,
+                "y": 0.03999999910593033,
+                "z": 81.59748840332031
+            },
+            "aisleStart": {
+                "x": 12.347221374511719,
+                "y": 0.03999999910593033,
+                "z": 78.77396392822266
+            },
+            "aisleEnd": {
+                "x": 12.347221374511719,
+                "y": 0.03999999910593033,
+                "z": 84.0114517211914
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 3.260000228881836,
+            "beamUndersideMeters": 2.760000228881836,
+            "doorIds": [
+                "school.door.0.55"
+            ]
+        },
+        {
+            "id": "school.classroom.21",
+            "name": "Sala 50",
+            "block": "east_north_classrooms",
+            "boardWall": "north",
+            "floor": 0,
+            "seats": 13,
+            "beams": 7,
+            "fluorescentFixtures": 4,
+            "wallFaces": 2,
+            "curtains": 0,
+            "reservedDoorApproaches": 1,
+            "rejectedStructuralFits": 13,
+            "centerStandingClear": true,
+            "boardVisibleFromRoomCenter": true,
+            "adaptedPdfBox": [
+                1521.0,
+                526.6666870117188,
+                1655.0,
+                637.0
+            ],
+            "center": {
+                "x": 12.347221374511719,
+                "y": 0.03999999910593033,
+                "z": 73.8128662109375
+            },
+            "aisleStart": {
+                "x": 12.347221374511719,
+                "y": 0.03999999910593033,
+                "z": 71.56353759765625
+            },
+            "aisleEnd": {
+                "x": 12.347221374511719,
+                "y": 0.03999999910593033,
+                "z": 76.6369857788086
+            },
+            "mainAisleWidthMeters": 1.2400000095367432,
+            "crossAisleWidthMeters": 1.100000023841858,
+            "ceilingUndersideMeters": 3.260000228881836,
+            "beamUndersideMeters": 2.760000228881836,
+            "doorIds": [
+                "school.door.0.56"
+            ]
+        }
+    ],
+    "photoSources": [
+        "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-ab19a86f-c0b8-447b-891e-c221e7bb1313.png",
+        "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-23deb837-5e82-4213-886b-4a387d73d650.png",
+        "C:/Users/ruhtra/AppData/Local/Temp/codex-clipboard-b8bbe2a5-51a2-4335-b5cb-147ce71d9f80.png"
+    ],
+    "notes": [
+        "Only rooms registered as kind=class receive the common photographic classroom standard on both occupied floors. Laboratories, support, administration, library, workshop and refectory furniture remain distinct.",
+        "Blue plastic chairs with rounded pale tablet tops and tubular steel bases, a green chalkboard with a wooden tray, white/gray walls, blue curtains and worn tan/charcoal vinyl follow the user's photos. Sizes and seat counts are estimates adapted to each registered room.",
+        "White ceiling panels, deep exposed beams, raised narrow ceiling bands, louvered fluorescent housings, a wall fan and a projector preserve the existing building slab/roof elevations. No third floor or taller occupied room is invented.",
+        "Existing classroom Light components are retained. Their generic luminous fixture meshes are replaced; no gameplay, sound or extra point light is added.",
+        "The main and transverse aisles remain empty. Each native doorway reserves its actual swept leaf envelope and a direct walking strip to the room center. Furniture is omitted where those reservations overlap.",
+        "All wall, window, floor and roof colliders are retained. Thin finish, curtain, fan, ceiling and board surfaces have no colliders; each occupied chair/tablet assembly has one conservative collider, plus a teacher desk where clearance allows.",
+        "Photograph people, personal items, brands, labels and notices are not reproduced. Native materials/textures/meshes are created through Unity Editor APIs and are batched by the existing school builder."
+    ]
+}

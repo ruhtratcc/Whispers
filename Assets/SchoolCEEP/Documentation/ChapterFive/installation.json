@@ -1,0 +1,39 @@
+{
+  "architectureBefore": "82E251C5DEE771F623A072CF2D80D100BD795AB4E3524AEDE0C935BBE747EACB",
+  "architectureAfter": "82E251C5DEE771F623A072CF2D80D100BD795AB4E3524AEDE0C935BBE747EACB",
+  "group": "Escola — capítulo 5 e memórias",
+  "clues": [
+    {
+      "title": "Gravador antigo — fita 1",
+      "position": [
+        -72.0445251,
+        1.411,
+        43.40805
+      ]
+    },
+    {
+      "title": "Gravador antigo — fita 2",
+      "position": [
+        -58.23162,
+        1.411,
+        25.4729
+      ]
+    },
+    {
+      "title": "Fotografia da turma — a noite esquecida",
+      "position": [
+        -72.0445251,
+        1.411,
+        41.40805
+      ]
+    }
+  ],
+  "ghost": [
+    -28.9532,
+    0.035,
+    56.9087
+  ],
+  "newColliders": 7,
+  "entitiesHaveColliders": 0,
+  "verifiedBy": "final-scene.json"
+}

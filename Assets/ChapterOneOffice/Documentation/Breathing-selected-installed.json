@@ -1,0 +1,22 @@
+{
+  "installed": true,
+  "utc": "2026-10-01T23:07:39.0778185Z",
+  "source": "Male Heavy Breathing #2 / Sound Effects Factory",
+  "length": 90.92519,
+  "frequency": 44100,
+  "channels": 1,
+  "samples": 4009801,
+  "rms": 0.052998382242491864,
+  "peak": 0.484466553,
+  "clippedSamples": 0,
+  "loopBoundaryJump": 0.0,
+  "guid": "0186c8f61bd4c8746a59545fa34e75ef",
+  "breathingReference": true,
+  "loopConfigured": true,
+  "pitch": 1.0,
+  "spatialBlend": 0.0,
+  "compression": "PCM",
+  "scene": "Chapter1Office",
+  "sceneDirty": false,
+  "playing": false
+}

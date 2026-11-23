@@ -1,0 +1,67 @@
+{
+  "id": "worn_mossy_plasterwall",
+  "diffuse": "worn_mossy_plasterwall_diff_1k.jpg",
+  "normal": "worn_mossy_plasterwall_nor_gl_1k.jpg",
+  "metallicSmoothness": "MetallicSmoothness.png",
+  "occlusion": "Occlusion.png",
+  "normalConvention": "OpenGL tangent-space +Y",
+  "decal": false,
+  "physicalDimensionsMeters": {
+    "x": 1.8,
+    "y": 1.8
+  },
+  "sourcePhysicalDimensionsMillimeters": [
+    1800.0000715255737,
+    1800.0000715255737
+  ],
+  "sizePixels": {
+    "x": 1024,
+    "y": 1024
+  },
+  "channelPacking": {
+    "MetallicSmoothness.R": "ARM.B metallic",
+    "MetallicSmoothness.A": "1 - ARM.G roughness",
+    "Occlusion.G": "ARM.R ambient occlusion"
+  },
+  "linearImport": [
+    "MetallicSmoothness.png",
+    "Occlusion.png"
+  ],
+  "normalMapImport": [
+    "worn_mossy_plasterwall_nor_gl_1k.jpg"
+  ],
+  "sRGBImport": [
+    "worn_mossy_plasterwall_diff_1k.jpg"
+  ],
+  "channelProof": "All 1,048,576 pixels match the expected exact byte conversion",
+  "sourceUrl": "https://polyhaven.com/a/worn_mossy_plasterwall",
+  "author": "Amal Kumar",
+  "license": "CC0 1.0",
+  "files": [
+    {
+      "name": "MetallicSmoothness.png",
+      "bytes": 1270128,
+      "sha256": "a0eab9494e24838fea78bff1af5b89c49f5734aa483c1c7c1d673bdc17e4a150"
+    },
+    {
+      "name": "Occlusion.png",
+      "bytes": 713142,
+      "sha256": "851f162aa68dfc42e820cb7bfaf8f59d7f20899b05b2f5248122484f9338ef36"
+    },
+    {
+      "name": "worn_mossy_plasterwall_arm_1k.jpg",
+      "bytes": 719996,
+      "sha256": "9c4f1395513d57663222bbbdbbda78e28f924a924bc8f813312e539f9816f4c7"
+    },
+    {
+      "name": "worn_mossy_plasterwall_diff_1k.jpg",
+      "bytes": 964249,
+      "sha256": "415cbcbe8f70269569aa4f2f1efc13ca1bd5f2fabc791dff428ef0fa243e1e9e"
+    },
+    {
+      "name": "worn_mossy_plasterwall_nor_gl_1k.jpg",
+      "bytes": 870753,
+      "sha256": "0fdf1e22066c4f6fc2c820ae9b11aa5f9ea6ea131ccf3abb65f37251ab9f6a5d"
+    }
+  ]
+}

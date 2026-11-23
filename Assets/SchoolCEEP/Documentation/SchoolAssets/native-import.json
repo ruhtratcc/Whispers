@@ -1,0 +1,48 @@
+{
+    "models": [
+        {
+            "id": "SchoolChair_01",
+            "prefab": "Assets/models/mobiliario/SchoolChair_01/SchoolChair_01.prefab",
+            "triangles": 5072,
+            "distantTriangles": 3495,
+            "size": {
+                "x": 0.5658532977104187,
+                "y": 1.006035566329956,
+                "z": 0.6752548813819885
+            }
+        },
+        {
+            "id": "SchoolDesk_01",
+            "prefab": "Assets/models/mobiliario/SchoolDesk_01/SchoolDesk_01.prefab",
+            "triangles": 4162,
+            "distantTriangles": 1714,
+            "size": {
+                "x": 0.7117760181427002,
+                "y": 0.8826298713684082,
+                "z": 0.5459675788879395
+            }
+        },
+        {
+            "id": "steel_frame_shelves_01",
+            "prefab": "Assets/models/mobiliario/steel_frame_shelves_01/steel_frame_shelves_01.prefab",
+            "triangles": 4348,
+            "distantTriangles": 2465,
+            "size": {
+                "x": 1.097414493560791,
+                "y": 2.140500545501709,
+                "z": 0.5021175146102905
+            }
+        },
+        {
+            "id": "cardboard_box_01",
+            "prefab": "Assets/models/decoracao/cardboard_box_01/cardboard_box_01.prefab",
+            "triangles": 16952,
+            "distantTriangles": 7785,
+            "size": {
+                "x": 0.38702359795570374,
+                "y": 0.3417995572090149,
+                "z": 0.5158704519271851
+            }
+        }
+    ]
+}

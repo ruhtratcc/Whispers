@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c418cdf4b0b7bbd47a145a882f0d2b32, type: 3}
+  m_Name: Objectives-bd.two-voices
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.ChapterObjectives
+  chapterId: bd.two-voices
+  entries:
+  - id: bd.loop.escaped
+    title: Confira o celular e siga os sons baixos nas portas laterais.
+    requiredFlag: 
+    completionFlag: bd.loop.escaped
+    nextObjectiveId: 
+    requiredNextSignals:
+    - bd.loop.escaped
+    subitems: []
+    completeWhenAllSubitems: 0
+    hasTarget: 0
+    targetPosition: {x: 0, y: 0, z: 0}
+  - id: bd.loop.tape
+    title: Ouvir a fita 3 da verdadeira Helena na sala lateral.
+    requiredFlag: 
+    completionFlag: bd.loop.tape
+    nextObjectiveId: 
+    requiredNextSignals:
+    - bd.loop.tape
+    subitems: []
+    completeWhenAllSubitems: 0
+    hasTarget: 0
+    targetPosition: {x: 0, y: 0, z: 0}
+  - id: bd.loop.mirror
+    title: "Saia da sala da fita e siga at\xE9 a \xFAltima porta \xE0 direita, no fim do corredor."
+    requiredFlag: 
+    completionFlag: bd.loop.mirror
+    nextObjectiveId: 
+    requiredNextSignals:
+    - bd.loop.mirror
+    subitems: []
+    completeWhenAllSubitems: 0
+    hasTarget: 0
+    targetPosition: {x: 0, y: 0, z: 0}

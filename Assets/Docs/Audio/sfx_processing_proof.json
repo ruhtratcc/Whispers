@@ -1,0 +1,3434 @@
+{
+  "date": "2026-11-05T03:31:41.260617+00:00",
+  "clips": [
+    {
+      "name": "amb_office_night",
+      "file": "Assets/Audio/Ambience/amb_office_night.ogg",
+      "seconds": 30.0,
+      "rms": 0.029440645569379847,
+      "peak": 0.15323585271835327,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -16.292792211553607,
+      "seam": {
+        "amplitude_jump": 0.0031458004377782345,
+        "phase_correlation": -0.5235920322198436,
+        "rms_ratio": 1.3211320510644164,
+        "suspect": false
+      },
+      "measured_lufs": -30.04,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_car_interior",
+      "file": "Assets/Audio/Ambience/amb_car_interior.ogg",
+      "seconds": 30.0,
+      "rms": 0.02868932418575261,
+      "peak": 0.17038147151470184,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -15.371552705053173,
+      "seam": {
+        "amplitude_jump": 0.0023811068385839462,
+        "phase_correlation": -0.22082755020598385,
+        "rms_ratio": 1.3720154183384934,
+        "suspect": false
+      },
+      "measured_lufs": -30.03,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_exterior_night",
+      "file": "Assets/Audio/Ambience/amb_exterior_night.ogg",
+      "seconds": 30.0,
+      "rms": 0.02393049365405627,
+      "peak": 0.13688863813877106,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -17.272651942858467,
+      "seam": {
+        "amplitude_jump": 0.0034187668934464455,
+        "phase_correlation": 0.006791930589539314,
+        "rms_ratio": 1.026718795655737,
+        "suspect": false
+      },
+      "measured_lufs": -30.11,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_school_ground",
+      "file": "Assets/Audio/Ambience/amb_school_ground.ogg",
+      "seconds": 30.0,
+      "rms": 0.0290939876052195,
+      "peak": 0.13247834146022797,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -17.557102352002108,
+      "seam": {
+        "amplitude_jump": 0.0020660720765590668,
+        "phase_correlation": 0.2987456338314116,
+        "rms_ratio": 1.1489224941947547,
+        "suspect": false
+      },
+      "measured_lufs": -30.05,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_school_library",
+      "file": "Assets/Audio/Ambience/amb_school_library.ogg",
+      "seconds": 30.0,
+      "rms": 0.030671161917062425,
+      "peak": 0.14004892110824585,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -17.07440464984506,
+      "seam": {
+        "amplitude_jump": 0.002687562257051468,
+        "phase_correlation": 0.2865610220289527,
+        "rms_ratio": 1.1647798049451277,
+        "suspect": false
+      },
+      "measured_lufs": -30.05,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_school_cafeteria",
+      "file": "Assets/Audio/Ambience/amb_school_cafeteria.ogg",
+      "seconds": 30.0,
+      "rms": 0.02424704652655999,
+      "peak": 0.13315992057323456,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -17.512529451235046,
+      "seam": {
+        "amplitude_jump": 0.0015118047595024109,
+        "phase_correlation": 0.03167037135214197,
+        "rms_ratio": 1.0385486417951906,
+        "suspect": false
+      },
+      "measured_lufs": -30.07,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_school_classroom",
+      "file": "Assets/Audio/Ambience/amb_school_classroom.ogg",
+      "seconds": 30.0,
+      "rms": 0.028350259976901295,
+      "peak": 0.20331130921840668,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -13.836769260043573,
+      "seam": {
+        "amplitude_jump": 0.001929953694343567,
+        "phase_correlation": -0.3077387967454898,
+        "rms_ratio": 1.364767226269218,
+        "suspect": false
+      },
+      "measured_lufs": -30.06,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_school_upper",
+      "file": "Assets/Audio/Ambience/amb_school_upper.ogg",
+      "seconds": 30.0,
+      "rms": 0.0249866426660286,
+      "peak": 0.16031311452388763,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -15.90061896871423,
+      "seam": {
+        "amplitude_jump": 0.004047637805342674,
+        "phase_correlation": 0.008981091631515,
+        "rms_ratio": 1.0271337741374036,
+        "suspect": false
+      },
+      "measured_lufs": -30.06,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_school_corridor",
+      "file": "Assets/Audio/Ambience/amb_school_corridor.ogg",
+      "seconds": 30.0,
+      "rms": 0.02742837709944804,
+      "peak": 0.1341024935245514,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -17.451262934558617,
+      "seam": {
+        "amplitude_jump": 0.00535525381565094,
+        "phase_correlation": -0.1045413065319798,
+        "rms_ratio": 1.0701896348687643,
+        "suspect": false
+      },
+      "measured_lufs": -30.04,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_school_bathroom",
+      "file": "Assets/Audio/Ambience/amb_school_bathroom.ogg",
+      "seconds": 30.0,
+      "rms": 0.021435730021816996,
+      "peak": 0.7153266668319702,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9099116897418527,
+      "seam": {
+        "amplitude_jump": 0.00032273540273308754,
+        "phase_correlation": 0.15021640584257667,
+        "rms_ratio": 1.3195520982188718,
+        "suspect": false
+      },
+      "measured_lufs": -30.35,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_secretary_room",
+      "file": "Assets/Audio/Ambience/amb_secretary_room.ogg",
+      "seconds": 30.0,
+      "rms": 0.02479951408864283,
+      "peak": 0.12605494260787964,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -17.98880241978327,
+      "seam": {
+        "amplitude_jump": 0.006230204366147518,
+        "phase_correlation": -0.11296629072097487,
+        "rms_ratio": 1.0420229468319064,
+        "suspect": false
+      },
+      "measured_lufs": -30.06,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_drone_tension_01",
+      "file": "Assets/Audio/Ambience/amb_drone_tension_01.ogg",
+      "seconds": 30.0,
+      "rms": 0.022437617310510173,
+      "peak": 0.11366254091262817,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -18.887652791622184,
+      "seam": {
+        "amplitude_jump": 0.00032217358238995075,
+        "phase_correlation": -0.2402645717287851,
+        "rms_ratio": 1.3101665245983263,
+        "suspect": false
+      },
+      "measured_lufs": -32.15,
+      "target_lufs": -32
+    },
+    {
+      "name": "amb_drone_tension_02",
+      "file": "Assets/Audio/Ambience/amb_drone_tension_02.ogg",
+      "seconds": 30.0,
+      "rms": 0.01861982471317531,
+      "peak": 0.11614440381526947,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -18.70003421933243,
+      "seam": {
+        "amplitude_jump": 0.003491206094622612,
+        "phase_correlation": -0.1881531952526477,
+        "rms_ratio": 1.0727498947098693,
+        "suspect": false
+      },
+      "measured_lufs": -32.02,
+      "target_lufs": -32
+    },
+    {
+      "name": "amb_drone_mirror",
+      "file": "Assets/Audio/Ambience/amb_drone_mirror.ogg",
+      "seconds": 30.0,
+      "rms": 0.0319520937849459,
+      "peak": 0.12310688197612762,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -18.194353365303076,
+      "seam": {
+        "amplitude_jump": 0.012082818895578384,
+        "phase_correlation": 0.6511894489341478,
+        "rms_ratio": 1.2686234270821812,
+        "suspect": false
+      },
+      "measured_lufs": -31.96,
+      "target_lufs": -32
+    },
+    {
+      "name": "amb_morning_birds",
+      "file": "Assets/Audio/Ambience/amb_morning_birds.ogg",
+      "seconds": 30.0,
+      "rms": 0.030214358936388366,
+      "peak": 0.14987513422966003,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -16.485408298689315,
+      "seam": {
+        "amplitude_jump": 0.0018505686894059181,
+        "phase_correlation": 0.16818775899410335,
+        "rms_ratio": 1.2058696546823833,
+        "suspect": false
+      },
+      "measured_lufs": -30.09,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_fluorescent_buzz",
+      "file": "Assets/Audio/Ambience/amb_fluorescent_buzz.ogg",
+      "seconds": 20.0,
+      "rms": 0.026501503662246306,
+      "peak": 0.1323976069688797,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -17.562397290313505,
+      "seam": {
+        "amplitude_jump": 0.008761680219322443,
+        "phase_correlation": 0.5047902398358179,
+        "rms_ratio": 1.0682752953375632,
+        "suspect": false
+      },
+      "measured_lufs": -30.07,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_clock_tick",
+      "file": "Assets/Audio/Ambience/amb_clock_tick.ogg",
+      "seconds": 20.0,
+      "rms": 0.021262005852093584,
+      "peak": 0.4434564709663391,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -7.062980068929475,
+      "seam": {
+        "amplitude_jump": 0.0006032786332070827,
+        "phase_correlation": -0.8493725290275941,
+        "rms_ratio": 1.1320145270791226,
+        "suspect": false
+      },
+      "measured_lufs": -30.45,
+      "target_lufs": -30
+    },
+    {
+      "name": "amb_wind_outside",
+      "file": "Assets/Audio/Ambience/amb_wind_outside.ogg",
+      "seconds": 30.0,
+      "rms": 0.025780329783921457,
+      "peak": 0.2678860127925873,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -11.44099923478471,
+      "seam": {
+        "amplitude_jump": 0.0014283722266554832,
+        "phase_correlation": -0.376356116538573,
+        "rms_ratio": 1.1160599662974042,
+        "suspect": false
+      },
+      "measured_lufs": -30.1,
+      "target_lufs": -30
+    },
+    {
+      "name": "foot_tile_walk_01",
+      "file": "Assets/Audio/SFX/Player/foot_tile_walk_01.wav",
+      "seconds": 0.5827083333333334,
+      "rms": 0.038685240837524934,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_tile_walk_02",
+      "file": "Assets/Audio/SFX/Player/foot_tile_walk_02.wav",
+      "seconds": 0.7151041666666667,
+      "rms": 0.04160081024850026,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_tile_walk_03",
+      "file": "Assets/Audio/SFX/Player/foot_tile_walk_03.wav",
+      "seconds": 0.7940625,
+      "rms": 0.030393251623767055,
+      "peak": 0.576568603515625,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -4.782980207778889
+    },
+    {
+      "name": "foot_tile_run_01",
+      "file": "Assets/Audio/SFX/Player/foot_tile_run_01.wav",
+      "seconds": 1.0,
+      "rms": 0.03491228123963786,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_tile_run_02",
+      "file": "Assets/Audio/SFX/Player/foot_tile_run_02.wav",
+      "seconds": 0.7663333333333333,
+      "rms": 0.03053213205124924,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_tile_run_03",
+      "file": "Assets/Audio/SFX/Player/foot_tile_run_03.wav",
+      "seconds": 0.8883541666666667,
+      "rms": 0.03303671126528669,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_wood_walk_01",
+      "file": "Assets/Audio/SFX/Player/foot_wood_walk_01.wav",
+      "seconds": 0.9236875,
+      "rms": 0.043164281638636386,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_wood_walk_02",
+      "file": "Assets/Audio/SFX/Player/foot_wood_walk_02.wav",
+      "seconds": 0.6630208333333333,
+      "rms": 0.05678468040974501,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_wood_walk_03",
+      "file": "Assets/Audio/SFX/Player/foot_wood_walk_03.wav",
+      "seconds": 1.0,
+      "rms": 0.042999102128736894,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_wood_run_01",
+      "file": "Assets/Audio/SFX/Player/foot_wood_run_01.wav",
+      "seconds": 1.0,
+      "rms": 0.0604493796568094,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_wood_run_02",
+      "file": "Assets/Audio/SFX/Player/foot_wood_run_02.wav",
+      "seconds": 1.0,
+      "rms": 0.05217285561182241,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_wood_run_03",
+      "file": "Assets/Audio/SFX/Player/foot_wood_run_03.wav",
+      "seconds": 0.8435625,
+      "rms": 0.06997678645243505,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_concrete_walk_01",
+      "file": "Assets/Audio/SFX/Player/foot_concrete_walk_01.wav",
+      "seconds": 0.7226875,
+      "rms": 0.04656284173013348,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_concrete_walk_02",
+      "file": "Assets/Audio/SFX/Player/foot_concrete_walk_02.wav",
+      "seconds": 0.7460208333333334,
+      "rms": 0.04113325812576923,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_concrete_walk_03",
+      "file": "Assets/Audio/SFX/Player/foot_concrete_walk_03.wav",
+      "seconds": 0.46747916666666667,
+      "rms": 0.04078943440818548,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_concrete_run_01",
+      "file": "Assets/Audio/SFX/Player/foot_concrete_run_01.wav",
+      "seconds": 0.619125,
+      "rms": 0.03454322334212262,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_concrete_run_02",
+      "file": "Assets/Audio/SFX/Player/foot_concrete_run_02.wav",
+      "seconds": 0.7868958333333333,
+      "rms": 0.03762762798735777,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_concrete_run_03",
+      "file": "Assets/Audio/SFX/Player/foot_concrete_run_03.wav",
+      "seconds": 0.8916041666666666,
+      "rms": 0.04333551987995134,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_carpet_walk_01",
+      "file": "Assets/Audio/SFX/Player/foot_carpet_walk_01.wav",
+      "seconds": 0.9139166666666667,
+      "rms": 0.055862986842305555,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_carpet_walk_02",
+      "file": "Assets/Audio/SFX/Player/foot_carpet_walk_02.wav",
+      "seconds": 1.0,
+      "rms": 0.06933776796176287,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_carpet_walk_03",
+      "file": "Assets/Audio/SFX/Player/foot_carpet_walk_03.wav",
+      "seconds": 1.0,
+      "rms": 0.05790153040588838,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_gravel_walk_01",
+      "file": "Assets/Audio/SFX/Player/foot_gravel_walk_01.wav",
+      "seconds": 0.6080208333333333,
+      "rms": 0.0506959565965792,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_gravel_walk_02",
+      "file": "Assets/Audio/SFX/Player/foot_gravel_walk_02.wav",
+      "seconds": 0.7011458333333334,
+      "rms": 0.07790693432215107,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_gravel_walk_03",
+      "file": "Assets/Audio/SFX/Player/foot_gravel_walk_03.wav",
+      "seconds": 0.596,
+      "rms": 0.07273236368413061,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_stairs_01",
+      "file": "Assets/Audio/SFX/Player/foot_stairs_01.wav",
+      "seconds": 0.6816666666666666,
+      "rms": 0.035043098576035825,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_stairs_02",
+      "file": "Assets/Audio/SFX/Player/foot_stairs_02.wav",
+      "seconds": 1.0,
+      "rms": 0.04274529325988534,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_stairs_03",
+      "file": "Assets/Audio/SFX/Player/foot_stairs_03.wav",
+      "seconds": 0.8112083333333333,
+      "rms": 0.05070793445157176,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_stairs_wood_01",
+      "file": "Assets/Audio/SFX/Player/foot_stairs_wood_01.wav",
+      "seconds": 1.0,
+      "rms": 0.052118632393100287,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_stairs_wood_02",
+      "file": "Assets/Audio/SFX/Player/foot_stairs_wood_02.wav",
+      "seconds": 1.0,
+      "rms": 0.06392456800561044,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_stairs_wood_03",
+      "file": "Assets/Audio/SFX/Player/foot_stairs_wood_03.wav",
+      "seconds": 1.0,
+      "rms": 0.08476323645063602,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_land_01",
+      "file": "Assets/Audio/SFX/Player/foot_land_01.wav",
+      "seconds": 0.6066666666666667,
+      "rms": 0.05992508881840778,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_land_02",
+      "file": "Assets/Audio/SFX/Player/foot_land_02.wav",
+      "seconds": 0.5486458333333334,
+      "rms": 0.060174795252719404,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "foot_land_03",
+      "file": "Assets/Audio/SFX/Player/foot_land_03.wav",
+      "seconds": 0.46310416666666665,
+      "rms": 0.05622708636054411,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "breath_calm",
+      "file": "Assets/Audio/SFX/Player/breath_calm.ogg",
+      "seconds": 15.0,
+      "rms": 0.03430207406704846,
+      "peak": 0.32309630513191223,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -9.813360169266256,
+      "seam": {
+        "amplitude_jump": 0.006809115409851074,
+        "phase_correlation": 0.4394228287422896,
+        "rms_ratio": 1.1303085046173607,
+        "suspect": false
+      },
+      "measured_lufs": -28.13,
+      "target_lufs": -28
+    },
+    {
+      "name": "breath_scared",
+      "file": "Assets/Audio/SFX/Player/breath_scared.ogg",
+      "seconds": 15.0,
+      "rms": 0.025642357104310162,
+      "peak": 0.2895835340023041,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -10.764522723478718,
+      "seam": {
+        "amplitude_jump": 0.02206369675695896,
+        "phase_correlation": 0.2560625215310619,
+        "rms_ratio": 1.0928756701773272,
+        "suspect": false
+      },
+      "measured_lufs": -28.23,
+      "target_lufs": -28
+    },
+    {
+      "name": "breath_exhausted_01",
+      "file": "Assets/Audio/SFX/Player/breath_exhausted_01.ogg",
+      "seconds": 5.92475,
+      "rms": 0.017266856901798352,
+      "peak": 0.28992998600006104,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -10.754137308567614,
+      "measured_lufs": -28.24,
+      "target_lufs": -28
+    },
+    {
+      "name": "breath_exhausted_02",
+      "file": "Assets/Audio/SFX/Player/breath_exhausted_02.ogg",
+      "seconds": 5.708,
+      "rms": 0.015961157116894685,
+      "peak": 0.2763298749923706,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -11.171443188897683,
+      "measured_lufs": -28.12,
+      "target_lufs": -28
+    },
+    {
+      "name": "breath_exhausted_03",
+      "file": "Assets/Audio/SFX/Player/breath_exhausted_03.ogg",
+      "seconds": 5.7715,
+      "rms": 0.023519916225437327,
+      "peak": 0.4116218090057373,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -7.710032460508543,
+      "measured_lufs": -28.22,
+      "target_lufs": -28
+    },
+    {
+      "name": "heartbeat_slow",
+      "file": "Assets/Audio/SFX/Player/heartbeat_slow.ogg",
+      "seconds": 15.0,
+      "rms": 0.029652264969554133,
+      "peak": 0.3791548013687134,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -8.4236688004198,
+      "seam": {
+        "amplitude_jump": 0.000684352358803153,
+        "phase_correlation": 0.19866146692803882,
+        "rms_ratio": 1.0907065807471639,
+        "suspect": false
+      },
+      "measured_lufs": -27.98,
+      "target_lufs": -28
+    },
+    {
+      "name": "heartbeat_fast",
+      "file": "Assets/Audio/SFX/Player/heartbeat_fast.ogg",
+      "seconds": 15.0,
+      "rms": 0.03773359287947287,
+      "peak": 0.32500556111335754,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -9.762184156411337,
+      "seam": {
+        "amplitude_jump": 0.0006927022477611899,
+        "phase_correlation": 0.47728474412673255,
+        "rms_ratio": 1.0402779227681054,
+        "suspect": false
+      },
+      "measured_lufs": -27.98,
+      "target_lufs": -28
+    },
+    {
+      "name": "cloth_move_01",
+      "file": "Assets/Audio/SFX/Player/cloth_move_01.wav",
+      "seconds": 1.2499791666666666,
+      "rms": 0.09665674156043104,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "cloth_move_02",
+      "file": "Assets/Audio/SFX/Player/cloth_move_02.wav",
+      "seconds": 1.48,
+      "rms": 0.07825369362758891,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "cloth_move_03",
+      "file": "Assets/Audio/SFX/Player/cloth_move_03.wav",
+      "seconds": 1.25,
+      "rms": 0.0757447481735934,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_wood_open_01",
+      "file": "Assets/Audio/SFX/Environment/door_wood_open_01.wav",
+      "seconds": 1.9834583333333333,
+      "rms": 0.0818233398277143,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_wood_open_02",
+      "file": "Assets/Audio/SFX/Environment/door_wood_open_02.wav",
+      "seconds": 1.6367083333333334,
+      "rms": 0.05673357212109736,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_wood_open_03",
+      "file": "Assets/Audio/SFX/Environment/door_wood_open_03.wav",
+      "seconds": 2.0333958333333335,
+      "rms": 0.10345568787987854,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_wood_close_01",
+      "file": "Assets/Audio/SFX/Environment/door_wood_close_01.wav",
+      "seconds": 0.6012708333333333,
+      "rms": 0.07402524398353766,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_wood_close_02",
+      "file": "Assets/Audio/SFX/Environment/door_wood_close_02.wav",
+      "seconds": 0.567875,
+      "rms": 0.08994858183271823,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_wood_close_03",
+      "file": "Assets/Audio/SFX/Environment/door_wood_close_03.wav",
+      "seconds": 0.5288125,
+      "rms": 0.07175588797708923,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_wood_slam_far_01",
+      "file": "Assets/Audio/SFX/Environment/door_wood_slam_far_01.wav",
+      "seconds": 1.8980625,
+      "rms": 0.04756708163554607,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_wood_slam_far_02",
+      "file": "Assets/Audio/SFX/Environment/door_wood_slam_far_02.wav",
+      "seconds": 1.9382291666666667,
+      "rms": 0.03655009178850114,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_wood_slam_far_03",
+      "file": "Assets/Audio/SFX/Environment/door_wood_slam_far_03.wav",
+      "seconds": 2.0,
+      "rms": 0.05059869311945654,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_metal_open_01",
+      "file": "Assets/Audio/SFX/Environment/door_metal_open_01.wav",
+      "seconds": 2.0096041666666666,
+      "rms": 0.11525076296136708,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_metal_open_02",
+      "file": "Assets/Audio/SFX/Environment/door_metal_open_02.wav",
+      "seconds": 2.0303333333333335,
+      "rms": 0.14814533854009296,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_metal_open_03",
+      "file": "Assets/Audio/SFX/Environment/door_metal_open_03.wav",
+      "seconds": 1.801,
+      "rms": 0.10710210069908799,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_metal_close_01",
+      "file": "Assets/Audio/SFX/Environment/door_metal_close_01.wav",
+      "seconds": 1.0616666666666668,
+      "rms": 0.05782259675916962,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_metal_close_02",
+      "file": "Assets/Audio/SFX/Environment/door_metal_close_02.wav",
+      "seconds": 1.0790625,
+      "rms": 0.04327838974005967,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_metal_close_03",
+      "file": "Assets/Audio/SFX/Environment/door_metal_close_03.wav",
+      "seconds": 1.0493333333333332,
+      "rms": 0.06452193961542385,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_locked_rattle_01",
+      "file": "Assets/Audio/SFX/Environment/door_locked_rattle_01.wav",
+      "seconds": 0.955,
+      "rms": 0.07890246119702503,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_locked_rattle_02",
+      "file": "Assets/Audio/SFX/Environment/door_locked_rattle_02.wav",
+      "seconds": 0.5291458333333333,
+      "rms": 0.049074516474976085,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_locked_rattle_03",
+      "file": "Assets/Audio/SFX/Environment/door_locked_rattle_03.wav",
+      "seconds": 1.48,
+      "rms": 0.055089305107811314,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "key_unlock_01",
+      "file": "Assets/Audio/SFX/Environment/key_unlock_01.wav",
+      "seconds": 1.2058541666666667,
+      "rms": 0.020105763336475433,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "key_unlock_02",
+      "file": "Assets/Audio/SFX/Environment/key_unlock_02.wav",
+      "seconds": 0.7926875,
+      "rms": 0.024795435647870845,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "key_unlock_03",
+      "file": "Assets/Audio/SFX/Environment/key_unlock_03.wav",
+      "seconds": 1.1350208333333334,
+      "rms": 0.017308872557065452,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "key_pickup_01",
+      "file": "Assets/Audio/SFX/Environment/key_pickup_01.wav",
+      "seconds": 0.748,
+      "rms": 0.0677459959740345,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "key_pickup_02",
+      "file": "Assets/Audio/SFX/Environment/key_pickup_02.wav",
+      "seconds": 0.734,
+      "rms": 0.09715069843804441,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "key_pickup_03",
+      "file": "Assets/Audio/SFX/Environment/key_pickup_03.wav",
+      "seconds": 0.8,
+      "rms": 0.07199068463465468,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "gate_metal_open_01",
+      "file": "Assets/Audio/SFX/Environment/gate_metal_open_01.wav",
+      "seconds": 2.578666666666667,
+      "rms": 0.07393781762092137,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "gate_metal_open_02",
+      "file": "Assets/Audio/SFX/Environment/gate_metal_open_02.wav",
+      "seconds": 2.5015625,
+      "rms": 0.05910132156114413,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "gate_metal_open_03",
+      "file": "Assets/Audio/SFX/Environment/gate_metal_open_03.wav",
+      "seconds": 1.9870833333333333,
+      "rms": 0.0993790262610351,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "gate_metal_close_01",
+      "file": "Assets/Audio/SFX/Environment/gate_metal_close_01.wav",
+      "seconds": 1.7757083333333334,
+      "rms": 0.02997665412468389,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "gate_metal_close_02",
+      "file": "Assets/Audio/SFX/Environment/gate_metal_close_02.wav",
+      "seconds": 1.6955208333333334,
+      "rms": 0.017065576966483958,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "gate_metal_close_03",
+      "file": "Assets/Audio/SFX/Environment/gate_metal_close_03.wav",
+      "seconds": 1.6624791666666667,
+      "rms": 0.02764777474781749,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "gate_wind_rattle_01",
+      "file": "Assets/Audio/SFX/Environment/gate_wind_rattle_01.wav",
+      "seconds": 3.7026458333333334,
+      "rms": 0.01909667755276593,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "gate_wind_rattle_02",
+      "file": "Assets/Audio/SFX/Environment/gate_wind_rattle_02.wav",
+      "seconds": 3.9221875,
+      "rms": 0.02567897087633014,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "gate_wind_rattle_03",
+      "file": "Assets/Audio/SFX/Environment/gate_wind_rattle_03.wav",
+      "seconds": 3.5429583333333334,
+      "rms": 0.028085176676668305,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "drawer_open_01",
+      "file": "Assets/Audio/SFX/Environment/drawer_open_01.wav",
+      "seconds": 1.2999583333333333,
+      "rms": 0.05247468744803345,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "drawer_open_02",
+      "file": "Assets/Audio/SFX/Environment/drawer_open_02.wav",
+      "seconds": 1.4056875,
+      "rms": 0.0603803725505015,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "drawer_open_03",
+      "file": "Assets/Audio/SFX/Environment/drawer_open_03.wav",
+      "seconds": 0.9445833333333333,
+      "rms": 0.05433696522523696,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "drawer_close_01",
+      "file": "Assets/Audio/SFX/Environment/drawer_close_01.wav",
+      "seconds": 1.0,
+      "rms": 0.04678543601855243,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "drawer_close_02",
+      "file": "Assets/Audio/SFX/Environment/drawer_close_02.wav",
+      "seconds": 0.9400625,
+      "rms": 0.04477798735766089,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "drawer_close_03",
+      "file": "Assets/Audio/SFX/Environment/drawer_close_03.wav",
+      "seconds": 1.0,
+      "rms": 0.04800178484091005,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "wardrobe_open_01",
+      "file": "Assets/Audio/SFX/Environment/wardrobe_open_01.wav",
+      "seconds": 1.993625,
+      "rms": 0.02807600557336668,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "wardrobe_open_02",
+      "file": "Assets/Audio/SFX/Environment/wardrobe_open_02.wav",
+      "seconds": 2.072125,
+      "rms": 0.05094367499843615,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "wardrobe_open_03",
+      "file": "Assets/Audio/SFX/Environment/wardrobe_open_03.wav",
+      "seconds": 2.170166666666667,
+      "rms": 0.0694998567183427,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "wardrobe_close_01",
+      "file": "Assets/Audio/SFX/Environment/wardrobe_close_01.wav",
+      "seconds": 1.48,
+      "rms": 0.060549841476893865,
+      "peak": 0.551910400390625,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -5.162628437241588
+    },
+    {
+      "name": "wardrobe_close_02",
+      "file": "Assets/Audio/SFX/Environment/wardrobe_close_02.wav",
+      "seconds": 1.03075,
+      "rms": 0.03277202807966691,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "wardrobe_close_03",
+      "file": "Assets/Audio/SFX/Environment/wardrobe_close_03.wav",
+      "seconds": 0.973375,
+      "rms": 0.0514046342183355,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "lunchbox_open_01",
+      "file": "Assets/Audio/SFX/Environment/lunchbox_open_01.wav",
+      "seconds": 0.5293541666666667,
+      "rms": 0.0798689327387454,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "lunchbox_open_02",
+      "file": "Assets/Audio/SFX/Environment/lunchbox_open_02.wav",
+      "seconds": 0.37195833333333334,
+      "rms": 0.06683150099642168,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "lunchbox_open_03",
+      "file": "Assets/Audio/SFX/Environment/lunchbox_open_03.wav",
+      "seconds": 0.562125,
+      "rms": 0.052950390229324414,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "paper_rustle_01",
+      "file": "Assets/Audio/SFX/Environment/paper_rustle_01.wav",
+      "seconds": 1.2570833333333333,
+      "rms": 0.035049860007975775,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "paper_rustle_02",
+      "file": "Assets/Audio/SFX/Environment/paper_rustle_02.wav",
+      "seconds": 1.293125,
+      "rms": 0.03696381806923283,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "paper_rustle_03",
+      "file": "Assets/Audio/SFX/Environment/paper_rustle_03.wav",
+      "seconds": 1.031,
+      "rms": 0.049362689326459534,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "page_turn_01",
+      "file": "Assets/Audio/SFX/Environment/page_turn_01.wav",
+      "seconds": 0.5649375,
+      "rms": 0.041874388910596756,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "page_turn_02",
+      "file": "Assets/Audio/SFX/Environment/page_turn_02.wav",
+      "seconds": 0.6075,
+      "rms": 0.03547625735990771,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "page_turn_03",
+      "file": "Assets/Audio/SFX/Environment/page_turn_03.wav",
+      "seconds": 0.6645416666666667,
+      "rms": 0.060818497948981906,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "crayon_scribble_01",
+      "file": "Assets/Audio/SFX/Environment/crayon_scribble_01.wav",
+      "seconds": 2.735520833333333,
+      "rms": 0.07666354771166135,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "crayon_scribble_02",
+      "file": "Assets/Audio/SFX/Environment/crayon_scribble_02.wav",
+      "seconds": 2.6734583333333335,
+      "rms": 0.05244141245338454,
+      "peak": 0.454193115234375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -6.855189064077399
+    },
+    {
+      "name": "crayon_scribble_03",
+      "file": "Assets/Audio/SFX/Environment/crayon_scribble_03.wav",
+      "seconds": 2.6139375,
+      "rms": 0.07893066891548217,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "battery_pickup_01",
+      "file": "Assets/Audio/SFX/Environment/battery_pickup_01.wav",
+      "seconds": 0.741,
+      "rms": 0.037779551487665826,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "battery_pickup_02",
+      "file": "Assets/Audio/SFX/Environment/battery_pickup_02.wav",
+      "seconds": 0.37414583333333334,
+      "rms": 0.034200759917902765,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "battery_pickup_03",
+      "file": "Assets/Audio/SFX/Environment/battery_pickup_03.wav",
+      "seconds": 0.8,
+      "rms": 0.020669281472664253,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "flashlight_on_01",
+      "file": "Assets/Audio/SFX/Environment/flashlight_on_01.wav",
+      "seconds": 0.48,
+      "rms": 0.2508480199479939,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "flashlight_on_02",
+      "file": "Assets/Audio/SFX/Environment/flashlight_on_02.wav",
+      "seconds": 0.48,
+      "rms": 0.3186748706753514,
+      "peak": 0.632080078125,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -3.984557950658046
+    },
+    {
+      "name": "flashlight_on_03",
+      "file": "Assets/Audio/SFX/Environment/flashlight_on_03.wav",
+      "seconds": 0.48,
+      "rms": 0.28396004718372075,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "flashlight_off_01",
+      "file": "Assets/Audio/SFX/Environment/flashlight_off_01.wav",
+      "seconds": 0.48,
+      "rms": 0.16543650138310903,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "flashlight_off_02",
+      "file": "Assets/Audio/SFX/Environment/flashlight_off_02.wav",
+      "seconds": 0.48,
+      "rms": 0.24901488766030225,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "flashlight_off_03",
+      "file": "Assets/Audio/SFX/Environment/flashlight_off_03.wav",
+      "seconds": 0.4269791666666667,
+      "rms": 0.09634844857825131,
+      "peak": 0.286041259765625,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -10.871426358669043
+    },
+    {
+      "name": "flashlight_flicker_01",
+      "file": "Assets/Audio/SFX/Environment/flashlight_flicker_01.wav",
+      "seconds": 1.3769166666666666,
+      "rms": 0.012521937957540218,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "flashlight_flicker_02",
+      "file": "Assets/Audio/SFX/Environment/flashlight_flicker_02.wav",
+      "seconds": 0.28704166666666664,
+      "rms": 0.031803364682456224,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "flashlight_flicker_03",
+      "file": "Assets/Audio/SFX/Environment/flashlight_flicker_03.wav",
+      "seconds": 0.738625,
+      "rms": 0.028043991582186577,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "item_equip_01",
+      "file": "Assets/Audio/SFX/Environment/item_equip_01.wav",
+      "seconds": 0.7480208333333334,
+      "rms": 0.04929575930949835,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "item_equip_02",
+      "file": "Assets/Audio/SFX/Environment/item_equip_02.wav",
+      "seconds": 0.4414375,
+      "rms": 0.03296143775794744,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "item_equip_03",
+      "file": "Assets/Audio/SFX/Environment/item_equip_03.wav",
+      "seconds": 0.43597916666666664,
+      "rms": 0.030894644404052388,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "item_holster_01",
+      "file": "Assets/Audio/SFX/Environment/item_holster_01.wav",
+      "seconds": 0.6060208333333333,
+      "rms": 0.06833956241933811,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "item_holster_02",
+      "file": "Assets/Audio/SFX/Environment/item_holster_02.wav",
+      "seconds": 0.6569583333333333,
+      "rms": 0.05432617826178017,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "item_holster_03",
+      "file": "Assets/Audio/SFX/Environment/item_holster_03.wav",
+      "seconds": 0.4237916666666667,
+      "rms": 0.04724284702670577,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "item_pickup_soft_01",
+      "file": "Assets/Audio/SFX/Environment/item_pickup_soft_01.wav",
+      "seconds": 0.45497916666666666,
+      "rms": 0.06725409383818914,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "item_pickup_soft_02",
+      "file": "Assets/Audio/SFX/Environment/item_pickup_soft_02.wav",
+      "seconds": 0.6,
+      "rms": 0.0936886073489484,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "item_pickup_soft_03",
+      "file": "Assets/Audio/SFX/Environment/item_pickup_soft_03.wav",
+      "seconds": 0.6,
+      "rms": 0.10480507183072733,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tape_play_01",
+      "file": "Assets/Audio/SFX/Environment/tape_play_01.wav",
+      "seconds": 0.43945833333333334,
+      "rms": 0.04776470952573893,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tape_play_02",
+      "file": "Assets/Audio/SFX/Environment/tape_play_02.wav",
+      "seconds": 0.5631041666666666,
+      "rms": 0.04520244376992199,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tape_play_03",
+      "file": "Assets/Audio/SFX/Environment/tape_play_03.wav",
+      "seconds": 0.7245625,
+      "rms": 0.03398359081319272,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tape_stop_01",
+      "file": "Assets/Audio/SFX/Environment/tape_stop_01.wav",
+      "seconds": 0.8,
+      "rms": 0.03856482304006844,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tape_stop_02",
+      "file": "Assets/Audio/SFX/Environment/tape_stop_02.wav",
+      "seconds": 0.647625,
+      "rms": 0.019297835786578097,
+      "peak": 0.412261962890625,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -7.696534665542454
+    },
+    {
+      "name": "tape_stop_03",
+      "file": "Assets/Audio/SFX/Environment/tape_stop_03.wav",
+      "seconds": 0.8,
+      "rms": 0.03728209417473977,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tape_rewind_01",
+      "file": "Assets/Audio/SFX/Environment/tape_rewind_01.wav",
+      "seconds": 3.0,
+      "rms": 0.029006024387604995,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tape_rewind_02",
+      "file": "Assets/Audio/SFX/Environment/tape_rewind_02.wav",
+      "seconds": 3.0,
+      "rms": 0.035235346561184475,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tape_rewind_03",
+      "file": "Assets/Audio/SFX/Environment/tape_rewind_03.wav",
+      "seconds": 3.0,
+      "rms": 0.024183478887127706,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tape_hiss",
+      "file": "Assets/Audio/SFX/Environment/tape_hiss.ogg",
+      "seconds": 20.0,
+      "rms": 0.026842683736367185,
+      "peak": 0.13365411758422852,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -17.48035314120716,
+      "seam": {
+        "amplitude_jump": 0.023848337004892528,
+        "phase_correlation": -0.2893579200872778,
+        "rms_ratio": 1.1799009719371312,
+        "suspect": false
+      },
+      "measured_lufs": -30.26,
+      "target_lufs": -30
+    },
+    {
+      "name": "chair_creak_01",
+      "file": "Assets/Audio/SFX/Environment/chair_creak_01.wav",
+      "seconds": 0.8956666666666667,
+      "rms": 0.03152303234681746,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "chair_creak_02",
+      "file": "Assets/Audio/SFX/Environment/chair_creak_02.wav",
+      "seconds": 1.1797708333333334,
+      "rms": 0.03685972108441655,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "chair_creak_03",
+      "file": "Assets/Audio/SFX/Environment/chair_creak_03.wav",
+      "seconds": 1.2945833333333334,
+      "rms": 0.046561052621707184,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "chair_scrape_01",
+      "file": "Assets/Audio/SFX/Environment/chair_scrape_01.wav",
+      "seconds": 1.9070208333333334,
+      "rms": 0.08713283269697397,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "chair_scrape_02",
+      "file": "Assets/Audio/SFX/Environment/chair_scrape_02.wav",
+      "seconds": 1.7286875,
+      "rms": 0.09922779279549238,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "chair_scrape_03",
+      "file": "Assets/Audio/SFX/Environment/chair_scrape_03.wav",
+      "seconds": 1.6147291666666668,
+      "rms": 0.10635921487903023,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "desk_drag_01",
+      "file": "Assets/Audio/SFX/Environment/desk_drag_01.wav",
+      "seconds": 1.6798958333333334,
+      "rms": 0.10404183994380617,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "desk_drag_02",
+      "file": "Assets/Audio/SFX/Environment/desk_drag_02.wav",
+      "seconds": 1.3849583333333333,
+      "rms": 0.11483227736397407,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "desk_drag_03",
+      "file": "Assets/Audio/SFX/Environment/desk_drag_03.wav",
+      "seconds": 1.4107291666666666,
+      "rms": 0.07479246338975679,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "object_fall_small_01",
+      "file": "Assets/Audio/SFX/Environment/object_fall_small_01.wav",
+      "seconds": 0.57025,
+      "rms": 0.055377608754411195,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "object_fall_small_02",
+      "file": "Assets/Audio/SFX/Environment/object_fall_small_02.wav",
+      "seconds": 0.5442291666666667,
+      "rms": 0.06602285612880705,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "object_fall_small_03",
+      "file": "Assets/Audio/SFX/Environment/object_fall_small_03.wav",
+      "seconds": 0.5388541666666666,
+      "rms": 0.0634108768016058,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "object_fall_box_01",
+      "file": "Assets/Audio/SFX/Environment/object_fall_box_01.wav",
+      "seconds": 1.2008333333333334,
+      "rms": 0.04580493854703678,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "object_fall_box_02",
+      "file": "Assets/Audio/SFX/Environment/object_fall_box_02.wav",
+      "seconds": 1.197375,
+      "rms": 0.03841351965243876,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "object_fall_box_03",
+      "file": "Assets/Audio/SFX/Environment/object_fall_box_03.wav",
+      "seconds": 1.20275,
+      "rms": 0.05100765231838196,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "object_fall_metal_01",
+      "file": "Assets/Audio/SFX/Environment/object_fall_metal_01.wav",
+      "seconds": 1.3922291666666666,
+      "rms": 0.05974401537623239,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "object_fall_metal_02",
+      "file": "Assets/Audio/SFX/Environment/object_fall_metal_02.wav",
+      "seconds": 1.437,
+      "rms": 0.06538971600627284,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "object_fall_metal_03",
+      "file": "Assets/Audio/SFX/Environment/object_fall_metal_03.wav",
+      "seconds": 1.2304791666666666,
+      "rms": 0.06941855936692512,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "pipe_clang_01",
+      "file": "Assets/Audio/SFX/Environment/pipe_clang_01.wav",
+      "seconds": 3.0,
+      "rms": 0.05437390787989546,
+      "peak": 0.667144775390625,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -3.5155982143052498
+    },
+    {
+      "name": "pipe_clang_02",
+      "file": "Assets/Audio/SFX/Environment/pipe_clang_02.wav",
+      "seconds": 2.7273125,
+      "rms": 0.0478670410003356,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "pipe_clang_03",
+      "file": "Assets/Audio/SFX/Environment/pipe_clang_03.wav",
+      "seconds": 2.5572291666666667,
+      "rms": 0.040711170589490246,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "glass_clink_01",
+      "file": "Assets/Audio/SFX/Environment/glass_clink_01.wav",
+      "seconds": 0.260375,
+      "rms": 0.06384359901514526,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "glass_clink_02",
+      "file": "Assets/Audio/SFX/Environment/glass_clink_02.wav",
+      "seconds": 0.2904375,
+      "rms": 0.05865318618095143,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "glass_clink_03",
+      "file": "Assets/Audio/SFX/Environment/glass_clink_03.wav",
+      "seconds": 0.14239583333333333,
+      "rms": 0.04998496161439573,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "backpack_zip_01",
+      "file": "Assets/Audio/SFX/Environment/backpack_zip_01.wav",
+      "seconds": 1.2417916666666666,
+      "rms": 0.08162814818383653,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "backpack_zip_02",
+      "file": "Assets/Audio/SFX/Environment/backpack_zip_02.wav",
+      "seconds": 1.3898541666666666,
+      "rms": 0.07585382059306213,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "backpack_zip_03",
+      "file": "Assets/Audio/SFX/Environment/backpack_zip_03.wav",
+      "seconds": 1.1810625,
+      "rms": 0.08509573163273292,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "bones_clack_01",
+      "file": "Assets/Audio/SFX/Environment/bones_clack_01.wav",
+      "seconds": 0.876125,
+      "rms": 0.01651208880106324,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "bones_clack_02",
+      "file": "Assets/Audio/SFX/Environment/bones_clack_02.wav",
+      "seconds": 0.9478125,
+      "rms": 0.012775165750423575,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "bones_clack_03",
+      "file": "Assets/Audio/SFX/Environment/bones_clack_03.wav",
+      "seconds": 1.1510833333333332,
+      "rms": 0.013984037827655704,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "shoe_drop_01",
+      "file": "Assets/Audio/SFX/Environment/shoe_drop_01.wav",
+      "seconds": 0.4104375,
+      "rms": 0.02670022183416804,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "shoe_drop_02",
+      "file": "Assets/Audio/SFX/Environment/shoe_drop_02.wav",
+      "seconds": 0.27941666666666665,
+      "rms": 0.06762923822787699,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "shoe_drop_03",
+      "file": "Assets/Audio/SFX/Environment/shoe_drop_03.wav",
+      "seconds": 0.7697708333333333,
+      "rms": 0.023228182224044748,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "lockpick_scrape",
+      "file": "Assets/Audio/SFX/Lockpick/lockpick_scrape.ogg",
+      "seconds": 2.9,
+      "rms": 0.019413285681224975,
+      "peak": 0.712583065032959,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9432900626619403,
+      "seam": {
+        "amplitude_jump": 0.0024262909009848954,
+        "phase_correlation": -0.24511825595362802,
+        "rms_ratio": 1.3982361445143945,
+        "suspect": false
+      },
+      "measured_lufs": -30.23,
+      "target_lufs": -30
+    },
+    {
+      "name": "lockpick_pin_set",
+      "file": "Assets/Audio/SFX/Lockpick/lockpick_pin_set.wav",
+      "seconds": 0.15322916666666667,
+      "rms": 0.04285655222085001,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "lockpick_tension",
+      "file": "Assets/Audio/SFX/Lockpick/lockpick_tension.wav",
+      "seconds": 0.8472291666666667,
+      "rms": 0.03217896495984001,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "lockpick_break",
+      "file": "Assets/Audio/SFX/Lockpick/lockpick_break.wav",
+      "seconds": 0.2661875,
+      "rms": 0.06968587761105009,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "lockpick_success",
+      "file": "Assets/Audio/SFX/Lockpick/lockpick_success.wav",
+      "seconds": 1.0855208333333333,
+      "rms": 0.019877278177652814,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "lockpick_jam",
+      "file": "Assets/Audio/SFX/Lockpick/lockpick_jam.wav",
+      "seconds": 0.08845833333333333,
+      "rms": 0.07251941149582353,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "whistle_blow",
+      "file": "Assets/Audio/SFX/Whistle/whistle_blow.wav",
+      "seconds": 1.0,
+      "rms": 0.19967754315702607,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "whistle_reply_marta",
+      "file": "Assets/Audio/SFX/Whistle/whistle_reply_marta.wav",
+      "seconds": 1.2,
+      "rms": 0.11217472349110351,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "whistle_reply_caio",
+      "file": "Assets/Audio/SFX/Whistle/whistle_reply_caio.wav",
+      "seconds": 0.942,
+      "rms": 0.15844313689421732,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "whistle_reply_luan",
+      "file": "Assets/Audio/SFX/Whistle/whistle_reply_luan.wav",
+      "seconds": 1.2,
+      "rms": 0.1790741276707458,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "whistle_reply_bia",
+      "file": "Assets/Audio/SFX/Whistle/whistle_reply_bia.wav",
+      "seconds": 1.2,
+      "rms": 0.14427676929588856,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "whistle_echo_hall",
+      "file": "Assets/Audio/SFX/Whistle/whistle_echo_hall.wav",
+      "seconds": 2.0280833333333335,
+      "rms": 0.1591821410081086,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "whistle_lost_echo",
+      "file": "Assets/Audio/SFX/Whistle/whistle_lost_echo.wav",
+      "seconds": 1.476625,
+      "rms": 0.14099729853199347,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "whistle_place_down",
+      "file": "Assets/Audio/SFX/Whistle/whistle_place_down.wav",
+      "seconds": 1.086,
+      "rms": 0.023799070341942556,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "whistle_pulse",
+      "file": "Assets/Audio/SFX/Whistle/whistle_pulse.wav",
+      "seconds": 1.707875,
+      "rms": 0.09399527032695404,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "highlight_chime",
+      "file": "Assets/Audio/SFX/Environment/highlight_chime.wav",
+      "seconds": 0.4973958333333333,
+      "rms": 0.06745100028611392,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_scurry_wall_01",
+      "file": "Assets/Audio/SFX/Environment/rat_scurry_wall_01.wav",
+      "seconds": 2.9319375,
+      "rms": 0.05543900590012158,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_scurry_wall_02",
+      "file": "Assets/Audio/SFX/Environment/rat_scurry_wall_02.wav",
+      "seconds": 3.0,
+      "rms": 0.03408142885036234,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_scurry_wall_03",
+      "file": "Assets/Audio/SFX/Environment/rat_scurry_wall_03.wav",
+      "seconds": 2.5781875,
+      "rms": 0.02408449896131375,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_squeak_01",
+      "file": "Assets/Audio/SFX/Environment/rat_squeak_01.wav",
+      "seconds": 1.48,
+      "rms": 0.08846399558437903,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_squeak_02",
+      "file": "Assets/Audio/SFX/Environment/rat_squeak_02.wav",
+      "seconds": 1.48,
+      "rms": 0.08262362390011652,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_squeak_03",
+      "file": "Assets/Audio/SFX/Environment/rat_squeak_03.wav",
+      "seconds": 0.8734375,
+      "rms": 0.08847390936644502,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_growl_01",
+      "file": "Assets/Audio/SFX/Environment/rat_growl_01.wav",
+      "seconds": 2.0,
+      "rms": 0.11974879120632925,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_growl_02",
+      "file": "Assets/Audio/SFX/Environment/rat_growl_02.wav",
+      "seconds": 2.0,
+      "rms": 0.11128682595133753,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_growl_03",
+      "file": "Assets/Audio/SFX/Environment/rat_growl_03.wav",
+      "seconds": 2.0,
+      "rms": 0.07989674374955544,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_gnaw_01",
+      "file": "Assets/Audio/SFX/Environment/rat_gnaw_01.wav",
+      "seconds": 3.0,
+      "rms": 0.03179625463186046,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_gnaw_02",
+      "file": "Assets/Audio/SFX/Environment/rat_gnaw_02.wav",
+      "seconds": 2.5685208333333334,
+      "rms": 0.021146844971833202,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_gnaw_03",
+      "file": "Assets/Audio/SFX/Environment/rat_gnaw_03.wav",
+      "seconds": 2.774,
+      "rms": 0.04431398585437764,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_run_ceiling_01",
+      "file": "Assets/Audio/SFX/Environment/rat_run_ceiling_01.wav",
+      "seconds": 2.4254583333333333,
+      "rms": 0.05860754310632595,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_run_ceiling_02",
+      "file": "Assets/Audio/SFX/Environment/rat_run_ceiling_02.wav",
+      "seconds": 2.6292291666666667,
+      "rms": 0.04741146969600477,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "rat_run_ceiling_03",
+      "file": "Assets/Audio/SFX/Environment/rat_run_ceiling_03.wav",
+      "seconds": 2.517729166666667,
+      "rms": 0.040767157549435315,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "scratch_wall_01",
+      "file": "Assets/Audio/SFX/Environment/scratch_wall_01.wav",
+      "seconds": 3.0,
+      "rms": 0.06281408078524876,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "scratch_wall_02",
+      "file": "Assets/Audio/SFX/Environment/scratch_wall_02.wav",
+      "seconds": 3.0,
+      "rms": 0.09878860950963181,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "scratch_wall_03",
+      "file": "Assets/Audio/SFX/Environment/scratch_wall_03.wav",
+      "seconds": 3.0,
+      "rms": 0.10399801079789776,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "building_creak_01",
+      "file": "Assets/Audio/SFX/Environment/building_creak_01.wav",
+      "seconds": 2.927020833333333,
+      "rms": 0.07538647491209345,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "building_creak_02",
+      "file": "Assets/Audio/SFX/Environment/building_creak_02.wav",
+      "seconds": 3.0,
+      "rms": 0.06609601435292015,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "building_creak_03",
+      "file": "Assets/Audio/SFX/Environment/building_creak_03.wav",
+      "seconds": 2.7473541666666668,
+      "rms": 0.11132232585456261,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "water_drip_01",
+      "file": "Assets/Audio/SFX/Environment/water_drip_01.wav",
+      "seconds": 2.668458333333333,
+      "rms": 0.04762924891170301,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "water_drip_02",
+      "file": "Assets/Audio/SFX/Environment/water_drip_02.wav",
+      "seconds": 2.928,
+      "rms": 0.04189784850485864,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "water_drip_03",
+      "file": "Assets/Audio/SFX/Environment/water_drip_03.wav",
+      "seconds": 2.8888125,
+      "rms": 0.04828939420403553,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "school_bell_far_01",
+      "file": "Assets/Audio/SFX/Environment/school_bell_far_01.wav",
+      "seconds": 3.2152291666666666,
+      "rms": 0.09852275929766585,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "school_bell_far_02",
+      "file": "Assets/Audio/SFX/Environment/school_bell_far_02.wav",
+      "seconds": 2.9364583333333334,
+      "rms": 0.0767828879343936,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "school_bell_far_03",
+      "file": "Assets/Audio/SFX/Environment/school_bell_far_03.wav",
+      "seconds": 3.3225,
+      "rms": 0.081480485968947,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "branch_snap_far_01",
+      "file": "Assets/Audio/SFX/Environment/branch_snap_far_01.wav",
+      "seconds": 0.6837708333333333,
+      "rms": 0.018499998109723043,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "branch_snap_far_02",
+      "file": "Assets/Audio/SFX/Environment/branch_snap_far_02.wav",
+      "seconds": 1.2460416666666667,
+      "rms": 0.015599388317163688,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "branch_snap_far_03",
+      "file": "Assets/Audio/SFX/Environment/branch_snap_far_03.wav",
+      "seconds": 1.3413125,
+      "rms": 0.012892897981242064,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tree_creak_01",
+      "file": "Assets/Audio/SFX/Environment/tree_creak_01.wav",
+      "seconds": 3.5859791666666667,
+      "rms": 0.08246383271120572,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tree_creak_02",
+      "file": "Assets/Audio/SFX/Environment/tree_creak_02.wav",
+      "seconds": 3.37025,
+      "rms": 0.04615973762547028,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "tree_creak_03",
+      "file": "Assets/Audio/SFX/Environment/tree_creak_03.wav",
+      "seconds": 3.5898541666666666,
+      "rms": 0.089186436397685,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "sting_mirror_01",
+      "file": "Assets/Audio/SFX/Environment/sting_mirror_01.wav",
+      "seconds": 1.4227291666666666,
+      "rms": 0.11492311129907586,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "sting_mirror_02",
+      "file": "Assets/Audio/SFX/Environment/sting_mirror_02.wav",
+      "seconds": 1.36475,
+      "rms": 0.16805230292088894,
+      "peak": 0.593536376953125,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -4.531053172743034
+    },
+    {
+      "name": "glass_shatter_mirror_01",
+      "file": "Assets/Audio/SFX/Environment/glass_shatter_mirror_01.wav",
+      "seconds": 1.3171666666666666,
+      "rms": 0.03474866079256231,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "glass_shatter_mirror_02",
+      "file": "Assets/Audio/SFX/Environment/glass_shatter_mirror_02.wav",
+      "seconds": 2.5991666666666666,
+      "rms": 0.02542935296459787,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "wall_crack_01",
+      "file": "Assets/Audio/SFX/Environment/wall_crack_01.wav",
+      "seconds": 3.6498541666666666,
+      "rms": 0.030918866408883628,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "wall_crack_02",
+      "file": "Assets/Audio/SFX/Environment/wall_crack_02.wav",
+      "seconds": 3.4543958333333333,
+      "rms": 0.025047329614736616,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "wall_crack_03",
+      "file": "Assets/Audio/SFX/Environment/wall_crack_03.wav",
+      "seconds": 3.1386458333333334,
+      "rms": 0.03059658694437299,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "bricks_fall_01",
+      "file": "Assets/Audio/SFX/Environment/bricks_fall_01.wav",
+      "seconds": 3.5874166666666665,
+      "rms": 0.01666498711906839,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "bricks_fall_02",
+      "file": "Assets/Audio/SFX/Environment/bricks_fall_02.wav",
+      "seconds": 3.8334166666666665,
+      "rms": 0.02189119649496507,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "bricks_fall_03",
+      "file": "Assets/Audio/SFX/Environment/bricks_fall_03.wav",
+      "seconds": 3.5157708333333333,
+      "rms": 0.020563209987310097,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "light_flicker_01",
+      "file": "Assets/Audio/SFX/Environment/light_flicker_01.wav",
+      "seconds": 2.0,
+      "rms": 0.06955000068089526,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "light_flicker_02",
+      "file": "Assets/Audio/SFX/Environment/light_flicker_02.wav",
+      "seconds": 2.0,
+      "rms": 0.20092187223454522,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "light_flicker_03",
+      "file": "Assets/Audio/SFX/Environment/light_flicker_03.wav",
+      "seconds": 2.0,
+      "rms": 0.17052659526323538,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "bulb_die_01",
+      "file": "Assets/Audio/SFX/Environment/bulb_die_01.wav",
+      "seconds": 1.48,
+      "rms": 0.04106768909048647,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "bulb_die_02",
+      "file": "Assets/Audio/SFX/Environment/bulb_die_02.wav",
+      "seconds": 0.7489375,
+      "rms": 0.02823637470898919,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "bulb_die_03",
+      "file": "Assets/Audio/SFX/Environment/bulb_die_03.wav",
+      "seconds": 1.48,
+      "rms": 0.0910853890417664,
+      "peak": 0.64654541015625,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -3.7880193402595435
+    },
+    {
+      "name": "power_down_01",
+      "file": "Assets/Audio/SFX/Environment/power_down_01.wav",
+      "seconds": 2.0,
+      "rms": 0.0647780471766657,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "power_down_02",
+      "file": "Assets/Audio/SFX/Environment/power_down_02.wav",
+      "seconds": 2.0,
+      "rms": 0.09169598809267317,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "power_down_03",
+      "file": "Assets/Audio/SFX/Environment/power_down_03.wav",
+      "seconds": 2.0,
+      "rms": 0.18930457095954567,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "cold_gust_01",
+      "file": "Assets/Audio/SFX/Environment/cold_gust_01.wav",
+      "seconds": 2.6647291666666666,
+      "rms": 0.11783175674094387,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "cold_gust_02",
+      "file": "Assets/Audio/SFX/Environment/cold_gust_02.wav",
+      "seconds": 2.203145833333333,
+      "rms": 0.09169544615925175,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "cold_gust_03",
+      "file": "Assets/Audio/SFX/Environment/cold_gust_03.wav",
+      "seconds": 1.7794375,
+      "rms": 0.14598955391594587,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_creak_alone_01",
+      "file": "Assets/Audio/SFX/Environment/door_creak_alone_01.wav",
+      "seconds": 3.715125,
+      "rms": 0.05609917681105067,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_creak_alone_02",
+      "file": "Assets/Audio/SFX/Environment/door_creak_alone_02.wav",
+      "seconds": 3.802979166666667,
+      "rms": 0.10331002413980961,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "door_creak_alone_03",
+      "file": "Assets/Audio/SFX/Environment/door_creak_alone_03.wav",
+      "seconds": 3.6778541666666666,
+      "rms": 0.04245293744060772,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "small_steps_far_01",
+      "file": "Assets/Audio/SFX/Environment/small_steps_far_01.wav",
+      "seconds": 2.947229166666667,
+      "rms": 0.02885810966747199,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "small_steps_far_02",
+      "file": "Assets/Audio/SFX/Environment/small_steps_far_02.wav",
+      "seconds": 3.0,
+      "rms": 0.03253405041755394,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "small_steps_far_03",
+      "file": "Assets/Audio/SFX/Environment/small_steps_far_03.wav",
+      "seconds": 3.0,
+      "rms": 0.04132769192092636,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "hand_on_glass_01",
+      "file": "Assets/Audio/SFX/Environment/hand_on_glass_01.wav",
+      "seconds": 1.8406041666666666,
+      "rms": 0.11537421317795453,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "hand_on_glass_02",
+      "file": "Assets/Audio/SFX/Environment/hand_on_glass_02.wav",
+      "seconds": 2.0,
+      "rms": 0.13782543309753947,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "hand_on_glass_03",
+      "file": "Assets/Audio/SFX/Environment/hand_on_glass_03.wav",
+      "seconds": 2.0,
+      "rms": 0.09639225311407562,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "glass_resonance_01",
+      "file": "Assets/Audio/SFX/Environment/glass_resonance_01.wav",
+      "seconds": 2.8528125,
+      "rms": 0.17448537716446227,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "glass_resonance_02",
+      "file": "Assets/Audio/SFX/Environment/glass_resonance_02.wav",
+      "seconds": 2.94825,
+      "rms": 0.198414244475169,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "glass_resonance_03",
+      "file": "Assets/Audio/SFX/Environment/glass_resonance_03.wav",
+      "seconds": 2.938875,
+      "rms": 0.18479650748139864,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "mirror_delay_tone",
+      "file": "Assets/Audio/SFX/Environment/mirror_delay_tone.wav",
+      "seconds": 3.8412291666666665,
+      "rms": 0.11229437800649902,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "room_warm_swell_01",
+      "file": "Assets/Audio/Ambience/room_warm_swell_01.ogg",
+      "seconds": 4.138520833333334,
+      "rms": 0.020516888085394758,
+      "peak": 0.10875113308429718,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -19.27132418821239,
+      "measured_lufs": -29.95,
+      "target_lufs": -30
+    },
+    {
+      "name": "room_warm_swell_02",
+      "file": "Assets/Audio/Ambience/room_warm_swell_02.ogg",
+      "seconds": 3.39125,
+      "rms": 0.02000477176093164,
+      "peak": 0.09628671407699585,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -20.328672679339086,
+      "measured_lufs": -29.97,
+      "target_lufs": -30
+    },
+    {
+      "name": "room_warm_swell_03",
+      "file": "Assets/Audio/Ambience/room_warm_swell_03.ogg",
+      "seconds": 3.5500833333333333,
+      "rms": 0.019708199886799557,
+      "peak": 0.1120109111070633,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -19.014793403242123,
+      "measured_lufs": -29.95,
+      "target_lufs": -30
+    },
+    {
+      "name": "intercom_on",
+      "file": "Assets/Audio/SFX/Environment/intercom_on.wav",
+      "seconds": 0.9297291666666667,
+      "rms": 0.047100557077878184,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "intercom_off",
+      "file": "Assets/Audio/SFX/Environment/intercom_off.wav",
+      "seconds": 0.551375,
+      "rms": 0.039970327169992215,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "radio_static",
+      "file": "Assets/Audio/SFX/Radio/radio_static.ogg",
+      "seconds": 20.0,
+      "rms": 0.019223715878399012,
+      "peak": 0.12119387090206146,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -18.330386860939313,
+      "seam": {
+        "amplitude_jump": 0.004199317656457424,
+        "phase_correlation": 0.10988926143022303,
+        "rms_ratio": 1.1005088315029288,
+        "suspect": false
+      },
+      "measured_lufs": -30.34,
+      "target_lufs": -30
+    },
+    {
+      "name": "radio_tune_sweep",
+      "file": "Assets/Audio/SFX/Radio/radio_tune_sweep.wav",
+      "seconds": 2.6335208333333333,
+      "rms": 0.024837942813219518,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "radio_button",
+      "file": "Assets/Audio/SFX/Radio/radio_button.wav",
+      "seconds": 0.4,
+      "rms": 0.05249362590718014,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "car_door_open",
+      "file": "Assets/Audio/SFX/Environment/car_door_open.wav",
+      "seconds": 1.2,
+      "rms": 0.04619008183719351,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "car_door_close",
+      "file": "Assets/Audio/SFX/Environment/car_door_close.wav",
+      "seconds": 0.5445833333333333,
+      "rms": 0.06913997084987443,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "car_engine_start",
+      "file": "Assets/Audio/SFX/Environment/car_engine_start.wav",
+      "seconds": 3.0,
+      "rms": 0.08880653224600174,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "car_engine_stop",
+      "file": "Assets/Audio/SFX/Environment/car_engine_stop.wav",
+      "seconds": 2.0,
+      "rms": 0.09870207049862302,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "car_seatbelt",
+      "file": "Assets/Audio/SFX/Environment/car_seatbelt.wav",
+      "seconds": 1.1412708333333332,
+      "rms": 0.017745851323787934,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "car_turn_signal",
+      "file": "Assets/Audio/SFX/Environment/car_turn_signal.ogg",
+      "seconds": 6.0,
+      "rms": 0.03575112340217729,
+      "peak": 0.5350816249847412,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -5.431599253912475,
+      "seam": {
+        "amplitude_jump": 0.0008585620671510696,
+        "phase_correlation": 0.07609904050519041,
+        "rms_ratio": 1.273991082150155,
+        "suspect": false
+      },
+      "measured_lufs": -30.1,
+      "target_lufs": -30
+    },
+    {
+      "name": "pc_power_button",
+      "file": "Assets/Audio/SFX/PC/pc_power_button.wav",
+      "seconds": 0.1331875,
+      "rms": 0.05655458558079766,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "pc_fan",
+      "file": "Assets/Audio/SFX/PC/pc_fan.ogg",
+      "seconds": 20.0,
+      "rms": 0.02458171998175769,
+      "peak": 0.1247672438621521,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -18.077988369539842,
+      "seam": {
+        "amplitude_jump": 0.00136591587215662,
+        "phase_correlation": -0.06764750288338608,
+        "rms_ratio": 1.1224130127482446,
+        "suspect": false
+      },
+      "measured_lufs": -30.1,
+      "target_lufs": -30
+    },
+    {
+      "name": "crt_hum",
+      "file": "Assets/Audio/SFX/PC/crt_hum.ogg",
+      "seconds": 20.0,
+      "rms": 0.020778130848707062,
+      "peak": 0.1231105849146843,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -18.194092105888394,
+      "seam": {
+        "amplitude_jump": 0.009244302287697792,
+        "phase_correlation": -0.3364223578816486,
+        "rms_ratio": 1.174085749609338,
+        "suspect": false
+      },
+      "measured_lufs": -30.24,
+      "target_lufs": -30
+    },
+    {
+      "name": "crt_degauss",
+      "file": "Assets/Audio/SFX/PC/crt_degauss.wav",
+      "seconds": 1.0,
+      "rms": 0.19792529633582998,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "crt_static",
+      "file": "Assets/Audio/SFX/PC/crt_static.ogg",
+      "seconds": 15.0,
+      "rms": 0.016455096387997376,
+      "peak": 0.08607615530490875,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -21.302342790605863,
+      "seam": {
+        "amplitude_jump": 0.009970054670702666,
+        "phase_correlation": 0.026016651787750276,
+        "rms_ratio": 1.072930249580081,
+        "suspect": false
+      },
+      "measured_lufs": -30.37,
+      "target_lufs": -30
+    },
+    {
+      "name": "hdd_seek",
+      "file": "Assets/Audio/SFX/PC/hdd_seek.wav",
+      "seconds": 1.48,
+      "rms": 0.013325532605193742,
+      "peak": 0.249114990234375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -12.072002769205955
+    },
+    {
+      "name": "hdd_boot",
+      "file": "Assets/Audio/SFX/PC/hdd_boot.wav",
+      "seconds": 5.0,
+      "rms": 0.0174153982469272,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "bios_beep",
+      "file": "Assets/Audio/SFX/PC/bios_beep.wav",
+      "seconds": 0.20239583333333333,
+      "rms": 0.27974881977947424,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "pc_boot_jingle",
+      "file": "Assets/Audio/SFX/PC/pc_boot_jingle.wav",
+      "seconds": 2.6142916666666665,
+      "rms": 0.1376230468925844,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "keyboard_typing",
+      "file": "Assets/Audio/SFX/PC/keyboard_typing.wav",
+      "seconds": 2.9438125,
+      "rms": 0.03327413902755072,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "mouse_click",
+      "file": "Assets/Audio/SFX/PC/mouse_click.wav",
+      "seconds": 0.1789375,
+      "rms": 0.04776477634947805,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "mouse_click_double",
+      "file": "Assets/Audio/SFX/PC/mouse_click_double.wav",
+      "seconds": 0.27908333333333335,
+      "rms": 0.029907285800888445,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "error_beep",
+      "file": "Assets/Audio/SFX/PC/error_beep.wav",
+      "seconds": 0.13014583333333332,
+      "rms": 0.2641456299049774,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "notify_soft",
+      "file": "Assets/Audio/SFX/PC/notify_soft.wav",
+      "seconds": 0.8,
+      "rms": 0.07728026360622596,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "phone_vibrate_soft",
+      "file": "Assets/Audio/SFX/Phone/phone_vibrate_soft.wav",
+      "seconds": 1.4787916666666667,
+      "rms": 0.22535273342393772,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "phone_vibrate_strong",
+      "file": "Assets/Audio/SFX/Phone/phone_vibrate_strong.wav",
+      "seconds": 2.6515625,
+      "rms": 0.18262277356078319,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "phone_notify",
+      "file": "Assets/Audio/SFX/Phone/phone_notify.wav",
+      "seconds": 0.35639583333333336,
+      "rms": 0.12100427885578086,
+      "peak": 0.582000732421875,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -4.70152937619197
+    },
+    {
+      "name": "phone_message_sent",
+      "file": "Assets/Audio/SFX/Phone/phone_message_sent.wav",
+      "seconds": 0.0868125,
+      "rms": 0.07212899552934504,
+      "peak": 0.524139404296875,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -5.611063784562598
+    },
+    {
+      "name": "phone_typing_dots",
+      "file": "Assets/Audio/SFX/Phone/phone_typing_dots.wav",
+      "seconds": 1.93825,
+      "rms": 0.03757300563442521,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "office_phone_ring",
+      "file": "Assets/Audio/SFX/Environment/office_phone_ring.ogg",
+      "seconds": 6.0,
+      "rms": 0.015044705530553124,
+      "peak": 0.17661656439304352,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -15.059371350713784,
+      "seam": {
+        "amplitude_jump": 0.00030750118457945064,
+        "phase_correlation": -0.03640915688370626,
+        "rms_ratio": 1.0438031081064147,
+        "suspect": false
+      },
+      "measured_lufs": -30.21,
+      "target_lufs": -30
+    },
+    {
+      "name": "siren_police_pass",
+      "file": "Assets/Audio/SFX/Environment/siren_police_pass.ogg",
+      "seconds": 8.722520833333334,
+      "rms": 0.022247112929968373,
+      "peak": 0.1551605463027954,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -16.184373999347354,
+      "measured_lufs": -30.13,
+      "target_lufs": -30
+    },
+    {
+      "name": "siren_ambulance_pass",
+      "file": "Assets/Audio/SFX/Environment/siren_ambulance_pass.ogg",
+      "seconds": 8.666333333333334,
+      "rms": 0.023491097736359295,
+      "peak": 0.20758439600467682,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -13.656105905080407,
+      "measured_lufs": -30.74,
+      "target_lufs": -30
+    },
+    {
+      "name": "siren_far",
+      "file": "Assets/Audio/SFX/Environment/siren_far.ogg",
+      "seconds": 25.00025,
+      "rms": 0.03821586441038617,
+      "peak": 0.220122292637825,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -13.146719450674716,
+      "seam": {
+        "amplitude_jump": 0.06646119640208781,
+        "phase_correlation": 0.31600937736073825,
+        "rms_ratio": 1.1009776200967032,
+        "suspect": false
+      },
+      "measured_lufs": -30.06,
+      "target_lufs": -30
+    },
+    {
+      "name": "tv_room_tone",
+      "file": "Assets/Audio/SFX/Environment/tv_room_tone.ogg",
+      "seconds": 20.0,
+      "rms": 0.04482367286694872,
+      "peak": 0.18689213693141937,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -14.568179404112096,
+      "seam": {
+        "amplitude_jump": 0.004712327383458614,
+        "phase_correlation": 0.15313642398107719,
+        "rms_ratio": 1.2959822229359534,
+        "suspect": false
+      },
+      "measured_lufs": -30.02,
+      "target_lufs": -30
+    },
+    {
+      "name": "bad_end_wind",
+      "file": "Assets/Audio/SFX/Environment/bad_end_wind.ogg",
+      "seconds": 25.00025,
+      "rms": 0.04896904921076787,
+      "peak": 0.23967579007148743,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -12.407516646767064,
+      "seam": {
+        "amplitude_jump": 0.03455435356590897,
+        "phase_correlation": -0.6002939833993064,
+        "rms_ratio": 1.0832129660612242,
+        "suspect": false
+      },
+      "measured_lufs": -30.03,
+      "target_lufs": -30
+    },
+    {
+      "name": "door_far_close",
+      "file": "Assets/Audio/SFX/Environment/door_far_close.wav",
+      "seconds": 3.0,
+      "rms": 0.0508762310609256,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "demolition_far",
+      "file": "Assets/Audio/SFX/Environment/demolition_far.ogg",
+      "seconds": 14.866791666666666,
+      "rms": 0.03080768116122287,
+      "peak": 0.26849833130836487,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -11.42116818110014,
+      "measured_lufs": -30.63,
+      "target_lufs": -30
+    },
+    {
+      "name": "chair_slide_empty_room",
+      "file": "Assets/Audio/SFX/Environment/chair_slide_empty_room.wav",
+      "seconds": 1.3988125,
+      "rms": 0.12403145053590998,
+      "peak": 0.70794677734375,
+      "channels": 1,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "ui_click",
+      "file": "Assets/Audio/SFX/UI/ui_click.wav",
+      "seconds": 0.2,
+      "rms": 0.04380256553946818,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "ui_hover",
+      "file": "Assets/Audio/SFX/UI/ui_hover.wav",
+      "seconds": 0.2,
+      "rms": 0.1896688041699599,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "card_open",
+      "file": "Assets/Audio/SFX/UI/card_open.wav",
+      "seconds": 0.8,
+      "rms": 0.026556165629646144,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "objective_check",
+      "file": "Assets/Audio/SFX/UI/objective_check.wav",
+      "seconds": 0.8,
+      "rms": 0.047544623968226105,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "hud_swap",
+      "file": "Assets/Audio/SFX/UI/hud_swap.wav",
+      "seconds": 0.3682708333333333,
+      "rms": 0.11333815716917434,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    },
+    {
+      "name": "inspect_open",
+      "file": "Assets/Audio/SFX/UI/inspect_open.wav",
+      "seconds": 0.31485416666666666,
+      "rms": 0.15388749961353237,
+      "peak": 0.70794677734375,
+      "channels": 2,
+      "sample_rate": 48000,
+      "peak_dbfs": -2.9999878172428636
+    }
+  ],
+  "errors": [],
+  "licensing": "FREE; non-commercial; attribution required",
+  "list_prompt_changes": [],
+  "generated": 314,
+  "processed_seconds": 1228.914,
+  "loops": 33,
+  "human_listening": "NÃO VERIFICADO"
+}

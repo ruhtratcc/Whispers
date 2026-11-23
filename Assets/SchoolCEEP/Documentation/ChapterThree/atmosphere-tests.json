@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "duration": 0.24,
+  "summary": {
+    "total": 2,
+    "passed": 2,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolAtmosphereEditTests.AmbientClockDoesNotTickOutsideSchool",
+      "Status": "Passed",
+      "Duration": 0.0132748,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolAtmosphereEditTests.PauseFreezesSchoolClockAndSingleFaultRestoresFixture",
+      "Status": "Passed",
+      "Duration": 0.0036661,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

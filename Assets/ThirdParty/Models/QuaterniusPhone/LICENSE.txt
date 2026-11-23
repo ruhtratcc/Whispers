@@ -1,0 +1,5 @@
+Phone — Quaternius
+CC0 1.0 Universal
+https://poly.pizza/m/k2kgBepoMU
+https://creativecommons.org/publicdomain/zero/1.0/
+Original GLB preserved. Unity mesh conversion, physical scale and material adaptation for URP.

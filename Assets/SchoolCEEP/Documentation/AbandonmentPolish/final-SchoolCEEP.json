@@ -1,0 +1,27 @@
+{
+  "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+  "dirty": false,
+  "play": false,
+  "compiling": false,
+  "missingScripts": 0,
+  "missingMeshes": 0,
+  "missingMaterials": 0,
+  "unsupportedShaders": [],
+  "shaderErrors": [],
+  "gameSessions": 1,
+  "cameras": 1,
+  "players": 1,
+  "enemies": 0,
+  "duplicatePersistentIds": [],
+  "emptyPersistentIds": 0,
+  "storyErrors": [],
+  "horrorFilter": true,
+  "chapterIndex": 2,
+  "saturation": 0.5,
+  "temporaryObjects": [],
+  "position": {
+    "x": 0.55739,
+    "y": 0.689,
+    "z": 21.25
+  }
+}

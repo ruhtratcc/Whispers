@@ -1,0 +1,605 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de2abc8f816500b409745f31eb0890e2, type: 3}
+  m_Name: Messages
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.PhoneMessageCatalog
+  messages:
+  - id: road.01
+    trigger: 0
+    text: "A porta da secretaria est\xE1 aberta."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: road.02
+    trigger: 0
+    text: Eu deixei a luz acesa.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: road.03
+    trigger: 0
+    text: "n\xE3o vem"
+    child: 1
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: road.04
+    trigger: 0
+    text: Eu ouvi o senhor ligando o carro.
+    child: 0
+    prematureRead: 1
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: road.ignored
+    trigger: 1
+    text: O senhor sempre deixa para depois.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: secretary.hello
+    trigger: 2
+    text: "Boa noite, Jo\xE3o. Fico feliz que tenha vindo."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: secretary.photo
+    trigger: 2
+    text: 
+    child: 0
+    prematureRead: 0
+    photo: 1
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 2800000, guid: ce6f50803f171394c9d1ed61ee416d06, type: 3}
+  - id: secretary.who
+    trigger: 2
+    text: "Quem \xE9 esse na porta?"
+    child: 0
+    prematureRead: 1
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 8
+    image: {fileID: 0}
+  - id: library.warning
+    trigger: 3
+    text: "n\xE3o responde ela"
+    child: 1
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: marta
+    trigger: 4
+    text: "Ela desenhava o senhor de costas. J\xE1 reparou?"
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: caio
+    trigger: 5
+    text: Ele ainda bate. O senhor ouviu?
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: luan
+    trigger: 6
+    text: Todos se sentaram para comer. Faltou uma cadeira.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: bia
+    trigger: 7
+    text: "Ela fala demais. N\xE3o acredite em tudo."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: four.gathered
+    trigger: 8
+    text: "Muito bem. Suba, por favor. \xC9 r\xE1pido."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: loop.left
+    trigger: 9
+    text: "O senhor virou \xE0 esquerda. Eu preferiria que n\xE3o."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: loop.whistle
+    trigger: 9
+    text: "N\xE3o precisa do apito. Eu guio o senhor."
+    child: 0
+    prematureRead: 1
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 10
+    image: {fileID: 0}
+  - id: loop.child
+    trigger: 10
+    text: "n\xE3o vai por a\xED"
+    child: 1
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: loop.photo
+    trigger: 10
+    text: 
+    child: 0
+    prematureRead: 0
+    photo: 1
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 2800000, guid: 9aec24b8f42e82d4289444c41738a111, type: 3}
+  - id: mirror.before
+    trigger: 11
+    text: "O espelho est\xE1 bonito, n\xE3o est\xE1?"
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: ending.refuse
+    trigger: 12
+    text: O senhor ainda pode ficar.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 1
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: ending.sign
+    trigger: 13
+    text: "Obrigada por ficar, seu Jo\xE3o."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.road.0.sent
+    trigger: 0
+    text: "Quem \xE9 voc\xEA?"
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 1
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.road.0.answer
+    trigger: 0
+    text: A Helena mandou avisar.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.road.1.sent
+    trigger: 0
+    text: "Como voc\xEA sabe meu n\xFAmero?"
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 1
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.road.1.answer
+    trigger: 0
+    text: O senhor me deu faz tempo.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.secretary.0.sent
+    trigger: 2
+    text: Sou eu. Estou na secretaria.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 1
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.secretary.0.answer
+    trigger: 2
+    text: Eu sei. Olhe de novo.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.objects.0.sent
+    trigger: 4
+    text: Para de me mandar mensagem.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 1
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.objects.0.answer
+    trigger: 4
+    text: "N\xE3o posso parar."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.objects.1.sent
+    trigger: 4
+    text: O que aconteceu com eles?
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 1
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.objects.1.answer
+    trigger: 4
+    text: O senhor sabe.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.loop.0.sent
+    trigger: 9
+    text: "Eu n\xE3o confio em voc\xEA."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 1
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.loop.0.answer
+    trigger: 9
+    text: "Ainda n\xE3o."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.mirror.0.sent
+    trigger: 11
+    text: "N\xE3o."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 1
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.mirror.0.answer
+    trigger: 11
+    text: Tudo bem.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.mirror.1.sent
+    trigger: 11
+    text: Quero ver os quatro.
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 1
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: reply.mirror.1.answer
+    trigger: 11
+    text: "Est\xE3o atr\xE1s dele."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 1
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: route.library.key
+    trigger: 2
+    text: "A chave da biblioteca est\xE1 na lancheira. Eu a deixei na gaveta, seu Jo\xE3o."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: route.four.hint
+    trigger: 18
+    text: "Procure o caderno na sala de artes, 03B. Depois o bon\xE9 no banheiro, a marmita no refeit\xF3rio e a fita na Inform\xE1tica A. O senhor ainda sabe ouvir?"
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: route.loop.hint
+    trigger: 19
+    text: "n\xE3o vai atr\xE1s da voz bonita. escuta baixinho nas portas do lado."
+    child: 1
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: zone.library
+    trigger: 14
+    text: "Os registros ficaram na mesa. Eu n\xE3o consegui guardar tudo."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: zone.canteen
+    trigger: 15
+    text: "A marmita do Luan ainda est\xE1 a\xED. Tome cuidado com as coisas dele."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: zone.stairs
+    trigger: 16
+    text: "Suba quando estiver pronto, seu Jo\xE3o. Eu espero."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: zone.mirror
+    trigger: 17
+    text: "n\xE3o responde ela"
+    child: 1
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: zone.arts
+    trigger: 20
+    text: "a Marta desenhava pra n\xE3o esquecer."
+    child: 1
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  - id: zone.computing
+    trigger: 21
+    text: "A Bia deixou o gravador. Ou\xE7a at\xE9 o fim."
+    child: 0
+    prematureRead: 0
+    photo: 0
+    onlyWhenOpened: 0
+    replyOnly: 0
+    outgoing: 0
+    typingSeconds: 0
+    image: {fileID: 0}
+  exchanges:
+  - id: road
+    afterMessageId: road.04
+    afterAny: []
+    automatic: 0
+    sentIds:
+    - reply.road.0.sent
+    - reply.road.1.sent
+    responseIds:
+    - reply.road.0.answer
+    - reply.road.1.answer
+  - id: secretary
+    afterMessageId: secretary.who
+    afterAny: []
+    automatic: 1
+    sentIds:
+    - reply.secretary.0.sent
+    responseIds:
+    - reply.secretary.0.answer
+  - id: objects
+    afterMessageId: marta
+    afterAny:
+    - marta
+    - caio
+    - luan
+    - bia
+    automatic: 0
+    sentIds:
+    - reply.objects.0.sent
+    - reply.objects.1.sent
+    responseIds:
+    - reply.objects.0.answer
+    - reply.objects.1.answer
+  - id: loop
+    afterMessageId: loop.left
+    afterAny: []
+    automatic: 1
+    sentIds:
+    - reply.loop.0.sent
+    responseIds:
+    - reply.loop.0.answer
+  - id: mirror
+    afterMessageId: mirror.before
+    afterAny: []
+    automatic: 0
+    sentIds:
+    - reply.mirror.0.sent
+    - reply.mirror.1.sent
+    responseIds:
+    - reply.mirror.0.answer
+    - reply.mirror.1.answer
+  font: {fileID: 11400000, guid: ba502ba0a8b2b83428782a7e0371c47b, type: 2}
+  childFont: {fileID: 11400000, guid: bcbdb225c1a3a0d4ea3d64e8319e489b, type: 2}
+  roundedPanel: {fileID: 21300000, guid: 6c36f5178dd5d6b43811991e4e5736b5, type: 3}
+  icon: {fileID: 21300000, guid: ab466dc4f009ce94a9996731d52e95fe, type: 3}
+  windowDot: {fileID: -7270648074582735234, guid: 8d5dea09e5df7714e9f5deef32724b46, type: 3}
+  notification: {fileID: 11400000, guid: 628d156698f805c44aa825818f9a2510, type: 2}
+  vibration: {fileID: 11400000, guid: 2d3e87ca64b05a441bb0389de7a94437, type: 2}
+  typing: {fileID: 11400000, guid: ec92f241b213e404d800ed2351371780, type: 2}
+  appName: Mensagens
+  sender: "N\xFAmero desconhecido"
+  number: (00) 00307-0307
+  now: agora
+  today: Hoje
+  read: Lida
+  typingLabel: "digitando\u2026"
+  composer: Mensagem
+  autoTyped: 
+  noSignal: Sem sinal
+  close: 'Fechar [P / Esc]'
+  soundCaption: "[notifica\xE7\xE3o no celular]"
+  photoPlaceholder: "FOTO PROVIS\xD3RIA \u2014 imagem ainda n\xE3o dispon\xEDvel"
+  singleMessage: 1 mensagem
+  multipleMessages: '{0} mensagens'
+  empty: Nenhuma mensagem por enquanto.
+  viewMessage: Ver mensagem
+  sending: "Enviando\u2026"
+  delivered: Entregue
+  signal: 'Sinal: 3/4'
+  messagesRead: Mensagens lidas
+  newMessages: Novas mensagens
+  inventoryTitle: Mensagens no celular
+  inventoryText: "Um n\xFAmero desconhecido escreveu no celular."
+  batteryPercent: 76

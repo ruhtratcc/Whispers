@@ -1,0 +1,62 @@
+{
+  "status": "completed",
+  "duration": 0.67,
+  "summary": {
+    "total": 7,
+    "passed": 7,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSharedTests.AcceptedShocksInEachFinalChapterAreUniquePausedAndSilentOnRestore",
+      "Status": "Passed",
+      "Duration": 0.0561384,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSharedTests.BothSameSceneHandoffsCaptureTheirBaselineAfterWorldRestorationAndKeepSchoolExposure",
+      "Status": "Passed",
+      "Duration": 0.0415328,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSharedTests.BuiltInEndingCompletesTheFinalStoryWithoutAnotherSceneOrChapter",
+      "Status": "Passed",
+      "Duration": 0.4055676,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSharedTests.LastExitRetryKeepsCompletedSixAndResetsOnlyTheCurrentFinalChapter",
+      "Status": "Passed",
+      "Duration": 0.0392008,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSharedTests.SavedLastExitBaselineDoesNotMoveToTheLaterCheckpoint",
+      "Status": "Passed",
+      "Duration": 0.0428655,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSharedTests.SavedTerraceBaselineDoesNotMoveToTheLaterCheckpoint",
+      "Status": "Passed",
+      "Duration": 0.0388448,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSharedTests.TerraceRetryResetsOnlySixAndKeepsEveryIncomingChapterFiveDiscovery",
+      "Status": "Passed",
+      "Duration": 0.0390109,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

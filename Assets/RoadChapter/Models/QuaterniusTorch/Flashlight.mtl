@@ -1,0 +1,25 @@
+# Static GLB conversion; original PBR definitions in Materials.json
+newmtl Yellow
+Kd 0.219061 0.149523 0.0435209
+d 1
+Ns 149.738
+Ke 0 0 0
+
+newmtl Black
+Kd 0.0264811 0.0264811 0.0264811
+d 1
+Ns 149.738
+Ke 0 0 0
+
+newmtl LightBlue
+Kd 0.297562 0.396651 0.510612
+d 1
+Ns 149.738
+Ke 0 0 0
+
+newmtl DarkYellow
+Kd 0.147573 0.101462 0.0305191
+d 1
+Ns 149.738
+Ke 0 0 0
+

@@ -1,0 +1,191 @@
+# Pendências e campos opcionais
+
+- Quatro imagens dos casos: aguardando o usuário; placeholders identificados em Cases/caso_01..04.png. Não gerar conteúdo para elas.
+- Novas vozes de João: quatro respostas e seis reações da secretaria; legendas provisórias, sem TTS.
+- Capturas usam silhueta técnica adulta; acabamento de personagem humano final NÃO VERIFICADO. Nenhuma foto de criança real foi gerada.
+- Decals e colagem estão produzidos/importados. Aplicação em superfícies que não tinham slot seguro foi preservada e fica discriminada abaixo; não substituí malhas sem UV por uma textura arbitrária.
+- OCR integral de todas as imagens históricas para CEEP: NÃO VERIFICADO. Novas artes não contêm esse texto; placa SEEPE gerada por código, manchete e texto visível atuais SEEPE.
+
+## Arquivos pendentes
+
+Nenhum arquivo obrigatório ausente além dos quatro casos.
+
+## Disponíveis / sem superfície compatível
+
+- Assets/ThirdParty/Images/ | attach_school_day_lit | Email 06 não tem anexo; estrutura narrativa preservada.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | decoração | Nenhuma geometria criada.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | decoração | Nenhuma geometria criada.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | decoração | Nenhuma geometria criada.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | decoração | Nenhuma geometria criada.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | decoração | Nenhuma geometria criada.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | decoração | Nenhuma geometria criada.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | decoração | Nenhuma geometria criada.
+- Assets/ChapterOneOffice/Scenes/Chapter1Office.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | decoração | Nenhuma geometria criada.
+- Assets/SchoolCEEP/Scenes/SchoolCEEP.unity | lousa | Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura.
+- Assets/ThirdParty/Images/wall_school_lit_4x3_2048.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/photo_school_facade_bw.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/sign_seepe_facade.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/tex_decal_cracks_mirror.png | uso | Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida.
+- Assets/ThirdParty/Images/tex_decal_handprint_glass.png | uso | Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida.
+- Assets/ThirdParty/Images/tex_decal_footprints_small.png | uso | Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida.
+- Assets/ThirdParty/Images/icon_check.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/icon_lock.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/foto_escritorio.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/InspectionDetails/secretary_footprint_mask.png | uso | GUID preservado; materiais existentes continuam referenciando esta máscara.
+- Assets/ThirdParty/Images/tex_chalkboard_01.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/drawing_wall_01.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/tex_chalkboard_02.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/drawing_wall_02.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/tex_chalkboard_03.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/drawing_wall_03.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/tex_decal_dirt_01.png | uso | Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida.
+- Assets/ThirdParty/Images/tex_decal_dirt_02.png | uso | Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida.
+- Assets/ThirdParty/Images/tex_decal_dirt_03.png | uso | Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida.
+- Assets/ThirdParty/Images/tex_decal_dirt_04.png | uso | Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida.
+- Assets/ThirdParty/Images/poster_school_01.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/poster_school_02.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/poster_school_03.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/poster_school_04.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/poster_school_05.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/poster_school_06.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/poster_school_07.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/poster_school_08.png | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+- Assets/ThirdParty/Images/attach_school_day_lit.jpg | uso | Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos.
+
+## Campos opcionais sem GUID no inventário inicial
+
+- Assets/HorrorGameplay/Email/BeforeDemolitionEmails.asset:127 | relatorio_2006.pdf.preview | null_optional_or_missing
+- Assets/HorrorGameplay/Email/BeforeDemolitionEmails.asset:130 | relatorio_2via.pdf.preview | null_optional_or_missing
+- Assets/HorrorGameplay/Email/BeforeDemolitionEmails.asset:133 | foto_escritorio.jpg.preview | null_optional_or_missing
+- Assets/HorrorGameplay/ItemInspection/Data/old_key.asset:24 | old_key.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/ItemInspection/Data/old_key.asset:25 | old_key.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionOfficeEmails.asset:127 | relatorio_2006.pdf.preview | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionOfficeEmails.asset:130 | relatorio_2via.pdf.preview | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/ClosedCaseReport.asset:24 | bd.case.report.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/ClosedCaseReport.asset:25 | bd.case.report.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/LuanWhistle.asset:24 | bd.whistle.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/LuanWhistle.asset:25 | bd.whistle.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/CRTDesktop/DesktopContent.asset:83 | report.2006.texture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/CRTDesktop/DesktopContent.asset:104 | case.closed.texture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:26 | road.01.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:37 | road.02.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:48 | road.03.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:59 | road.04.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:70 | road.ignored.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:81 | secretary.hello.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:92 | secretary.photo.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:103 | secretary.who.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:114 | library.warning.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:125 | marta.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:136 | caio.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:147 | luan.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:158 | bia.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:169 | four.gathered.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:180 | loop.left.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:191 | loop.whistle.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:202 | loop.child.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:213 | loop.photo.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:224 | mirror.before.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:235 | ending.refuse.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:246 | ending.sign.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:257 | reply.road.0.sent.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:268 | reply.road.0.answer.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:279 | reply.road.1.sent.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:290 | reply.road.1.answer.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:301 | reply.secretary.0.sent.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:312 | reply.secretary.0.answer.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:323 | reply.objects.0.sent.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:334 | reply.objects.0.answer.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:345 | reply.objects.1.sent.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:356 | reply.objects.1.answer.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:367 | reply.loop.0.sent.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:378 | reply.loop.0.answer.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:389 | reply.mirror.0.sent.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:400 | reply.mirror.0.answer.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:411 | reply.mirror.1.sent.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:422 | reply.mirror.1.answer.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:433 | route.library.key.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:444 | route.four.hint.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:455 | route.loop.hint.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:466 | zone.library.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:477 | zone.canteen.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:488 | zone.stairs.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:499 | zone.mirror.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:510 | zone.arts.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset:521 | zone.computing.image | null_optional_or_missing
+- Assets/HorrorGameplay/Data/StoryRefinement20261026/office_personal_pen.asset:24 | office_personal_pen.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/StoryRefinement20261026/office_personal_pen.asset:25 | office_personal_pen.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/StoryRefinement20261026/student_113_pen.asset:24 | student_113_pen.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/StoryRefinement20261026/student_113_pen.asset:25 | student_113_pen.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/Whistle/Discovery/HelenaNote.asset:25 | bd.whistle.lore.1.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/Whistle/Discovery/LuanDrawing.asset:25 | bd.whistle.lore.0.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/Whistle/Discovery/ScribbledWarning.asset:25 | bd.whistle.lore.2.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Bia.asset:24 | bd.bia.tape.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Bia.asset:25 | bd.bia.tape.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Caio.asset:24 | bd.caio.cap.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Caio.asset:25 | bd.caio.cap.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Helena2018.asset:24 | bd.helena.tape.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Helena2018.asset:25 | bd.helena.tape.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Luan.asset:24 | bd.luan.lunch.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Luan.asset:25 | bd.luan.lunch.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Marta.asset:24 | bd.marta.notebook.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Marta.asset:25 | bd.marta.notebook.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/StairKey.asset:24 | bd.stairs.key.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/StairKey.asset:25 | bd.stairs.key.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Cups.asset:24 | bd.cups.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Cups.asset:25 | bd.cups.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Evidence.asset:24 | bd.helena.investigation.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Evidence.asset:25 | bd.helena.investigation.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Key.asset:24 | bd.library.key.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Key.asset:25 | bd.library.key.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Lunchbox.asset:24 | bd.lunchbox.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Lunchbox.asset:25 | bd.lunchbox.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Report.asset:24 | bd.report.2006.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Report.asset:25 | bd.report.2006.backTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Tape.asset:24 | bd.tape.01.frontTexture | null_optional_or_missing
+- Assets/HorrorGameplay/Data/BeforeDemolition/School/Tape.asset:25 | bd.tape.01.backTexture | null_optional_or_missing
+
+Campos front/back de objetos 3D sem página, sprites de sistema ou RenderTextures criadas em runtime não exigem uma imagem nova. As ligações realizadas estão em Imagens_Importacao.json; o inventário inicial permanece como prova da busca.

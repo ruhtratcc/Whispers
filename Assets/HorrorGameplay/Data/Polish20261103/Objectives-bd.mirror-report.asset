@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c418cdf4b0b7bbd47a145a882f0d2b32, type: 3}
+  m_Name: Objectives-bd.mirror-report
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.ChapterObjectives
+  chapterId: bd.mirror-report
+  entries:
+  - id: bd.mirror.seen
+    title: Examinar o espelho.
+    requiredFlag: 
+    completionFlag: bd.mirror.seen
+    nextObjectiveId: 
+    requiredNextSignals:
+    - bd.mirror.seen
+    subitems: []
+    completeWhenAllSubitems: 0
+    hasTarget: 0
+    targetPosition: {x: 0, y: 0, z: 0}
+  - id: bd.mirror.broken
+    title: Continue olhando para o espelho.
+    requiredFlag: 
+    completionFlag: bd.mirror.broken
+    nextObjectiveId: 
+    requiredNextSignals:
+    - bd.mirror.broken
+    subitems: []
+    completeWhenAllSubitems: 0
+    hasTarget: 0
+    targetPosition: {x: 0, y: 0, z: 0}
+  - id: bd.mirror.choice
+    title: "Ou\xE7a o que Helena tem a dizer."
+    requiredFlag: 
+    completionFlag: bd.mirror.choice
+    nextObjectiveId: 
+    requiredNextSignals:
+    - bd.mirror.choice
+    subitems: []
+    completeWhenAllSubitems: 0
+    hasTarget: 0
+    targetPosition: {x: 0, y: 0, z: 0}
+  - id: bd.mirror.finish
+    title: "Devolver o apito entre as coisas das crian\xE7as"
+    requiredFlag: 
+    completionFlag: bd.mirror.finish
+    nextObjectiveId: 
+    requiredNextSignals:
+    - bd.mirror.finish
+    subitems: []
+    completeWhenAllSubitems: 0
+    hasTarget: 0
+    targetPosition: {x: 0, y: 0, z: 0}

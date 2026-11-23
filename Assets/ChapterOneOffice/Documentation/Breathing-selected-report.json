@@ -1,0 +1,45 @@
+{
+  "source": "Male Heavy Breathing #2",
+  "author": "Sound Effects Factory",
+  "source_page": "https://soundeffectsfactory.com/sounds/sound_1758171092082_bcdl1uw9z",
+  "source_audio": "https://soundeffectsfactory.com/data/sounds/Male%20Heavy%20Breathing%202-(SoundEffectsFactory.com)_.mp3",
+  "license": "Sound Effects Factory Free License",
+  "license_url": "https://soundeffectsfactory.com/license",
+  "commercial_game_use_allowed": true,
+  "standalone_original_redistribution_allowed": false,
+  "original_location": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\BreathSelectedSEF\\Male-Heavy-Breathing-2-original.mp3",
+  "original_outside_unity_assets": true,
+  "source_sha256": "2dbbb22a417cac4f4a006118fb858b8cb9a1426a3630b7cc8a68620cb64bed64",
+  "source_seconds": 91.51519274376417,
+  "continuous_segment_seconds": [
+    0.024988662131519273,
+    90.95018140589569
+  ],
+  "boundary_window_rms": [
+    0.0,
+    1.616510783155688e-44
+  ],
+  "linear_gain": 1.2182389649450431,
+  "source_segment_rms": 0.04350542178101397,
+  "edge_fade_ms": 25,
+  "eq_or_denoising": false,
+  "pitch_or_time_shift": false,
+  "individual_breath_repetition": false,
+  "output": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\BreathSelectedSEF\\HeavyBreathing-selected.wav",
+  "seconds": 90.92519274376417,
+  "sample_rate": 44100,
+  "channels": 1,
+  "bits": 16,
+  "rms": 0.052998382242491864,
+  "peak": 0.484466552734375,
+  "clipped_samples": 0,
+  "loop_boundary_jump": 0,
+  "output_sha256": "c8594753031dbf3f5178f89043fda80679f1ed6d4c72de767037627c8deedc0e",
+  "acceptance": "The user listened to the source preview and called this candidate interesting. No independent auditory verification by the agent.",
+  "edits": [
+    "Mono 44.1kHz conversion",
+    "Retain long continuous source performance",
+    "Constant volume adjustment",
+    "Quiet loop boundaries with 25ms edge fades"
+  ]
+}

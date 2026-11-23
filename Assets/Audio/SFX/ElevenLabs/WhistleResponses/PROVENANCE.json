@@ -1,0 +1,172 @@
+{
+  "provider": "ElevenLabs",
+  "date": "2026-11-04",
+  "accountTierAtGeneration": "free",
+  "generationCount": 4,
+  "counterDeltaReported": 0,
+  "billingNote": "The returned usage counter did not change immediately; zero delta is not proof of zero cost. Four generation calls only, no purchase/subscription changes.",
+  "model": "eleven_text_to_sound_v2",
+  "sources": [
+    {
+      "id": "marta",
+      "text": "One single soft high-pitched breathy human lip whistle, small child answering a signal, gentle slightly falling pitch, timid and delicate. Dry isolated studio sound for a psychological horror game. No words, no singing, no music, no bird, no mechanical or referee whistle, no reverb.",
+      "file": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/ElevenLabs20261104/Generated/whistle_child_marta_elevenlabs.mp3",
+      "model": "eleven_text_to_sound_v2",
+      "requestedSeconds": 1,
+      "bytes": 17179,
+      "sha256": "fb33539786e34e86d37da03921a58911dfc77efb5afb1ea3dee825d641696208",
+      "usageBefore": {
+        "tier": "free",
+        "used": 0,
+        "limit": 10000
+      },
+      "usageAfter": {
+        "tier": "free",
+        "used": 0,
+        "limit": 10000
+      },
+      "creditsDelta": 0,
+      "date": "2026-11-04",
+      "provider": "ElevenLabs",
+      "license": "ElevenLabs account terms; generated AI audio, not CC0",
+      "unityFile": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\ElevenLabs\\WhistleResponses\\whistle_child_marta_elevenlabs.wav",
+      "unitySha256": "6d19b3abf2a03d80c314b0913aca800e51b6ff06691e003f561d03a53bd65ce5"
+    },
+    {
+      "id": "caio",
+      "text": "A single short human lip whistle with a quick rising note then a tiny wavering tail, small child answering from another room, slightly rough and breathy but clearly high pitched. Dry isolated recording. No speech, no singing, no music, no bird, no police or referee whistle, no reverb.",
+      "file": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/ElevenLabs20261104/Generated/whistle_child_caio_elevenlabs.mp3",
+      "model": "eleven_text_to_sound_v2",
+      "requestedSeconds": 1,
+      "bytes": 17179,
+      "sha256": "72970133e64f9b144ca6716563329244e418ef45310675a9496cae8950eaff37",
+      "usageBefore": {
+        "tier": "free",
+        "used": 0,
+        "limit": 10000
+      },
+      "usageAfter": {
+        "tier": "free",
+        "used": 0,
+        "limit": 10000
+      },
+      "creditsDelta": 0,
+      "date": "2026-11-04",
+      "provider": "ElevenLabs",
+      "license": "ElevenLabs account terms; generated AI audio, not CC0",
+      "unityFile": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\ElevenLabs\\WhistleResponses\\whistle_child_caio_elevenlabs.wav",
+      "unitySha256": "160057d46e642b3a92cba2d58a5bf9200a245e86058ee6c4a18005c9abdf536a"
+    },
+    {
+      "id": "luan",
+      "text": "One short clear high-pitched human lip whistle held briefly with a soft breath release and gentle pitch wobble. A small child gives a simple answering signal, restrained and melancholic. Isolated dry clean recording, no speech, no music, no bird, no mechanical whistle, no room reverb.",
+      "file": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/ElevenLabs20261104/Generated/whistle_child_luan_elevenlabs.mp3",
+      "model": "eleven_text_to_sound_v2",
+      "requestedSeconds": 1,
+      "bytes": 17179,
+      "sha256": "4915315440187beea762fe98523a579cd167fee0786e9b8eca7d1c0fc7b671ee",
+      "usageBefore": {
+        "tier": "free",
+        "used": 0,
+        "limit": 10000
+      },
+      "usageAfter": {
+        "tier": "free",
+        "used": 0,
+        "limit": 10000
+      },
+      "creditsDelta": 0,
+      "date": "2026-11-04",
+      "provider": "ElevenLabs",
+      "license": "ElevenLabs account terms; generated AI audio, not CC0",
+      "unityFile": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\ElevenLabs\\WhistleResponses\\whistle_child_luan_elevenlabs.wav",
+      "unitySha256": "6a90754486da7b79c0ed5e86b7d5a4bff9ed35ff5fe0ba6a59c70357fa53ac3f"
+    },
+    {
+      "id": "bia",
+      "text": "A very short thin airy human lip whistle, a delicate high note that lifts slightly then fades, small child quietly answering a signal. Understated and fragile, not a scream. Dry isolated studio sound, no speech, no singing, no music, no birds, no sports whistle, no echo.",
+      "file": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/ElevenLabs20261104/Generated/whistle_child_bia_elevenlabs.mp3",
+      "model": "eleven_text_to_sound_v2",
+      "requestedSeconds": 1,
+      "bytes": 17179,
+      "sha256": "27bf74d2e2b52936f21a19609b41028193539fd95acc6f8cc3534d375d8304a2",
+      "usageBefore": {
+        "tier": "free",
+        "used": 0,
+        "limit": 10000
+      },
+      "usageAfter": {
+        "tier": "free",
+        "used": 0,
+        "limit": 10000
+      },
+      "creditsDelta": 0,
+      "date": "2026-11-04",
+      "provider": "ElevenLabs",
+      "license": "ElevenLabs account terms; generated AI audio, not CC0",
+      "unityFile": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\ElevenLabs\\WhistleResponses\\whistle_child_bia_elevenlabs.wav",
+      "unitySha256": "7f6dcc0e5cdd3c8ad5a28d08a1ecf9cd91c80da6f357ecffed2eba870c1432e4"
+    }
+  ],
+  "import": {
+    "configured": true,
+    "data": [
+      {
+        "child": "marta",
+        "length": 1.07102036,
+        "channels": 1,
+        "frequency": 44100,
+        "sourcePeak": 0.9999695,
+        "sourceRms": 0.3273286836173465,
+        "gain": 0.274953,
+        "processedPeak": 0.277679443,
+        "processedRms": 0.08825089345561217,
+        "sourceClippedSamples": 14
+      },
+      {
+        "child": "caio",
+        "length": 1.07102036,
+        "channels": 1,
+        "frequency": 44100,
+        "sourcePeak": 0.9778137,
+        "sourceRms": 0.2644873266801973,
+        "gain": 0.34028098,
+        "processedPeak": 0.344909668,
+        "processedRms": 0.08904652774434571,
+        "sourceClippedSamples": 0
+      },
+      {
+        "child": "luan",
+        "length": 1.07102036,
+        "channels": 1,
+        "frequency": 44100,
+        "sourcePeak": 0.9999695,
+        "sourceRms": 0.2823283181804621,
+        "gain": 0.318777829,
+        "processedPeak": 0.318878174,
+        "processedRms": 0.08964321559374763,
+        "sourceClippedSamples": 10
+      },
+      {
+        "child": "bia",
+        "length": 1.07102036,
+        "channels": 1,
+        "frequency": 44100,
+        "sourcePeak": 0.977417,
+        "sourceRms": 0.2820660165412046,
+        "gain": 0.319074243,
+        "processedPeak": 0.3201599,
+        "processedRms": 0.08894093564145243,
+        "sourceClippedSamples": 0
+      }
+    ],
+    "primaryWhistlePreserved": "whistle_human_tap",
+    "emptyEchoPreserved": "whistle_human_tap",
+    "saveTouched": false,
+    "playing": false
+  },
+  "credentials": "Stored outside Unity project; never included in assets, logs or build.",
+  "licenseSource": "https://elevenlabs.io/docs/overview/administration/billing",
+  "license": "Generated under free plan: non-commercial use with attribution. Not CC0. Check platform publication/title-attribution rules before distributing.",
+  "humanListeningVerified": false
+}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6456f6c0335a56a48986287dd1719cef, type: 3}
+  m_Name: whistle
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.TutorialCardData
+  id: whistle
+  title: APITO
+  lines:
+  - Um clique toca o apito. Depois da descoberta na escola, o eco revela objetos e rastros.
+  - A onda leva um instante para se espalhar. Os destaques ficam por cerca de dez segundos.
+  - "Ou\xE7a as respostas. O espelho n\xE3o reage ao apito."
+  mediaKind: 1
+  model: {fileID: 0}
+  video: {fileID: 0}
+  image: {fileID: 2800000, guid: bce094cf46ea0754c9af2f0394e315ef, type: 3}
+  fallbackImage: {fileID: 2800000, guid: bce094cf46ea0754c9af2f0394e315ef, type: 3}
+  videoAudio: 0
+  controls:
+  - actionId: Equip2
+    label: Equipar ou guardar
+    hold: 0
+  - actionId: UseEquipment
+    label: Toque curto
+    hold: 0
+  - actionId: UseEquipment
+    label: Tocar o apito
+    hold: 0
+  trigger: 1
+  triggerId: bd.school.library
+  delay: 0.75
+  priority: 110
+  helpOrder: 2
+  blocksGame: 1
+  readInHelp: 1
+  openSound: {fileID: 11400000, guid: 70406328687043e4b87b93168575b81f, type: 2}
+  closeSound: {fileID: 11400000, guid: f55445759afc0884f84362feeaeebe3f, type: 2}
+  buttonSound: {fileID: 11400000, guid: e36be15841e07b941a69baf36c7b6018, type: 2}

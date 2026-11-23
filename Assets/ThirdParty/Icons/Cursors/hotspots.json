@@ -1,0 +1,45 @@
+{
+  "sourcePack": "Kenney Cursor Pack1.1, CC0",
+  "size": 32,
+  "hotspotOrigin": "TOP-LEFT source pixels; virtual cursor anchored so this point is the raycast position",
+  "cursors": [
+    {
+      "name": "arrow",
+      "source": "pointer_a.png",
+      "hotspot": {
+        "x": 10,
+        "y": 6
+      },
+      "tightRectTopLeft": {
+        "x": 8,
+        "y": 6,
+        "width": 16,
+        "height": 20
+      }
+    },
+    {
+      "name": "hand",
+      "source": "hand_point_n.png",
+      "hotspot": {
+        "x": 14,
+        "y": 0
+      }
+    },
+    {
+      "name": "busy",
+      "source": "busy_hourglass.png",
+      "hotspot": {
+        "x": 16,
+        "y": 16
+      }
+    },
+    {
+      "name": "text",
+      "source": "bracket_a_vertical.png",
+      "hotspot": {
+        "x": 16,
+        "y": 16
+      }
+    }
+  ]
+}

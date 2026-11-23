@@ -1,0 +1,1180 @@
+{
+  "passed": true,
+  "corners": 90,
+  "sealedCorners": 85,
+  "photographicReplacements": 2,
+  "removedAnnotationCorners": 3,
+  "editorPhysicsOnly": true,
+  "checks": [
+    {
+      "index": 0,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -67.07011,
+        "y": 3.1,
+        "z": 55.17356
+      }
+    },
+    {
+      "index": 1,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -58.2139778,
+        "y": 3.1,
+        "z": 42.57516
+      }
+    },
+    {
+      "index": 2,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -58.06157,
+        "y": 3.1,
+        "z": 33.5750961
+      }
+    },
+    {
+      "index": 3,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -58.06157,
+        "y": 3.1,
+        "z": 26.37843
+      }
+    },
+    {
+      "index": 4,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -58.05311,
+        "y": 3.1,
+        "z": 51.7784271
+      }
+    },
+    {
+      "index": 5,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -58.05311,
+        "y": 3.1,
+        "z": 42.57516
+      }
+    },
+    {
+      "index": 6,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": true,
+      "role": "Registered colored-plan dimension annotation removed: former gap clear and original perpendicular masonry receiver preserved.",
+      "point": {
+        "x": -73.57727,
+        "y": 3.1,
+        "z": 54.5168648
+      }
+    },
+    {
+      "index": 7,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -73.57727,
+        "y": 3.1,
+        "z": 47.26093
+      }
+    },
+    {
+      "index": 8,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -73.57727,
+        "y": 3.1,
+        "z": 36.44053
+      }
+    },
+    {
+      "index": 9,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -64.5772,
+        "y": 3.1,
+        "z": 32.757534
+      }
+    },
+    {
+      "index": 10,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -73.57727,
+        "y": 3.1,
+        "z": 32.69826
+      }
+    },
+    {
+      "index": 11,
+      "block": "west_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -73.57727,
+        "y": 3.1,
+        "z": 25.6116657
+      }
+    },
+    {
+      "index": 12,
+      "block": "west_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -64.26764,
+        "y": 1.6,
+        "z": 83.50302
+      }
+    },
+    {
+      "index": 13,
+      "block": "west_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -64.26764,
+        "y": 1.6,
+        "z": 63.3004951
+      }
+    },
+    {
+      "index": 14,
+      "block": "west_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -71.28281,
+        "y": 1.6,
+        "z": 84.81905
+      }
+    },
+    {
+      "index": 15,
+      "block": "west_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -71.28281,
+        "y": 1.6,
+        "z": 84.42113
+      }
+    },
+    {
+      "index": 16,
+      "block": "west_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -64.4068146,
+        "y": 1.6,
+        "z": 74.83262
+      }
+    },
+    {
+      "index": 17,
+      "block": "west_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -71.28281,
+        "y": 1.6,
+        "z": 74.0155945
+      }
+    },
+    {
+      "index": 18,
+      "block": "west_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": true,
+      "role": "Registered colored-plan dimension annotation removed: former gap clear and original perpendicular masonry receiver preserved.",
+      "point": {
+        "x": -71.28281,
+        "y": 1.6,
+        "z": 73.15199
+      }
+    },
+    {
+      "index": 19,
+      "block": "west_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -71.28281,
+        "y": 1.6,
+        "z": 63.21213
+      }
+    },
+    {
+      "index": 20,
+      "block": "east_north_classrooms",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 9.421459,
+        "y": 1.6,
+        "z": 92.61686
+      }
+    },
+    {
+      "index": 21,
+      "block": "east_north_classrooms",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 9.421459,
+        "y": 1.6,
+        "z": 91.75326
+      }
+    },
+    {
+      "index": 22,
+      "block": "east_north_classrooms",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 9.421459,
+        "y": 1.6,
+        "z": 85.41173
+      }
+    },
+    {
+      "index": 23,
+      "block": "east_north_classrooms",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 9.421459,
+        "y": 1.6,
+        "z": 84.5565948
+      }
+    },
+    {
+      "index": 24,
+      "block": "east_north_classrooms",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 9.421459,
+        "y": 1.6,
+        "z": 78.215065
+      }
+    },
+    {
+      "index": 25,
+      "block": "east_north_classrooms",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 9.421459,
+        "y": 1.6,
+        "z": 77.18212
+      }
+    },
+    {
+      "index": 26,
+      "block": "east_north_classrooms",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 9.421459,
+        "y": 1.6,
+        "z": 71.0183945
+      }
+    },
+    {
+      "index": 27,
+      "block": "east_north_classrooms",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 14.7215919,
+        "y": 1.6,
+        "z": 67.2168655
+      }
+    },
+    {
+      "index": 28,
+      "block": "east_north_classrooms",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 9.421459,
+        "y": 1.6,
+        "z": 63.81326
+      }
+    },
+    {
+      "index": 29,
+      "block": "proposed_northeast_laboratories",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Original full-height facade replaced by continuous photo-confirmed front low wall; separate right-side walking access is physically validated.",
+      "point": {
+        "x": 91.32058,
+        "y": 1.6,
+        "z": 77.7663345
+      }
+    },
+    {
+      "index": 30,
+      "block": "proposed_northeast_laboratories",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Original full-height facade replaced by continuous photo-confirmed front low wall; separate right-side walking access is physically validated.",
+      "point": {
+        "x": 91.32058,
+        "y": 1.6,
+        "z": 77.61393
+      }
+    },
+    {
+      "index": 31,
+      "block": "proposed_northeast_laboratories",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Historical endpoint belonged to external1500 dimension annotation; false wall removed and former endpoint physically clear.",
+      "point": {
+        "x": 91.62008,
+        "y": 1.6,
+        "z": 77.61393
+      }
+    },
+    {
+      "index": 32,
+      "block": "main_laboratories_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -41.6524849,
+        "y": 1.6,
+        "z": 90.915596
+      }
+    },
+    {
+      "index": 33,
+      "block": "main_laboratories_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -38.33833,
+        "y": 1.6,
+        "z": 81.8726654
+      }
+    },
+    {
+      "index": 34,
+      "block": "main_laboratories_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -38.33833,
+        "y": 1.6,
+        "z": 72.87683
+      }
+    },
+    {
+      "index": 35,
+      "block": "main_laboratories_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -38.33833,
+        "y": 1.6,
+        "z": 72.7625351
+      }
+    },
+    {
+      "index": 36,
+      "block": "main_laboratories_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -41.6776,
+        "y": 1.6,
+        "z": 63.940258
+      }
+    },
+    {
+      "index": 37,
+      "block": "main_laboratories_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -38.3251,
+        "y": 1.6,
+        "z": 63.8301926
+      }
+    },
+    {
+      "index": 38,
+      "block": "main_laboratories_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -41.6776,
+        "y": 1.6,
+        "z": 63.82596
+      }
+    },
+    {
+      "index": 39,
+      "block": "proposed_east_teaching",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 61.0305519,
+        "y": 1.6,
+        "z": 39.72048
+      }
+    },
+    {
+      "index": 40,
+      "block": "proposed_east_teaching",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 78.03162,
+        "y": 1.6,
+        "z": 57.8936462
+      }
+    },
+    {
+      "index": 41,
+      "block": "central_east_services",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 6.84388876,
+        "y": 1.6,
+        "z": 51.575222
+      }
+    },
+    {
+      "index": 42,
+      "block": "central_east_services",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 6.979358,
+        "y": 1.6,
+        "z": 51.5032539
+      }
+    },
+    {
+      "index": 43,
+      "block": "main_classrooms_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -17.28407,
+        "y": 1.6,
+        "z": 62.0654259
+      }
+    },
+    {
+      "index": 44,
+      "block": "main_classrooms_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -13.8902988,
+        "y": 1.6,
+        "z": 76.0476
+      }
+    },
+    {
+      "index": 45,
+      "block": "main_classrooms_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -13.8902988,
+        "y": 1.6,
+        "z": 75.9333
+      }
+    },
+    {
+      "index": 46,
+      "block": "main_classrooms_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -13.8902988,
+        "y": 1.6,
+        "z": 69.96853
+      }
+    },
+    {
+      "index": 47,
+      "block": "main_classrooms_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -13.8902988,
+        "y": 1.6,
+        "z": 69.84153
+      }
+    },
+    {
+      "index": 48,
+      "block": "main_classrooms_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -13.8902988,
+        "y": 1.6,
+        "z": 69.71453
+      }
+    },
+    {
+      "index": 49,
+      "block": "main_classrooms_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -13.8902988,
+        "y": 1.6,
+        "z": 63.91486
+      }
+    },
+    {
+      "index": 50,
+      "block": "main_classrooms_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -17.2190628,
+        "y": 1.6,
+        "z": 63.7709274
+      }
+    },
+    {
+      "index": 51,
+      "block": "main_classrooms_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -13.8902988,
+        "y": 1.6,
+        "z": 57.8104
+      }
+    },
+    {
+      "index": 52,
+      "block": "main_auditorium_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -23.763113,
+        "y": 1.6,
+        "z": 39.9663658
+      }
+    },
+    {
+      "index": 53,
+      "block": "main_auditorium_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -23.6530437,
+        "y": 1.6,
+        "z": 39.9663658
+      }
+    },
+    {
+      "index": 54,
+      "block": "main_coordination_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -31.9757767,
+        "y": 1.6,
+        "z": 39.9663658
+      }
+    },
+    {
+      "index": 55,
+      "block": "main_coordination_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -31.8657112,
+        "y": 1.6,
+        "z": 39.9663658
+      }
+    },
+    {
+      "index": 56,
+      "block": "pedagogy_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 15.9836578,
+        "y": 2.2,
+        "z": 26.2382011
+      }
+    },
+    {
+      "index": 57,
+      "block": "pedagogy_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 15.9836578,
+        "y": 2.2,
+        "z": 21.3825684
+      }
+    },
+    {
+      "index": 58,
+      "block": "administration_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -13.4803476,
+        "y": 2.2,
+        "z": 26.0990276
+      }
+    },
+    {
+      "index": 59,
+      "block": "administration_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -24.6309452,
+        "y": 2.2,
+        "z": 27.4912663
+      }
+    },
+    {
+      "index": 60,
+      "block": "administration_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -19.595396,
+        "y": 2.2,
+        "z": 26.3990688
+      }
+    },
+    {
+      "index": 61,
+      "block": "administration_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -24.6309452,
+        "y": 2.2,
+        "z": 25.2221985
+      }
+    },
+    {
+      "index": 62,
+      "block": "administration_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -24.6309452,
+        "y": 2.2,
+        "z": 25.099432
+      }
+    },
+    {
+      "index": 63,
+      "block": "pedagogy_south",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 13.5246153,
+        "y": 2.2,
+        "z": 27.9399986
+      }
+    },
+    {
+      "index": 64,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 61.0305519,
+        "y": 5.41,
+        "z": 39.72048
+      }
+    },
+    {
+      "index": 65,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 61.9280167,
+        "y": 5.41,
+        "z": 39.72048
+      }
+    },
+    {
+      "index": 66,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 78.03162,
+        "y": 5.41,
+        "z": 57.8941765
+      }
+    },
+    {
+      "index": 67,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 78.13321,
+        "y": 5.41,
+        "z": 39.72048
+      }
+    },
+    {
+      "index": 68,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 79.03069,
+        "y": 5.41,
+        "z": 39.72048
+      }
+    },
+    {
+      "index": 69,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 74.52165,
+        "y": 5.41,
+        "z": 55.9674873
+      }
+    },
+    {
+      "index": 70,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 71.01646,
+        "y": 5.41,
+        "z": 54.40962
+      }
+    },
+    {
+      "index": 71,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 62.0163879,
+        "y": 5.41,
+        "z": 54.3080177
+      }
+    },
+    {
+      "index": 72,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 71.01646,
+        "y": 5.41,
+        "z": 47.26375
+      }
+    },
+    {
+      "index": 73,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 62.0163879,
+        "y": 5.41,
+        "z": 47.2044868
+      }
+    },
+    {
+      "index": 74,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 71.01646,
+        "y": 5.41,
+        "z": 47.1536827
+      }
+    },
+    {
+      "index": 75,
+      "block": "proposed_east_teaching",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": 62.0163879,
+        "y": 5.41,
+        "z": 40.0078239
+      }
+    },
+    {
+      "index": 76,
+      "block": "main_classrooms_north",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -17.2873917,
+        "y": 5.41,
+        "z": 63.7794
+      }
+    },
+    {
+      "index": 77,
+      "block": "main_classrooms_north",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -17.3513184,
+        "y": 5.41,
+        "z": 62.0654259
+      }
+    },
+    {
+      "index": 78,
+      "block": "main_auditorium_south",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -23.77158,
+        "y": 5.41,
+        "z": 39.9706
+      }
+    },
+    {
+      "index": 79,
+      "block": "main_auditorium_south",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -23.65728,
+        "y": 5.41,
+        "z": 39.9706
+      }
+    },
+    {
+      "index": 80,
+      "block": "main_coordination_south",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -31.9757767,
+        "y": 5.41,
+        "z": 39.9706
+      }
+    },
+    {
+      "index": 81,
+      "block": "main_coordination_south",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -31.8657112,
+        "y": 5.41,
+        "z": 39.9706
+      }
+    },
+    {
+      "index": 82,
+      "block": "main_laboratories_north",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -38.3050232,
+        "y": 5.41,
+        "z": 81.8726654
+      }
+    },
+    {
+      "index": 83,
+      "block": "main_laboratories_north",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -38.3050232,
+        "y": 5.41,
+        "z": 72.87683
+      }
+    },
+    {
+      "index": 84,
+      "block": "main_laboratories_north",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -38.3050232,
+        "y": 5.41,
+        "z": 72.7625351
+      }
+    },
+    {
+      "index": 85,
+      "block": "main_laboratories_north",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -38.2917938,
+        "y": 5.41,
+        "z": 63.8301926
+      }
+    },
+    {
+      "index": 0,
+      "block": "main_laboratories_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -38.3759041,
+        "y": 1.6,
+        "z": 82.0076
+      }
+    },
+    {
+      "index": 1,
+      "block": "main_classrooms_north",
+      "level": 0,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -17.1814919,
+        "y": 1.6,
+        "z": 63.8804665
+      }
+    },
+    {
+      "index": 2,
+      "block": "main_classrooms_north",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -17.2498169,
+        "y": 5.41,
+        "z": 63.884697
+      }
+    },
+    {
+      "index": 3,
+      "block": "main_laboratories_north",
+      "level": 1,
+      "passed": true,
+      "realReceiverPreserved": false,
+      "role": "Native masonry endpoint sealed",
+      "point": {
+        "x": -38.3425941,
+        "y": 5.41,
+        "z": 82.0076
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "dimensionsEstimated": true,
+    "originalCollidersPreserved": true,
+    "floorSurfaces": 6,
+    "wallFaces": 259,
+    "fixtures": 20,
+    "noticeboards": 8,
+    "conduits": 16,
+    "beams": 20,
+    "upperRightWhiteFaces": 120,
+    "upperRightDeepBeams": 11,
+    "upperRightBlueWindowFrames": 140,
+    "upperRightCreamDoors": 9,
+    "upperRightBeamBottomMeters": 2.450000047683716,
+    "upperRightBeamTopGapMeters": 0.27000001072883606,
+    "notes": [
+        "The user identifies five photographs as the central corridors, stair and upper landing.",
+        "Gray-brown tiled lower wall faces and square gray floor tiles replace the generic central interior finish. Exterior blue facades remain unchanged.",
+        "The additional photos identify the upper right corridor: its interior faces are white and its deep transverse beams leave a reveal below the ceiling. User confirms classrooms on both sides, so registered room/door/window openings remain unchanged.",
+        "Flat white ceiling finishes, exposed pipes and fluorescent fixtures preserve the existing corridor light sources and nighttime intensity.",
+        "Decorative surfaces have no new colliders. Native door leaves, paired behavior, stair elevations and the approved four-lane ramp remain unchanged.",
+        "No people or text from the photograph notices is reproduced."
+    ]
+}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: Lunchbox
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: bd.lunchbox
+  title: Lancheira da Marta
+  description: "MARTA \u2014 2006. A lancheira guarda uma chave de lat\xE3o e desenhos de giz de cera. O mais recente est\xE1 marcado com a data de hoje: 26/10/2026."
+  frontText: Lancheira da Marta
+  backText: "MARTA \u2014 2006. A lancheira guarda uma chave de lat\xE3o e desenhos de giz de cera. O mais recente est\xE1 marcado com a data de hoje: 26/10/2026."
+  detailText: 
+  alternateBackText: 
+  recordingText: 
+  model: {fileID: 4969174334849597803, guid: fcce3d16d988dc049bf4bd24319be304, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  pages:
+  - image: {fileID: 2800000, guid: ad47400619f87c040ac6e54597a7ddef, type: 3}
+    label: "Registro anual 1 \u2014 ano ileg\xEDvel"
+    currentDate: 0
+  - image: {fileID: 2800000, guid: 99d6572ac5e90c346ba0b800aca87763, type: 3}
+    label: "Registro anual 2 \u2014 ano ileg\xEDvel"
+    currentDate: 0
+  - image: {fileID: 2800000, guid: 9021d327bfa32ac4c8df075ba2f481f9, type: 3}
+    label: 26/10/2026
+    currentDate: 1
+  recordInNotes: 1
+  canPlay: 0
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0
+  maximumStress: 0
+  pickupSound: {fileID: 11400000, guid: 77eac0f840ddeef43ae93160103632d3, type: 2}
+  whisper: {fileID: 0}
+  recording: {fileID: 0}

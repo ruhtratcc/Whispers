@@ -1,0 +1,62 @@
+{
+  "source": "Male Inhale Exhale 8",
+  "author": "Geoff Bremner (Geoff-Bremner-Audio)",
+  "source_page": "https://freesound.org/people/Geoff-Bremner-Audio/sounds/847843/",
+  "source_description": "Close-mic studio recording of a male breath (performer), exhale followed by inhale, condenser microphone in controlled environment.",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source_preview": "https://cdn.freesound.org/previews/847/847843_10643461-hq.mp3",
+  "source_sha256": "7701c9bf64f93d10722d1f2e15924cbee93014db67652a328b18d976c3c5321b",
+  "samples_from_rejected_Panting_recording": 0,
+  "cuts_seconds": [
+    [
+      2.18,
+      3.67
+    ],
+    [
+      0.12,
+      1.78
+    ]
+  ],
+  "edits": [
+    "Resample to mono 44100Hz PCM16",
+    "Select inhale and exhale; omit intervening mouth click",
+    "35ms edge fades",
+    "100ms exact PCM-zero gaps",
+    "Two identical cycles for loop",
+    "Adjust gain to target RMS 0.053"
+  ],
+  "spectral_subtraction": false,
+  "low_pass_filter": false,
+  "pitch_or_time_shift": false,
+  "output": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\BreathDryReplacement\\HeavyBreathing-dry.wav",
+  "sample_rate": 44100,
+  "channels": 1,
+  "bits": 16,
+  "seconds": 6.7,
+  "rms": 0.05299837393373607,
+  "peak": 0.465362548828125,
+  "clipped_samples": 0,
+  "loop_boundary_jump": 0,
+  "exact_zero_gap_ranges_seconds": [
+    [
+      1.49,
+      1.59
+    ],
+    [
+      3.25,
+      3.35
+    ],
+    [
+      4.84,
+      4.94
+    ],
+    [
+      6.6,
+      6.7
+    ]
+  ],
+  "nonzero_samples_in_gap_ranges": 0,
+  "output_sha256": "af2ee5512de3c4547eacc57a09863e1b97c3375b473eebf7304ea5e58c8456c6",
+  "verification": "Studio provenance, exact-zero inter-breath gaps, gain/no-clipping/loop boundaries and spectrogram inspected; no claim of auditory listening."
+}

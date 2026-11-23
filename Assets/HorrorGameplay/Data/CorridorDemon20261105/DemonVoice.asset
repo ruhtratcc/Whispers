@@ -1,0 +1,349 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61abc8345fd14c243b6eb07ec39b4956, type: 3}
+  m_Name: DemonVoice
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.DemonVoiceConfig
+  lines:
+  - id: demon_corridor_01
+    stage: 1
+    text: "Venha, Jo\xE3o. Est\xE1 quase."
+    mask: {fileID: 8300000, guid: dbced443843b90941ba9fca41c77c4a7, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_02
+    stage: 1
+    text: "Venha, Jo\xE3o. Falta pouco."
+    mask: {fileID: 8300000, guid: d653b97e558e23f488af2b222bbe9b2e, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_03
+    stage: 1
+    text: "\xC9 por aqui, Jo\xE3o. Estamos quase l\xE1."
+    mask: {fileID: 8300000, guid: 0b933e14a98bdba459895e01169eacdc, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2.3333333
+  - id: demon_corridor_04
+    stage: 1
+    text: "O senhor est\xE1 indo muito bem."
+    mask: {fileID: 8300000, guid: 5d725e2d12ec52f42b0143b1bbd89cb9, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_05
+    stage: 1
+    text: Isso. Continue por aqui.
+    mask: {fileID: 8300000, guid: 27c059598c7c98645a47719006758f16, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_06
+    stage: 1
+    text: "O senhor est\xE1 no caminho certo."
+    mask: {fileID: 8300000, guid: 4cd4f216efc036047a5a2da79198a832, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2.0666666
+  - id: demon_corridor_07
+    stage: 1
+    text: "N\xE3o precisa ter pressa."
+    mask: {fileID: 8300000, guid: eae0e55ae24c65642bac567202f76260, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_08
+    stage: 1
+    text: Pode vir com calma.
+    mask: {fileID: 8300000, guid: 69fd1f00830d1c848bf6310919567e85, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_09
+    stage: 1
+    text: "N\xE3o se apresse, seu Jo\xE3o."
+    mask: {fileID: 8300000, guid: cb400b1557665344e8d1873ce3385936, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_10
+    stage: 2
+    text: "Por que o senhor est\xE1 demorando?"
+    mask: {fileID: 8300000, guid: 40199b55f1a7dc84bbc0a2455d31b2c5, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2.1333334
+  - id: demon_corridor_11
+    stage: 2
+    text: "O que est\xE1 prendendo o senhor a\xED?"
+    mask: {fileID: 8300000, guid: 7d9ec02708cd608449bcd1cdc05b5149, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2.2
+  - id: demon_corridor_12
+    stage: 2
+    text: "O senhor ainda est\xE1 a\xED, Jo\xE3o?"
+    mask: {fileID: 8300000, guid: 09c6b1a1e67fc99479159b5b75f67d7f, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_13
+    stage: 2
+    text: "Eles n\xE3o v\xE3o ajudar. Eles nunca ajudaram."
+    mask: {fileID: 8300000, guid: 8d43a9bc1c70bce41b59e3f94cee2799, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2.7333333
+  - id: demon_corridor_14
+    stage: 2
+    text: "N\xE3o espere por eles. N\xE3o v\xE3o ajudar."
+    mask: {fileID: 8300000, guid: 1915c83cd982a7b4fa8f9e1f317c00fd, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2.4
+  - id: demon_corridor_15
+    stage: 2
+    text: "Eles nunca ajudaram, Jo\xE3o."
+    mask: {fileID: 8300000, guid: c285ab95225f38e48b6e208687893e24, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_16
+    stage: 2
+    text: O senhor deixou todos esperando por vinte anos.
+    mask: {fileID: 8300000, guid: 32ff46027e241c04c8a3a264ac70c590, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 3.1333334
+  - id: demon_corridor_17
+    stage: 2
+    text: Faz vinte anos que eles esperam pelo senhor.
+    mask: {fileID: 8300000, guid: 50e624c08c13947418513efb25d8a4f9, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2.9333334
+  - id: demon_corridor_18
+    stage: 2
+    text: "O senhor sabe h\xE1 quanto tempo eles est\xE3o esperando."
+    mask: {fileID: 8300000, guid: 0a56a3f1719fdcf40b1ef066d1202bac, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 3.4
+  - id: demon_corridor_19
+    stage: 3
+    text: Vire para frente.
+    mask: {fileID: 8300000, guid: 628e5891582ad1142896a49e0f4d6bc5, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_20
+    stage: 3
+    text: Olhe para frente.
+    mask: {fileID: 8300000, guid: 9bed310087bc8204a851248edb041243, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_21
+    stage: 3
+    text: Continue olhando para frente.
+    mask: {fileID: 8300000, guid: fc6b46f73f9fa6c409d934720a8e4e5f, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_22
+    stage: 3
+    text: Eu sei o que o senhor escondeu.
+    mask: {fileID: 8300000, guid: f3040914b9853544581bbb18637bb7a7, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2.0666666
+  - id: demon_corridor_23
+    stage: 3
+    text: "N\xE3o precisa esconder de mim."
+    mask: {fileID: 8300000, guid: 3a23a76142f10b34c99c524db013a77d, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_24
+    stage: 3
+    text: "Eu sei, Jo\xE3o. Sei o que o senhor escondeu."
+    mask: {fileID: 8300000, guid: 2f3f20871dc8a2646ad26237274a5046, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2.8
+  - id: demon_corridor_25
+    stage: 3
+    text: "N\xE3o olhe para tr\xE1s, Jo\xE3o."
+    mask: {fileID: 8300000, guid: caae105cc79748448a0b9759fd79a1de, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_26
+    stage: 3
+    text: "Jo\xE3o. N\xE3o vire."
+    mask: {fileID: 8300000, guid: 72543e9de2f9ebb46800b88f0f279888, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_27
+    stage: 3
+    text: "Continue. N\xE3o olhe para tr\xE1s."
+    mask: {fileID: 8300000, guid: 4e0ee0989a80833458826e0ef8ad85e7, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_28
+    stage: 3
+    text: "Eles n\xE3o s\xE3o seus."
+    mask: {fileID: 8300000, guid: 1e399affb7e1ba246bbf05d3e55f39b7, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_corridor_29
+    stage: 3
+    text: "O senhor sabe. Eles n\xE3o s\xE3o seus."
+    mask: {fileID: 8300000, guid: 9fbe28136544df44fb2eb759cf7bb813, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2.2
+  - id: demon_corridor_30
+    stage: 3
+    text: "Eles n\xE3o pertencem ao senhor."
+    mask: {fileID: 8300000, guid: 091c03013a3e4984c9bdeec09391ce08, type: 3}
+    low: {fileID: 0}
+    mirror: 0
+    lowOnly: 0
+    mirrorTransition: 0
+    mirrorSlip: 0
+    captionSeconds: 2
+  - id: demon_mirror_offer_01
+    stage: 1
+    text: "Eles est\xE3o presos aqui por sua causa, Jo\xE3o. Algu\xE9m precisa ficar no lugar deles pra eles sa\xEDrem. O senhor sempre quis consertar isso."
+    mask: {fileID: 8300000, guid: 2416711fee734fa4bae63ab74ee98b80, type: 3}
+    low: {fileID: 0}
+    mirror: 1
+    lowOnly: 0
+    mirrorTransition: 1
+    mirrorSlip: 0
+    captionSeconds: 8.866667
+  - id: demon_mirror_refuse_01
+    stage: 3
+    text: "O senhor n\xE3o deveria ter feito isso."
+    mask: {fileID: 8300000, guid: a3ebe3d14b8552443a87de365b28a118, type: 3}
+    low: {fileID: 0}
+    mirror: 1
+    lowOnly: 1
+    mirrorTransition: 0
+    mirrorSlip: 1
+    captionSeconds: 2.4
+  maskGroup: {fileID: 7965234074266763578, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+  lowGroup: {fileID: -7881020075787982679, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+  pitchParameter: DemonLowPitch
+  fallbackPitch: 0.56
+  slowPitch: 0.9
+  layerDelay: {x: 0.08, y: 0.15}
+  maskGain: 0.64
+  lowGain: 0.44
+  voiceCeiling: 0.8
+  choirGain: 0.045
+  voiceDistance: 9
+  maxDistance: 24
+  choirHum: {fileID: 0}
+  choirHumReversed: {fileID: 0}

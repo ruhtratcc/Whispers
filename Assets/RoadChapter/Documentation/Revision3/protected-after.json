@@ -1,0 +1,22 @@
+[
+  {
+    "path": "Assets/HorrorMenu/Scenes/MainMenu.unity",
+    "hash": "A8048A1319D61BDCA3017D9C8D27A552DBC36BC15E44F44ADAE606440E03E164",
+    "unchanged": true
+  },
+  {
+    "path": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+    "hash": "AE177B444A0323CED35B835B9602C11C21747BC99480EF1D53EFA23BAB775701",
+    "unchanged": true
+  },
+  {
+    "path": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+    "hash": "C63922AF7C598F00441C81692A1ACADC3A41D54D972914434EA88CC2E7B2CE26",
+    "unchanged": true
+  },
+  {
+    "path": "Assets/HorrorGameplay/Prefabs/GameplayRoot.prefab",
+    "hash": "178D947EC7367CAC810FC95B6D37A2CE03EE8225FD230C2E801B9A3D269CEA71",
+    "unchanged": true
+  }
+]

@@ -1,0 +1,1149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18a018d9ec0c27648807e8fe6238a913, type: 3}
+  m_Name: SfxCatalog
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.SfxCatalog
+  entries:
+  - name: amb_car_interior
+    sound: {fileID: 11400000, guid: c13c5348445d90643a48b9fa167fed9e, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_clock_tick
+    sound: {fileID: 11400000, guid: cac614126b52dc84c90986a6b5729f5c, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_drone_mirror
+    sound: {fileID: 11400000, guid: 116c00c906d27df4c982294ccb248391, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_drone_tension_01
+    sound: {fileID: 11400000, guid: 3a4d3ff5206db8146bd57d71bd01d461, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_drone_tension_02
+    sound: {fileID: 11400000, guid: 1e8eaf4368682d54883a1a9096e26c90, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_exterior_night
+    sound: {fileID: 11400000, guid: a961090edc66fb64c87cf41217cdb846, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_fluorescent_buzz
+    sound: {fileID: 11400000, guid: 717a219b0b2a81e458c535b0df31ed83, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_morning_birds
+    sound: {fileID: 11400000, guid: bb54b03d6ec76404cbfaaa45d784af12, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_office_night
+    sound: {fileID: 11400000, guid: 791fba860e7e38d48a2995a5af2c27e4, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_school_bathroom
+    sound: {fileID: 11400000, guid: f100fe8e7b73009438653b3446994532, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_school_cafeteria
+    sound: {fileID: 11400000, guid: e0cc59730888a6d4f9a3359f571bcce3, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_school_classroom
+    sound: {fileID: 11400000, guid: 5137031fd0032e24cbc461eff236f13f, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_school_corridor
+    sound: {fileID: 11400000, guid: d278369a227859d44b3fac06379740de, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_school_ground
+    sound: {fileID: 11400000, guid: 3180b9c09f9331d459d5267c5c667eea, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_school_library
+    sound: {fileID: 11400000, guid: b33e6415fbba68c4daef24e6fc2b748a, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_school_upper
+    sound: {fileID: 11400000, guid: 64f3c9d51ee32874aa1a723d1d7f3058, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_secretary_room
+    sound: {fileID: 11400000, guid: 9d6b8e28c34c04a4287b7b243f872ec0, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: amb_wind_outside
+    sound: {fileID: 11400000, guid: ca6a1fa506770fc469b3541b67b0edcf, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: backpack_zip
+    sound: {fileID: 11400000, guid: e188a4a009ff6a348a8c88d824207341, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: bad_end_wind
+    sound: {fileID: 11400000, guid: 06a9379e95c3a0848926bb981b81dd61, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 1
+    defaultVolume: 0.65
+  - name: battery_pickup
+    sound: {fileID: 11400000, guid: b53e93f6326e8e94aa02e222d09ecc88, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: bios_beep
+    sound: {fileID: 11400000, guid: a4f5b7c1cee5d0843803d0ab85532528, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: bones_clack
+    sound: {fileID: 11400000, guid: 77d9ef36769b6d045ae491fd3c99946c, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: branch_snap_far
+    sound: {fileID: 11400000, guid: dccc21508e5c9c340b16279ddf02da66, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: breath_calm
+    sound: {fileID: 11400000, guid: 74a94e6b038b4014d8fb664d650ff1c1, type: 2}
+    mixerGroup: {fileID: 3934582277033336849, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 3
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.3
+  - name: breath_exhausted
+    sound: {fileID: 11400000, guid: c0ec19fa26f816d439edf2731be5a746, type: 2}
+    mixerGroup: {fileID: 3934582277033336849, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 3
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.3
+  - name: breath_scared
+    sound: {fileID: 11400000, guid: b7401abd926752b468386db058699e11, type: 2}
+    mixerGroup: {fileID: 3934582277033336849, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 3
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.3
+  - name: bricks_fall
+    sound: {fileID: 11400000, guid: 0f7db18312689d1448279f00199165ed, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: building_creak
+    sound: {fileID: 11400000, guid: f9ea1ce708538bf4db951e88385bd5a8, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: bulb_die
+    sound: {fileID: 11400000, guid: 008b04dd147572b488113ac09e735f01, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: car_door_close
+    sound: {fileID: 11400000, guid: 5d69693c68aeb3f459ebeddfe6111854, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: car_door_open
+    sound: {fileID: 11400000, guid: 5297e119961a6c848933d5a2cb7d5520, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: car_engine_start
+    sound: {fileID: 11400000, guid: 296ddc1605cedf64b821a77f93d2649d, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: car_engine_stop
+    sound: {fileID: 11400000, guid: 8b1c0323445f42645b3e68a4607f4f6e, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: car_seatbelt
+    sound: {fileID: 11400000, guid: fe26ec01cc6ff6e439e885ac3f786b85, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: car_turn_signal
+    sound: {fileID: 11400000, guid: d4704f8249f145340b62c850de93c322, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 1
+    defaultVolume: 0.65
+  - name: card_open
+    sound: {fileID: 11400000, guid: 5fb0cb22a9497814190ad1ec0183eb7d, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 6d7e92180fd53724cbb48e90f61ad4c4, type: 2}
+    channel: 4
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.3
+  - name: chair_creak
+    sound: {fileID: 11400000, guid: 2882a25eb46af964b9b964bede240fe0, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: chair_scrape
+    sound: {fileID: 11400000, guid: 664fa1927b5f82242ab5039d383c8128, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: chair_slide_empty_room
+    sound: {fileID: 11400000, guid: 007463e2c48f0d448838183252bbfa37, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: cloth_move
+    sound: {fileID: 11400000, guid: f038478f548a70e43924ddb49a2444ee, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: cold_gust
+    sound: {fileID: 11400000, guid: 87ea562abbc6f694a8cd65391e10e369, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: crayon_scribble
+    sound: {fileID: 11400000, guid: e7743dd904c1ee54a9fda47529ba0e84, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: crt_degauss
+    sound: {fileID: 11400000, guid: 3b8d2998d2cb6de4f9138247843441ce, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: crt_hum
+    sound: {fileID: 11400000, guid: acb9be300cf89864e9b96e9c0fb1b813, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.35
+  - name: crt_static
+    sound: {fileID: 11400000, guid: b0435425f50f84e40b41e2b50d73f19d, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.35
+  - name: demolition_far
+    sound: {fileID: 11400000, guid: 90658b84b5343824c8608c1c0619519a, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: desk_drag
+    sound: {fileID: 11400000, guid: 0c44dd0d93d14f84ebe5e41c9ad0da6b, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: door_creak_alone
+    sound: {fileID: 11400000, guid: 37e1273093aa6cf438dbd07433f101f9, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: door_far_close
+    sound: {fileID: 11400000, guid: a89734fcfc2ae544a96c48bcdaf24696, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: door_locked_rattle
+    sound: {fileID: 11400000, guid: 469f33189f230b74787b4c90b2dee13f, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: door_metal_close
+    sound: {fileID: 11400000, guid: c25c82118685aa54b9733878d56549ee, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: door_metal_open
+    sound: {fileID: 11400000, guid: b0b27a50e6fc5ea48990448c3f975468, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: door_wood_close
+    sound: {fileID: 11400000, guid: 4e0f0476ae00e744f8bcdd1a40c0dda4, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: door_wood_open
+    sound: {fileID: 11400000, guid: b877f79eb47b4ed409572f783628bfd3, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: door_wood_slam_far
+    sound: {fileID: 11400000, guid: f898617be7059fb4498a0d6e27f1de1c, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: drawer_close
+    sound: {fileID: 11400000, guid: 0a22278dbc079214bb0daa9730ffce76, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: drawer_open
+    sound: {fileID: 11400000, guid: 7e2672c107a1cb74b8630b3f0c78e5fc, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: error_beep
+    sound: {fileID: 11400000, guid: af32f9fd6c2a57b458ac1c48067c5eb3, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: flashlight_flicker
+    sound: {fileID: 11400000, guid: e0c77f8a26fb56647af102d45d0cc9bc, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: flashlight_off
+    sound: {fileID: 11400000, guid: 5d046021ccfe425498982d92423fe024, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: flashlight_on
+    sound: {fileID: 11400000, guid: 5fe39c630eb542e4e93edaf7612dabc7, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: foot_carpet_walk
+    sound: {fileID: 11400000, guid: 53cbeef9dd44f8743aed92ed0533a109, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: foot_concrete_run
+    sound: {fileID: 11400000, guid: 5641c8724c962e94b9851c8318caadc4, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: foot_concrete_walk
+    sound: {fileID: 11400000, guid: f26deb7811e541d4a948358311d63e1a, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: foot_gravel_walk
+    sound: {fileID: 11400000, guid: e6409243c2edd5d47aea124e689c8606, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: foot_land
+    sound: {fileID: 11400000, guid: cee68d4cb0e797b419e0499ac6401a09, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: foot_stairs
+    sound: {fileID: 11400000, guid: 3e03e9d9128d2ed4f9956167c7d6ba06, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: foot_stairs_wood
+    sound: {fileID: 11400000, guid: dcfe8d639bde19b44a293f982151f936, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: foot_tile_run
+    sound: {fileID: 11400000, guid: 0a6b8a67e0696cf4a8d7e9b652b0ef59, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: foot_tile_walk
+    sound: {fileID: 11400000, guid: 1ce7459f30d7b084eba2778db4141e09, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: foot_wood_run
+    sound: {fileID: 11400000, guid: 46005c231b3780a459d081afa7253c58, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: foot_wood_walk
+    sound: {fileID: 11400000, guid: 0b72a61fd4f8a5e438e787d46a2a847e, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.7
+  - name: gate_metal_close
+    sound: {fileID: 11400000, guid: 0a0fcdf1ce451dc44b283b608f34e559, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: gate_metal_open
+    sound: {fileID: 11400000, guid: 6e364517af79e8c41abc1ef4f66a8b21, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: gate_wind_rattle
+    sound: {fileID: 11400000, guid: e2da3c398a3086e48b3fbaf74a1c5573, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: glass_clink
+    sound: {fileID: 11400000, guid: ec375330c29560643b3797e00a729e30, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: glass_resonance
+    sound: {fileID: 11400000, guid: ea1f70cb8648180459cad65b2edef1ea, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: glass_shatter_mirror
+    sound: {fileID: 11400000, guid: 79599f779df039c46a13a718e401d808, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: hand_on_glass
+    sound: {fileID: 11400000, guid: 9ab6737a7945a96478f7d09bb955c1c3, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: hdd_boot
+    sound: {fileID: 11400000, guid: c41070cdf94132a46bfe2317810e88bc, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: hdd_seek
+    sound: {fileID: 11400000, guid: 9336c80759469a1429149e6e5da16c4f, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: heartbeat_fast
+    sound: {fileID: 11400000, guid: 25d02cd2d1148c144885e8b532721c52, type: 2}
+    mixerGroup: {fileID: 3934582277033336849, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 3
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.3
+  - name: heartbeat_slow
+    sound: {fileID: 11400000, guid: 1495e2ad5af539948b8777a0972f6583, type: 2}
+    mixerGroup: {fileID: 3934582277033336849, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 3
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.3
+  - name: highlight_chime
+    sound: {fileID: 11400000, guid: 28bc271f3843add4abc91cdc3d2c06f4, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: hud_swap
+    sound: {fileID: 11400000, guid: 4255e795a36b986418efc790ea756bb5, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 6d7e92180fd53724cbb48e90f61ad4c4, type: 2}
+    channel: 4
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.3
+  - name: inspect_open
+    sound: {fileID: 11400000, guid: 3c609660e18becc4f9bf3d83be9b7ab6, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 6d7e92180fd53724cbb48e90f61ad4c4, type: 2}
+    channel: 4
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.3
+  - name: intercom_off
+    sound: {fileID: 11400000, guid: 0f8e961f75e111f41a666e05dcdae0c4, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: intercom_on
+    sound: {fileID: 11400000, guid: 70c107040cc040942b04443a56e11caa, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: item_equip
+    sound: {fileID: 11400000, guid: 8b4979c935edb2d449e061598d326933, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: item_holster
+    sound: {fileID: 11400000, guid: aa0f783381525224e9a43d58142a16b7, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: item_pickup_soft
+    sound: {fileID: 11400000, guid: 64315bcd659a3f34b95b4b9b6b1735c7, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: key_pickup
+    sound: {fileID: 11400000, guid: c4b9ca4b830ff0b4f95f721eaefe9e62, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: key_unlock
+    sound: {fileID: 11400000, guid: 5c02b1afa47adc94ca37c8c07cd22651, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: keyboard_typing
+    sound: {fileID: 11400000, guid: dba4c76996651e146ac2b16e764529be, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: light_flicker
+    sound: {fileID: 11400000, guid: f634ca322a4b38a4e871d78743a22deb, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: lockpick_break
+    sound: {fileID: 11400000, guid: 429c88590a359f04cbb414964c4c7bf5, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.5
+  - name: lockpick_jam
+    sound: {fileID: 11400000, guid: 9a2fc86111836d34b89a0b01b5b3bcf2, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.5
+  - name: lockpick_pin_set
+    sound: {fileID: 11400000, guid: 6924e21455f730341b0adfce5438253f, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.5
+  - name: lockpick_scrape
+    sound: {fileID: 11400000, guid: 04e47ccd4a17f7749866e4ea0eb2fb86, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 1
+    defaultVolume: 0.5
+  - name: lockpick_success
+    sound: {fileID: 11400000, guid: 47ba8e02eb3e1e8479b465f957e28dd3, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.5
+  - name: lockpick_tension
+    sound: {fileID: 11400000, guid: 792d9b4122782724da7702284a664dae, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.5
+  - name: lunchbox_open
+    sound: {fileID: 11400000, guid: fd8ba1d3fb4123749b5803bb2fc0e5d9, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: mirror_delay_tone
+    sound: {fileID: 11400000, guid: 19f00ea90e8f7684683d2be94eda3f37, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: mouse_click
+    sound: {fileID: 11400000, guid: 93dcafed7fcdb614d9e81653bde08539, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: mouse_click_double
+    sound: {fileID: 11400000, guid: 5c44e650c29a2414cb76b1a094f7cc7a, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: notify_soft
+    sound: {fileID: 11400000, guid: 44f8cb0c067383940a021b4e19ad480a, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: object_fall_box
+    sound: {fileID: 11400000, guid: bd9d68f368f02c246a9102c11fc7346b, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: object_fall_metal
+    sound: {fileID: 11400000, guid: 6497d9f1d6d91da43891747639d12587, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: object_fall_small
+    sound: {fileID: 11400000, guid: 61b32aff59f32144dae201cb8b9fe654, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: objective_check
+    sound: {fileID: 11400000, guid: bc56790060c72314599acc90a4569672, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 6d7e92180fd53724cbb48e90f61ad4c4, type: 2}
+    channel: 4
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.3
+  - name: office_phone_ring
+    sound: {fileID: 11400000, guid: 2b3c566400dc59a4ab0a189a59754fe1, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 1
+    defaultVolume: 0.65
+  - name: page_turn
+    sound: {fileID: 11400000, guid: 828a476e6465b114eb2421dfa02228ae, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: paper_rustle
+    sound: {fileID: 11400000, guid: 0796939f0efc2ad42acb0922124880d2, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: pc_boot_jingle
+    sound: {fileID: 11400000, guid: b088753151b84524fad49f0ef836bf5d, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: pc_fan
+    sound: {fileID: 11400000, guid: b3ec0f398caf88e48946d36380f9c364, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.35
+  - name: pc_power_button
+    sound: {fileID: 11400000, guid: 959c786451ba21d4896fdf0cdec86c4f, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 45829c9d84c28714c9faed23ef8e3a7c, type: 2}
+    channel: 5
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.35
+  - name: phone_message_sent
+    sound: {fileID: 11400000, guid: a370165da4504ac4385707938f3e6ba3, type: 2}
+    mixerGroup: {fileID: 24300002, guid: e15707090a12f8b4dbb9cade3f83bbf7, type: 2}
+    channel: 6
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.4
+  - name: phone_notify
+    sound: {fileID: 11400000, guid: fd8f07ad541cc5d4199333ff780b6d82, type: 2}
+    mixerGroup: {fileID: 24300002, guid: e15707090a12f8b4dbb9cade3f83bbf7, type: 2}
+    channel: 6
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.4
+  - name: phone_typing_dots
+    sound: {fileID: 11400000, guid: 9f9156b88e819cd46a15c30d7036b365, type: 2}
+    mixerGroup: {fileID: 24300002, guid: e15707090a12f8b4dbb9cade3f83bbf7, type: 2}
+    channel: 6
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.4
+  - name: phone_vibrate_soft
+    sound: {fileID: 11400000, guid: 67d8de5d0fe2af44bad6900455f01bd2, type: 2}
+    mixerGroup: {fileID: 24300002, guid: e15707090a12f8b4dbb9cade3f83bbf7, type: 2}
+    channel: 6
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.4
+  - name: phone_vibrate_strong
+    sound: {fileID: 11400000, guid: b3bf98d1341cf004ab102b2eba00f09f, type: 2}
+    mixerGroup: {fileID: 24300002, guid: e15707090a12f8b4dbb9cade3f83bbf7, type: 2}
+    channel: 6
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.4
+  - name: pipe_clang
+    sound: {fileID: 11400000, guid: d80fc9e1e400ee64ab17fa5f6e0a2658, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: power_down
+    sound: {fileID: 11400000, guid: 79273134e3d946f4a92ddb757faefa96, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: radio_button
+    sound: {fileID: 11400000, guid: 4ee48f0517079d842a3554cd127c3c19, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.4
+  - name: radio_static
+    sound: {fileID: 11400000, guid: 32e878ec40c9a8c479fa4c6fb7c2fe96, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 0
+    loop: 1
+    defaultVolume: 0.4
+  - name: radio_tune_sweep
+    sound: {fileID: 11400000, guid: 6315a0e45d137cc48a3eeb732f721189, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.4
+  - name: rat_gnaw
+    sound: {fileID: 11400000, guid: ddabfcc892bbb884bbd481368eadf535, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: rat_growl
+    sound: {fileID: 11400000, guid: 83244041c6b1ff041a6739d2517d575c, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: rat_run_ceiling
+    sound: {fileID: 11400000, guid: f8f95c9f84ac1544ebf3bcedae3f1f96, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: rat_scurry_wall
+    sound: {fileID: 11400000, guid: 8349d00564b252f459432b44dad19d47, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: rat_squeak
+    sound: {fileID: 11400000, guid: 328d130c99b4f344ab41a8da43903e31, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: room_warm_swell
+    sound: {fileID: 11400000, guid: 08fdd77088d99bb4281577bfdb09a2ef, type: 2}
+    mixerGroup: {fileID: 5104982059940887482, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 2
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.4
+  - name: school_bell_far
+    sound: {fileID: 11400000, guid: 051e0cd3fb04c104c9399b3a140660f0, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: scratch_wall
+    sound: {fileID: 11400000, guid: 6143e38a94a42b14f97d6a79dc0691f6, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: shoe_drop
+    sound: {fileID: 11400000, guid: 0e4aceadbb1e87f4c94df0409e17172c, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: siren_ambulance_pass
+    sound: {fileID: 11400000, guid: a4882955e363dae44a4c136f6a878d83, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: siren_far
+    sound: {fileID: 11400000, guid: 06a8460c335aee04fa040cdfab70b7f4, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 1
+    defaultVolume: 0.65
+  - name: siren_police_pass
+    sound: {fileID: 11400000, guid: 92505bfd2b30eed47b335081f70d5ee3, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: small_steps_far
+    sound: {fileID: 11400000, guid: 0d559c79e23811246babc6815ef48959, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: sting_mirror
+    sound: {fileID: 11400000, guid: 6a5399a6959043544abe0eb3ca8933fc, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: tape_hiss
+    sound: {fileID: 11400000, guid: df038e3affb306a48b6220f4d9b87e08, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 1
+    defaultVolume: 0.65
+  - name: tape_play
+    sound: {fileID: 11400000, guid: 08f6e48a08f530c499addbd387e346a4, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: tape_rewind
+    sound: {fileID: 11400000, guid: b9bf960c71d4bf34f84e078c35e39e0c, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: tape_stop
+    sound: {fileID: 11400000, guid: ef3765b0dca9c1d4cb46216967b48ecf, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: tree_creak
+    sound: {fileID: 11400000, guid: a2f7dea0ba9700549ba74be26a4c0b27, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: tv_room_tone
+    sound: {fileID: 11400000, guid: 6dc37fdb0f52211428f01b9f5518789f, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 1
+    defaultVolume: 0.65
+  - name: ui_click
+    sound: {fileID: 11400000, guid: 60a98852655048e498910e13739acf73, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 6d7e92180fd53724cbb48e90f61ad4c4, type: 2}
+    channel: 4
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.3
+  - name: ui_hover
+    sound: {fileID: 11400000, guid: c0cbbbc9736de5d4a8ce23bf6fd7ee9c, type: 2}
+    mixerGroup: {fileID: 24300002, guid: 6d7e92180fd53724cbb48e90f61ad4c4, type: 2}
+    channel: 4
+    spatial: 0
+    loop: 0
+    defaultVolume: 0.3
+  - name: wall_crack
+    sound: {fileID: 11400000, guid: 954eab874a644f54b8c7dae6908bf4cd, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: wardrobe_close
+    sound: {fileID: 11400000, guid: 80f99d354af304846a1e2909804fb38a, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: wardrobe_open
+    sound: {fileID: 11400000, guid: d445507d0d9f8d148a1e46135a10f16c, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: water_drip
+    sound: {fileID: 11400000, guid: 61a2ef6f1ce468f419dc9c7541b15fa3, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.65
+  - name: whistle_blow
+    sound: {fileID: 11400000, guid: ea410c5d147cafd4baf0505442118d12, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.38
+  - name: whistle_echo_hall
+    sound: {fileID: 11400000, guid: d1871105d76abb540bd63b336f00ea56, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.38
+  - name: whistle_lost_echo
+    sound: {fileID: 11400000, guid: 25a56b401606f7a488c4e93a32d776c7, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.38
+  - name: whistle_place_down
+    sound: {fileID: 11400000, guid: f4e29036149c1a04a9c275b1af1df276, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.38
+  - name: whistle_pulse
+    sound: {fileID: 11400000, guid: 862d9b182a5a5ac439b53e18572c38cb, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.38
+  - name: whistle_reply_bia
+    sound: {fileID: 11400000, guid: 8fd0899cf81fa574e9344b0e663996a1, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.38
+  - name: whistle_reply_caio
+    sound: {fileID: 11400000, guid: e7f542515d68cfa41a21d68b4193bcb5, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.38
+  - name: whistle_reply_luan
+    sound: {fileID: 11400000, guid: c8df0604e67095c409b7465fd75ba1d6, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.38
+  - name: whistle_reply_marta
+    sound: {fileID: 11400000, guid: 650ad77d6e50b9a44bffe66e9305cd9a, type: 2}
+    mixerGroup: {fileID: -5346629273535160425, guid: 3267d0f83b33425439cfd3993a79656a, type: 2}
+    channel: 1
+    spatial: 1
+    loop: 0
+    defaultVolume: 0.38

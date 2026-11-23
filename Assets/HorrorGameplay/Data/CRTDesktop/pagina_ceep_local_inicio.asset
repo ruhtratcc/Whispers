@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: defd1aeb78672a6469bd8d50f8baa877, type: 3}
+  m_Name: pagina_ceep_local_inicio
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.Desktop.DesktopPage
+  address: seepe.local/inicio
+  title: "SEEPE \u2014 p\xE1gina da escola"
+  paragraphs:
+  - text: 'SEEPE
+
+      Arquivo da escola'
+    child: 0
+  - text: "Arquivo da escola\n\nEsta c\xF3pia re\xFAne o registro dos quatro alunos e o comunicado de demoli\xE7\xE3o."
+    child: 0
+  - text: "Secretaria: Helena Souza. Ramal 204.\n\nOs documentos preservados est\xE3o nos links acima."
+    child: 0

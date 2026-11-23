@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1440e879bab75b04ea7fbd0e12645589, type: 3}
+  m_Name: SchoolAtmosphere
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.SchoolAmbientConfig
+  spots:
+  - name: "biblioteca \u2014 parede"
+    position: {x: 44, y: 1.2, z: 44.8}
+    weight: 2
+  - name: "biblioteca \u2014 estante"
+    position: {x: 36, y: 1.7, z: 55}
+    weight: 2
+  - name: "cantina \u2014 forro"
+    position: {x: -6, y: 3.5, z: 48}
+    weight: 2.5
+  - name: "refeit\xF3rio \u2014 parede"
+    position: {x: -9, y: 1.2, z: 54}
+    weight: 2
+  - name: "sala de artes \u2014 fundo"
+    position: {x: -7, y: 1.5, z: 86}
+    weight: 1.5
+  - name: "corredor central \u2014 forro"
+    position: {x: 1, y: 4.5, z: 35}
+    weight: 0.5
+  - name: "arquivo \u2014 parede"
+    position: {x: -18, y: 1.4, z: 60}
+    weight: 1
+  - name: corredor de cima
+    position: {x: -20, y: 5, z: 70}
+    weight: 0.5
+  rats:
+  - {fileID: 11400000, guid: 8e97561e8db59264aa1ae910e0fa8382, type: 2}
+  - {fileID: 11400000, guid: 6715c975d9fc25b429f944715c9a6135, type: 2}
+  distantObjects:
+  - {fileID: 11400000, guid: ddcf632fd2358d14486c30be50072ca7, type: 2}
+  - {fileID: 11400000, guid: ff17d77bfa77ae94dbd03970ed9ee6d7, type: 2}
+  ratMinimum: 24
+  ratMaximum: 48
+  objectMinimum: 95
+  objectMaximum: 160
+  ratVolume: 0.09
+  objectVolume: 0.12
+  lightFrequency: 1.25
+  lightSeconds: 3
+  lightProfile: 0
+  lightNoise: {fileID: 0}

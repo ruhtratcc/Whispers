@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "duration": 34.84,
+  "summary": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSceneTests.ContinuousInputClimbsBothNewFlightsCrossesTheirLandingAndDescendsWithoutIntermediateWarp",
+      "Status": "Passed",
+      "Duration": 34.8107628,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

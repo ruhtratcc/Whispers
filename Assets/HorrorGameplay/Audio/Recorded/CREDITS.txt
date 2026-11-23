@@ -1,0 +1,39 @@
+Whispers of Past — Audio sources
+
+Recorded household Foley: laleksic, Various Sound Effects, CC0-1.0.
+https://opengameart.org/node/143670
+Recorded/organic interface Foley: Kenney, UI SFX Set, CC0-1.0.
+https://opengameart.org/content/51-ui-sound-effects-buttons-switches-and-clicks
+Wood/dirt footsteps: TinyWorlds, edited pdsounds.org recordings, CC0-1.0.
+https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud
+Concrete/grass footsteps and object impacts: Kenney, Impact Sounds, CC0-1.0.
+https://kenney.nl/assets/impact-sounds
+
+Metal/tile footsteps: congusbongus, Footsteps on different surfaces, CC BY 3.0.
+https://opengameart.org/content/footsteps-on-different-surfaces
+https://creativecommons.org/licenses/by/3.0/
+Per-surface source-author notices, original source links and license text are reproduced below.
+
+footsteps\metal\license.txt
+Derived from fboots on aluminum ladder 01 by Eelke
+https://freesound.org/people/Eelke/sounds/462598/
+
+http://creativecommons.org/licenses/by/3.0/
+
+footsteps\tile\license.txt
+Derived from footstep-concrete.wav by swuing
+http://www.freesound.org/people/swuing/sounds/38873/
+
+And Squeaky footstep.wav from ceberation
+https://freesound.org/people/ceberation/sounds/235524/
+
+http://creativecommons.org/licenses/by/3.0/
+
+Changes: household WAV clips downmixed to mono, DC corrected, silence trimmed, bounded gain, short edge fades; closing latch cropped from a recorded door close. Drawer closing movement and final stop cut into disjoint source ranges with no duplicated samples. Footstep OGG files unchanged; Unity mono import only.
+No sound generation, no synthetic breathing, no hiss ambience loop.
+
+Music: Lost in a bad place — congusbongus, CC0-1.0.
+https://opengameart.org/content/lost-in-a-bad-place-horror-ambience-loop
+Music: Post Apocalyptic Wastelands [Loop Ready] — Juhani Junkala / SubspaceAudio, CC0-1.0.
+https://opengameart.org/node/79273
+Music files unchanged; preserve stereo and authored loop boundaries.

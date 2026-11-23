@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c418cdf4b0b7bbd47a145a882f0d2b32, type: 3}
+  m_Name: Objectives-bd.four-students
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.ChapterObjectives
+  chapterId: bd.four-students
+  entries:
+  - id: bd.four.gathered
+    title: "Pegar os objetos das crian\xE7as"
+    requiredFlag: 
+    completionFlag: bd.four.gathered
+    nextObjectiveId: 
+    requiredNextSignals:
+    - bd.four.gathered
+    subitems:
+    - label: "Caderno da Marta \u2014 sala de artes (03B)"
+      requiredItemId: bd.marta.notebook
+      requiredFlag: 
+    - label: "Bon\xE9 do Caio \u2014 sanit\xE1rio masculino"
+      requiredItemId: bd.caio.cap
+      requiredFlag: 
+    - label: "Marmita do Luan \u2014 refeit\xF3rio"
+      requiredItemId: bd.luan.lunch
+      requiredFlag: 
+    - label: "Fita da Bia \u2014 Inform\xE1tica A"
+      requiredItemId: bd.bia.tape
+      requiredFlag: 
+    - label: Ouvir a fita da Bia
+      requiredItemId: bd.bia.tape.heard
+      requiredFlag: 
+    completeWhenAllSubitems: 0
+    hasTarget: 0
+    targetPosition: {x: 0, y: 0, z: 0}
+  - id: bd.four.key
+    title: "Ir at\xE9 a parte principal da escola"
+    requiredFlag: 
+    completionFlag: bd.four.intercom
+    nextObjectiveId: four.key.ready
+    requiredNextSignals:
+    - bd.four.key
+    subitems: []
+    completeWhenAllSubitems: 0
+    hasTarget: 1
+    targetPosition: {x: -1, y: 0, z: 52}
+  - id: four.key.ready
+    title: "Procure a chave no refeit\xF3rio."
+    requiredFlag: bd.four.intercom
+    completionFlag: bd.four.key
+    nextObjectiveId: 
+    requiredNextSignals:
+    - bd.four.key
+    subitems: []
+    completeWhenAllSubitems: 0
+    hasTarget: 0
+    targetPosition: {x: 0, y: 0, z: 0}
+  - id: bd.four.upstairs
+    title: Abrir a grade da escada e subir ao andar de cima.
+    requiredFlag: 
+    completionFlag: bd.four.upstairs
+    nextObjectiveId: 
+    requiredNextSignals:
+    - bd.four.upstairs
+    subitems: []
+    completeWhenAllSubitems: 0
+    hasTarget: 0
+    targetPosition: {x: 0, y: 0, z: 0}

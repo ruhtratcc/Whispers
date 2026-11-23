@@ -1,0 +1,33 @@
+# Unity gera estas pastas localmente
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Bb]uild/
+/[Bb]uilds/
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+
+# Backups locais e cenas temporárias
+/Assets/_Substituidos*
+/Assets/_Removidos*
+/Assets/_Recovery*
+/Assets/Temp*
+/Assets/InitTestScene*.unity*
+*.bak
+*.backup
+*.tmp
+*.request
+
+# Credenciais e preparação de áudio
+.env
+.env.*
+**/__pycache__/
+/Tools/Audio/.cache_sfx/
+/Tools/Audio/.sfx.lock
+/Assets/Audio/Raw/Editor*

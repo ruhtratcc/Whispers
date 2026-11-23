@@ -1,0 +1,174 @@
+Ambiências (influence 0,4)
+amb_office_night | 30 | sim | Quiet small private investigator office at night, faint fluorescent bulb hum, soft distant clock ticking, very faint far traffic, seamless loop, no music, no voices
+amb_car_interior | 30 | sim | Interior of an old sedan driving at steady speed on asphalt, low engine hum, tire noise, faint wind, seamless loop, no music, no voices
+amb_exterior_night | 30 | sim | Abandoned school yard at night, light wind in dry trees, distant crickets, empty and cold, seamless loop, no music, no voices
+amb_school_ground | 30 | sim | Empty abandoned school ground floor at night, heavy room tone, faint wind outside, subtle building creaks, seamless loop, no music, no voices
+amb_school_library | 30 | sim | Dusty empty library at night, very quiet room tone, faint paper rustle, tiny creaks, seamless loop, no music, no voices
+amb_school_cafeteria | 30 | sim | Abandoned school cafeteria at night, distant dripping water, old refrigerator hum fading, echoing silence, seamless loop, no music, no voices
+amb_school_classroom | 30 | sim | Empty classroom at night, faint wind through a cracked window, very quiet room tone, tiny wood creaks, seamless loop, no music, no voices
+amb_school_upper | 30 | sim | Cold upper floor of an abandoned school, wind whistling through broken windows, distant rattling, uneasy, seamless loop, no music, no voices
+amb_school_corridor | 30 | sim | Long empty school hallway room tone, subtle echo, faint electrical buzz, very low and tense, seamless loop, no music, no voices
+amb_school_bathroom | 30 | sim | Abandoned school bathroom, slow water drips with echo, tiles, faint pipe hum, seamless loop, no music, no voices
+amb_secretary_room | 30 | sim | Small old school secretary office at night, faint electric buzz, quiet room tone, a very faint ticking, seamless loop, no music, no voices
+amb_drone_tension_01 | 30 | sim | Low dark drone, slow evolving, subtle dissonance, suspenseful, no melody, seamless loop, no music, no voices
+amb_drone_tension_02 | 30 | sim | Hollow cold drone with faint high metallic overtones, slowly pulsing, unsettling, seamless loop, no voices
+amb_drone_mirror | 30 | sim | Deep sub bass drone with slow rising tension, faint glassy shimmer, ominous, seamless loop, no voices
+amb_morning_birds | 30 | sim | Calm early morning, distant birds, soft breeze, peaceful and hopeful, seamless loop, no music, no voices
+amb_fluorescent_buzz | 20 | sim | Old fluorescent tube light buzzing steadily, low electrical hum, seamless loop, no music, no voices
+amb_clock_tick | 20 | sim | Old wall clock ticking slowly in a silent room, seamless loop, no music, no voices
+amb_wind_outside | 30 | sim | Cold night wind blowing around an old building, soft whistling, seamless loop, no music, no voices
+Jogador (influence 0,7)
+foot_tile_walk | 1 | não | One slow footstep of a man in leather shoes on old school tiles, dry, clean, no music, no voices
+foot_tile_run | 1 | não | One fast running footstep of a man on tiles, heavy, dry, clean, no music, no voices
+foot_wood_walk | 1 | não | One footstep of a man on an old creaky wooden floor, dry, clean, no music, no voices
+foot_wood_run | 1 | não | One fast running footstep on a wooden floor, dry, clean, no music, no voices
+foot_concrete_walk | 1 | não | One footstep on dusty concrete with grit, dry, clean, no music, no voices
+foot_concrete_run | 1 | não | One fast running footstep on concrete with grit, dry, clean, no music, no voices
+foot_carpet_walk | 1 | não | One soft footstep on an old carpet, dry, clean, no music, no voices
+foot_gravel_walk | 1 | não | One footstep on gravel and dirt outside, dry, clean, no music, no voices
+foot_stairs | 1 | não | One footstep going up old concrete stairs, dry, clean, no music, no voices
+foot_stairs_wood | 1 | não | One footstep on old wooden stairs with a creak, dry, clean, no music, no voices
+foot_land | 0.8 | não | Soft landing of a man jumping down onto a floor, dry, clean, no music, no voices
+breath_calm | 15 | sim | Man breathing calmly and quietly, slow, close, no words, seamless loop, no music
+breath_scared | 15 | sim | Man breathing fast and shaky from fear, close, no words, seamless loop, no music
+breath_exhausted | 6 | não | Man catching his breath after running, heavy, no words, dry, no music
+heartbeat_slow | 15 | sim | Slow muffled heartbeat, deep and steady, seamless loop, no music, no voices
+heartbeat_fast | 15 | sim | Fast pounding heartbeat, muffled and tense, seamless loop, no music, no voices
+cloth_move | 1.5 | não | Soft jacket cloth movement of a person turning, dry, clean, no music, no voices
+Portas, móveis e objetos (influence 0,7)
+door_wood_open | 2.5 | não | Old heavy wooden door creaking open slowly, dry, clean, no music, no voices
+door_wood_close | 1.5 | não | Wooden door closing with a soft thud, dry, clean, no music, no voices
+door_wood_slam_far | 2 | não | Wooden door slamming far away in a big empty building, with echo, no music, no voices
+door_metal_open | 2.5 | não | Rusty metal door opening with a long squeal, dry, clean, no music, no voices
+door_metal_close | 2 | não | Metal door closing with a heavy clang, dry, clean, no music, no voices
+door_locked_rattle | 1.5 | não | Someone trying a locked door handle, metal rattle, two tries, dry, clean, no music, no voices
+key_unlock | 1.5 | não | Old key turning in a lock and unlocking, dry, clean, no music, no voices
+key_pickup | 0.8 | não | Small metal key picked up from a wooden table, dry, clean, no music, no voices
+gate_metal_open | 3 | não | Heavy rusty iron gate opening with scraping and squeaking, dry, clean, no music, no voices
+gate_metal_close | 2.5 | não | Iron gate closing with a rattling clang, dry, clean, no music, no voices
+gate_wind_rattle | 4 | não | Loose iron gate rattling in the wind, metal clinks, no music, no voices
+drawer_open | 1.5 | não | Old wooden drawer sliding open, slight rattle inside, dry, clean, no music, no voices
+drawer_close | 1 | não | Wooden drawer closing, dry, clean, no music, no voices
+wardrobe_open | 2.5 | não | Old wooden wardrobe door creaking open, dry, clean, no music, no voices
+wardrobe_close | 1.5 | não | Wooden wardrobe door closing, hollow, dry, clean, no music, no voices
+lunchbox_open | 1.2 | não | Old metal lunchbox latch click and lid opening, dry, clean, no music, no voices
+paper_rustle | 1.5 | não | Old paper sheets being picked up and rustled, dry, clean, no music, no voices
+page_turn | 1 | não | Single page of an old notebook turning, dry, clean, no music, no voices
+crayon_scribble | 3 | não | Wax crayon scribbling on paper, dry, clean, no music, no voices
+battery_pickup | 0.8 | não | Small batteries picked up, tiny plastic and metal clicks, dry, clean, no music, no voices
+flashlight_on | 0.5 | não | Plastic flashlight switch click on, dry, clean, no music, no voices
+flashlight_off | 0.5 | não | Plastic flashlight switch click off, dry, clean, no music, no voices
+flashlight_flicker | 2 | não | Flashlight flickering, weak electric crackle and clicks, dry, clean, no music, no voices
+item_equip | 0.8 | não | Small metal object taken out of a pocket, dry, clean, no music, no voices
+item_holster | 0.8 | não | Small object put away into a pocket with cloth rustle, dry, clean, no music, no voices
+item_pickup_soft | 0.6 | não | Small object picked up from a table, soft, dry, clean, no music, no voices
+tape_play | 0.8 | não | Old cassette recorder play button press and tape start, dry, clean, no music, no voices
+tape_stop | 0.8 | não | Cassette recorder stop button press, tape halting, dry, clean, no music, no voices
+tape_rewind | 3 | não | Cassette tape rewinding fast with a whirring sound, dry, clean, no music, no voices
+tape_hiss | 20 | sim | Cassette tape hiss with slight wow and flutter, seamless loop, no music, no voices
+chair_creak | 1.5 | não | Old office chair creaking as someone leans, dry, clean, no music, no voices
+chair_scrape | 2 | não | Chair dragging across a tile floor, dry, clean, no music, no voices
+desk_drag | 2 | não | Heavy wooden school desk dragged on a floor, dry, clean, no music, no voices
+object_fall_small | 1.5 | não | Small object falling off a shelf onto a floor, dry, clean, no music, no voices
+object_fall_box | 2.5 | não | Cardboard box falling in a distant room, echo, no music, no voices
+object_fall_metal | 2 | não | Metal object falling and rolling on a floor in another room, echo, no music, no voices
+pipe_clang | 3 | não | Metal pipe clang far away in an empty building, echoing, no music, no voices
+glass_clink | 1 | não | Small glass bottle touching a wooden table, clink, dry, clean, no music, no voices
+backpack_zip | 1.5 | não | Old school backpack zipper opening, dry, clean, no music, no voices
+bones_clack | 2 | não | Small dry bones shifting and clacking softly in a hollow, quiet, no music, no voices
+shoe_drop | 1 | não | Small child shoe dropped on dusty concrete, dry, clean, no music, no voices
+Lockpick (influence 0,7)
+lockpick_scrape | 3 | sim | Thin metal pick scraping inside a lock, soft tinkling, slow, seamless loop, no music, no voices
+lockpick_pin_set | 0.6 | não | Tiny lock pin clicking into place, dry, clean, no music, no voices
+lockpick_tension | 2 | não | Lock cylinder under tension, faint metal creak, dry, clean, no music, no voices
+lockpick_break | 1 | não | Thin metal pick snapping inside a lock, dry, clean, no music, no voices
+lockpick_success | 1.5 | não | Lock cylinder turning and a heavy latch clicking open, dry, clean, no music, no voices
+lockpick_jam | 1 | não | Lock cylinder resisting, a dull jammed rattle, dry, clean, no music, no voices
+Apito e respostas (influence 0,7)
+whistle_blow | 1 | não | One short sharp blow of a small metal toy whistle, high pitched, dry, clean, no music
+whistle_reply_marta | 1.2 | não | One short distant answer whistle, small and airy, far away in a big building, reverb, no music
+whistle_reply_caio | 1.2 | não | One distant lower pitched whistle, shorter, muffled by walls, reverb, no music
+whistle_reply_luan | 1.2 | não | One distant tiny whistle, very high and thin, far away, reverb, no music
+whistle_reply_bia | 1.2 | não | One distant breathy whistle, two quick notes, far away, reverb, no music
+whistle_echo_hall | 3 | não | Echo tail of a whistle in a long empty hallway, repeating and fading, no music
+whistle_lost_echo | 3 | não | Whistle echo fading into silence with no return, hollow and cold, no music
+whistle_place_down | 1.2 | não | Small metal whistle placed down gently among bones, cloth and dust, soft clink, no music
+whistle_pulse | 2.5 | não | Slow ghostly rising swell with a soft glassy shimmer, magical but eerie, no voices
+highlight_chime | 1.5 | não | Single soft glassy ping, faint and ethereal, reverb, no voices
+Ratos e sons do prédio (influence 0,7)
+rat_scurry_wall | 3 | não | Rats scurrying fast inside a wall, tiny claws, close, dry, no music, no voices
+rat_squeak | 1.5 | não | A few sharp rat squeaks inside a wall, dry, no music, no voices
+rat_growl | 2 | não | Small rodent hissing and low growling, close, dry, no music, no voices
+rat_gnaw | 3 | não | Rodent gnawing on wood, dry crunching, no music, no voices
+rat_run_ceiling | 3 | não | Small animals running fast across a ceiling space, scratching, no music, no voices
+scratch_wall | 3 | não | Slow scratching inside a wall, like claws on plaster, no music, no voices
+building_creak | 3 | não | Old building wood and beams creaking slowly in the night, no music, no voices
+water_drip | 3 | não | Single water drips falling into a puddle in an empty room, echo, no music, no voices
+school_bell_far | 4 | não | Old school bell ringing far away in an empty building, echo, eerie, no music, no voices
+branch_snap_far | 1.5 | não | Dry tree branch snapping far away in the night, no music, no voices
+tree_creak | 4 | não | Large fallen tree trunk groaning and creaking slowly, no music, no voices
+Terror (influence 0,5)
+sting_mirror | 2 | não | Horror jump scare hit, sudden deep low braam with a sharp shrill stab, then silence, no voices
+glass_shatter_mirror | 3 | não | Large mirror shattering and shards falling to a floor, no music, no voices
+wall_crack | 4 | não | Old plaster wall cracking, low rumble, dust falling, no music, no voices
+bricks_fall | 4 | não | Loose bricks and rubble falling and sliding, no music, no voices
+light_flicker | 2 | não | Fluorescent light flickering with electric buzzing and crackle, no music, no voices
+bulb_die | 1.5 | não | Light bulb popping and dying with a short zap, no music, no voices
+power_down | 2 | não | Electric power fading down, lights shutting off, low thump, no music, no voices
+cold_gust | 3 | não | Cold gust of wind through a crack, low moan, short, no music, no voices
+door_creak_alone | 4 | não | Old door creaking open by itself very slowly, no music, no voices
+small_steps_far | 3 | não | Soft tiny footsteps of a child running in a far hallway, no voice, no music
+hand_on_glass | 2 | não | Hand slowly sliding on fogged glass, slight squeak, no music, no voices
+glass_resonance | 3 | não | Glass vibrating and ringing softly, thin resonant tone, no music, no voices
+mirror_delay_tone | 6 | não | Low rising tension tone, slow, building, ending abruptly, no voices
+room_warm_swell | 5 | não | Gentle warm rising swell of soft pads and air, relief and peace, no voices
+Interfone, rádio e carro (influence 0,7)
+intercom_on | 1.5 | não | School intercom speaker clicking on with a burst of static, dry, no music, no voices
+intercom_off | 1 | não | School intercom speaker clicking off with a short static tail, dry, no music, no voices
+radio_static | 20 | sim | Car radio static noise between stations, seamless loop, no music, no voices
+radio_tune_sweep | 3 | não | Radio dial sweeping between stations with static and fragments of noise, no voices, no music
+radio_button | 0.4 | não | Plastic car radio button click, dry, no music, no voices
+car_door_open | 1.2 | não | Old sedan door opening with a latch click, dry, clean, no music, no voices
+car_door_close | 1.2 | não | Old sedan door closing with a solid thud, dry, clean, no music, no voices
+car_engine_start | 3 | não | Old sedan engine starting, turning over and idling, no music, no voices
+car_engine_stop | 2 | não | Old car engine turning off, shudder and silence, no music, no voices
+car_seatbelt | 1.2 | não | Car seatbelt buckling and clicking, dry, clean, no music, no voices
+car_turn_signal | 6 | sim | Car turn signal clicking steadily, seamless loop, no music, no voices
+PC retrô (influence 0,7)
+pc_power_button | 0.6 | não | Old computer power button click and relay thump, dry, clean, no music, no voices
+pc_fan | 20 | sim | Old desktop computer fan hum, steady, seamless loop, no music, no voices
+crt_hum | 20 | sim | Old CRT monitor high pitched electrical hum, quiet, seamless loop, no music, no voices
+crt_degauss | 1 | não | CRT monitor degauss thump and buzz when turning on, dry, clean, no music, no voices
+crt_static | 15 | sim | Soft CRT screen static noise, seamless loop, no music, no voices
+hdd_seek | 1.5 | não | Old hard drive seek clicks and grinding, short, dry, clean, no music, no voices
+hdd_boot | 5 | não | Old hard drive reading and spinning during startup, dry, clean, no music, no voices
+bios_beep | 0.4 | não | Single short old computer BIOS beep, dry, clean, no voices
+pc_boot_jingle | 4 | não | Short original warm startup chime, soft synthesizer, hopeful, 2000s, no voices
+keyboard_typing | 3 | não | Old mechanical keyboard typing quickly, dry, clean, no music, no voices
+mouse_click | 0.2 | não | Single old plastic mouse click, dry, clean, no music, no voices
+mouse_click_double | 0.4 | não | Double click on an old plastic mouse, dry, clean, no music, no voices
+error_beep | 0.6 | não | Generic short synthetic error beep, flat tone, dry, clean, no voices
+notify_soft | 0.8 | não | Soft pleasant notification ding, small chime, dry, clean, no voices
+Celular e telefone (influence 0,7)
+phone_vibrate_soft | 2 | não | Phone vibrating on a plastic dashboard, buzzing twice, dry, clean, no music, no voices
+phone_vibrate_strong | 4 | não | Phone vibrating hard on a table, loud buzzing, rattling, dry, clean, no music, no voices
+phone_notify | 1 | não | Soft modern notification sound, subtle, dry, clean, no voices
+phone_message_sent | 0.5 | não | Short soft message sent whoosh, dry, clean, no voices
+phone_typing_dots | 2 | não | Very faint tiny soft clicks like a typing indicator, dry, clean, no voices
+office_phone_ring | 6 | sim | Old landline telephone ringing, classic bell, seamless loop, no music, no voices
+Finais (influence 0,5)
+siren_police_pass | 10 | não | Police siren passing by outside a window with doppler effect, fading away, no music, no voices
+siren_ambulance_pass | 10 | não | Ambulance siren passing by with doppler effect, fading away, no music, no voices
+siren_far | 25 | sim | Distant city sirens, faint, seamless loop, no music, no voices
+tv_room_tone | 20 | sim | Old television on in a quiet room, faint electronic hum and low static, seamless loop, no voices
+bad_end_wind | 25 | sim | Cold empty room, light wind, a fluorescent bulb humming, lonely, seamless loop, no music, no voices
+door_far_close | 3 | não | A door opening and closing far away in a large building, no music, no voices
+demolition_far | 15 | não | Heavy demolition machinery and concrete crumbling far away, rumble, no music, no voices
+chair_slide_empty_room | 2 | não | A single chair sliding on a floor in an empty room, echo, no music, no voices
+Interface (influence 0,7)
+ui_click | 0.2 | não | Very soft subtle interface click, dry, clean, no voices
+ui_hover | 0.2 | não | Very soft faint tick, dry, clean, no voices
+card_open | 0.8 | não | Paper card sliding open, soft, dry, clean, no voices
+objective_check | 0.8 | não | Small soft pencil tick and tiny chime, subtle, dry, clean, no voices
+hud_swap | 0.4 | não | Quick soft whoosh of an item switching, dry, clean, no voices
+inspect_open | 0.6 | não | Soft low whoosh of picking an object closer to the eyes, dry, clean, no voices

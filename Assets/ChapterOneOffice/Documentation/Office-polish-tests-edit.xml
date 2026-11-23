@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="5" result="Passed" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.0984157">
+  <test-suite type="TestSuite" id="1000" name="My project" fullname="My project" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.098416" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1007" name="HorrorGame.EditTests.dll" fullname="C:/Users/ruhtra/My project/Library/ScriptAssemblies/HorrorGame.EditTests.dll" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.089188" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="5168" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestSuite" id="1008" name="HorrorGame" fullname="HorrorGame" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.088740" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1009" name="Tests" fullname="HorrorGame.Tests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.088509" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="1001" name="FoundationEditTests" fullname="HorrorGame.Tests.FoundationEditTests" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.087547" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="1005" name="GameplayPrefabHasReferencesAndRenderingOverrides" fullname="HorrorGame.Tests.FoundationEditTests.GameplayPrefabHasReferencesAndRenderingOverrides" methodname="GameplayPrefabHasReferencesAndRenderingOverrides" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" seed="403041812" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.039675" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1002" name="InputAssetContainsAllRequiredActions" fullname="HorrorGame.Tests.FoundationEditTests.InputAssetContainsAllRequiredActions" methodname="InputAssetContainsAllRequiredActions" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" seed="658331048" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.002035" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1004" name="SaveReaderRejectsInvalidAndNonfiniteData" fullname="HorrorGame.Tests.FoundationEditTests.SaveReaderRejectsInvalidAndNonfiniteData" methodname="SaveReaderRejectsInvalidAndNonfiniteData" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" seed="1526592910" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.002545" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1006" name="SceneObjectsHaveUniqueSaveIds" fullname="HorrorGame.Tests.FoundationEditTests.SceneObjectsHaveUniqueSaveIds" methodname="SceneObjectsHaveUniqueSaveIds" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" seed="1969203635" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.027743" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="1003" name="SoundSelectionNeverRepeatsWhenAlternativesExist" fullname="HorrorGame.Tests.FoundationEditTests.SoundSelectionNeverRepeatsWhenAlternativesExist" methodname="SoundSelectionNeverRepeatsWhenAlternativesExist" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" seed="886362012" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.003380" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: C:/Users/ruhtra/AppData/LocalLow/DefaultCompany/My project\TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "duration": 37.22,
+  "summary": {
+    "total": 2,
+    "passed": 2,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneySceneTests.CompletedOfficeCheckpointCarriesEquipmentIntoRealRoadSpawn",
+      "Status": "Passed",
+      "Duration": 1.1945286,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneySceneTests.RealRoadHasReachableCabinItemsWindowAndContinuousWalkToGate",
+      "Status": "Passed",
+      "Duration": 35.9542969,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

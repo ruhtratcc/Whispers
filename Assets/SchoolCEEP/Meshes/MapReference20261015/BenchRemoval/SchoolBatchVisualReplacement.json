@@ -1,0 +1,18 @@
+{
+    "partCount": 4,
+    "expectedTriangles": 184,
+    "removedTriangles": 184,
+    "changedBatches": 1,
+    "directRenderersDisabled": 0,
+    "alreadyApplied": false,
+    "positionTolerance": 0.00009999999747378752,
+    "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+    "targetDigest": "8387BBD04E7B00A75E53091743E89C1E968A048F8BC70EDC1FE75B17D1F59765",
+    "sourcePartPaths": [
+        "CEEP — arquitetura das plantas[0]/Detalhes das novas fotos[31]/Segundo conjunto de fotos — pátios e refeitório[0]/Pátios baixos — mobiliário fotográfico[0]/Banco curvo de concreto azul[0]/Apoio maciço[1]",
+        "CEEP — arquitetura das plantas[0]/Detalhes das novas fotos[31]/Segundo conjunto de fotos — pátios e refeitório[0]/Pátios baixos — mobiliário fotográfico[0]/Banco curvo de concreto azul[0]/Apoio maciço[2]",
+        "CEEP — arquitetura das plantas[0]/Detalhes das novas fotos[31]/Segundo conjunto de fotos — pátios e refeitório[0]/Pátios baixos — mobiliário fotográfico[0]/Banco curvo de concreto azul[0]/Apoio maciço[3]",
+        "CEEP — arquitetura das plantas[0]/Detalhes das novas fotos[31]/Segundo conjunto de fotos — pátios e refeitório[0]/Pátios baixos — mobiliário fotográfico[0]/Banco curvo de concreto azul[0]/Assento semicircular[0]"
+    ],
+    "directRendererPaths": []
+}

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: Helena2018
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: bd.helena.tape
+  title: "Fita 3 \u2014 Helena, 2018"
+  description: "Fita 3 \u2014 Helena, 2018"
+  frontText: "Fita 3 \u2014 Helena, 2018"
+  backText: "A \xFAltima grava\xE7\xE3o de Helena Souza. R para ouvir at\xE9 o fim."
+  detailText: 
+  alternateBackText: 
+  recordingText: "Eu abri a porta pra ele. Eu deixei entrar. Ele usa o meu nome agora. Se algu\xE9m ouvir, n\xE3o responda nenhum email meu."
+  model: {fileID: 4716785379691064382, guid: 71e6b510958bb594e82f93668a150103, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  pages: []
+  recordInNotes: 1
+  canPlay: 1
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 8.14
+  stressPerSecond: 0
+  maximumStress: 0
+  pickupSound: {fileID: 11400000, guid: d826124dff1ce5746b98840b305e8ae2, type: 2}
+  whisper: {fileID: 0}
+  recording: {fileID: 11400000, guid: 01e3a1be92256f749a4d99c004f08509, type: 2}
+  recordingCues:
+  - start: 0.05
+    end: 2.2
+    text: Eu abri a porta pra ele.
+  - start: 2.38
+    end: 3.4
+    text: Eu deixei entrar.
+  - start: 4.14
+    end: 5.56
+    text: Ele usa o meu nome agora.
+  - start: 6.04
+    end: 7.08
+    text: "Se algu\xE9m ouvir,"
+  - start: 7.4
+    end: 9.41
+    text: "n\xE3o responda nenhum email meu."

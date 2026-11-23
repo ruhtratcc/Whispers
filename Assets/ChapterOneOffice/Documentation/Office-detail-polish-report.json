@@ -1,0 +1,21 @@
+{
+    "passed": true,
+    "generatedUtc": "2026-10-01T00:31:24.5500197Z",
+    "errors": [],
+    "screenshots": [
+        "Assets/ChapterOneOffice/Documentation/Office-polished-phone.png",
+        "Assets/ChapterOneOffice/Documentation/Office-polished-drawer-open.png",
+        "Assets/ChapterOneOffice/Documentation/Office-polished-desk.png"
+    ],
+    "preservedNoteIds": [
+        "ed8ed65b8d3942c58260614cbb9d708d",
+        "4cad084b2153481dada3407063ca5d60"
+    ],
+    "preservedDrawerId": "d1dbb19cb8944c45806196ee02a1ea7b",
+    "worldDrawerTravel": {
+        "x": 2.9723743466547603e-8,
+        "y": 0.0,
+        "z": 0.3400000035762787
+    },
+    "meshTriangles": 0
+}

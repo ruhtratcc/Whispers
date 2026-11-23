@@ -1,0 +1,1 @@
+Entrada da segunda rodada. Coloque cada objeto na sua pasta, conservando o pacote original, texturas e documento de permissão comercial do autor com URL de origem. Não há modelo baixado aqui. O menu prepara importações suportadas; integração é feita depois de você avisar. A lista de candidatos está em Assets/Docs/Sketchfab_Pedidos.md.

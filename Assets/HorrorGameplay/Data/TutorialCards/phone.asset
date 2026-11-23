@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6456f6c0335a56a48986287dd1719cef, type: 3}
+  m_Name: phone
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.TutorialCardData
+  id: phone
+  title: CELULAR
+  lines:
+  - Mensagens chegam aqui.
+  - Abra o celular para ler. Arraste a janela pela parte de cima.
+  mediaKind: 2
+  model: {fileID: 0}
+  video: {fileID: 0}
+  image: {fileID: 2800000, guid: c14ce61ed0eefca44b604f838c26844d, type: 3}
+  fallbackImage: {fileID: 2800000, guid: c14ce61ed0eefca44b604f838c26844d, type: 3}
+  videoAudio: 0
+  controls:
+  - actionId: Phone
+    label: Abrir ou fechar
+    hold: 0
+  - actionId: UI/Click
+    label: Arrastar pelo topo
+    hold: 1
+  - actionId: UI/Click
+    label: Fechar pela bolinha vermelha
+    hold: 0
+  trigger: 5
+  triggerId: 
+  delay: 0.75
+  priority: 70
+  helpOrder: 4
+  blocksGame: 1
+  readInHelp: 1
+  openSound: {fileID: 11400000, guid: 70406328687043e4b87b93168575b81f, type: 2}
+  closeSound: {fileID: 11400000, guid: f55445759afc0884f84362feeaeebe3f, type: 2}
+  buttonSound: {fileID: 11400000, guid: e36be15841e07b941a69baf36c7b6018, type: 2}

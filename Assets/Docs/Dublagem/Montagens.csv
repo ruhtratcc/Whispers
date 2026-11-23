@@ -1,0 +1,14 @@
+﻿ID da montagem;Entradas secas (IDs);Destino;Ordem;Janela/alvo;Observações
+wp_mix_radio_noticias;"wp_ex_radio_noticia_01
+wp_ex_radio_noticia_02
+wp_ex_radio_noticia_03
+wp_ex_radio_noticia_04
+wp_ex_radio_noticia_05
+wp_ex_radio_noticia_06
+wp_ex_radio_noticia_07";Assets/RoadChapter/Scenes/RoadJourney.unity :: BeforeDemolitionRoadRadio.news;01 até 07, com pequenas pausas;"75s de janela; avaliar após gravar";"Sem esticar artificialmente a voz; preservar o rádio e a ordem atual."
+wp_mix_cantiga;"wp_ex_cantiga_marta
+wp_ex_cantiga_bia";"Assets/RoadChapter/Scenes/RoadJourney.unity :: nurserySong; DesktopContent.tracks[id=cantiga].clip";Duas vozes separadas, guia comum;"22s ou mais; confirmar após definir melodia";"Bloqueada por guia musical. Gravar limpa; desafinar/dessicronizar só na pós. Sem usar fonograma de terceiros."
+wp_mix_recusar_criancas;"wp_ex_recusar_vocal_marta
+wp_ex_recusar_vocal_caio
+wp_ex_recusar_vocal_luan
+wp_ex_recusar_vocal_bia";Assets/SchoolCEEP/Scenes/SchoolCEEP.unity :: BeforeDemolitionMirrorFlow.refusalCry;Quatro stems, ataque próximo, final levemente desencontrado;2–4s, sem sustentar gritos;"Coro de crianças; não acrescentar voz monstruosa ou palavras de história."

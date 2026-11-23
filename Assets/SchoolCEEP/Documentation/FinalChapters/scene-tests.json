@@ -1,0 +1,55 @@
+{
+  "status": "completed",
+  "duration": 68.93,
+  "summary": {
+    "total": 6,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSceneTests.ActualFiveHandoffRoofDoorAndDescentContinueInPlaceToTheFinalChapter",
+      "Status": "Passed",
+      "Duration": 10.9018704,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSceneTests.ContinuousInputClimbsBothNewFlightsCrossesTheirLandingAndDescendsWithoutIntermediateWarp",
+      "Status": "Passed",
+      "Duration": 24.8682838,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSceneTests.FinalBlackoutReturnsToItsEntryWithoutErasingTerrace",
+      "Status": "Passed",
+      "Duration": 6.8156267,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSceneTests.HeldPhoneRequiresFreshInputItsCheckpointResumesAndOccludedWindowCannotEndTheGame",
+      "Status": "Passed",
+      "Duration": 5.5315381,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSceneTests.TerraceBlackoutReturnsToItsEntryWithoutErasingChapterFive",
+      "Status": "Passed",
+      "Duration": 11.9374457,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolFinalSceneTests.TerracePauseAndBothManualCheckpointsPreserveDismissedPresenceAndOnlyPendingSignals",
+      "Status": "Passed",
+      "Duration": 8.8658047,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "source": "work/FinalChapters/Runtime/SchoolTerraceFlow.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Narrative/SchoolTerraceFlow.cs",
+    "sourceHash": "37BFE8A55AFBAC9A7894AE65D5711A6500B832C6F5A9E6DBC8AA6E4EC0A62E6A",
+    "installedHash": "37BFE8A55AFBAC9A7894AE65D5711A6500B832C6F5A9E6DBC8AA6E4EC0A62E6A",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/FinalChapters/Runtime/SchoolLastExitFlow.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Narrative/SchoolLastExitFlow.cs",
+    "sourceHash": "B72D71D3BCA450ACCA44FBF551164B664EC37F828F6BE86D84D3F154C2F1BAB1",
+    "installedHash": "B72D71D3BCA450ACCA44FBF551164B664EC37F828F6BE86D84D3F154C2F1BAB1",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/FinalChapters/Runtime/SchoolFinalPhone.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Narrative/SchoolFinalPhone.cs",
+    "sourceHash": "0F836CAEBFBE27C518EDD1CCA4E3D1AE866ABF33A01E297DA0B21DEAADFB83F1",
+    "installedHash": "0F836CAEBFBE27C518EDD1CCA4E3D1AE866ABF33A01E297DA0B21DEAADFB83F1",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/FinalChapters/Editor/SchoolFinalChaptersPass.cs",
+    "installed": "Assets/SchoolCEEP/Editor/SchoolFinalChaptersPass.cs",
+    "sourceHash": "A72DD9260CC970D3F6D0C40063E8D6D99090C0820E63248740E40A30C9F2A458",
+    "installedHash": "A72DD9260CC970D3F6D0C40063E8D6D99090C0820E63248740E40A30C9F2A458",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/FinalChapters/Tests/SchoolFinalSceneTests.cs",
+    "installed": "Assets/HorrorGameplay/Tests/PlayMode/SchoolFinalSceneTests.cs",
+    "sourceHash": "2AF81DFA4F897991E61AF6EE906DAF9EBF75A2B80AC78C5E39A991A2F81D1F15",
+    "installedHash": "2AF81DFA4F897991E61AF6EE906DAF9EBF75A2B80AC78C5E39A991A2F81D1F15",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/FinalChapters/Tests/SchoolFinalSharedTests.cs",
+    "installed": "Assets/HorrorGameplay/Tests/PlayMode/SchoolFinalSharedTests.cs",
+    "sourceHash": "FB971F7D4ACB64747A23C74682566C5FBFCEE650066BC3C04F55153BD91D87DA",
+    "installedHash": "FB971F7D4ACB64747A23C74682566C5FBFCEE650066BC3C04F55153BD91D87DA",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/ChapterThree/Runtime/SchoolSanityController.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Systems/SchoolSanityController.cs",
+    "sourceHash": "A32846D8C84C42CC1E175DC10F7E33D5B38A9FDCFD71C1F87C3AE5306CDEBAE8",
+    "installedHash": "A32846D8C84C42CC1E175DC10F7E33D5B38A9FDCFD71C1F87C3AE5306CDEBAE8",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/ChapterThree/Runtime/SchoolObjectiveJournal.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Systems/SchoolObjectiveJournal.cs",
+    "sourceHash": "CB6A3FA0216BD913F9ABF3B87F42FD1FA047945195B38476569E5764F8118424",
+    "installedHash": "CB6A3FA0216BD913F9ABF3B87F42FD1FA047945195B38476569E5764F8118424",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/ChapterThree/Runtime/SchoolOpeningFlow.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Narrative/SchoolOpeningFlow.cs",
+    "sourceHash": "B0B13617629E3B77D89D1BDF7C50EFBAE9B4BAEEC8C55EC59623B1DC9DDCDD09",
+    "installedHash": "B0B13617629E3B77D89D1BDF7C50EFBAE9B4BAEEC8C55EC59623B1DC9DDCDD09",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/RoadChapter/NarrativeDirector.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Narrative/NarrativeDirector.cs",
+    "sourceHash": "CBD2F5BFC803317DD6B36240EA0527F977A2BCE14EBD3BBB627D6D656C2B7003",
+    "installedHash": "CBD2F5BFC803317DD6B36240EA0527F977A2BCE14EBD3BBB627D6D656C2B7003",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/ChapterThree/Editor/SchoolChapterThreePass.cs",
+    "installed": "Assets/SchoolCEEP/Editor/SchoolChapterThreePass.cs",
+    "sourceHash": "8588A67A969CA30661F11A3AEE818601586BFE3F6DD1217D2C625CE0A42A5C79",
+    "installedHash": "8588A67A969CA30661F11A3AEE818601586BFE3F6DD1217D2C625CE0A42A5C79",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/SchoolCEEP/SchoolMapBuilder.cs",
+    "installed": "Assets/SchoolCEEP/Editor/SchoolMapBuilder.cs",
+    "sourceHash": "D0BA772D9269C0DDE5296C2F7CB3E4AF6245EBF4875C7AEB95F2EE271FD0C347",
+    "installedHash": "D0BA772D9269C0DDE5296C2F7CB3E4AF6245EBF4875C7AEB95F2EE271FD0C347",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/ChapterThree/Tests/SchoolChapterThreeSceneTests.cs",
+    "installed": "Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterThreeSceneTests.cs",
+    "sourceHash": "A574334FB453AC988E993B1842981FD118E2990B3D4D4CAA5A7E0E67EA78C224",
+    "installedHash": "A574334FB453AC988E993B1842981FD118E2990B3D4D4CAA5A7E0E67EA78C224",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/ChapterFour/Tests/SchoolChapterFourSceneTests.cs",
+    "installed": "Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterFourSceneTests.cs",
+    "sourceHash": "35FD3DC412C1A9296D2C561B3B835B55D630073E095C4A42AA39FCF5BD273302",
+    "installedHash": "35FD3DC412C1A9296D2C561B3B835B55D630073E095C4A42AA39FCF5BD273302",
+    "match": true,
+    "textValid": true
+  },
+  {
+    "source": "work/ChapterFive/Tests/SchoolChapterFiveSceneTests.cs",
+    "installed": "Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterFiveSceneTests.cs",
+    "sourceHash": "1F0ABE3856ECD64282634D3E7BA3762A72148732B9BC52B50F0101591488FC3C",
+    "installedHash": "1F0ABE3856ECD64282634D3E7BA3762A72148732B9BC52B50F0101591488FC3C",
+    "match": true,
+    "textValid": true
+  }
+]

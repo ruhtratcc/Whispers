@@ -1,0 +1,3496 @@
+{
+    "passed": true,
+    "schoolFileUnchanged": true,
+    "noSchoolRuntimeCopied": true,
+    "arrivalWindowVisible": true,
+    "sourceScene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+    "sourceSha256": "7E8EB3395CB737DD3ABEB928F7C52673CE4BFCF2519F1C4A1855BF046B5AB41F",
+    "roadScene": "Assets/RoadChapter/Scenes/RoadJourney.unity",
+    "translation": {
+        "x": -0.5573904514312744,
+        "y": 0.0,
+        "z": 389.89166259765625
+    },
+    "sourceGateCenter": {
+        "x": 0.5573904514312744,
+        "y": 0.6439999938011169,
+        "z": 20.10833168029785
+    },
+    "targetGateCenter": {
+        "x": 0.0,
+        "y": 0.6439999938011169,
+        "z": 410.0
+    },
+    "sourceWindow": {
+        "x": -4.00335693359375,
+        "y": 5.799999713897705,
+        "z": 58.022216796875
+    },
+    "targetWindow": {
+        "x": -4.560747146606445,
+        "y": 5.799999713897705,
+        "z": 447.91387939453125
+    },
+    "seatedEye": {
+        "x": -0.4300000071525574,
+        "y": 1.2699999809265137,
+        "z": 383.7200012207031
+    },
+    "copiedRenderers": 143,
+    "copiedColliders": 326,
+    "sourceTriangles": 80920,
+    "retainedTriangles": 48498,
+    "rejectedStraddlers": 715,
+    "realEntranceTreads": 4,
+    "gameSessions": 1,
+    "cameras": 1,
+    "roadInteractions": 4,
+    "driveSeconds": 38.0,
+    "gateFloor": 0.6439999938011169,
+    "removed": [
+        "Chegada — mureta do passeio",
+        "Chegada — limite do terreno",
+        "Chegada — mureta do passeio",
+        "Chegada — limite do terreno",
+        "Escola — fachada superior",
+        "Escola — faixa azul",
+        "Escola — cobertura",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — janela escura",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — grade",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — travessa",
+        "Escola — entrada ao fundo",
+        "Entrada — pilar",
+        "Entrada — apoio da cobertura",
+        "Entrada — pilar",
+        "Entrada — apoio da cobertura",
+        "Entrada — cobertura esquerda",
+        "Entrada — cobertura direita",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado",
+        "Escola — reboco manchado"
+    ],
+    "failures": [],
+    "patches": [
+        {
+            "source": "main_classrooms_north/Forro",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 2,
+            "rejectedStraddlers": 8
+        },
+        {
+            "source": "main_classrooms_north/Cobertura (sem acesso previsto)",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 2,
+            "rejectedStraddlers": 8
+        },
+        {
+            "source": "main_classrooms_north/Porta 0-6/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 0-6/Door leaf/Porta — detalhes móveis/Detail-210",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 0-6/Door leaf/Porta — detalhes móveis/Detail-211",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 0-6/Door leaf/Porta — detalhes móveis/Detail-212",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 0-6/Door leaf/Porta — detalhes móveis/Detail-213",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 1-3/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 1-3/Door leaf/Porta — detalhes móveis/Detail-408",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 1-3/Door leaf/Porta — detalhes móveis/Detail-409",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 1-3/Door leaf/Porta — detalhes móveis/Detail-410",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 1-3/Door leaf/Porta — detalhes móveis/Detail-411",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta — marco fixo school.door.0.6/Detail-507",
+            "kind": "render",
+            "sourceTriangles": 108,
+            "retainedTriangles": 108,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Superfícies agrupadas — PhotoCentralFloorTiles",
+            "kind": "render",
+            "sourceTriangles": 24,
+            "retainedTriangles": 4,
+            "rejectedStraddlers": 16
+        },
+        {
+            "source": "main_classrooms_north/Superfícies agrupadas — PhotoFrameBlue",
+            "kind": "render",
+            "sourceTriangles": 3552,
+            "retainedTriangles": 704,
+            "rejectedStraddlers": 80
+        },
+        {
+            "source": "main_classrooms_north/Superfícies agrupadas — PhotoPlasterWhite",
+            "kind": "render",
+            "sourceTriangles": 2220,
+            "retainedTriangles": 372,
+            "rejectedStraddlers": 96
+        },
+        {
+            "source": "main_classrooms_north/Superfícies agrupadas — Vidro escuro",
+            "kind": "render",
+            "sourceTriangles": 504,
+            "retainedTriangles": 64,
+            "rejectedStraddlers": 16
+        },
+        {
+            "source": "main_classrooms_north/Superfícies agrupadas — PhotoSchoolWindowBlue",
+            "kind": "render",
+            "sourceTriangles": 1848,
+            "retainedTriangles": 340,
+            "rejectedStraddlers": 16
+        },
+        {
+            "source": "main_classrooms_north/Superfícies agrupadas — DoorDetailCasingBlue",
+            "kind": "render",
+            "sourceTriangles": 1728,
+            "retainedTriangles": 108,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 0-6/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Porta 1-3/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — fecho até a laje",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — fecho até a laje",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — fecho até a laje",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — fecho até a laje",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — fecho até a laje",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — fecho até a laje",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — fecho até a laje",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — fecho até a laje",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "main_classrooms_north/Parede — fecho até a laje",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "covered_courtyard/Piso térreo",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "covered_courtyard/Luminária fluorescente",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "covered_courtyard/Piso térreo",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Piso térreo",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Cobertura (sem acesso previsto)",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-21/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-21/Door leaf/Porta — detalhes móveis/Detail-56",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-21/Door leaf/Porta — detalhes móveis/Detail-57",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-21/Door leaf/Porta — detalhes móveis/Detail-58",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-21/Door leaf/Porta — detalhes móveis/Detail-59",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-22/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-22/Door leaf/Porta — detalhes móveis/Detail-60",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-22/Door leaf/Porta — detalhes móveis/Detail-61",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-22/Door leaf/Porta — detalhes móveis/Detail-62",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-22/Door leaf/Porta — detalhes móveis/Detail-63",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-23/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-23/Door leaf/Porta — detalhes móveis/Detail-64",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-23/Door leaf/Porta — detalhes móveis/Detail-65",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-23/Door leaf/Porta — detalhes móveis/Detail-66",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-23/Door leaf/Porta — detalhes móveis/Detail-67",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-24/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-24/Door leaf/Porta — detalhes móveis/Detail-68",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-24/Door leaf/Porta — detalhes móveis/Detail-69",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-24/Door leaf/Porta — detalhes móveis/Detail-70",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-24/Door leaf/Porta — detalhes móveis/Detail-71",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-25/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-25/Door leaf/Porta — detalhes móveis/Detail-72",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-25/Door leaf/Porta — detalhes móveis/Detail-73",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-25/Door leaf/Porta — detalhes móveis/Detail-74",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-25/Door leaf/Porta — detalhes móveis/Detail-75",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-26/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-26/Door leaf/Porta — detalhes móveis/Detail-76",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-26/Door leaf/Porta — detalhes móveis/Detail-77",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-26/Door leaf/Porta — detalhes móveis/Detail-78",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-26/Door leaf/Porta — detalhes móveis/Detail-79",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-27/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-27/Door leaf/Porta — detalhes móveis/Detail-80",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-27/Door leaf/Porta — detalhes móveis/Detail-81",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-27/Door leaf/Porta — detalhes móveis/Detail-82",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-27/Door leaf/Porta — detalhes móveis/Detail-83",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-28/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-28/Door leaf/Porta — detalhes móveis/Detail-84",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-28/Door leaf/Porta — detalhes móveis/Detail-85",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-28/Door leaf/Porta — detalhes móveis/Detail-86",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-28/Door leaf/Porta — detalhes móveis/Detail-87",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Luminária fluorescente",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Superfícies agrupadas — PhotoPlasterGrey",
+            "kind": "render",
+            "sourceTriangles": 420,
+            "retainedTriangles": 420,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Superfícies agrupadas — PhotoPlasterWhite",
+            "kind": "render",
+            "sourceTriangles": 516,
+            "retainedTriangles": 516,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Superfícies agrupadas — Vidro escuro",
+            "kind": "render",
+            "sourceTriangles": 96,
+            "retainedTriangles": 96,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Superfícies agrupadas — PhotoFrameBlue",
+            "kind": "render",
+            "sourceTriangles": 804,
+            "retainedTriangles": 804,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Superfícies agrupadas — DoorDetailCasingBlue",
+            "kind": "render",
+            "sourceTriangles": 756,
+            "retainedTriangles": 756,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Piso térreo",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Cobertura (sem acesso previsto)",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-21/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-22/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-23/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-24/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-25/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-26/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-27/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Porta 0-28/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "administration_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Piso térreo",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Cobertura (sem acesso previsto)",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-29/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-29/Door leaf/Porta — detalhes móveis/Detail-88",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-29/Door leaf/Porta — detalhes móveis/Detail-89",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-29/Door leaf/Porta — detalhes móveis/Detail-90",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-29/Door leaf/Porta — detalhes móveis/Detail-91",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-30/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-30/Door leaf/Porta — detalhes móveis/Detail-96",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-30/Door leaf/Porta — detalhes móveis/Detail-97",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-30/Door leaf/Porta — detalhes móveis/Detail-98",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-30/Door leaf/Porta — detalhes móveis/Detail-99",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-31/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-31/Door leaf/Porta — detalhes móveis/Detail-100",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-31/Door leaf/Porta — detalhes móveis/Detail-101",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-31/Door leaf/Porta — detalhes móveis/Detail-102",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-31/Door leaf/Porta — detalhes móveis/Detail-103",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-32/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-32/Door leaf/Porta — detalhes móveis/Detail-104",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-32/Door leaf/Porta — detalhes móveis/Detail-105",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-32/Door leaf/Porta — detalhes móveis/Detail-106",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-32/Door leaf/Porta — detalhes móveis/Detail-107",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-33/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-33/Door leaf/Porta — detalhes móveis/Detail-108",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-33/Door leaf/Porta — detalhes móveis/Detail-109",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-33/Door leaf/Porta — detalhes móveis/Detail-110",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-33/Door leaf/Porta — detalhes móveis/Detail-111",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-34/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-34/Door leaf/Porta — detalhes móveis/Detail-112",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-34/Door leaf/Porta — detalhes móveis/Detail-113",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-34/Door leaf/Porta — detalhes móveis/Detail-114",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-34/Door leaf/Porta — detalhes móveis/Detail-115",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-35/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-35/Door leaf/Porta — detalhes móveis/Detail-116",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-35/Door leaf/Porta — detalhes móveis/Detail-117",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-35/Door leaf/Porta — detalhes móveis/Detail-118",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-35/Door leaf/Porta — detalhes móveis/Detail-119",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-36/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-36/Door leaf/Porta — detalhes móveis/Detail-120",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-36/Door leaf/Porta — detalhes móveis/Detail-121",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-36/Door leaf/Porta — detalhes móveis/Detail-122",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-36/Door leaf/Porta — detalhes móveis/Detail-123",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-37/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-37/Door leaf/Porta — detalhes móveis/Detail-124",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-37/Door leaf/Porta — detalhes móveis/Detail-125",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-37/Door leaf/Porta — detalhes móveis/Detail-126",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-37/Door leaf/Porta — detalhes móveis/Detail-127",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-80/Door leaf",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-80/Door leaf/Porta — detalhes móveis/Detail-302",
+            "kind": "render",
+            "sourceTriangles": 1332,
+            "retainedTriangles": 1332,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-80/Door leaf/Porta — detalhes móveis/Detail-303",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-80/Door leaf/Porta — detalhes móveis/Detail-304",
+            "kind": "render",
+            "sourceTriangles": 48,
+            "retainedTriangles": 48,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-80/Door leaf/Porta — detalhes móveis/Detail-305",
+            "kind": "render",
+            "sourceTriangles": 192,
+            "retainedTriangles": 192,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Luminária fluorescente",
+            "kind": "render",
+            "sourceTriangles": 12,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Superfícies agrupadas — PhotoPlasterGrey",
+            "kind": "render",
+            "sourceTriangles": 444,
+            "retainedTriangles": 444,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Superfícies agrupadas — PhotoPlasterWhite",
+            "kind": "render",
+            "sourceTriangles": 552,
+            "retainedTriangles": 552,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Superfícies agrupadas — Vidro escuro",
+            "kind": "render",
+            "sourceTriangles": 96,
+            "retainedTriangles": 96,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Superfícies agrupadas — PhotoFrameBlue",
+            "kind": "render",
+            "sourceTriangles": 672,
+            "retainedTriangles": 672,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Superfícies agrupadas — DoorDetailCasingBlue",
+            "kind": "render",
+            "sourceTriangles": 972,
+            "retainedTriangles": 972,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Piso térreo",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Cobertura (sem acesso previsto)",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Peitoril",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da janela",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — pintura inferior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Parede — reboco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Janela — vidro opaco provisório",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-29/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-30/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-31/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-32/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-33/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-34/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-35/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-36/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-37/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Porta 0-80/Door leaf",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "pedagogy_south/Verga da porta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Passarelas cobertas/Superfícies agrupadas — PhotoPaving",
+            "kind": "render",
+            "sourceTriangles": 60,
+            "retainedTriangles": 24,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Passarelas cobertas/Passagem coberta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Passarelas cobertas/Passagem coberta",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Superfícies agrupadas — PhotoFrameBlue",
+            "kind": "render",
+            "sourceTriangles": 10728,
+            "retainedTriangles": 1508,
+            "rejectedStraddlers": 80
+        },
+        {
+            "source": "Arquitetura das fotos/Superfícies agrupadas — PhotoRoofGrey",
+            "kind": "render",
+            "sourceTriangles": 9504,
+            "retainedTriangles": 2112,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Superfícies agrupadas — PhotoRoofSteel",
+            "kind": "render",
+            "sourceTriangles": 2592,
+            "retainedTriangles": 528,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Superfícies agrupadas — PhotoPlasterWhite",
+            "kind": "render",
+            "sourceTriangles": 120,
+            "retainedTriangles": 120,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Superfícies agrupadas — PhotoFacadeBlue",
+            "kind": "render",
+            "sourceTriangles": 20,
+            "retainedTriangles": 20,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Superfícies agrupadas — PhotoGrassGround",
+            "kind": "render",
+            "sourceTriangles": 36,
+            "retainedTriangles": 2,
+            "rejectedStraddlers": 8
+        },
+        {
+            "source": "Arquitetura das fotos/Superfícies agrupadas — PhotoDoorCream",
+            "kind": "render",
+            "sourceTriangles": 360,
+            "retainedTriangles": 156,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Hall principal — pilar branco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Hall principal — pilar branco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Hall principal — pilar branco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Hall principal — pilar branco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Hall principal — pilar branco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Hall principal — pilar branco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Fachada — ombreira branca",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Fachada — ombreira branca",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Mesa de convivência — tampo",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Mesa de convivência — banco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Mesa de convivência — banco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Mesa de convivência — tampo",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Mesa de convivência — banco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Arquitetura das fotos/Mesa de convivência — banco",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Detalhes do central/Superfícies agrupadas — PhotoCentralWallTiles",
+            "kind": "render",
+            "sourceTriangles": 1452,
+            "retainedTriangles": 50,
+            "rejectedStraddlers": 8
+        },
+        {
+            "source": "Detalhes do central/Superfícies agrupadas — PhotoCentralWhite",
+            "kind": "render",
+            "sourceTriangles": 1032,
+            "retainedTriangles": 174,
+            "rejectedStraddlers": 31
+        },
+        {
+            "source": "Detalhes do central/Superfícies agrupadas — PhotoCentralRailSteel",
+            "kind": "render",
+            "sourceTriangles": 2432,
+            "retainedTriangles": 256,
+            "rejectedStraddlers": 320
+        },
+        {
+            "source": "Detalhes do central/Superfícies agrupadas — PhotoCentralNoticeFrame",
+            "kind": "render",
+            "sourceTriangles": 60,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Detalhes do central/Superfícies agrupadas — PhotoCentralNoticeBacking",
+            "kind": "render",
+            "sourceTriangles": 60,
+            "retainedTriangles": 12,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Detalhes do central/Superfícies agrupadas — PhotoCentralNoticePaper",
+            "kind": "render",
+            "sourceTriangles": 360,
+            "retainedTriangles": 72,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Superfícies agrupadas — PhotoConcreteFloor",
+            "kind": "render",
+            "sourceTriangles": 408,
+            "retainedTriangles": 408,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Superfícies agrupadas — PhotoFrameBlue",
+            "kind": "render",
+            "sourceTriangles": 3276,
+            "retainedTriangles": 3276,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Hall — plataforma oeste da boca",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Hall — plataforma leste da boca",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Hall — plataforma principal",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Hall — plataforma lateral oeste",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — patamar superior",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — patamar perto da cantina",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — patamar da parede lateral",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Entrada_Hall — degrau 1",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Entrada_Hall — degrau 2",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Entrada_Hall — degrau 3",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Entrada_Hall — degrau 4",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — encontro baixo da rampa e escada",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — retorno amplo da rampa",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — desembarque alto da rampa",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste_Rampa",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste_Rampa — lado A — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste_Rampa — lado B — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste_Rampa_Retorno",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste_Rampa_Retorno — lado A — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste_Rampa_Retorno — lado B — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — retorno sul — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — retorno lateral oeste — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — retorno lateral leste — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — desembarque proteção lateral — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste_Escada — degrau 1",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste_Escada — degrau 2",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste_Escada — degrau 3",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste_Escada — degrau 4",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste escada — corrimão montante 1",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste escada — corrimão montante 2",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste escada — corrimão montante 3",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste escada — corrimão montante 4",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste escada — corrimão inclinado",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — degrau em L principal 1",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — degrau em L parede 1",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — degrau em L principal 2",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — degrau em L parede 2",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — degrau em L principal 3",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — degrau em L parede 3",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — degrau em L principal 4",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — degrau em L parede 4",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste_Rampa",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste_Rampa — lado A — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste_Rampa — lado B — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Refeitorio_Escada — degrau 1",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Refeitorio_Escada — degrau 2",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Refeitorio_Escada — degrau 3",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Refeitorio_Escada — degrau 4",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Refeitorio_Escada — lado A — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Refeitorio_Escada — lado B — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — borda alta norte — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — borda alta sul — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — patamar norte — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — patamar cantina norte — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Leste — canto cantina externo — proteção física",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        },
+        {
+            "source": "Desníveis do hall/Oeste — passagem normal junto do jardim",
+            "kind": "collision",
+            "sourceTriangles": 0,
+            "retainedTriangles": 0,
+            "rejectedStraddlers": 0
+        }
+    ]
+}

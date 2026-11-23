@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: Caio
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: bd.caio.cap
+  title: "Bon\xE9 do Caio"
+  description: "Bon\xE9 do Caio"
+  frontText: "Bon\xE9 do Caio"
+  backText: "CAIO \u2014 14 ANOS\nO nome foi costurado na parte de dentro. A aba ainda est\xE1 \xFAmida. Uma data escrita a caneta: 14/03/2006."
+  detailText: 
+  alternateBackText: 
+  recordingText: 
+  model: {fileID: 8091354383896794925, guid: ca678a8220ef5de4ba8c7c9c4f41d6e2, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  pages: []
+  recordInNotes: 1
+  canPlay: 0
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0
+  maximumStress: 0
+  pickupSound: {fileID: 11400000, guid: 3006a2c4d9f2d794a8cb65d783062973, type: 2}
+  whisper: {fileID: 0}
+  recording: {fileID: 0}
+  recordingCues: []

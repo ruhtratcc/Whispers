@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80b3c7e9f7c341143b507c75926ee639, type: 3}
+  m_Name: battery_pickup
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.SoundSet
+  overrideChannel: 1
+  channel: 1
+  caption: 
+  clips:
+  - {fileID: 8300000, guid: ac4abfbb1e1d74845b1adab6e16947f6, type: 3}
+  - {fileID: 8300000, guid: 33bf74ecf005ffd4da90c4a45058dc8c, type: 3}
+  - {fileID: 8300000, guid: f344a0f3e6fd1d846bebe5cce78f3e48, type: 3}
+  pitch: {x: 0.96, y: 1.04}
+  volume: {x: 1, y: 1}
+  minimumDistance: 0.7
+  maximumDistance: 12

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80b3c7e9f7c341143b507c75926ee639, type: 3}
+  m_Name: rat_scurry_wall
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.SoundSet
+  overrideChannel: 1
+  channel: 1
+  caption: 
+  clips:
+  - {fileID: 8300000, guid: 138ed4fa2005a7140b4412b29a81c7ff, type: 3}
+  - {fileID: 8300000, guid: 163032307a983da42a1ba8fe32e57a96, type: 3}
+  - {fileID: 8300000, guid: 6f935b594cba82843901fb7523def4d4, type: 3}
+  pitch: {x: 0.96, y: 1.04}
+  volume: {x: 1, y: 1}
+  minimumDistance: 0.7
+  maximumDistance: 12

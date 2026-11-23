@@ -1,0 +1,106 @@
+{
+  "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+  "dirty": false,
+  "playing": false,
+  "architecture": "82E251C5DEE771F623A072CF2D80D100BD795AB4E3524AEDE0C935BBE747EACB",
+  "protectedArchitectureUnchanged": true,
+  "storyBook": "Assets/SchoolCEEP/Data/ChapterFive/SchoolStoryThroughChapterFive.asset",
+  "startingChapter": "school",
+  "sameSceneContinuation": true,
+  "stopBeforeChapterSix": true,
+  "storyErrors": [],
+  "sanity": 100.0,
+  "activeSchoolElectricLights": 0,
+  "clues": [
+    {
+      "title": "Gravador antigo — fita 1",
+      "position": [
+        -72.0445251,
+        1.411,
+        43.40805
+      ],
+      "visible": false,
+      "colliderEnabled": false
+    },
+    {
+      "title": "Gravador antigo — fita 2",
+      "position": [
+        -58.23162,
+        1.411,
+        25.4729
+      ],
+      "visible": false,
+      "colliderEnabled": false
+    },
+    {
+      "title": "Fotografia da turma — a noite esquecida",
+      "position": [
+        -72.0445251,
+        1.411,
+        41.40805
+      ],
+      "visible": false,
+      "colliderEnabled": false
+    }
+  ],
+  "supports": [
+    {
+      "title": "Gravador antigo — fita 1",
+      "bench": "Informática — laboratório B — função escolar",
+      "position": [
+        -72.0445251,
+        1.411,
+        43.40805
+      ],
+      "tabletopMargin": 0.0160000324,
+      "containedOnBench": true,
+      "lateralOffset": 0.480003357
+    },
+    {
+      "title": "Gravador antigo — fita 2",
+      "bench": "Sala de projetos — função escolar",
+      "position": [
+        -58.23162,
+        1.411,
+        25.4729
+      ],
+      "tabletopMargin": 0.0160000324,
+      "containedOnBench": true,
+      "lateralOffset": 0.479999542
+    },
+    {
+      "title": "Fotografia da turma — a noite esquecida",
+      "bench": "Informática — laboratório B — função escolar",
+      "position": [
+        -72.0445251,
+        1.411,
+        41.40805
+      ],
+      "tabletopMargin": 0.0160000324,
+      "containedOnBench": true,
+      "lateralOffset": 0.480003357
+    }
+  ],
+  "newColliders": 7,
+  "entitiesHaveColliders": 0,
+  "guideVisible": false,
+  "memoryVisualsVisible": false,
+  "memoryLightEnabled": false,
+  "memoryAnchorActive": false,
+  "suppliesActive": 0,
+  "ghost": [
+    -28.9532,
+    0.035,
+    56.9087
+  ],
+  "destination": "school.door.0.58",
+  "destinationLocked": true,
+  "destinationListeners": 1,
+  "anchorCount": 4,
+  "enemies": 0,
+  "missingScripts": 0,
+  "duplicateIds": [],
+  "emptyIds": 0,
+  "gameInstances": 1,
+  "cameras": 1
+}

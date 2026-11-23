@@ -1,0 +1,38 @@
+{
+  "source": "https://freesound.org/people/SoundsForHim/sounds/395563/",
+  "license": "CC0 1.0",
+  "source_name": "Panting.MP3",
+  "source_author": "SoundsForHim",
+  "source_backup": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\BreathPhoneDrawer\\Audio\\HeavyBreathing-before.wav",
+  "prepared_clip": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\BreathPhoneDrawer\\Audio\\HeavyBreathing-clean.wav",
+  "target": "C:\\Users\\ruhtra\\My project\\Assets\\HorrorGameplay\\Audio\\Narrative\\Clips\\HeavyBreathing.wav",
+  "rate": 44100,
+  "channels": 1,
+  "bits": 16,
+  "seconds": 12.45,
+  "before_rms": 0.053091114307605304,
+  "after_rms": 0.05307676273145801,
+  "before_peak": 0.6986487968419881,
+  "after_peak": 0.8878381411834217,
+  "clipped_samples": 0,
+  "edge_samples": [
+    0,
+    0
+  ],
+  "breath_envelope_correlation": 0.9885593173151717,
+  "analysis": {
+    "80-1800 Hz attenuation_db": 1.1790907030884288,
+    "1800-3500 Hz attenuation_db": -0.6627666217532181,
+    "3500-8000 Hz attenuation_db": -24.180310373796846
+  },
+  "before_sha256": "147201ac950fd9f3f7a90ad46cbb0d296ef68f02dc21493ee90b78fd1fb62914",
+  "after_sha256": "8a8dfc464c01ccb78c41083e595fd917068c320a3d8f6e1c273b97c181407fc5",
+  "auditory_verified": false,
+  "changes": "Continuous spectral background reduction; narrow tonal ridge suppression above 1.8 kHz; gentle low-pass at 2.45 kHz; 75 Hz high-pass; up to 1.35 gain compensation; 30ms edge fades.",
+  "installed": true,
+  "changed_files": [
+    "Assets/HorrorGameplay/Audio/Narrative/Clips/HeavyBreathing.wav",
+    "Assets/HorrorGameplay/Audio/Narrative/CREDITS.txt",
+    "Assets/StreamingAssets/NarrativeAudio-Credits.txt"
+  ]
+}

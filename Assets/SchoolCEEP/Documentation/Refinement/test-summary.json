@@ -1,0 +1,44 @@
+[
+  {
+    "file": "tests-filter.json",
+    "total": 6,
+    "passed": 6,
+    "failed": 0
+  },
+  {
+    "file": "tests-final.json",
+    "total": 6,
+    "passed": 6,
+    "failed": 0
+  },
+  {
+    "file": "tests-road.json",
+    "total": 2,
+    "passed": 2,
+    "failed": 0
+  },
+  {
+    "file": "tests-school-opening.json",
+    "total": 1,
+    "passed": 1,
+    "failed": 0
+  },
+  {
+    "file": "tests-school3.json",
+    "total": 3,
+    "passed": 3,
+    "failed": 0
+  },
+  {
+    "file": "tests-school4.json",
+    "total": 3,
+    "passed": 3,
+    "failed": 0
+  },
+  {
+    "file": "tests-school5.json",
+    "total": 4,
+    "passed": 4,
+    "failed": 0
+  }
+]

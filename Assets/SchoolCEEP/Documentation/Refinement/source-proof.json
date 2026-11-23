@@ -1,0 +1,74 @@
+{
+  "canonical": [
+    {
+      "source": "work/Refinement/Editor/SchoolArrivalRefinementPass.cs",
+      "installed": "Assets/SchoolCEEP/Editor/SchoolArrivalRefinementPass.cs",
+      "sha256": "83056F12893F1FE202A2C028441A9BB54A3754F5BBC823C72147312CCDE5D674",
+      "matches": true
+    },
+    {
+      "source": "work/Refinement/Editor/SchoolFurnitureRefinementPass.cs",
+      "installed": "Assets/SchoolCEEP/Editor/SchoolFurnitureRefinementPass.cs",
+      "sha256": "54F96E4C086F18955506A8CE98BD02CDB902DF27C43E55A5ACDB7FA85D27BACE",
+      "matches": true
+    },
+    {
+      "source": "work/Refinement/Editor/RoadEntranceRefinementPass.cs",
+      "installed": "Assets/SchoolCEEP/Editor/RoadEntranceRefinementPass.cs",
+      "sha256": "9C972138A71F4EC1D0E4DCAB80E2CB8C8BAF0EED7BC28D15CB0709941C4D601A",
+      "matches": true
+    },
+    {
+      "source": "work/Refinement/Editor/SchoolEnvironmentMistPass.cs",
+      "installed": "Assets/SchoolCEEP/Editor/SchoolEnvironmentMistPass.cs",
+      "sha256": "1BDBDFCA6563F75CA4369504E8280E2DBECED1A34E30664560F848808912728D",
+      "matches": true
+    },
+    {
+      "source": "work/RefinementAssets/Editor/SchoolRefinementReadyPropsPass.cs",
+      "installed": "Assets/SchoolCEEP/Editor/SchoolRefinementReadyPropsPass.cs",
+      "sha256": "994FEBF9941A335C0FAD6A2804F5437C76558A2D5638AC77353839C08234EB7D",
+      "matches": true
+    },
+    {
+      "source": "work/SchoolOpening/VintageCameraEffect.cs",
+      "installed": "Assets/HorrorGameplay/Scripts/Player/VintageCameraEffect.cs",
+      "sha256": "6D35BBD0A52BD91F57095C1F0F9D02DCFDF1A221274A39C651E2A2E11AB1026E",
+      "matches": true
+    },
+    {
+      "source": "work/SchoolOpening/VintageCamera.shader",
+      "installed": "Assets/HorrorGameplay/Shaders/VintageCamera.shader",
+      "sha256": "533E36A87C68DFC49807B2067BC046ED6D8C6BF131FE7848D6EA2BD6B1F9FF0E",
+      "matches": true
+    },
+    {
+      "source": "work/SchoolOpening/VintageCameraEditTests.cs",
+      "installed": "Assets/HorrorGameplay/Tests/EditMode/VintageCameraEditTests.cs",
+      "sha256": "9400C61E717CC25A84C90A6C49038B303CD09F947C7C856DD917184A6054C054",
+      "matches": true
+    },
+    {
+      "source": "work/RoadChapter/Tests/RoadJourneySceneTests.cs",
+      "installed": "Assets/HorrorGameplay/Tests/PlayMode/RoadJourneySceneTests.cs",
+      "sha256": "BBF469A4718B85616A958D1BEF9B393135FA88AE459627187DF3848978BE96B3",
+      "matches": true
+    }
+  ],
+  "protected": [
+    {
+      "path": "Assets/HorrorMenu/Scenes/MainMenu.unity",
+      "sha256": "A8048A1319D61BDCA3017D9C8D27A552DBC36BC15E44F44ADAE606440E03E164"
+    },
+    {
+      "path": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "sha256": "AE177B444A0323CED35B835B9602C11C21747BC99480EF1D53EFA23BAB775701"
+    },
+    {
+      "path": "Assets/HorrorGameplay/Prefabs/GameplayRoot.prefab",
+      "sha256": "178D947EC7367CAC810FC95B6D37A2CE03EE8225FD230C2E801B9A3D269CEA71"
+    }
+  ],
+  "guardAbsent": true,
+  "rendererFeaturePreserved": true
+}

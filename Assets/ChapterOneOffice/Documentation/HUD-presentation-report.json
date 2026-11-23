@@ -1,0 +1,10 @@
+{
+    "generatedUtc": "2026-10-01T15:21:55.0094511Z",
+    "passed": true,
+    "targets": [
+        "Assets/HorrorGameplay/Prefabs/GameplayRoot.prefab",
+        "Assets/HorrorGameplay/Scenes/TestScene.unity",
+        "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity"
+    ],
+    "errors": []
+}

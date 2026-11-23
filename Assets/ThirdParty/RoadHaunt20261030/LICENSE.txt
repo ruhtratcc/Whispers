@@ -1,0 +1,7 @@
+Street Lamp 01 — Josh Dean — Poly Haven
+Fonte: https://polyhaven.com/a/street_lamp_01
+Licença: CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
+Asset metadata: Powered by Poly Haven, https://api.polyhaven.com
+Download glTF1K +3texturas/bin:2.166.163bytes,5arquivos; URLs e SHA256 em provenance.json.
+Adaptações: conversão para meshes Unity/URP, LOD por agrupamento de vértices, ARM convertido para metallic/smoothness+AO, vidro transparente e emissão fraca somente da lâmpada.25instâncias na estrada.
+Não houve importador runtime ou novo pacote Unity.

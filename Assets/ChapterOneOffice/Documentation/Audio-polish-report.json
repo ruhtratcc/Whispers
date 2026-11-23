@@ -1,0 +1,30 @@
+{
+    "generatedUtc": "2026-10-01T00:31:24.9101260Z",
+    "passed": true,
+    "soundSets": 27,
+    "clips": 66,
+    "surfaceTypes": 7,
+    "errors": [],
+    "editedScenes": [
+        "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+        "Assets/HorrorGameplay/Scenes/TestScene.unity",
+        "Assets/HorrorMenu/Scenes/MainMenu.unity"
+    ],
+    "editedPrefabs": [
+        "Assets/HorrorGameplay/Prefabs/Battery.prefab",
+        "Assets/HorrorGameplay/Prefabs/CabinetDoor.prefab",
+        "Assets/HorrorGameplay/Prefabs/Door.prefab",
+        "Assets/HorrorGameplay/Prefabs/Drawer.prefab",
+        "Assets/HorrorGameplay/Prefabs/Enemy.prefab",
+        "Assets/HorrorGameplay/Prefabs/GameplayRoot.prefab",
+        "Assets/HorrorGameplay/Prefabs/HidingCloset.prefab",
+        "Assets/HorrorGameplay/Prefabs/HidingUnderBed.prefab",
+        "Assets/HorrorGameplay/Prefabs/Key.prefab",
+        "Assets/HorrorGameplay/Prefabs/Note.prefab",
+        "Assets/HorrorGameplay/Prefabs/PhysicsBarrel.prefab",
+        "Assets/HorrorGameplay/Prefabs/PhysicsBox.prefab",
+        "Assets/HorrorGameplay/Prefabs/Player.prefab"
+    ],
+    "breathingDisabled": true,
+    "hissDisabled": true
+}

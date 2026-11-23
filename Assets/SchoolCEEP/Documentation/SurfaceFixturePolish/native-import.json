@@ -1,0 +1,22 @@
+{
+    "models": 9,
+    "materials": 6,
+    "nearTriangles": 31796,
+    "distantTriangles": 22528,
+    "normalMaps": 5,
+    "textures": 19,
+    "prefabs": [
+        "Assets/SchoolCEEP/Models/SurfaceFixturePolish/industrial_wall_lamp/industrial_wall_lamp.prefab",
+        "Assets/SchoolCEEP/Models/SurfaceFixturePolish/hanging_industrial_lamp/hanging_industrial_lamp.prefab",
+        "Assets/SchoolCEEP/Models/SurfaceFixturePolish/mounted_fluorescent_lights_a/mounted_fluorescent_lights_a.prefab",
+        "Assets/SchoolCEEP/Models/SurfaceFixturePolish/mounted_fluorescent_lights_b/mounted_fluorescent_lights_b.prefab",
+        "Assets/SchoolCEEP/Models/SurfaceFixturePolish/mounted_fluorescent_lights_c/mounted_fluorescent_lights_c.prefab",
+        "Assets/SchoolCEEP/Models/SurfaceFixturePolish/mounted_fluorescent_lights_d/mounted_fluorescent_lights_d.prefab",
+        "Assets/SchoolCEEP/Models/SurfaceFixturePolish/mounted_fluorescent_lights_e/mounted_fluorescent_lights_e.prefab",
+        "Assets/SchoolCEEP/Models/SurfaceFixturePolish/mounted_fluorescent_lights_f/mounted_fluorescent_lights_f.prefab",
+        "Assets/SchoolCEEP/Models/SurfaceFixturePolish/mounted_fluorescent_lights_g/mounted_fluorescent_lights_g.prefab"
+    ],
+    "nativeMeshes": true,
+    "noRuntimeImporter": true,
+    "allEmissionOff": true
+}

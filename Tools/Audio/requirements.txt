@@ -1,0 +1,3 @@
+# Python 3.10+; somente biblioteca padrão. Não requer pip install.
+# Dependência externa: ffmpeg com libvorbis e filtro loudnorm, disponível no PATH
+# ou na variável FFMPEG_BINARY. Nenhuma chave deve ser escrita neste arquivo.

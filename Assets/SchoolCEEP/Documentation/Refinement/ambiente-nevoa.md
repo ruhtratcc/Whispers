@@ -1,0 +1,17 @@
+# Névoa no ambiente
+
+Pedido atual: retirar a sensação de névoa grudada na câmera e colocar o efeito no cenário. Implementação preparada em `work/Refinement/Editor/SchoolEnvironmentMistPass.cs`; aplicação e inspeção nativas são feitas pelo agente principal.
+
+Diagnóstico por leitura: o shader VintageCamera atual não desenha nuvens nem usa profundidade; ele trata cor, grão e sinal VHS. A escola tinha névoa global exponencial e uma poeira local presa ao `handRig` da lanterna, com `simulationSpace=Local`, material sem textura e sem fade próximo. Essa poeira acompanha a rotação do olhar. A comparação visual nativa deve confirmar quais características incomodavam; não atribuir tudo ao filtro sem essa prova.
+
+O pass usa o recurso já existente `Assets/HorrorMenu/Art/CorridorMist.asset` em um material próprio. Não baixa assets, altera o menu, troca arquitetura, muda narrativas ou adiciona pós-processamento. As partículas ficam em emissores fixos da cena, em simulação World. A névoa acompanha o cenário com paralaxe, perde opacidade junto de superfícies usando depth, e desaparece a menos de 2 metros da câmera, com transição até 5 metros.
+
+A escola recebe um emissor baixo em cada uma das 27 salas do catálogo validado e até cinco pontos de circulação com piso físico verificado. As caixas de emissão das salas reservam margem para o billboard inteiro e a pequena deriva. A chegada da estrada recebe apenas três emissores junto do portal, sem seguir o carro. Máximos: seis partículas por sala, oito nos pontos de circulação, dez nos emissores da chegada; emissão média de aproximadamente uma faixa por sala, alfa inicial .11/.12, material escuro. Nenhum collider, luz ou sombra nova. Sistemas fora da visão pausam e recuperam a simulação.
+
+O fog de distância muda para Linear: primeiros 14 metros limpos, final em 110 metros na escola e 85 na chegada, com cor escura. A câmera da cena solicita depth texture, sem mudança de ProjectSettings. A poeira antiga da lanterna para, recebe `playOnAwake=false` e seu controlador fica desabilitado. O efeito VHS permanece separado.
+
+`Apply()` e `Apply(root)` exigem SchoolCEEP ou RoadJourney ativa, salva e limpa, fora de Play/compilação. São idempotentes; não salvam a cena. `Audit()` e `Audit(root)` verificam pais fora do jogador/câmera, World, limites de partículas, suporte no piso, margens nas salas, keywords e parâmetros de fade/soft particles, câmera com depth, ausência de colliders/luzes e poeira antiga parada. O primeiro Apply compara assinatura de colliders, renderers existentes e scripts de narrativa, excluindo somente os campos de dust/depth autorizados.
+
+Compilação e aplicação nativas passaram. `mist-school.json` registra 31 emissores (27 salas e quatro pontos de circulação), limite total de 194 partículas; `mist-road.json` registra três emissores e limite total de 30. As duas assinaturas de arquitetura e narrativa permaneceram idênticas antes/depois. O ponto opcional proposto junto da cantina não tinha piso comprovado e foi omitido; não foi criado chão para acomodar o efeito.
+
+Prévias de sala e entrada foram renderizadas nativamente com emissores simulados por 32 segundos, depois parados/limpos. O teste integrado de entrada, pistas, linhas de visão e blackout passou depois da aplicação. Esses billboards são faixas atmosféricas, não iluminação volumétrica ray-marched; desempenho real ainda requer medição. Recurso nativo e comportamento de fade descritos na [documentação da Unity](https://docs.unity.cn/6000.2/Documentation/Manual/urp/particles-unlit-shader.html).

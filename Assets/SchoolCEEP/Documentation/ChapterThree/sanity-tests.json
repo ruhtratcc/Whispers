@@ -1,0 +1,69 @@
+{
+  "status": "completed",
+  "duration": 0.4,
+  "summary": {
+    "total": 8,
+    "passed": 8,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolSanityTests.AcceptedNarrativeShocksAreUniqueAndRestorationIsSilent",
+      "Status": "Passed",
+      "Duration": 0.0684555,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolSanityTests.BlackoutRetryUsesItsOptInCallbackBeforeTheLegacyProloguePolicy",
+      "Status": "Passed",
+      "Duration": 0.0328329,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolSanityTests.ChapterStartSnapshotKeepsIncomingGearAndEarlierProgressWithFreshScenery",
+      "Status": "Passed",
+      "Duration": 0.0368984,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolSanityTests.EntryPauseAndAuthoredCaptionsSuspendDarkness",
+      "Status": "Passed",
+      "Duration": 0.0401798,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolSanityTests.GraceFlashlightAndFiniteMemoryAnchorRecoverGradually",
+      "Status": "Passed",
+      "Duration": 0.0292863,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolSanityTests.SchoolOptInAndLampPresentationRestoreTheBatteryBaseline",
+      "Status": "Passed",
+      "Duration": 0.0401794,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolSanityTests.SnapshotWriterRejectsWrongSceneAndNonfiniteDataWithoutWriting",
+      "Status": "Passed",
+      "Duration": 0.0391226,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolSanityTests.ZeroSanityFadesThenShowsSilentBlackoutAndPausesTheFade",
+      "Status": "Passed",
+      "Duration": 0.0842825,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

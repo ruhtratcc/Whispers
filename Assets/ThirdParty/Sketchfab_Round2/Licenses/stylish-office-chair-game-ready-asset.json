@@ -1,0 +1,38 @@
+{
+  "source": {
+    "uid": "8541b1ebf4ff4fcbb14aabbe721e6e3b",
+    "title": "Stylish Office Chair Game Ready Asset",
+    "author": "KnightIdeas",
+    "url": "https://sketchfab.com/3d-models/stylish-office-chair-game-ready-asset-8541b1ebf4ff4fcbb14aabbe721e6e3b",
+    "api": "https://api.sketchfab.com/v3/models/8541b1ebf4ff4fcbb14aabbe721e6e3b",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "triangles": 4932,
+    "vertices": 2812,
+    "downloadable": true,
+    "textures": 2,
+    "materials": 3,
+    "description": "Created with Inde game development in mind.\nReady to import to Unity, simply bake the axis during import and apply the textures and your good to go!\nScale, location and rotation has been correctly reset for game import.\nI created the model with a balance of looks and simplicity in mind.\nThe model comes in two parts or as a whole and the origin is set between the two models to allow the upper portion to easily rotate.\nYour free to use the model in games that you make and sell.\nIt is not OK to resell this model for profit on its own or part of a set.\nConsider this a creative commons asset.",
+    "htmlStatus": "cached — original response not re-fetched",
+    "format": "glTF converted export offered by Sketchfab for downloadable models; source FBX/Blend NOT VERIFIED",
+    "geometryVisual": "NOT VERIFIED — no model download/import"
+  },
+  "licenseEvidence": {
+    "embeddedLicenseCount": 0,
+    "source": "Cached official public Sketchfab API response checked 2026-10-30",
+    "proofFile": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\ModelPass20261030\\SketchfabPropsEvidence\\8541b1ebf4ff4fcbb14aabbe721e6e3b.json",
+    "license": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialAndModificationAllowed": true,
+    "creditRequired": true,
+    "requiredCredit": "Stylish Office Chair Game Ready Asset — KnightIdeas — https://sketchfab.com/3d-models/stylish-office-chair-game-ready-asset-8541b1ebf4ff4fcbb14aabbe721e6e3b — CC BY4.0. Adapted for Whispers of the Past."
+  },
+  "archiveSha256": "0de7b6471e4197b9c04487c1c8d0466888abdf1596a48593b7bb301ba415bbdf",
+  "changes": "Static native-mesh conversion, URP1K maps. Car four taxi accessory nodes removed; cabinet single closed variant selected."
+}

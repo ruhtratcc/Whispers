@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "duration": 0.47,
+  "summary": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneySceneTests.CompletedOfficeCheckpointCarriesEquipmentIntoRealRoadSpawn",
+      "Status": "Passed",
+      "Duration": 0.451918,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

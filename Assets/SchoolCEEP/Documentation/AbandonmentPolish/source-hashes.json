@@ -1,0 +1,56 @@
+[
+  {
+    "canonical": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\AbandonmentPolish\\Editor\\SchoolArtAssetImporter.cs",
+    "installed": "C:\\Users\\ruhtra\\My project\\Assets\\SchoolCEEP\\Editor\\AbandonmentPolish\\SchoolArtAssetImporter.cs",
+    "sha256": "66BA217F413CFB352052DB20C84BD247C1146FEDF12BCD71F6E49D02F951590E",
+    "matched": true
+  },
+  {
+    "canonical": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\AbandonmentPolish\\Editor\\SchoolCanteenLightingPolish.cs",
+    "installed": "C:\\Users\\ruhtra\\My project\\Assets\\SchoolCEEP\\Editor\\AbandonmentPolish\\SchoolCanteenLightingPolish.cs",
+    "sha256": "DE0F3FED9E807D28BB2A1968FB9134DA0D1F8FF85D78209070351627495B3F02",
+    "matched": true
+  },
+  {
+    "canonical": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\AbandonmentPolish\\Editor\\SchoolAbandonedSurfacePass.cs",
+    "installed": "C:\\Users\\ruhtra\\My project\\Assets\\SchoolCEEP\\Editor\\AbandonmentPolish\\SchoolAbandonedSurfacePass.cs",
+    "sha256": "D3994FDC1959BB0D4EFD4F0BAC707840F29E5C6B8AAD6AA399F192F25AFA8B1D",
+    "matched": true
+  },
+  {
+    "canonical": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\AbandonmentPolish\\Editor\\SchoolPolyHavenPropPass.cs",
+    "installed": "C:\\Users\\ruhtra\\My project\\Assets\\SchoolCEEP\\Editor\\AbandonmentPolish\\SchoolPolyHavenPropPass.cs",
+    "sha256": "1388B236BB3204B693A886351692035BCD420D844C2EF7C03F4CF72C6E67B63E",
+    "matched": true
+  },
+  {
+    "canonical": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\AbandonmentPolish\\Editor\\SchoolNightMaterialPass.cs",
+    "installed": "C:\\Users\\ruhtra\\My project\\Assets\\SchoolCEEP\\Editor\\AbandonmentPolish\\SchoolNightMaterialPass.cs",
+    "sha256": "F6F8A26902389613C61195318B2C0689ED7299E1F381DB0FB78B7065C32EBA4F",
+    "matched": true
+  },
+  {
+    "canonical": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\AbandonmentPolish\\Editor\\SchoolImmersionLightingPass.cs",
+    "installed": "C:\\Users\\ruhtra\\My project\\Assets\\SchoolCEEP\\Editor\\AbandonmentPolish\\SchoolImmersionLightingPass.cs",
+    "sha256": "55750626C41B01F87F1DAA85B0C58A84A957FAFAF58EAC768B6A5C5A147B2B1D",
+    "matched": true
+  },
+  {
+    "canonical": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SchoolAssets\\Editor\\SchoolBatchVisualReplacement.cs",
+    "installed": "C:\\Users\\ruhtra\\My project\\Assets\\SchoolCEEP\\Editor\\SchoolBatchVisualReplacement.cs",
+    "sha256": "D81CD65B9CF2A5760511A99294CB6DFCDFA4FB993305AF1061EB75616CAB6005",
+    "matched": true
+  },
+  {
+    "canonical": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\AudioPolish\\Scripts\\Player\\FlashlightController.cs",
+    "installed": "C:\\Users\\ruhtra\\My project\\Assets\\HorrorGameplay\\Scripts\\Player\\FlashlightController.cs",
+    "sha256": "799C4E307937E0DB962C3FC9DC9BBFA434DB0BE037C790164E5DFF9D0C03AD1F",
+    "matched": true
+  },
+  {
+    "canonical": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\AbandonmentPolish\\Tests\\FlashlightImmersionPlayTests.cs",
+    "installed": "C:\\Users\\ruhtra\\My project\\Assets\\HorrorGameplay\\Tests\\PlayMode\\FlashlightImmersionPlayTests.cs",
+    "sha256": "6633F3703F604D7AE12F6E0F84EA7A038A68F6C0B0D5DEFF5C5F71530EE0259A",
+    "matched": true
+  }
+]

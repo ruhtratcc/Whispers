@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80b3c7e9f7c341143b507c75926ee639, type: 3}
+  m_Name: Impact Glass
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.SoundSet
+  clips:
+  - {fileID: 8300000, guid: 53e8ad13b8a49714bacc6262ca866ec8, type: 3}
+  - {fileID: 8300000, guid: 614f13fd3032a1c4a8f34fd370da2ba3, type: 3}
+  - {fileID: 8300000, guid: 54fd64cd8ba32ca4a85469d230c2c150, type: 3}
+  pitch: {x: 0.94, y: 1.06}
+  volume: {x: 0.42, y: 0.58}
+  minimumDistance: 1
+  maximumDistance: 15

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: SchoolAtmosphere
+  m_EditorClassIdentifier: Unity.RenderPipelines.Core.Runtime::UnityEngine.Rendering.VolumeProfile
+  components:
+  - {fileID: 1499519494847280916, guid: b635947cc487d9745943c5f3198b1981, type: 2}
+  - {fileID: -1918591318512452204, guid: b635947cc487d9745943c5f3198b1981, type: 2}
+  - {fileID: 6731828949289790375, guid: b635947cc487d9745943c5f3198b1981, type: 2}
+  - {fileID: 479562185809278411, guid: b635947cc487d9745943c5f3198b1981, type: 2}
+  - {fileID: 5990636285917274005, guid: b635947cc487d9745943c5f3198b1981, type: 2}
+  - {fileID: 1228926916916738922, guid: b635947cc487d9745943c5f3198b1981, type: 2}

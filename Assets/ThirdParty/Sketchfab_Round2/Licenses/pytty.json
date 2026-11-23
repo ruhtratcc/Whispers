@@ -1,0 +1,38 @@
+{
+  "source": {
+    "uid": "5a61bd320ae5496696b76807c36acb2b",
+    "title": "Pytty",
+    "author": "R3indeer",
+    "url": "https://sketchfab.com/3d-models/pytty-5a61bd320ae5496696b76807c36acb2b",
+    "api": "https://api.sketchfab.com/v3/models/5a61bd320ae5496696b76807c36acb2b",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "triangles": 1534,
+    "vertices": 804,
+    "downloadable": true,
+    "textures": 4,
+    "materials": 1,
+    "description": "Everyone's favourite porcelain throne! Design is old-school Finnish s-style toilet.\nI'm slightly hesitant on publishing this since I can imagine all the skibidi edits it will be predisposed to... nevertheless **enjoy doing whatever you want with it**.\n\nModeled in Blender 2.79, textured in Substance. Scaled using a ruler for exact real-life measurements. **No AI**. The lid is in 3 parts with pivot points for some easy opening/closing motion. 2k pbr textures + UV map included.",
+    "htmlStatus": "cached — original response not re-fetched",
+    "format": "glTF converted export offered by Sketchfab for downloadable models; source FBX/Blend NOT VERIFIED",
+    "geometryVisual": "NOT VERIFIED — no model download/import"
+  },
+  "licenseEvidence": {
+    "embeddedLicenseCount": 0,
+    "source": "Cached official public Sketchfab API response checked 2026-10-30",
+    "proofFile": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\ModelPass20261030\\SketchfabPropsEvidence\\5a61bd320ae5496696b76807c36acb2b.json",
+    "license": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialAndModificationAllowed": true,
+    "creditRequired": true,
+    "requiredCredit": "Pytty — R3indeer — https://sketchfab.com/3d-models/pytty-5a61bd320ae5496696b76807c36acb2b — CC BY4.0. Adapted for Whispers of the Past."
+  },
+  "archiveSha256": "c8083385a7974a358edf92f1939dd249d5f38fdf54c0c1ae78b3c192171606b0",
+  "changes": "Static native-mesh conversion, URP1K maps. Car four taxi accessory nodes removed; cabinet single closed variant selected."
+}

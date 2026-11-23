@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b74ca3c0cc8ce1b47b3e30198f4b6b93, type: 3}
+  m_Name: BeforeDemolitionStory
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.StoryBook
+  storyId: before-demolition
+  revision: 3
+  chapters:
+  - id: bd.office
+    title: "O Escrit\xF3rio"
+    heading: "CAP\xCDTULO 1"
+    sceneName: Chapter1Office
+    initialObjective: Ler os emails no computador.
+    completionPhrase: "O caso n\xE3o terminou em 2006."
+    milestones:
+    - id: bd.office.ready
+      objectiveAfter: "Sair do escrit\xF3rio pela porta de entrada."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.office.exit
+      objectiveAfter: 
+      automaticSequenceId: 
+      requiredItemIds: []
+  - id: bd.road
+    title: A Estrada
+    heading: "CAP\xCDTULO 2"
+    sceneName: RoadJourney
+    initialObjective: "Ir at\xE9 a escola. O r\xE1dio continua ligado."
+    completionPhrase: A secretaria ainda estava iluminada.
+    milestones:
+    - id: bd.road.radio-changed
+      objectiveAfter: "Confira a notifica\xE7\xE3o no celular."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.road.car-parked
+      objectiveAfter: Pegue a lanterna no banco do passageiro.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.road.flashlight-taken
+      objectiveAfter: Saia pela porta do motorista.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.road.car-exited
+      objectiveAfter: "Siga at\xE9 o port\xE3o da escola."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.road.school-gate
+      objectiveAfter: 
+      automaticSequenceId: 
+      requiredItemIds: []
+  - id: bd.secretary-library
+    title: Secretaria e Biblioteca
+    heading: "CAP\xCDTULO 3"
+    sceneName: SchoolCEEP
+    initialObjective: "Encontrar a secretaria. A porta est\xE1 aberta."
+    completionPhrase: Ela nunca deixou de procurar.
+    milestones:
+    - id: bd.school.secretary
+      objectiveAfter: "Examine as pegadas no ch\xE3o da secretaria."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.school.cups
+      objectiveAfter: Procure a lancheira na gaveta da secretaria.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.school.lunchbox
+      objectiveAfter: Pegue a chave dentro da lancheira.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.school.key
+      objectiveAfter: Use a chave para entrar na biblioteca.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.school.library
+      objectiveAfter: "Examinar o mural da investiga\xE7\xE3o e pegar o relat\xF3rio no centro."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.school.report
+      objectiveAfter: "O telefone est\xE1 tocando. Ou\xE7a a fita 1 at\xE9 o fim para sair."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.school.tape
+      objectiveAfter: Sair da biblioteca pela porta.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.school.exit
+      objectiveAfter: 
+      automaticSequenceId: 
+      requiredItemIds: []
+  - id: bd.four-students
+    title: Os Quatro
+    heading: "CAP\xCDTULO 4"
+    sceneName: SchoolCEEP
+    initialObjective: "Investigar os quatro: Marta na sala de artes (03B), Caio no sanit\xE1rio masculino, Luan no refeit\xF3rio e Bia na Inform\xE1tica A."
+    completionPhrase: Quatro lugares. A mesma noite.
+    milestones:
+    - id: bd.four.gathered
+      objectiveAfter: "Ir at\xE9 a parte principal da escola."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.four.key
+      objectiveAfter: Abrir a porta da escada e subir ao andar de cima.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.four.upstairs
+      objectiveAfter: 
+      automaticSequenceId: 
+      requiredItemIds: []
+  - id: bd.two-voices
+    title: Duas Vozes
+    heading: "CAP\xCDTULO 5"
+    sceneName: SchoolCEEP
+    initialObjective: Confira o celular e siga os sons baixos nas portas laterais.
+    completionPhrase: A voz dela vinha do lugar errado.
+    milestones:
+    - id: bd.loop.escaped
+      objectiveAfter: Ouvir a fita 3 da verdadeira Helena na sala lateral.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.loop.tape
+      objectiveAfter: "Saia da sala da fita e siga at\xE9 a \xFAltima porta \xE0 direita, no fim do corredor."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.loop.mirror
+      objectiveAfter: 
+      automaticSequenceId: 
+      requiredItemIds: []
+  - id: bd.mirror-report
+    title: "Espelho e Relat\xF3rio"
+    heading: "CAP\xCDTULO 6"
+    sceneName: SchoolCEEP
+    initialObjective: Examinar o espelho.
+    completionPhrase: O que ficou no lugar ainda sabe seu nome.
+    milestones:
+    - id: bd.mirror.seen
+      objectiveAfter: Continue olhando para o espelho.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.mirror.broken
+      objectiveAfter: "Ou\xE7a o que Helena tem a dizer."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.mirror.choice
+      objectiveAfter: Confira o que ficou depois daquela noite.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: bd.mirror.finish
+      objectiveAfter: 
+      automaticSequenceId: 
+      requiredItemIds: []
+  sequences:
+  - id: bd.four.intercom
+    lockPlayer: 1
+    completionSignal: 
+    lines:
+    - speaker: "Interfone \u2014 Helena"
+      text: "Muito bem, Jo\xE3o. Agora o senhor j\xE1 sabe. Suba, por favor. \xC9 r\xE1pido. Eu preciso falar com o senhor."
+      seconds: 11
+      voice: {fileID: 8300000, guid: 25f74625d59d68940a27a1f06e060039, type: 3}
+      demonVoiceId: 
+    - speaker: "Jo\xE3o"
+      text: "Ela sabe o que eu encontrei. Mas quem est\xE1 falando comigo?"
+      seconds: 5
+      voice: {fileID: 8300000, guid: fedf1489766963f42821ff931e454334, type: 3}
+      demonVoiceId: 
+  - id: bd.loop.voice
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Helena, \xE0 frente"
+      text: "Venha, Jo\xE3o. Est\xE1 quase."
+      seconds: 4
+      voice: {fileID: 0}
+      demonVoiceId: demon_corridor_01
+  - id: bd.loop.phone
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Celular \u2014 Helena"
+      text: "O senhor virou \xE0 esquerda. Eu preferiria que n\xE3o."
+      seconds: 6
+      voice: {fileID: 0}
+      demonVoiceId: 
+  - id: bd.mirror.offer
+    lockPlayer: 1
+    completionSignal: 
+    lines:
+    - speaker: Helena
+      text: "Eles est\xE3o presos aqui por sua causa, Jo\xE3o. Algu\xE9m precisa ficar no lugar deles pra eles sa\xEDrem. O senhor sempre quis consertar isso."
+      seconds: 10
+      voice: {fileID: 0}
+      demonVoiceId: demon_mirror_offer_01
+    - speaker: "Jo\xE3o"
+      text: Se eu ficar... eles saem.
+      seconds: 4
+      voice: {fileID: 8300000, guid: e5f701eecc9706949a7ca0c924cdc13c, type: 3}
+      demonVoiceId: 
+    - speaker: "Crian\xE7as"
+      text: "n\xE3o"
+      seconds: 2
+      voice: {fileID: 8300000, guid: fada18d50aec9464f8e281d20997f22e, type: 3}
+      demonVoiceId: 
+  - id: bd.ending.refuse
+    lockPlayer: 1
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: Meu Deus...
+      seconds: 3
+      voice: {fileID: 8300000, guid: 5809fd8f31c56244c91e0c35545a450a, type: 3}
+      demonVoiceId: 
+    - speaker: Helena
+      text: "O senhor n\xE3o deveria ter feito isso."
+      seconds: 5
+      voice: {fileID: 0}
+      demonVoiceId: demon_mirror_refuse_01
+  - id: bd.ending.sign
+    lockPlayer: 1
+    completionSignal: 
+    lines:
+    - speaker: Helena
+      text: "Obrigada, Jo\xE3o."
+      seconds: 4
+      voice: {fileID: 8300000, guid: 31781b05d5eca3048b9d6a4245d5e709, type: 3}
+      demonVoiceId: 

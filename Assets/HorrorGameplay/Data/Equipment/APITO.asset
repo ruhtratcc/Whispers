@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9deeadc11d97dca41a39be7da77de6e6, type: 3}
+  m_Name: APITO
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.EquipmentDefinition
+  id: whistle
+  inventoryItemId: bd.whistle
+  displayName: APITO
+  slot: 2
+  kind: 1
+  icon: {fileID: 21300000, guid: 58b8a88729c7e5c4c912d9080623363f, type: 3}
+  drawSound: {fileID: 11400000, guid: cbfaa05014a9af24b9e49a25ddccec2f, type: 2}
+  stowSound: {fileID: 11400000, guid: b42234e995605cb4c8e5bbeb498d8bac, type: 2}
+  moveSound: {fileID: 11400000, guid: 230b5140bafac2345bb3b40c66d9b73e, type: 2}
+  viewmodelPrefab: {fileID: 0}

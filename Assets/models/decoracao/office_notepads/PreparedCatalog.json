@@ -1,0 +1,125 @@
+{
+  "id": "office_notepads",
+  "materials": [
+    {
+      "name": "office_notepads",
+      "diffuse": "office_notepads_diff_1k.jpg",
+      "normal": "office_notepads_nor_gl_1k.jpg",
+      "metallicSmoothness": "material-0-MetallicSmoothness.png",
+      "occlusion": "material-0-Occlusion.png",
+      "doubleSided": true
+    }
+  ],
+  "variants": [
+    {
+      "name": "office_notepads_yellow_sheet",
+      "meshDataFile": "office_notepads_yellow_sheet.json",
+      "size": {
+        "x": 0.22333773970603943,
+        "y": 0.0,
+        "z": 0.30733999609947205
+      },
+      "triangles": 120,
+      "distantTriangles": 120
+    },
+    {
+      "name": "office_notepads_yellow_pad",
+      "meshDataFile": "office_notepads_yellow_pad.json",
+      "size": {
+        "x": 0.22333773970603943,
+        "y": 0.009999999776482582,
+        "z": 0.30733999609947205
+      },
+      "triangles": 12,
+      "distantTriangles": 6
+    },
+    {
+      "name": "office_notepads_note_stack",
+      "meshDataFile": "office_notepads_note_stack.json",
+      "size": {
+        "x": 0.19558002054691315,
+        "y": 0.009999999776482582,
+        "z": 0.1123349592089653
+      },
+      "triangles": 12,
+      "distantTriangles": 4
+    },
+    {
+      "name": "office_notepads_sticky_stack",
+      "meshDataFile": "office_notepads_sticky_stack.json",
+      "size": {
+        "x": 0.07177069038152695,
+        "y": 0.02199999988079071,
+        "z": 0.07177069038152695
+      },
+      "triangles": 12,
+      "distantTriangles": 12
+    },
+    {
+      "name": "office_notepads_sticky_sheet",
+      "meshDataFile": "office_notepads_sticky_sheet.json",
+      "size": {
+        "x": 0.07177069038152695,
+        "y": 0.0,
+        "z": 0.07177069038152695
+      },
+      "triangles": 18,
+      "distantTriangles": 18
+    },
+    {
+      "name": "office_notepads_note_sheet",
+      "meshDataFile": "office_notepads_note_sheet.json",
+      "size": {
+        "x": 0.19558002054691315,
+        "y": 0.0,
+        "z": 0.1123349592089653
+      },
+      "triangles": 120,
+      "distantTriangles": 120
+    },
+    {
+      "name": "office_notepads_a4_stack",
+      "meshDataFile": "office_notepads_a4_stack.json",
+      "size": {
+        "x": 0.21000000834465027,
+        "y": 0.009999999776482582,
+        "z": 0.28999999165534973
+      },
+      "triangles": 12,
+      "distantTriangles": 4
+    },
+    {
+      "name": "office_notepads_a4_a",
+      "meshDataFile": "office_notepads_a4_a.json",
+      "size": {
+        "x": 0.21000000834465027,
+        "y": 0.0,
+        "z": 0.28999999165534973
+      },
+      "triangles": 120,
+      "distantTriangles": 120
+    },
+    {
+      "name": "office_notepads_a4_b",
+      "meshDataFile": "office_notepads_a4_b.json",
+      "size": {
+        "x": 0.21000000834465027,
+        "y": 0.0,
+        "z": 0.28999999165534973
+      },
+      "triangles": 120,
+      "distantTriangles": 120
+    },
+    {
+      "name": "office_notepads_a4_c",
+      "meshDataFile": "office_notepads_a4_c.json",
+      "size": {
+        "x": 0.21000000834465027,
+        "y": 0.0,
+        "z": 0.28999999165534973
+      },
+      "triangles": 120,
+      "distantTriangles": 120
+    }
+  ]
+}

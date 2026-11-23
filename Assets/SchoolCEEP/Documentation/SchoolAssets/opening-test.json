@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "duration": 52.99,
+  "summary": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningSceneTests.RealSchoolOpeningSupportsGateCluesSightlinesAndBlackout",
+      "Status": "Passed",
+      "Duration": 52.9548125,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

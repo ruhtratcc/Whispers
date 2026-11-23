@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80b3c7e9f7c341143b507c75926ee639, type: 3}
+  m_Name: tape_rewind
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.SoundSet
+  overrideChannel: 1
+  channel: 1
+  caption: 
+  clips:
+  - {fileID: 8300000, guid: 0b5a1941ff78e74438bdc808ff46c4c5, type: 3}
+  - {fileID: 8300000, guid: b503290c0a46edf4ab219c6055755e4a, type: 3}
+  - {fileID: 8300000, guid: 2248479006f167d468ee5a9ff21c272b, type: 3}
+  pitch: {x: 0.96, y: 1.04}
+  volume: {x: 1, y: 1}
+  minimumDistance: 0.7
+  maximumDistance: 12

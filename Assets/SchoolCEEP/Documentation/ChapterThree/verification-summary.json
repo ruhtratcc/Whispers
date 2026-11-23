@@ -1,0 +1,51 @@
+{
+  "nativeTests": 45.0,
+  "passed": 45.0,
+  "failed": 0,
+  "checkpointAndPreferencesRestored": true,
+  "testGuardActive": false,
+  "reports": [
+    {
+      "report": "sanity-tests.json",
+      "total": 8,
+      "passed": 8,
+      "failed": 0
+    },
+    {
+      "report": "scene-tests.json",
+      "total": 3,
+      "passed": 3,
+      "failed": 0
+    },
+    {
+      "report": "opening-scene-tests.json",
+      "total": 1,
+      "passed": 1,
+      "failed": 0
+    },
+    {
+      "report": "opening-tests.json",
+      "total": 6,
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "report": "narrative-save-tests.json",
+      "total": 23,
+      "passed": 23,
+      "failed": 0
+    },
+    {
+      "report": "atmosphere-tests.json",
+      "total": 2,
+      "passed": 2,
+      "failed": 0
+    },
+    {
+      "report": "road-regression-tests.json",
+      "total": 2,
+      "passed": 2,
+      "failed": 0
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+    "revision": 1,
+    "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+    "texture": "Assets/HorrorMenu/Art/CorridorMist.asset",
+    "material": "Assets/SchoolCEEP/Materials/Refinement/EnvironmentMist.mat",
+    "protectedBefore": "DACAA0800687A8B524E88EB3E1E8B7A8CE047D4515F988320D3969D6E69DFD5A",
+    "protectedAfter": "DACAA0800687A8B524E88EB3E1E8B7A8CE047D4515F988320D3969D6E69DFD5A",
+    "passed": true,
+    "protectedArchitectureAndStoryPreserved": true,
+    "worldSpace": true,
+    "environmentParent": true,
+    "noNewColliders": true,
+    "noNewLights": true,
+    "nearCameraClear": true,
+    "softParticlesEnabled": true,
+    "depthTextureRequested": true,
+    "attachedDustDisabled": true,
+    "allEmitterCentersSupported": true,
+    "allRoomWispsContained": true,
+    "classroomEmitters": 27,
+    "exteriorEmitters": 4,
+    "emitters": 31,
+    "maximumLiveParticles": 194,
+    "colliders": 0,
+    "lights": 0,
+    "attachedDustCount": 1,
+    "cameraNearFade": 2.0,
+    "cameraFarFade": 5.0,
+    "maximumAlpha": 0.11999999731779099,
+    "fogStart": 14.0,
+    "fogEnd": 110.0,
+    "fogColor": {
+        "r": 0.012000000104308128,
+        "g": 0.017999999225139618,
+        "b": 0.017000000923871994,
+        "a": 1.0
+    },
+    "emitterResults": [
+        {
+            "name": "Sala — névoa baixa — Sala de uso múltiplo — pavimento 0",
+            "position": {
+                "x": -67.76860809326172,
+                "y": -0.17000001668930054,
+                "z": 68.50802612304688
+            },
+            "shapeSize": {
+                "x": 3.0027740001678467,
+                "y": 0.10000000149011612,
+                "z": 6.6095781326293945
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": -0.6000000238418579,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 07 — pavimento 0",
+            "position": {
+                "x": -35.187660217285156,
+                "y": 0.4300000071525574,
+                "z": 77.31759643554688
+            },
+            "shapeSize": {
+                "x": 2.414074659347534,
+                "y": 0.10000000149011612,
+                "z": 5.127911567687988
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 6 — pavimento 0",
+            "position": {
+                "x": -20.390392303466797,
+                "y": 0.4300000071525574,
+                "z": 86.47218322753906
+            },
+            "shapeSize": {
+                "x": 2.6599223613739014,
+                "y": 0.10000000149011612,
+                "z": 5.2168169021606445
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 03A — pavimento 0",
+            "position": {
+                "x": -7.718731880187988,
+                "y": 0.4300000071525574,
+                "z": 87.95384216308594
+            },
+            "shapeSize": {
+                "x": 8.282877922058105,
+                "y": 0.10000000149011612,
+                "z": 2.253483533859253
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 5 — pavimento 0",
+            "position": {
+                "x": -20.390392303466797,
+                "y": 0.4300000071525574,
+                "z": 77.31759643554688
+            },
+            "shapeSize": {
+                "x": 2.6599223613739014,
+                "y": 0.10000000149011612,
+                "z": 5.127911567687988
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 03B — pavimento 0",
+            "position": {
+                "x": -7.718731880187988,
+                "y": 0.4300000071525574,
+                "z": 81.80915832519531
+            },
+            "shapeSize": {
+                "x": 8.282877922058105,
+                "y": 0.10000000149011612,
+                "z": 2.071446180343628
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 4 — pavimento 0",
+            "position": {
+                "x": -20.390392303466797,
+                "y": 0.4300000071525574,
+                "z": 68.27237701416016
+            },
+            "shapeSize": {
+                "x": 2.6599223613739014,
+                "y": 0.10000000149011612,
+                "z": 4.998089790344238
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 03 — pavimento 0",
+            "position": {
+                "x": -7.718731880187988,
+                "y": 0.4300000071525574,
+                "z": 75.75408935546875
+            },
+            "shapeSize": {
+                "x": 8.282877922058105,
+                "y": 0.10000000149011612,
+                "z": 2.0742690563201904
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 02 — pavimento 0",
+            "position": {
+                "x": -7.718731880187988,
+                "y": 0.4300000071525574,
+                "z": 65.39653015136719
+            },
+            "shapeSize": {
+                "x": 8.282877922058105,
+                "y": 0.10000000149011612,
+                "z": 10.676400184631348
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 20 — pavimento 1",
+            "position": {
+                "x": -35.17109298706055,
+                "y": 4.239999771118164,
+                "z": 77.31759643554688
+            },
+            "shapeSize": {
+                "x": 2.3819777965545654,
+                "y": 0.10000000149011612,
+                "z": 5.127911567687988
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 19 — pavimento 1",
+            "position": {
+                "x": -35.17109298706055,
+                "y": 4.239999771118164,
+                "z": 68.27237701416016
+            },
+            "shapeSize": {
+                "x": 2.3819777965545654,
+                "y": 0.10000000149011612,
+                "z": 4.998089790344238
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 18 — pavimento 1",
+            "position": {
+                "x": -20.372051239013672,
+                "y": 4.239999771118164,
+                "z": 86.47218322753906
+            },
+            "shapeSize": {
+                "x": 2.6979968547821045,
+                "y": 0.10000000149011612,
+                "z": 5.2168169021606445
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 15 — pavimento 1",
+            "position": {
+                "x": -7.685452461242676,
+                "y": 4.239999771118164,
+                "z": 87.95384216308594
+            },
+            "shapeSize": {
+                "x": 8.216731071472168,
+                "y": 0.10000000149011612,
+                "z": 2.253483533859253
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 17 — pavimento 1",
+            "position": {
+                "x": -20.372051239013672,
+                "y": 4.239999771118164,
+                "z": 77.31759643554688
+            },
+            "shapeSize": {
+                "x": 2.6979968547821045,
+                "y": 0.10000000149011612,
+                "z": 5.127911567687988
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 14 — pavimento 1",
+            "position": {
+                "x": -7.685452461242676,
+                "y": 4.239999771118164,
+                "z": 81.80915832519531
+            },
+            "shapeSize": {
+                "x": 8.216731071472168,
+                "y": 0.10000000149011612,
+                "z": 2.071446180343628
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 16 — pavimento 1",
+            "position": {
+                "x": -20.372051239013672,
+                "y": 4.239999771118164,
+                "z": 68.27237701416016
+            },
+            "shapeSize": {
+                "x": 2.6979968547821045,
+                "y": 0.10000000149011612,
+                "z": 4.998089790344238
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 13 — pavimento 1",
+            "position": {
+                "x": -7.685452461242676,
+                "y": 4.239999771118164,
+                "z": 75.75408935546875
+            },
+            "shapeSize": {
+                "x": 8.216731071472168,
+                "y": 0.10000000149011612,
+                "z": 2.0742690563201904
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 12 — pavimento 1",
+            "position": {
+                "x": -7.685452461242676,
+                "y": 4.239999771118164,
+                "z": 65.39653015136719
+            },
+            "shapeSize": {
+                "x": 8.216731071472168,
+                "y": 0.10000000149011612,
+                "z": 10.676400184631348
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 52 — pavimento 0",
+            "position": {
+                "x": 12.808658599853516,
+                "y": 0.25,
+                "z": 89.01429748535156
+            },
+            "shapeSize": {
+                "x": 2.96891188621521,
+                "y": 0.10000000149011612,
+                "z": 3.222912549972534
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": -0.18000000715255737,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 51 — pavimento 0",
+            "position": {
+                "x": 12.808658599853516,
+                "y": 0.25,
+                "z": 81.81340026855469
+            },
+            "shapeSize": {
+                "x": 2.96891188621521,
+                "y": 0.10000000149011612,
+                "z": 3.2144439220428467
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": -0.18000000715255737,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 50 — pavimento 0",
+            "position": {
+                "x": 12.808658599853516,
+                "y": 0.25,
+                "z": 74.61672973632813
+            },
+            "shapeSize": {
+                "x": 2.96891188621521,
+                "y": 0.10000000149011612,
+                "z": 3.2144439220428467
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": -0.18000000715255737,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 27B — pavimento 1",
+            "position": {
+                "x": -19.02544403076172,
+                "y": 4.239999771118164,
+                "z": 44.37662124633789
+            },
+            "shapeSize": {
+                "x": 5.109848976135254,
+                "y": 0.10000000149011612,
+                "z": 4.913418769836426
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 27A — pavimento 1",
+            "position": {
+                "x": -17.68474578857422,
+                "y": 4.239999771118164,
+                "z": 52.02342987060547
+            },
+            "shapeSize": {
+                "x": 2.4284541606903076,
+                "y": 0.10000000149011612,
+                "z": 2.037579298019409
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 74 — pavimento 1",
+            "position": {
+                "x": 65.54046630859375,
+                "y": 4.239999771118164,
+                "z": 50.805641174316406
+            },
+            "shapeSize": {
+                "x": 3.225731611251831,
+                "y": 0.10000000149011612,
+                "z": 3.225731611251831
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 76 — pavimento 1",
+            "position": {
+                "x": 74.52076721191406,
+                "y": 4.239999771118164,
+                "z": 50.805641174316406
+            },
+            "shapeSize": {
+                "x": 3.2426650524139404,
+                "y": 0.10000000149011612,
+                "z": 3.225731611251831
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 75 — pavimento 1",
+            "position": {
+                "x": 65.54046630859375,
+                "y": 4.239999771118164,
+                "z": 42.93305206298828
+            },
+            "shapeSize": {
+                "x": 3.225731611251831,
+                "y": 0.10000000149011612,
+                "z": 4.555001258850098
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Sala — névoa baixa — Sala 77 — pavimento 1",
+            "position": {
+                "x": 74.52076721191406,
+                "y": 4.239999771118164,
+                "z": 42.93305206298828
+            },
+            "shapeSize": {
+                "x": 3.2426650524139404,
+                "y": 0.10000000149011612,
+                "z": 4.555001258850098
+            },
+            "maximumBillboard": {
+                "x": 3.0,
+                "y": 0.6200000047683716,
+                "z": 1.0
+            },
+            "floor": 3.809999942779541,
+            "alpha": 0.10999999940395355,
+            "maximumParticles": 6,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Entrada — ar no pátio",
+            "position": {
+                "x": 0.550000011920929,
+                "y": 0.2900000214576721,
+                "z": 13.0
+            },
+            "shapeSize": {
+                "x": 0.30000001192092896,
+                "y": 0.07999999821186066,
+                "z": 0.6499999761581421
+            },
+            "maximumBillboard": {
+                "x": 2.4000000953674316,
+                "y": 0.550000011920929,
+                "z": 1.0
+            },
+            "floor": -0.07999999821186066,
+            "alpha": 0.11999999731779099,
+            "maximumParticles": 8,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Hall — junto à entrada",
+            "position": {
+                "x": 0.550000011920929,
+                "y": 1.0139999389648438,
+                "z": 26.0
+            },
+            "shapeSize": {
+                "x": 0.30000001192092896,
+                "y": 0.07999999821186066,
+                "z": 0.6499999761581421
+            },
+            "maximumBillboard": {
+                "x": 2.4000000953674316,
+                "y": 0.550000011920929,
+                "z": 1.0
+            },
+            "floor": 0.6439999938011169,
+            "alpha": 0.11999999731779099,
+            "maximumParticles": 8,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Corredor central — ar parado",
+            "position": {
+                "x": 0.21166665852069855,
+                "y": 1.0139999389648438,
+                "z": 41.69832992553711
+            },
+            "shapeSize": {
+                "x": 0.30000001192092896,
+                "y": 0.07999999821186066,
+                "z": 0.6499999761581421
+            },
+            "maximumBillboard": {
+                "x": 2.4000000953674316,
+                "y": 0.550000011920929,
+                "z": 1.0
+            },
+            "floor": 0.6439999938011169,
+            "alpha": 0.11999999731779099,
+            "maximumParticles": 8,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Caminho da quadra — ar baixo",
+            "position": {
+                "x": 47.06055450439453,
+                "y": 0.2900000214576721,
+                "z": 27.37555503845215
+            },
+            "shapeSize": {
+                "x": 0.30000001192092896,
+                "y": 0.07999999821186066,
+                "z": 0.6499999761581421
+            },
+            "maximumBillboard": {
+                "x": 2.4000000953674316,
+                "y": 0.550000011920929,
+                "z": 1.0
+            },
+            "floor": -0.07999999821186066,
+            "alpha": 0.11999999731779099,
+            "maximumParticles": 8,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        }
+    ],
+    "skipped": [
+        "Cantina — passagem exterior: no supported ground at the proposed location."
+    ],
+    "errors": [],
+    "notes": [
+        "Wisps use the existing CorridorMist texture and native URP particle shader; no download, new renderer feature, camera overlay or menu asset modification.",
+        "Fixed scene parents, World simulation, depth-tested transparent billboards, soft geometry intersections and camera fade from 2 to 5 m. First 14 m of distance fog remain clear.",
+        "Per-room emission averages about one wisp; 6-particle room caps and 8/10-particle circulation/arrival caps. Off-screen particle simulation pauses and catches up. No physics, shadows, lights or runtime controller.",
+        "Billboards are atmospheric wisps, not ray-marched volumetric lighting. Native visual inspection and actual performance measurement remain the caller's responsibility."
+    ]
+}

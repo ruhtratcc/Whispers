@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "eastBenches": 0,
+  "stairGuards": 0,
+  "cornerStrips": 8,
+  "rampRunMeters": 10.4422226,
+  "sidePath": true,
+  "cornerPath": true,
+  "checks": 820,
+  "paths": 23,
+  "editorPhysicsOnly": true,
+  "gameplayExecuted": false
+}

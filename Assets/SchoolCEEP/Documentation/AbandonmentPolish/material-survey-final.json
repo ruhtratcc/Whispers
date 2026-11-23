@@ -1,0 +1,2345 @@
+[
+  {
+    "name": "Piso cerâmico",
+    "path": "Assets/SchoolCEEP/Materials/Piso cerâmico.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.17,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Solo e grama",
+    "path": "Assets/SchoolCEEP/Materials/Solo e grama.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 3,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Concreto",
+    "path": "Assets/SchoolCEEP/Materials/Concreto.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 24,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Asfalto",
+    "path": "Assets/SchoolCEEP/Materials/Asfalto.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Sinalização",
+    "path": "Assets/SchoolCEEP/Materials/Sinalização.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 2,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Portas antigas",
+    "path": "Assets/SchoolCEEP/Materials/Portas antigas.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 101,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Reboco envelhecido",
+    "path": "Assets/SchoolCEEP/Materials/Reboco envelhecido.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 4,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Abandoned-Reboco envelhecido-Cracked",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-Reboco envelhecido-Cracked.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-Reboco envelhecido-Moss",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-Reboco envelhecido-Moss.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Pintura verde antiga",
+    "path": "Assets/SchoolCEEP/Materials/Pintura verde antiga.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-87a5f5debb2c3a34394bf5cc8029a2e7",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-87a5f5debb2c3a34394bf5cc8029a2e7.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 2,
+    "metallic": 0.4,
+    "smooth": 0.18,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_NORMALMAP"
+    ]
+  },
+  {
+    "name": "Night-4164580197a6edf489f9aee028c27777",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-4164580197a6edf489f9aee028c27777.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 2,
+    "metallic": 0.45,
+    "smooth": 0.18,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "CampusCourtBlueFascia",
+    "path": "Assets/SchoolCEEP/Materials/CampusCourtBlueFascia.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.18,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoConcreteFloor",
+    "path": "Assets/SchoolCEEP/Materials/PhotoConcreteFloor.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 16,
+    "metallic": 0.0,
+    "smooth": 0.14,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "CampusCourtDarkMesh",
+    "path": "Assets/SchoolCEEP/Materials/CampusCourtDarkMesh.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.18,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHATEST_ON"
+    ]
+  },
+  {
+    "name": "PhotoWestLowerConcrete",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWestLowerConcrete.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Cobertura",
+    "path": "Assets/SchoolCEEP/Materials/Cobertura.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 15,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-a03e2f830be5e69469bb9e548affd50d",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-a03e2f830be5e69469bb9e548affd50d.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 65,
+    "metallic": 0.25,
+    "smooth": 0.22,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoWestYellowTiles",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWestYellowTiles.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 14,
+    "metallic": 0.0,
+    "smooth": 0.25,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoWestWhiteWall",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWestWhiteWall.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 46,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-PhotoFrameBlueWall",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-PhotoFrameBlueWall.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 24,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoPlasterWhite",
+    "path": "Assets/SchoolCEEP/Materials/PhotoPlasterWhite.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 49,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Abandoned-PhotoPlasterWhite-Moss",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoPlasterWhite-Moss.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 20,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-PhotoWestWhiteWall-Moss",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoWestWhiteWall-Moss.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 9,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-PhotoWestWhiteWall-Cracked",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoWestWhiteWall-Cracked.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 23,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-PhotoPlasterWhite-Cracked",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoPlasterWhite-Cracked.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 37,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoWestDarkBrownDoor",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWestDarkBrownDoor.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 28,
+    "metallic": 0.0,
+    "smooth": 0.18,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-454a45089ae8e9a46bc1c351cf711b74",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-454a45089ae8e9a46bc1c351cf711b74.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 116,
+    "metallic": 0.86,
+    "smooth": 0.54,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "Night-4d3894e03bde5074a9eb2c35a357be08",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-4d3894e03bde5074a9eb2c35a357be08.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 116,
+    "metallic": 0.55,
+    "smooth": 0.26,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "DoorDetailInset_PhotoWestDarkBrownDoor",
+    "path": "Assets/SchoolCEEP/Materials/DoorDetailInset_PhotoWestDarkBrownDoor.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 14,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-7db4e9d6543443446bb717ca8491c408",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-7db4e9d6543443446bb717ca8491c408.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 16,
+    "metallic": 0.35,
+    "smooth": 0.28,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "Night-c4646421607fa7e49b027ba39487ba08",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-c4646421607fa7e49b027ba39487ba08.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 13,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHAPREMULTIPLY_ON",
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_SPECULARHIGHLIGHTS_OFF",
+      "_SURFACE_TYPE_TRANSPARENT"
+    ]
+  },
+  {
+    "name": "PhotoWestBrownColumn",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWestBrownColumn.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 2,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "DoorDetailCasingTimber",
+    "path": "Assets/SchoolCEEP/Materials/DoorDetailCasingTimber.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 12,
+    "metallic": 0.0,
+    "smooth": 0.18,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoWestPaleFloor",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWestPaleFloor.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.17,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoWestCreamWall",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWestCreamWall.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 32,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Abandoned-PhotoWestCreamWall-Cracked",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoWestCreamWall-Cracked.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 9,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-PhotoWestCreamWall-Moss",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoWestCreamWall-Moss.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 2,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "DoorDetailInset_Portas_antigas",
+    "path": "Assets/SchoolCEEP/Materials/DoorDetailInset_Portas_antigas.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 49,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-3430f255dcbd96f4caecde8e051ec1e8",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-3430f255dcbd96f4caecde8e051ec1e8.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 392,
+    "metallic": 0.4,
+    "smooth": 0.2,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoClassroomWhite",
+    "path": "Assets/SchoolCEEP/Materials/PhotoClassroomWhite.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 57,
+    "metallic": 0.0,
+    "smooth": 0.09,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "DoorDetailInset_PhotoClassroomWhite",
+    "path": "Assets/SchoolCEEP/Materials/DoorDetailInset_PhotoClassroomWhite.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 28,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-dec00af52f138474d865fab7669d086f",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-dec00af52f138474d865fab7669d086f.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 10,
+    "metallic": 0.72,
+    "smooth": 0.35,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "Night-84e3d32ffb275074281b027b60b78002",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-84e3d32ffb275074281b027b60b78002.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 8,
+    "metallic": 0.78,
+    "smooth": 0.48,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoCentralFloorTiles",
+    "path": "Assets/SchoolCEEP/Materials/PhotoCentralFloorTiles.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 7,
+    "metallic": 0.0,
+    "smooth": 0.28,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoCentralWhite",
+    "path": "Assets/SchoolCEEP/Materials/PhotoCentralWhite.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 26,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-72b7789146c4b934d820d2cf772b8b8e",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-72b7789146c4b934d820d2cf772b8b8e.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 9,
+    "metallic": 0.28,
+    "smooth": 0.24,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoDoorCream",
+    "path": "Assets/SchoolCEEP/Materials/PhotoDoorCream.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 45,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "DoorDetailInset_PhotoDoorCream",
+    "path": "Assets/SchoolCEEP/Materials/DoorDetailInset_PhotoDoorCream.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 22,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-07c7f36869d3b9a4b8cc27d3fc40556c",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-07c7f36869d3b9a4b8cc27d3fc40556c.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.25,
+    "smooth": 0.32,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoCentralWallTiles",
+    "path": "Assets/SchoolCEEP/Materials/PhotoCentralWallTiles.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 8,
+    "metallic": 0.0,
+    "smooth": 0.24,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoWallOchre",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWallOchre.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 10,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Abandoned-PhotoWallOchre-Cracked",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoWallOchre-Cracked.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 6,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-PhotoWallOchre-Moss",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoWallOchre-Moss.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 6,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoWallTerracotta",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWallTerracotta.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 8,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Abandoned-PhotoWallTerracotta-Cracked",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoWallTerracotta-Cracked.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 5,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-PhotoWallTerracotta-Moss",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoWallTerracotta-Moss.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 5,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Unpowered-Luminárias",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Unpowered-Luminárias.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 7,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "CanteenNight-PhotoRefectoryBlueTiles",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryBlueTiles.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoPlasterGrey",
+    "path": "Assets/SchoolCEEP/Materials/PhotoPlasterGrey.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 3,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoRoofGrey",
+    "path": "Assets/SchoolCEEP/Materials/PhotoRoofGrey.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 7,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-6807ecbe442cf9a43ab74ed90c87bd93",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-6807ecbe442cf9a43ab74ed90c87bd93.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 4,
+    "metallic": 0.5,
+    "smooth": 0.18,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoPaving",
+    "path": "Assets/SchoolCEEP/Materials/PhotoPaving.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoCentralStairTread",
+    "path": "Assets/SchoolCEEP/Materials/PhotoCentralStairTread.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 43,
+    "metallic": 0.0,
+    "smooth": 0.16,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoRampBroomConcrete",
+    "path": "Assets/SchoolCEEP/Materials/PhotoRampBroomConcrete.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 10,
+    "metallic": 0.0,
+    "smooth": 0.09,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoWalkwayPavingGrid",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWalkwayPavingGrid.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoTactileBrown",
+    "path": "Assets/SchoolCEEP/Materials/PhotoTactileBrown.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "LiberationSans SDF Material",
+    "path": "Assets/HorrorMenu/TMP/Resources/Fonts & Materials/LiberationSans SDF.asset",
+    "shader": "TextMeshPro/Mobile/Distance Field",
+    "count": 5,
+    "metallic": -1.0,
+    "smooth": -1.0,
+    "env": -1.0,
+    "emission": "",
+    "keywords": []
+  },
+  {
+    "name": "PhotoFacadeBlue",
+    "path": "Assets/SchoolCEEP/Materials/PhotoFacadeBlue.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoGrassGround",
+    "path": "Assets/SchoolCEEP/Materials/PhotoGrassGround.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoBlueConcrete",
+    "path": "Assets/SchoolCEEP/Materials/PhotoBlueConcrete.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.14,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoPotIvory",
+    "path": "Assets/SchoolCEEP/Materials/PhotoPotIvory.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoEarth",
+    "path": "Assets/SchoolCEEP/Materials/PhotoEarth.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.02,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoLeaves",
+    "path": "Assets/SchoolCEEP/Materials/PhotoLeaves.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoBicycleRubber",
+    "path": "Assets/SchoolCEEP/Materials/PhotoBicycleRubber.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoAgave",
+    "path": "Assets/SchoolCEEP/Materials/PhotoAgave.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.15,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoColumnGrey",
+    "path": "Assets/SchoolCEEP/Materials/PhotoColumnGrey.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 21,
+    "metallic": 0.0,
+    "smooth": 0.15,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-ecc25f24efe71ac48bfd9537d6596313",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-ecc25f24efe71ac48bfd9537d6596313.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.35,
+    "smooth": 0.25,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoTerracotta",
+    "path": "Assets/SchoolCEEP/Materials/PhotoTerracotta.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoMustard",
+    "path": "Assets/SchoolCEEP/Materials/PhotoMustard.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-f008be5e377451d4d9cd99fa272de2f4",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-f008be5e377451d4d9cd99fa272de2f4.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.7,
+    "smooth": 0.25,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-PhotoCentralWhite-Moss",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoCentralWhite-Moss.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 5,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-PhotoCentralWhite-Cracked",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoCentralWhite-Cracked.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Unpowered-PhotoCentralFluorescent",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Unpowered-PhotoCentralFluorescent.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-2a2062a217e97164189c3eae7cf48107",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-2a2062a217e97164189c3eae7cf48107.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 22,
+    "metallic": 0.55,
+    "smooth": 0.34,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoCentralNoticeFrame",
+    "path": "Assets/SchoolCEEP/Materials/PhotoCentralNoticeFrame.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoCentralNoticeBacking",
+    "path": "Assets/SchoolCEEP/Materials/PhotoCentralNoticeBacking.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoCentralNoticePaper",
+    "path": "Assets/SchoolCEEP/Materials/PhotoCentralNoticePaper.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoCentralStairNosing",
+    "path": "Assets/SchoolCEEP/Materials/PhotoCentralStairNosing.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.16,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Unpowered-PhotoCentralStairLamp",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Unpowered-PhotoCentralStairLamp.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoRampMasonry",
+    "path": "Assets/SchoolCEEP/Materials/PhotoRampMasonry.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoRampCap",
+    "path": "Assets/SchoolCEEP/Materials/PhotoRampCap.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.17,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-6f763256b6645f246b91194dca2769d7",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-6f763256b6645f246b91194dca2769d7.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.7,
+    "smooth": 0.43,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoRampTranslucentRoofAmber",
+    "path": "Assets/SchoolCEEP/Materials/PhotoRampTranslucentRoofAmber.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.21,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHAPREMULTIPLY_ON",
+      "_SURFACE_TYPE_TRANSPARENT"
+    ]
+  },
+  {
+    "name": "FrontPhotoConcreteBlue",
+    "path": "Assets/SchoolCEEP/Materials/FrontPhotoConcreteBlue.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "FrontPhotoOffWhite",
+    "path": "Assets/SchoolCEEP/Materials/FrontPhotoOffWhite.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "FrontPhotoPotEarth",
+    "path": "Assets/SchoolCEEP/Materials/FrontPhotoPotEarth.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "FrontPhotoLeafGreen",
+    "path": "Assets/SchoolCEEP/Materials/FrontPhotoLeafGreen.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-4bca1b4c7cd5de3419fd2cc28eedd9e9",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-4bca1b4c7cd5de3419fd2cc28eedd9e9.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.25,
+    "smooth": 0.24,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "FrontPhotoCeramicBlue",
+    "path": "Assets/SchoolCEEP/Materials/FrontPhotoCeramicBlue.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.3,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "FrontPhotoTileJoint",
+    "path": "Assets/SchoolCEEP/Materials/FrontPhotoTileJoint.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-86a58a37849f13b4dba9fc186328ad82",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-86a58a37849f13b4dba9fc186328ad82.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.7,
+    "smooth": 0.32,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "FrontPhotoSpeakerDark",
+    "path": "Assets/SchoolCEEP/Materials/FrontPhotoSpeakerDark.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Unpowered-FrontPhotoLampFace",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Unpowered-FrontPhotoLampFace.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.1,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "CanteenNight-PhotoRefectoryGranite",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryGranite.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "CanteenNight-PhotoRefectoryCream",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryCream.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "CanteenNight-PhotoRefectoryStainless",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryStainless.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.72,
+    "smooth": 0.23,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "Unpowered-PhotoRefectoryLamp",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Unpowered-PhotoRefectoryLamp.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.18,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "CanteenNight-PhotoRefectoryRubber",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryRubber.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "Night-779c4ebcb1a23e94b8b2288a0c983c4e",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-779c4ebcb1a23e94b8b2288a0c983c4e.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHAPREMULTIPLY_ON",
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_SPECULARHIGHLIGHTS_OFF",
+      "_SURFACE_TYPE_TRANSPARENT"
+    ]
+  },
+  {
+    "name": "CanteenNight-PhotoRefectoryNoticeBlue",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryNoticeBlue.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "CanteenNight-PhotoRefectoryNoticePaper",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryNoticePaper.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoClassroomWornVinyl",
+    "path": "Assets/SchoolCEEP/Materials/PhotoClassroomWornVinyl.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.24,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Abandoned-PhotoClassroomWhite-Cracked",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoClassroomWhite-Cracked.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-PhotoClassroomWhite-Moss",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoClassroomWhite-Moss.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoClassroomLowerGrey",
+    "path": "Assets/SchoolCEEP/Materials/PhotoClassroomLowerGrey.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.11,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Abandoned-PhotoClassroomLowerGrey-Cracked",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoClassroomLowerGrey-Cracked.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Abandoned-PhotoClassroomLowerGrey-Moss",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Abandoned-PhotoClassroomLowerGrey-Moss.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoClassroomWoodEdges",
+    "path": "Assets/SchoolCEEP/Materials/PhotoClassroomWoodEdges.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.22,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-93c4f860813745a4fa8f02ed56b93785",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-93c4f860813745a4fa8f02ed56b93785.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.87,
+    "smooth": 0.77,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "Unpowered-PhotoClassroomFluorescent",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Unpowered-PhotoClassroomFluorescent.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.23,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-ff031cf830a3f0e48b6d57ff8dcccbe2",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-ff031cf830a3f0e48b6d57ff8dcccbe2.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.72,
+    "smooth": 0.57,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoClassroomGreenBoard",
+    "path": "Assets/SchoolCEEP/Materials/PhotoClassroomGreenBoard.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.16,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-7727ecc3fee98f94c9d9db68be4acf3d",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-7727ecc3fee98f94c9d9db68be4acf3d.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.28,
+    "smooth": 0.21,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "PhotoClassroomBlueCurtain",
+    "path": "Assets/SchoolCEEP/Materials/PhotoClassroomBlueCurtain.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.05,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoClassroomPlasticBlue",
+    "path": "Assets/SchoolCEEP/Materials/PhotoClassroomPlasticBlue.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.38,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoClassroomTabletGrey",
+    "path": "Assets/SchoolCEEP/Materials/PhotoClassroomTabletGrey.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.31,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-6d71f503841e8f84dbe38859f23b5588",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-6d71f503841e8f84dbe38859f23b5588.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.45,
+    "smooth": 0.22,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "Night-e699bf3963747934d8edd31323cf4a5e",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-e699bf3963747934d8edd31323cf4a5e.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.3,
+    "smooth": 0.2,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "Unpowered-WestBlockAccessFluorescent",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Unpowered-WestBlockAccessFluorescent.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.15,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoWestWoodCeiling",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWestWoodCeiling.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.14,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Unpowered-PhotoWestOvalOpal",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Unpowered-PhotoWestOvalOpal.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoWestGardenSoil",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWestGardenSoil.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoWestGardenLeaf",
+    "path": "Assets/SchoolCEEP/Materials/PhotoWestGardenLeaf.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "CampusTactilePink",
+    "path": "Assets/SchoolCEEP/Materials/CampusTactilePink.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.18,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "ArchitectureFurnitureWhite",
+    "path": "Assets/SchoolCEEP/Materials/ArchitectureFurnitureWhite.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 17,
+    "metallic": 0.0,
+    "smooth": 0.2,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-c16eeb40162e4224a95e1bb9c8feaa82",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-c16eeb40162e4224a95e1bb9c8feaa82.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 53,
+    "metallic": 0.5,
+    "smooth": 0.2,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF"
+    ]
+  },
+  {
+    "name": "ArchitectureFurnitureBlue",
+    "path": "Assets/SchoolCEEP/Materials/ArchitectureFurnitureBlue.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.2,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "ArchitectureFurnitureWood",
+    "path": "Assets/SchoolCEEP/Materials/ArchitectureFurnitureWood.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.2,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "ArchitectureFurnitureGreen",
+    "path": "Assets/SchoolCEEP/Materials/ArchitectureFurnitureGreen.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.2,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "ArchitecturePorcelain",
+    "path": "Assets/SchoolCEEP/Materials/ArchitecturePorcelain.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.2,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "GateBlue",
+    "path": "Assets/SchoolCEEP/Data/Opening/GateBlue.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 50,
+    "metallic": 0.55,
+    "smooth": 0.22,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "GateSteel",
+    "path": "Assets/SchoolCEEP/Data/Opening/GateSteel.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 8,
+    "metallic": 0.82,
+    "smooth": 0.22,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "AgedPaper",
+    "path": "Assets/SchoolCEEP/Data/Opening/AgedPaper.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 4,
+    "metallic": 0.0,
+    "smooth": 0.22,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "PhotoSepia",
+    "path": "Assets/SchoolCEEP/Data/Opening/PhotoSepia.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.22,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Chalk",
+    "path": "Assets/SchoolCEEP/Data/Opening/Chalk.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 6,
+    "metallic": 0.0,
+    "smooth": 0.22,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "GhostSkin",
+    "path": "Assets/SchoolCEEP/Data/Opening/GhostSkin.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 6,
+    "metallic": 0.0,
+    "smooth": 0.22,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "AnchorLeather",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/AnchorLeather.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 2,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "AnchorPaper",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/AnchorPaper.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 2,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "OldCrate",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/OldCrate.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 2,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "BatteryBlack",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/BatteryBlack.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 8,
+    "metallic": 0.1,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "BatteryCopper",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/BatteryCopper.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 8,
+    "metallic": 0.5,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "ChairWood",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/ChairWood.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 2,
+    "metallic": 0.0,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "ChairRust",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/ChairRust.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 4,
+    "metallic": 0.3,
+    "smooth": 0.08,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "SchoolChair_01",
+    "path": "Assets/models/SchoolIntegration/SchoolChair_01.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 4,
+    "metallic": 1.0,
+    "smooth": 0.9,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "Desenho infantil desbotado",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Desenho infantil desbotado.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 9,
+    "metallic": 0.0,
+    "smooth": 0.04,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-3622e57db89491d42bf5714b68893cd8",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-3622e57db89491d42bf5714b68893cd8.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 20,
+    "metallic": 1.0,
+    "smooth": 0.9,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHAPREMULTIPLY_ON",
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SURFACE_TYPE_TRANSPARENT"
+    ]
+  },
+  {
+    "name": "Folhas secas",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Folhas secas.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 41,
+    "metallic": 0.0,
+    "smooth": 0.04,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHATEST_ON"
+    ]
+  },
+  {
+    "name": "Madeira apodrecida",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Madeira apodrecida.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 14,
+    "metallic": 0.0,
+    "smooth": 0.04,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Mofo",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Mofo.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 39,
+    "metallic": 0.0,
+    "smooth": 0.04,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHAPREMULTIPLY_ON",
+      "_SURFACE_TYPE_TRANSPARENT"
+    ]
+  },
+  {
+    "name": "Papel empoeirado",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Papel empoeirado.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 40,
+    "metallic": 0.0,
+    "smooth": 0.04,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Rachaduras",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Rachaduras.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 36,
+    "metallic": 0.0,
+    "smooth": 0.04,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHATEST_ON"
+    ]
+  },
+  {
+    "name": "Night-97994a2b116948a45bdc6aa7a7fbe339",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-97994a2b116948a45bdc6aa7a7fbe339.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 36,
+    "metallic": 1.0,
+    "smooth": 0.9,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHAPREMULTIPLY_ON",
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP",
+      "_SURFACE_TYPE_TRANSPARENT"
+    ]
+  },
+  {
+    "name": "Relógio parado",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Relógio parado.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 11,
+    "metallic": 0.0,
+    "smooth": 0.04,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHATEST_ON"
+    ]
+  },
+  {
+    "name": "Sujeira no piso",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Sujeira no piso.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 41,
+    "metallic": 0.0,
+    "smooth": 0.04,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHAPREMULTIPLY_ON",
+      "_SURFACE_TYPE_TRANSPARENT"
+    ]
+  },
+  {
+    "name": "Tecido esquecido",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Tecido esquecido.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 22,
+    "metallic": 0.0,
+    "smooth": 0.04,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Teia opaca",
+    "path": "Assets/SchoolCEEP/Materials/ChapterThree/Teia opaca.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 28,
+    "metallic": 0.0,
+    "smooth": 0.04,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-8af98b1f884764942a5e421096b3f75e",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-8af98b1f884764942a5e421096b3f75e.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 5,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_SPECULARHIGHLIGHTS_OFF"
+    ]
+  },
+  {
+    "name": "Night-2909dc2876899b84784704ea9d99a4b3",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-2909dc2876899b84784704ea9d99a4b3.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 56,
+    "metallic": 1.0,
+    "smooth": 0.9,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "Night-aab4e4e15067b544cb628eacea9b6f12",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-aab4e4e15067b544cb628eacea9b6f12.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 264,
+    "metallic": 1.0,
+    "smooth": 0.9,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "ArchiveBattery",
+    "path": "Assets/SchoolCEEP/Data/ChapterFour/ArchiveBattery.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 4,
+    "metallic": 0.1,
+    "smooth": 0.13,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "ArchiveKey",
+    "path": "Assets/SchoolCEEP/Data/ChapterFour/ArchiveKey.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 4,
+    "metallic": 0.72,
+    "smooth": 0.13,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "LastWindowGlass",
+    "path": "Assets/SchoolCEEP/Data/FinalChapters/Materials/LastWindowGlass.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 1,
+    "metallic": 0.0,
+    "smooth": 0.2,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHAPREMULTIPLY_ON",
+      "_SURFACE_TYPE_TRANSPARENT"
+    ]
+  },
+  {
+    "name": "OxidizedDoor",
+    "path": "Assets/SchoolCEEP/Data/FinalChapters/Materials/OxidizedDoor.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 3,
+    "metallic": 0.65,
+    "smooth": 0.2,
+    "env": 1.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": []
+  },
+  {
+    "name": "Night-161f02db1383fdf4f8565cfc47b9151c",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-161f02db1383fdf4f8565cfc47b9151c.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 766,
+    "metallic": 1.0,
+    "smooth": 0.9,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "Night-535fd92943bda1d468e64efc16d888da",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-535fd92943bda1d468e64efc16d888da.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 744,
+    "metallic": 1.0,
+    "smooth": 0.9,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "Night-3c8b335efb5864c4c950242823a83e8c",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-3c8b335efb5864c4c950242823a83e8c.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 247,
+    "metallic": 1.0,
+    "smooth": 0.8,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "Night-7b9d597f9582a374990ebd646ee3433c",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-7b9d597f9582a374990ebd646ee3433c.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 48,
+    "metallic": 1.0,
+    "smooth": 0.8,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "Night-f99abe52fd9f11e47bb3bbd6503c513a",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/Night/Night-f99abe52fd9f11e47bb3bbd6503c513a.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 48,
+    "metallic": 1.0,
+    "smooth": 0.8,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "wall_clock — wall_clock",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/wall_clock-0.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 88,
+    "metallic": 1.0,
+    "smooth": 0.8,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "wall_clock — wall_clock_glass",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/wall_clock-1.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 22,
+    "metallic": 0.0,
+    "smooth": 0.12,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_OCCLUSIONMAP",
+      "_SPECULARHIGHLIGHTS_OFF",
+      "_SURFACE_TYPE_TRANSPARENT"
+    ]
+  },
+  {
+    "name": "ceiling_fan — ceiling_fan",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/ceiling_fan-0.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 108,
+    "metallic": 1.0,
+    "smooth": 0.8,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "metal_trash_can — metal_trash_can_rust",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/metal_trash_can-1.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 10,
+    "metallic": 1.0,
+    "smooth": 0.8,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "metal_trash_can — metal_trash_can_rust",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/metal_trash_can-2.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 20,
+    "metallic": 1.0,
+    "smooth": 0.8,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "plastic_broom — plastic_broom",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/plastic_broom-0.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 6,
+    "metallic": 1.0,
+    "smooth": 0.8,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  },
+  {
+    "name": "plastic_broom — plastic_broom_bristles",
+    "path": "Assets/SchoolCEEP/Materials/AbandonmentPolish/plastic_broom-1.mat",
+    "shader": "Universal Render Pipeline/Lit",
+    "count": 6,
+    "metallic": 1.0,
+    "smooth": 0.8,
+    "env": 0.0,
+    "emission": "RGBA(0.000, 0.000, 0.000, 1.000)",
+    "keywords": [
+      "_ALPHATEST_ON",
+      "_ENVIRONMENTREFLECTIONS_OFF",
+      "_METALLICSPECGLOSSMAP",
+      "_NORMALMAP",
+      "_OCCLUSIONMAP"
+    ]
+  }
+]

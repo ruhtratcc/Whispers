@@ -1,0 +1,22 @@
+{
+  "name": "Phone",
+  "author": "Quaternius",
+  "license": "CC0 1.0",
+  "source": "https://poly.pizza/m/k2kgBepoMU",
+  "download": "https://static.poly.pizza/bb788859-3dca-4a80-b4da-f5f26e6148f6.glb",
+  "sha256": "7fcaf1ebff050a793f4083e5c4daacd4a7708a4938a97ac2b33b3677e9e0c2e8",
+  "bytes": 15180,
+  "bounds": [
+    [
+      -0.20915232997993416,
+      -0.45465080111392536,
+      -0.0317895913521577
+    ],
+    [
+      0.2149542894751001,
+      0.4538054626535194,
+      0.028837700231416852
+    ]
+  ],
+  "triangles": 224
+}

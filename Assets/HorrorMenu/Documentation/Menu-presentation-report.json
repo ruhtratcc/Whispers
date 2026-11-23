@@ -1,0 +1,47 @@
+{
+    "passed": true,
+    "scene": "Assets/HorrorMenu/Scenes/MainMenu.unity",
+    "errors": [],
+    "notes": [
+        "English muda somente o seletor e mostra disponibilidade futura; textos continuam em português.",
+        "Somente o prólogo carrega Chapter1Office. Ligações e progressão narrativa continuam futuras.",
+        "Transição da câmera, porta esquerda, sincronização do risco/olhos e preferências anteriores preservadas."
+    ],
+    "chapters": [
+        "PRÓLOGO — O Telefone",
+        "1 — O Caminho até a Escola",
+        "2 — A Escola Abandonada",
+        "3 — O Que Foi Deixado para Trás",
+        "4 — As Memórias",
+        "5 — O Terraço",
+        "6 — A Última Saída"
+    ],
+    "captures": [
+        "Assets/HorrorMenu/Documentation/Menu-refined-main.png",
+        "Assets/HorrorMenu/Documentation/Menu-refined-main-4x3.png",
+        "Assets/HorrorMenu/Documentation/Menu-refined-settings.png",
+        "Assets/HorrorMenu/Documentation/Menu-refined-settings-4x3.png",
+        "Assets/HorrorMenu/Documentation/Menu-refined-chapters.png",
+        "Assets/HorrorMenu/Documentation/Menu-refined-chapters-4x3.png"
+    ],
+    "punctualShadowMaps": 2,
+    "shadowLights": [
+        "Failing fluorescent (Spot)",
+        "Left classroom interior light (Spot)"
+    ],
+    "lampIntensity": 14.0,
+    "lampBloomIntensity": 0.14000000059604645,
+    "lampPosition": {
+        "x": 0.20000000298023224,
+        "y": 3.192499876022339,
+        "z": 3.0
+    },
+    "lampFloorPoint": {
+        "x": 0.20000000298023224,
+        "y": -0.019999908283352852,
+        "z": 3.3212506771087646
+    },
+    "lampEmissionEnabled": true,
+    "lampFloorPathClear": true,
+    "lampOccluders": []
+}

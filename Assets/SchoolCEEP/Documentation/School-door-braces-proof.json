@@ -1,0 +1,440 @@
+{
+  "passed": true,
+  "braceCount": 72,
+  "doors": 113,
+  "worldToleranceMeters": 0.08,
+  "checks": [
+    {
+      "door": "school.door.0.21",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.21",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.21",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.21",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.22",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.22",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.22",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.22",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.23",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.23",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.23",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.23",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.24",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.24",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.24",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.24",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.25",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.25",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.25",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.25",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.26",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.26",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.26",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.26",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.27",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.27",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.27",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.27",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.28",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.28",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.28",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.28",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.29",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.29",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.29",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.29",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.30",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.30",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.30",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.30",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.31",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.31",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.31",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.31",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.32",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.32",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.32",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.32",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.33",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.33",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.33",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.33",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.34",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.34",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.34",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.34",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.35",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.35",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.35",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.35",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.36",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.36",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.36",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.36",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.37",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.37",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.37",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.37",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.80",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.80",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.80",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    },
+    {
+      "door": "school.door.0.80",
+      "passed": true,
+      "attachedToLeaf": true,
+      "insideLeafEnvelope": true
+    }
+  ]
+}

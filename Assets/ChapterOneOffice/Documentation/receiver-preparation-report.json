@@ -1,0 +1,47 @@
+{
+  "source": "Receiver-original.mp3",
+  "sourceSampleRate": 44100,
+  "sourceSeconds": 4.649773242630386,
+  "author": "cookies+policy",
+  "license": "CC0 1.0",
+  "sourcePage": "https://freesound.org/people/cookies%2Bpolicy/sounds/556491/",
+  "processing": "Separate lift/replace takes; DC removal; 45 Hz high pass; peak gain; edge fades; mono 44100 PCM16",
+  "clips": [
+    {
+      "name": "ReceiverPickup",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\BreathPhoneDrawer\\Audio\\ReceiverPickup.wav",
+      "sourceRangeSeconds": [
+        0.295,
+        1.39
+      ],
+      "seconds": 1.0949886621315192,
+      "sampleRate": 44100,
+      "channels": 1,
+      "bits": 16,
+      "peak": 0.579986572265625,
+      "rms": 0.030784180483717876,
+      "firstSample": 0,
+      "lastSample": 0,
+      "clippedSamples": 0,
+      "sha256": "71b70cea4a718ccc8959b7e50138a6266312ea93154127b05f50df04d5bf4a53"
+    },
+    {
+      "name": "ReceiverReplace",
+      "path": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\BreathPhoneDrawer\\Audio\\ReceiverReplace.wav",
+      "sourceRangeSeconds": [
+        2.47,
+        3.48
+      ],
+      "seconds": 1.01,
+      "sampleRate": 44100,
+      "channels": 1,
+      "bits": 16,
+      "peak": 0.699981689453125,
+      "rms": 0.06816059421664747,
+      "firstSample": 0,
+      "lastSample": 0,
+      "clippedSamples": 0,
+      "sha256": "7b495d79d6dadbdb669d0df250245ecb432c59820706d4b2d9ae39faa9661f48"
+    }
+  ]
+}

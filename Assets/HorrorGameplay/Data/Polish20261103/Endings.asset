@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b03a6da45e8199c44be9117b82f95d78, type: 3}
+  m_Name: Endings
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.EndingPresentationConfig
+  badCards:
+  - "Amanheceu. A demoli\xE7\xE3o da SEEPE come\xE7ou \xE0s 8h."
+  - "Ningu\xE9m encontrou as crian\xE7as."
+  - "O que saiu da escola n\xE3o era a Helena."
+  - "Jo\xE3o de Claus nunca mais foi visto."
+  cardFadeSeconds: 0.45
+  badSeconds: 4
+  photoSeconds: 5
+  creditsSeconds: 8
+  goodPhoneLines:
+  - speaker: "Jo\xE3o \u2014 telefone, 07:50"
+    text: "Aqui \xE9 Jo\xE3o de Claus. Parem a demoli\xE7\xE3o. Chamem a pol\xEDcia. H\xE1 quatro crian\xE7as dentro da parede."
+    seconds: 4
+    voice: {fileID: 8300000, guid: 0b9b3d80ba711534cbc01496ab4037c5, type: 3}
+    demonVoiceId: 
+  - speaker: Atendente
+    text: Vou avisar a equipe. Fique na linha, senhor.
+    seconds: 2
+    voice: {fileID: 8300000, guid: 0534c16acb33dff4daf13319f9549f7a, type: 3}
+    demonVoiceId: 
+  morningNews:
+    speaker: "TV \u2014 notici\xE1rio"
+    text: "Aten\xE7\xE3o, aten\xE7\xE3o. Aqui \xE9 o Jornal da Madrugada. Hoje, restos de quatro crian\xE7as desaparecidas h\xE1 vinte anos foram encontrados na antiga escola SEEPE. A pol\xEDcia j\xE1 est\xE1 no local."
+    seconds: 8
+    voice: {fileID: 8300000, guid: 1e91f624dc3d79a409824d0e4a0ee208, type: 3}
+    demonVoiceId: 
+  morningSeconds: 16
+  eyeSeconds: 2
+  replies:
+  - Desculpa.
+  - Obrigado.
+  - Eu devia ter respondido.
+  helenaReplies:
+  - "Eu ouvi, seu Jo\xE3o."
+  - Obrigada por responder.
+  - "Pode descansar agora, seu Jo\xE3o."
+  creditsText: "CR\xC9DITOS\n\nArthur de Araujo de Oliveira\nEduardo Borges Alfredo\nKahua Rodrigo Viana Cardoso\nAllan Victor Jungklaus da Silva\n\nFinal: N\xE3o confio em voc\xEA"
+  schoolImage: {fileID: 2800000, guid: 18684c533d922124aba2c0dba041fb59, type: 3}
+  helenaReturnVoice: {fileID: 8300000, guid: 4df44529176b0c74d8840fdbf36c26b9, type: 3}
+  helenaOfferReminders:
+  - {fileID: 8300000, guid: 2ac156410e93e914f99420c9027e72b3, type: 3}
+  - {fileID: 8300000, guid: 2d076b928f7b4c54a8a5bc033c53a49f, type: 3}
+  - {fileID: 8300000, guid: 13fed04e970e4b443abde80998362d8c, type: 3}
+  sirenSound: {fileID: 8300000, guid: a170fa4bb63517b46bbc1bbe1f31c4e0, type: 3}
+  morningAmbience: {fileID: 8300000, guid: 2e7ff43ecfbc2e14a8a63c31441789d8, type: 3}
+  emailSound: {fileID: 8300000, guid: 065b05e5e6167ec4f8b4e0620ed4b23c, type: 3}
+  sirenVolume: 0.57
+  morningVolume: 0.12
+  policeLightIntensity: 10
+  policeSweepHertz: 0.31
+  morningOrigin: {x: 1000, y: 0, z: 0}
+  seatPosition: {x: 0, y: 1.6, z: -1.2}
+  seatEuler: {x: 0, y: 0, z: 0}
+  windowPosition: {x: 1.2, y: 1.6, z: -0.2}
+  windowEuler: {x: 0, y: 65, z: 0}
+  tvPosition: {x: 0.3, y: 1.6, z: 0.8}
+  tvEuler: {x: 0, y: -35, z: 0}
+  pcPosition: {x: -0.8, y: 1.6, z: 0.8}
+  pcEuler: {x: 0, y: 0, z: 0}

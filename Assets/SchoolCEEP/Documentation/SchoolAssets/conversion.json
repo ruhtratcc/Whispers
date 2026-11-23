@@ -1,0 +1,58 @@
+[
+  {
+    "id": "SchoolChair_01",
+    "vertices": 3265,
+    "triangles": 5072,
+    "parts": 1,
+    "size": {
+      "x": 0.5658532977104187,
+      "y": 1.006035539903678,
+      "z": 0.6752548813819885
+    },
+    "distantTriangles": 3495,
+    "bottomPivot": true,
+    "originalPreserved": true
+  },
+  {
+    "id": "SchoolDesk_01",
+    "vertices": 3206,
+    "triangles": 4162,
+    "parts": 1,
+    "size": {
+      "x": 0.7117760181427002,
+      "y": 0.8826298794883769,
+      "z": 0.5459675788879395
+    },
+    "distantTriangles": 1714,
+    "bottomPivot": true,
+    "originalPreserved": true
+  },
+  {
+    "id": "steel_frame_shelves_01",
+    "vertices": 3632,
+    "triangles": 4348,
+    "parts": 1,
+    "size": {
+      "x": 1.0974145412445069,
+      "y": 2.1405006067827346,
+      "z": 0.5021175384521485
+    },
+    "distantTriangles": 2465,
+    "bottomPivot": true,
+    "originalPreserved": true
+  },
+  {
+    "id": "cardboard_box_01",
+    "vertices": 8757,
+    "triangles": 16952,
+    "parts": 1,
+    "size": {
+      "x": 0.38702359795570374,
+      "y": 0.3417995572090149,
+      "z": 0.5158704221248627
+    },
+    "distantTriangles": 7785,
+    "bottomPivot": true,
+    "originalPreserved": true
+  }
+]

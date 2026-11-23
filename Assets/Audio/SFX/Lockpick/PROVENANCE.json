@@ -1,0 +1,67 @@
+{
+  "newSource": {
+    "author": "Tegurd",
+    "title": "Lockpicking Sound",
+    "license": "CC0 1.0",
+    "url": "https://opengameart.org/content/lockpicking-sound",
+    "download": "https://opengameart.org/sites/default/files/lockpicking.wav"
+  },
+  "derivatives": [
+    {
+      "file": "scrape_loop.wav",
+      "source": "work\\Lockpick20261101\\lockpicking-source.wav",
+      "sourceSHA256": "75eb06ce8b376de293cfd84f6149ee7a2efa42c7d2ebb33db84e542aae7a7147",
+      "start": 48.87,
+      "seconds": 0.43498866213151927,
+      "loop": true,
+      "recorded": true
+    },
+    {
+      "file": "pin_1.wav",
+      "source": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\Objects\\key_pickup_01.wav",
+      "sourceSHA256": "ee2f3b3c7d3c7ef7beec3e268720fe51b8d2589766cd069e3842a312b5bd45ff",
+      "start": 0.1,
+      "seconds": 0.12,
+      "loop": false,
+      "recorded": true
+    },
+    {
+      "file": "pin_2.wav",
+      "source": "work\\Lockpick20261101\\lockpicking-source.wav",
+      "sourceSHA256": "75eb06ce8b376de293cfd84f6149ee7a2efa42c7d2ebb33db84e542aae7a7147",
+      "start": 49.13,
+      "seconds": 0.12,
+      "loop": false,
+      "recorded": true
+    },
+    {
+      "file": "blocked.wav",
+      "source": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\Doors\\door_locked_01.wav",
+      "sourceSHA256": "25a4455ec10ed32a5fc9481cf9a1a8ffb8740d77067daf9a42716fbe5975af6b",
+      "start": 0.17,
+      "seconds": 0.16,
+      "loop": false,
+      "recorded": true
+    },
+    {
+      "file": "snap.wav",
+      "source": "C:\\Users\\ruhtra\\My project\\Assets\\HorrorGameplay\\Audio\\Recorded\\Clips\\Impact_Metal_Light_01.ogg",
+      "sourceSHA256": "fba69c467ddd85da7b1d82e259f936b876d9ba6a3d6f1b24bdd10468e46bfe08",
+      "start": 0.0,
+      "seconds": 0.18,
+      "loop": false,
+      "recorded": true
+    },
+    {
+      "file": "unlock.wav",
+      "source": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\Doors\\door_latch_01.wav",
+      "sourceSHA256": "5e8ac8d11d221880fa6082f79b0ead7c805da8c5eabeaad9d226ee8bdbec13aa",
+      "start": 0.03,
+      "seconds": 0.2,
+      "loop": false,
+      "recorded": true
+    }
+  ],
+  "synthesis": false,
+  "snapDescription": "Recorded small metal impact used as a representational thin-pin snap, not a literal hairpin break recording."
+}

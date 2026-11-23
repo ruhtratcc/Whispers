@@ -1,0 +1,19 @@
+{
+  "before": {
+    "shadowBias": 0.05,
+    "shadowNormalBias": 0.4,
+    "shadowNearPlane": 0.2,
+    "usePipelineSettings": true,
+    "nearSurfaceDimming": false
+  },
+  "after": {
+    "shadowBias": 0.015,
+    "shadowNormalBias": 0.04,
+    "shadowNearPlane": 0.025,
+    "usePipelineSettings": false,
+    "nearSurfaceDimming": true
+  },
+  "unchangedBaseIntensity": 90.0,
+  "unchangedRange": 17.0,
+  "schoolOnly": true
+}

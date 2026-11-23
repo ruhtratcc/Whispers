@@ -1,0 +1,13 @@
+{
+  "applied": true,
+  "utc": "2026-10-01T22:07:05.0917470Z",
+  "scene": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+  "equipmentParent": "Gaveta 0.8/2",
+  "drawerId": "d1dbb19cb8944c45806196ee02a1ea7b",
+  "equipmentId": "office.story.equipment",
+  "equipmentLocal": "(0.00, -0.04, 0.16)",
+  "pickup": "ReceiverPickup",
+  "hangup": "ReceiverReplace",
+  "breathing": "0186c8f61bd4c8746a59545fa34e75ef",
+  "errors": []
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "source": "work/ChapterFive/Runtime/SchoolMemoriesFlow.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Narrative/SchoolMemoriesFlow.cs",
+    "sourceSHA256": "39A9E143A33DF76F21CECDA7BF07EBC77F77E58D011FE9A187BBF351606323DD",
+    "installedSHA256": "39A9E143A33DF76F21CECDA7BF07EBC77F77E58D011FE9A187BBF351606323DD",
+    "identical": true
+  },
+  {
+    "source": "work/ChapterFive/Runtime/SchoolMemoriesClue.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Narrative/SchoolMemoriesClue.cs",
+    "sourceSHA256": "4CA693BDD4B180586798D553315AA01E6D26958B75CEB9A6BF1856977B967236",
+    "installedSHA256": "4CA693BDD4B180586798D553315AA01E6D26958B75CEB9A6BF1856977B967236",
+    "identical": true
+  },
+  {
+    "source": "work/ChapterFive/Editor/SchoolChapterFivePass.cs",
+    "installed": "Assets/SchoolCEEP/Editor/SchoolChapterFivePass.cs",
+    "sourceSHA256": "F7958D2611562CF7ED5797AFD7138B353AC8268CC72B8AD16384A0762EF41B2A",
+    "installedSHA256": "F7958D2611562CF7ED5797AFD7138B353AC8268CC72B8AD16384A0762EF41B2A",
+    "identical": true
+  },
+  {
+    "source": "work/ChapterFive/Tests/SchoolChapterFiveSharedTests.cs",
+    "installed": "Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterFiveSharedTests.cs",
+    "sourceSHA256": "C16268EA4F011E16C99C2DE915E2A165CFD4CE2DF57B55DDF8E3F87792B31029",
+    "installedSHA256": "C16268EA4F011E16C99C2DE915E2A165CFD4CE2DF57B55DDF8E3F87792B31029",
+    "identical": true
+  },
+  {
+    "source": "work/ChapterFive/Tests/SchoolChapterFiveSceneTests.cs",
+    "installed": "Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterFiveSceneTests.cs",
+    "sourceSHA256": "C126D45A24D3E2ED6505C20725281799389DF3A52127E5F35AF7268E445B227E",
+    "installedSHA256": "C126D45A24D3E2ED6505C20725281799389DF3A52127E5F35AF7268E445B227E",
+    "identical": true
+  },
+  {
+    "source": "work/ChapterThree/Runtime/SchoolSanityController.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Systems/SchoolSanityController.cs",
+    "sourceSHA256": "89D9D41F2A3C909CAF470290C99DD9B1125985896B662C2B512DCE79AB83B75F",
+    "installedSHA256": "89D9D41F2A3C909CAF470290C99DD9B1125985896B662C2B512DCE79AB83B75F",
+    "identical": true
+  },
+  {
+    "source": "work/ChapterThree/Runtime/SchoolObjectiveJournal.cs",
+    "installed": "Assets/HorrorGameplay/Scripts/Systems/SchoolObjectiveJournal.cs",
+    "sourceSHA256": "6AAB999937B4147300279E906F067C94F646261797A8DBDBDF9A40930F616164",
+    "installedSHA256": "6AAB999937B4147300279E906F067C94F646261797A8DBDBDF9A40930F616164",
+    "identical": true
+  },
+  {
+    "source": "work/ChapterThree/Editor/SchoolChapterThreePass.cs",
+    "installed": "Assets/SchoolCEEP/Editor/SchoolChapterThreePass.cs",
+    "sourceSHA256": "0ED516BEF20709C4D29F6C81E9A24DC3163EBDDA12F57C002F3FCE205AF48550",
+    "installedSHA256": "0ED516BEF20709C4D29F6C81E9A24DC3163EBDDA12F57C002F3FCE205AF48550",
+    "identical": true
+  },
+  {
+    "source": "work/SchoolCEEP/SchoolMapBuilder.cs",
+    "installed": "Assets/SchoolCEEP/Editor/SchoolMapBuilder.cs",
+    "sourceSHA256": "CAF8CABBB508B12EDAA714995AA7D430B4D2B53A8EC116037784A715FBEFDBC2",
+    "installedSHA256": "CAF8CABBB508B12EDAA714995AA7D430B4D2B53A8EC116037784A715FBEFDBC2",
+    "identical": true
+  },
+  {
+    "source": "work/ChapterFour/Tests/SchoolChapterFourSceneTests.cs",
+    "installed": "Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterFourSceneTests.cs",
+    "sourceSHA256": "36D19CB274AEDB481BF5D049F041D6A746E08CCECE7CCF7626B935E2FEC737CE",
+    "installedSHA256": "36D19CB274AEDB481BF5D049F041D6A746E08CCECE7CCF7626B935E2FEC737CE",
+    "identical": true
+  },
+  {
+    "source": "work/ChapterThree/Tests/SchoolChapterThreeSceneTests.cs",
+    "installed": "Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterThreeSceneTests.cs",
+    "sourceSHA256": "DE6DBE3FABE107F43C6B1D9E851485F84051ACE1FE4C0C2EB385F40EDDB046E0",
+    "installedSHA256": "DE6DBE3FABE107F43C6B1D9E851485F84051ACE1FE4C0C2EB385F40EDDB046E0",
+    "identical": true
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "assets": 6,
+  "originalFiles": 26,
+  "originalBytes": 31885095,
+  "allSourcesIntact": true,
+  "protectedFilesUnchanged": true,
+  "sources": [
+    {
+      "path": "assets/models/mobiliario/SchoolChair_01/source/SchoolChair_01_2k.gltf",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/SchoolChair_01/source/textures/SchoolChair_01_arm_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/SchoolChair_01/source/textures/SchoolChair_01_nor_gl_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/SchoolChair_01/source/textures/SchoolChair_01_diff_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/SchoolChair_01/source/SchoolChair_01.bin",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/SchoolDesk_01/source/SchoolDesk_01_2k.gltf",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/SchoolDesk_01/source/textures/SchoolDesk_01_diff_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/SchoolDesk_01/source/textures/SchoolDesk_01_nor_gl_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/SchoolDesk_01/source/textures/SchoolDesk_01_arm_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/SchoolDesk_01/source/SchoolDesk_01.bin",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/steel_frame_shelves_01/source/steel_frame_shelves_01_2k.gltf",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/steel_frame_shelves_01/source/textures/steel_frame_shelves_01_diff_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/steel_frame_shelves_01/source/textures/steel_frame_shelves_01_nor_gl_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/steel_frame_shelves_01/source/steel_frame_shelves_01.bin",
+      "intact": true
+    },
+    {
+      "path": "assets/models/mobiliario/steel_frame_shelves_01/source/textures/steel_frame_shelves_01_arm_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/decoracao/cardboard_box_01/source/cardboard_box_01_2k.gltf",
+      "intact": true
+    },
+    {
+      "path": "assets/models/decoracao/cardboard_box_01/source/textures/cardboard_box_01_diff_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/decoracao/cardboard_box_01/source/textures/cardboard_box_01_nor_gl_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/decoracao/cardboard_box_01/source/textures/cardboard_box_01_arm_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/models/decoracao/cardboard_box_01/source/cardboard_box_01.bin",
+      "intact": true
+    },
+    {
+      "path": "assets/textures/damaged_plaster/damaged_plaster_diff_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/textures/damaged_plaster/damaged_plaster_nor_gl_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/textures/damaged_plaster/damaged_plaster_arm_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/textures/rusty_metal_03/rusty_metal_03_diff_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/textures/rusty_metal_03/rusty_metal_03_nor_gl_2k.jpg",
+      "intact": true
+    },
+    {
+      "path": "assets/textures/rusty_metal_03/rusty_metal_03_arm_2k.jpg",
+      "intact": true
+    }
+  ],
+  "protected": [
+    {
+      "path": "Assets/HorrorMenu/Scenes/MainMenu.unity",
+      "before": "A8048A1319D61BDCA3017D9C8D27A552DBC36BC15E44F44ADAE606440E03E164",
+      "after": "A8048A1319D61BDCA3017D9C8D27A552DBC36BC15E44F44ADAE606440E03E164",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "before": "AE177B444A0323CED35B835B9602C11C21747BC99480EF1D53EFA23BAB775701",
+      "after": "AE177B444A0323CED35B835B9602C11C21747BC99480EF1D53EFA23BAB775701",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/RoadChapter/Scenes/RoadJourney.unity",
+      "before": "3B8E5C3ACB28444E708247B291EF6DF360CD2C52183928BCEED01E78E6787081",
+      "after": "3B8E5C3ACB28444E708247B291EF6DF360CD2C52183928BCEED01E78E6787081",
+      "unchanged": true
+    },
+    {
+      "path": "Assets/HorrorGameplay/Prefabs/GameplayRoot.prefab",
+      "before": "178D947EC7367CAC810FC95B6D37A2CE03EE8225FD230C2E801B9A3D269CEA71",
+      "after": "178D947EC7367CAC810FC95B6D37A2CE03EE8225FD230C2E801B9A3D269CEA71",
+      "unchanged": true
+    }
+  ]
+}

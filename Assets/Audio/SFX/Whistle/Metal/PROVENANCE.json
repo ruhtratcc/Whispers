@@ -1,0 +1,31 @@
+{
+  "name": "metal whistle.wav",
+  "author": "strongbot",
+  "license": "CC0 1.0",
+  "source": "https://freesound.org/people/strongbot/sounds/568995/",
+  "download": "https://cdn.freesound.org/previews/568/568995_313970-hq.mp3",
+  "downloadFormat": "Public HQ MP3 preview, not original WAV",
+  "sourceSHA256": "f2a730ed5678fa0958a291fe934b5c1dda0324a9324a92da845932a3bba67812",
+  "recorded": true,
+  "synthesis": false,
+  "derivatives": [
+    {
+      "file": "whistle_metal_tap.wav",
+      "cutStart": 9.45,
+      "cutEnd": 9.88,
+      "seconds": 0.43,
+      "peak": 0.5686001003284427,
+      "rms": 0.1778279410038923,
+      "loop": false
+    },
+    {
+      "file": "whistle_metal_hold.wav",
+      "cutStart": 12.75,
+      "cutEnd": 13.43,
+      "seconds": 0.65,
+      "peak": 0.39183961324813876,
+      "rms": 0.14125375446227548,
+      "loop": true
+    }
+  ]
+}

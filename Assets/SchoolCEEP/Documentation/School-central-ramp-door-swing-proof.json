@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "samples": 78,
+  "doors": 2,
+  "guardAndMasonryColliders": 193,
+  "photographicWallColliders": 16,
+  "temporaryDoorPosesRestored": true,
+  "editorOnly": true,
+  "gameplayExecuted": false,
+  "hits": []
+}

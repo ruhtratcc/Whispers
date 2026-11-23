@@ -1,0 +1,19 @@
+{
+  "source": "Unity native eval, 2026-10-07",
+  "scene": "Assets/RoadChapter/Scenes/RoadJourney.unity",
+  "playing": false,
+  "clean": true,
+  "cameras": 1,
+  "enemies": 0,
+  "interactions": 3,
+  "missingScripts": 0,
+  "initialState": true,
+  "driveSeconds": 38.0,
+  "endStopsForReview": true,
+  "chapter": "road",
+  "nextScene": "SchoolCEEP",
+  "storyErrors": [],
+  "roadEnabled": true,
+  "checkpointAndPreferencesRestored": true,
+  "testGuardActive": false
+}

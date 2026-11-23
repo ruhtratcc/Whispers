@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "routes": [
+    {
+      "route": "Central flight 1",
+      "samples": 30,
+      "failures": []
+    },
+    {
+      "route": "Central flight 2",
+      "samples": 30,
+      "failures": []
+    },
+    {
+      "route": "Central flight 3",
+      "samples": 30,
+      "failures": []
+    },
+    {
+      "route": "Central flight 4",
+      "samples": 30,
+      "failures": []
+    },
+    {
+      "route": "New north landing",
+      "samples": 16,
+      "failures": []
+    },
+    {
+      "route": "Second floor cross landing",
+      "samples": 16,
+      "failures": []
+    },
+    {
+      "route": "Terrace",
+      "samples": 35,
+      "failures": []
+    },
+    {
+      "route": "Final outside garden",
+      "samples": 55,
+      "failures": []
+    }
+  ],
+  "windowClear": true,
+  "ceilingOpeningTriangles": 12,
+  "entityColliders": 0
+}

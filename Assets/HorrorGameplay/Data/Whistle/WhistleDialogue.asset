@@ -1,0 +1,1734 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20065ed1bc2cb5b49870c8142d99210a, type: 3}
+  m_Name: WhistleDialogue
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.WhistleDialogueCatalog
+  lines:
+  - id: wp_whistle_pickup_01
+    trigger: pickup
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem1
+    text: O apito do Luan...
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 6bf2122dc3d719b428a841bb2b188c9f, type: 3}
+    seconds: 2
+  - id: wp_whistle_pickup_02
+    trigger: pickup
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem1
+    text: "Ainda t\xE1 aqui."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: f3e1d6c69375a0d41af32342eb4f6a8d, type: 3}
+    seconds: 2
+  - id: wp_whistle_pickup_03
+    trigger: pickup
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem1
+    text: Esse apito...
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 70080bcd66881b948ac8040b0aa25701, type: 3}
+    seconds: 2
+  - id: wp_whistle_pickup_04
+    trigger: pickup
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem1
+    text: O apito tava aqui.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: c80407fc4833e4c48b2f216f781cfb00, type: 3}
+    seconds: 2
+  - id: wp_whistle_hesitate_01
+    trigger: hesitate
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Faz tempo...
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: caf4668533d2aed499819a2263b2d6d8, type: 3}
+    seconds: 2
+  - id: wp_whistle_hesitate_02
+    trigger: hesitate
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: "S\xF3 um toque."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: d17397492140f2b4ab7be1d23794766d, type: 3}
+    seconds: 2
+  - id: wp_whistle_hesitate_03
+    trigger: hesitate
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: "T\xE1... vamos ver."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 36f1bc8bd2820bf4298cc25362730eb9, type: 3}
+    seconds: 2
+  - id: wp_whistle_hesitate_04
+    trigger: hesitate
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: "Calma. \xC9 s\xF3 soprar."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: ae29d6cdefb2bbc41874017e25ba50e0, type: 3}
+    seconds: 2
+  - id: wp_whistle_hint_1_01
+    trigger: hint.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: Talvez o apito ajude.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 6fd102ab9070e784c9e2ee960828cb3b, type: 3}
+    seconds: 2
+  - id: wp_whistle_hint_1_02
+    trigger: hint.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: E se eu usar o apito?
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 51a4c521eca288b4bb80d3705f4fab02, type: 3}
+    seconds: 2
+  - id: wp_whistle_hint_1_03
+    trigger: hint.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: Posso tentar apitar aqui.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 3cd8f69a63423394a83b0df3106a8f10, type: 3}
+    seconds: 2
+  - id: wp_whistle_hint_1_04
+    trigger: hint.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: Deixa eu ouvir o que volta.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: be5595af2fbcdbc46b9f39951b1254cf, type: 3}
+    seconds: 2
+  - id: wp_whistle_hint_2_01
+    trigger: hint.2
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: Preciso escutar de onde vem a resposta.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 0}
+    seconds: 2.4375
+  - id: wp_whistle_hint_2_02
+    trigger: hint.2
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: Talvez eu esteja olhando pro lado errado.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 0}
+    seconds: 2.5625
+  - id: wp_whistle_hint_2_03
+    trigger: hint.2
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: "Melhor parar e prestar aten\xE7\xE3o."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 4ec80a281dd664743b6a694d568a1a11, type: 3}
+    seconds: 2
+  - id: wp_whistle_hint_2_04
+    trigger: hint.2
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: O eco pode mostrar de onde veio.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 4063176348eac2b488dcbab381ce7767, type: 3}
+    seconds: 2
+  - id: wp_whistle_hint_3_01
+    trigger: hint.3
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: "Um toque e depois sil\xEAncio."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 22b8fbb728e72f14fac9b8f0afdad74b, type: 3}
+    seconds: 2
+  - id: wp_whistle_hint_3_02
+    trigger: hint.3
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: Preciso seguir o som, sem pressa.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 39674cd3b4a343c49bfe4db554fe830d, type: 3}
+    seconds: 2.0625
+  - id: wp_whistle_hint_3_03
+    trigger: hint.3
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: Vou tentar olhando para os outros lados.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 95a5f040b3d42434da3dd62c60b1eb49, type: 3}
+    seconds: 2.5
+  - id: wp_whistle_hint_3_04
+    trigger: hint.3
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: Preciso ouvir melhor.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 7254cd65a374f8745aeb3d8eb1da635d, type: 3}
+    seconds: 2
+  - id: wp_whistle_response_01
+    trigger: response
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Veio dali.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 76c91a5274040be4996425b0275e550c, type: 3}
+    seconds: 2
+  - id: wp_whistle_response_02
+    trigger: response
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Isso respondeu.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: dbd8ff33d703c8f4387e9ba52e7fab83, type: 3}
+    seconds: 2
+  - id: wp_whistle_response_03
+    trigger: response
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Ouvi alguma coisa ali.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: af5c16f8f9a75a34f8ec15f5780a3a24, type: 3}
+    seconds: 2
+  - id: wp_whistle_response_04
+    trigger: response
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Pera... daquele lado.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 67f6598b86a698e4bb108e4030850353, type: 3}
+    seconds: 2
+  - id: wp_whistle_nothing_01
+    trigger: nothing
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Nada.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 82928a2783e3937408bf93581280b949, type: 3}
+    seconds: 2
+  - id: wp_whistle_nothing_02
+    trigger: nothing
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: "N\xE3o ouvi resposta."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: cab28573a7400e9499de5672ac1d52a7, type: 3}
+    seconds: 2
+  - id: wp_whistle_nothing_03
+    trigger: nothing
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: "Aqui n\xE3o."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 0ebf6d99d1bdaa145972cd90324c015a, type: 3}
+    seconds: 2
+  - id: wp_whistle_nothing_04
+    trigger: nothing
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: "S\xF3 o meu eco."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: f8101794d0d783c46ab92a60e3f03619, type: 3}
+    seconds: 2
+  - id: wp_whistle_correct_01
+    trigger: correct
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Foi desse lado.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 59b82c8a81defd4428f21fe466e1d10d, type: 3}
+    seconds: 2
+  - id: wp_whistle_correct_02
+    trigger: correct
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Aqui voltou mais perto.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: edb4898f86377194baddf81dfab9c46c, type: 3}
+    seconds: 2
+  - id: wp_whistle_correct_03
+    trigger: correct
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: "N\xE3o veio l\xE1 do fundo."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: aca8fb1e0461d8b4492af9244f4d404a, type: 3}
+    seconds: 2
+  - id: wp_whistle_correct_04
+    trigger: correct
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: O som veio daqui.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 20a8b09845d6aff43a0da1953594ee59, type: 3}
+    seconds: 2
+  - id: wp_whistle_lost_01
+    trigger: lost
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Sumiu no corredor.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 9aa5e5fee07347c4d9caeb95fd1024f1, type: 3}
+    seconds: 2
+  - id: wp_whistle_lost_02
+    trigger: lost
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: "N\xE3o voltou."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 529a1d0b9ccb120448b7c1a9af3bbbc9, type: 3}
+    seconds: 2
+  - id: wp_whistle_lost_03
+    trigger: lost
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Esse eco se perdeu.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: f9d967eb3aeec0d43957a6e340830951, type: 3}
+    seconds: 2
+  - id: wp_whistle_lost_04
+    trigger: lost
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Aqui o som vai embora.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 22cf10ada7affc547bb001d5c8d9f5f4, type: 3}
+    seconds: 2
+  - id: wp_whistle_exerted_01
+    trigger: exerted
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Eu devia parar um pouco.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 2262d09c1fe5e1546a60d357e631eeed, type: 3}
+    seconds: 2
+  - id: wp_whistle_exerted_02
+    trigger: exerted
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: "Calma. N\xE3o precisa insistir."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: f91b994faebe44f43a5ddf2437366852, type: 3}
+    seconds: 2
+  - id: wp_whistle_exerted_03
+    trigger: exerted
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: Vou respirar um pouco.
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: e8b1ed88eeced0949823a1b4d2e25333, type: 3}
+    seconds: 2
+  - id: wp_whistle_exerted_04
+    trigger: exerted
+    speaker: "Jo\xE3o"
+    priority: P3
+    actor: Homem1
+    text: "J\xE1 soprei demais."
+    direction: "Falar baixo e naturalmente, para si. Hesita\xE7\xE3o contida; sem anunciar a\xE7\xF5es como tutorial."
+    voice: {fileID: 8300000, guid: 774b18efed2a73b4c8e8e3e108ece653, type: 3}
+    seconds: 2
+  - id: wp_whistle_helena_overuse_01
+    trigger: helena.overuse
+    speaker: Helena
+    priority: P2
+    actor: Mulher_idosa
+    text: "O senhor n\xE3o precisa fazer isso."
+    direction: "Polidez fria, baixa, sem amea\xE7a expl\xEDcita. Pausas curtas; n\xE3o imitar monstro."
+    voice: {fileID: 8300000, guid: 194211cb63a1be94ab9976b03e43e305, type: 3}
+    seconds: 2
+  - id: wp_whistle_helena_overuse_02
+    trigger: helena.overuse
+    speaker: Helena
+    priority: P2
+    actor: Mulher_idosa
+    text: "N\xE3o \xE9 preciso insistir, senhor Jo\xE3o."
+    direction: "Polidez fria, baixa, sem amea\xE7a expl\xEDcita. Pausas curtas; n\xE3o imitar monstro."
+    voice: {fileID: 8300000, guid: a370eab5c2963c940bf780ca937a624b, type: 3}
+    seconds: 2.25
+  - id: wp_whistle_helena_overuse_03
+    trigger: helena.overuse
+    speaker: Helena
+    priority: P2
+    actor: Mulher_idosa
+    text: "Eu j\xE1 ouvi o senhor."
+    direction: "Polidez fria, baixa, sem amea\xE7a expl\xEDcita. Pausas curtas; n\xE3o imitar monstro."
+    voice: {fileID: 8300000, guid: d2b210888b5724d4a8b139a5953d1495, type: 3}
+    seconds: 2
+  - id: wp_whistle_helena_corridor_01
+    trigger: helena.corridor
+    speaker: Helena
+    priority: P2
+    actor: Mulher_idosa
+    text: "Pode continuar, senhor Jo\xE3o."
+    direction: "Polidez fria, baixa, sem amea\xE7a expl\xEDcita. Pausas curtas; n\xE3o imitar monstro."
+    voice: {fileID: 8300000, guid: 97355ee3b6b7c4149996a14e24d330ae, type: 3}
+    seconds: 2
+  - id: wp_whistle_helena_corridor_02
+    trigger: helena.corridor
+    speaker: Helena
+    priority: P2
+    actor: Mulher_idosa
+    text: "N\xE3o precisa fazer tanto esfor\xE7o."
+    direction: "Polidez fria, baixa, sem amea\xE7a expl\xEDcita. Pausas curtas; n\xE3o imitar monstro."
+    voice: {fileID: 8300000, guid: fa1fd7add2113064c836635a5ed5dc51, type: 3}
+    seconds: 2
+  - id: wp_whistle_helena_corridor_03
+    trigger: helena.corridor
+    speaker: Helena
+    priority: P2
+    actor: Mulher_idosa
+    text: "Por aqui \xE9 mais simples."
+    direction: "Polidez fria, baixa, sem amea\xE7a expl\xEDcita. Pausas curtas; n\xE3o imitar monstro."
+    voice: {fileID: 8300000, guid: bf4c33055de17504f801431a6bd88bb5, type: 3}
+    seconds: 2
+  - id: wp_whistle_v2_plain_01
+    trigger: plain
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: "S\xF3 um apito."
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: ccbd3edbe72af3d45b4d44378a2bb606, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_plain_02
+    trigger: plain
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: "\xC9... s\xF3 o som mesmo."
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: d12fe30f4465e1545a16a5be1a1757c6, type: 3}
+    seconds: 1.25
+  - id: wp_whistle_v2_plain_03
+    trigger: plain
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: "N\xE3o aconteceu nada."
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: 44b30fcb820949743bfd5204c231fa5e, type: 3}
+    seconds: 1.1875
+  - id: wp_whistle_v2_lore_01
+    trigger: lore
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem1
+    text: "O apito... ser\xE1 que ainda funciona aqui?"
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: 091e7d1850219f44988eba704b86c5da, type: 3}
+    seconds: 2.5
+  - id: wp_whistle_v2_lore_02
+    trigger: lore
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem1
+    text: Era assim que eles se encontravam...
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: 9e924b9f36f3d6c4a8dc83a61e24fab4, type: 3}
+    seconds: 2.25
+  - id: wp_whistle_v2_lore_03
+    trigger: lore
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem1
+    text: "Talvez ainda d\xEA pra ouvir o sinal."
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: d0b7d74ee6f43594f87fcae0ae509396, type: 3}
+    seconds: 2.125
+  - id: wp_whistle_v2_discovered_01
+    trigger: discovered
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem1
+    text: Elas... ainda respondem.
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: ca356fd4563070b4eb1319a6002a22e8, type: 3}
+    seconds: 1.5
+  - id: wp_whistle_v2_discovered_02
+    trigger: discovered
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem1
+    text: Eu ouvi. Elas responderam.
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: cf890a5d0930bc94eb6e056455214e25, type: 3}
+    seconds: 1.625
+  - id: wp_whistle_v2_discovered_03
+    trigger: discovered
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem1
+    text: Ainda conseguem me ouvir...
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: b9597b3d9089cdc4f8a2d3bc677bd813, type: 3}
+    seconds: 1.6875
+  - id: wp_whistle_v2_cups_01
+    trigger: cups
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: "As pegadas... est\xE3o aparecendo."
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: 4130eb088f856524bbabff2429627cfb, type: 3}
+    seconds: 1.5625
+  - id: wp_whistle_v2_cups_02
+    trigger: cups
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: "O som est\xE1 mostrando as pegadas."
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: 88e66e67cf15cb34ebcbcc9357837d7f, type: 3}
+    seconds: 1.8125
+  - id: wp_whistle_v2_cups_03
+    trigger: cups
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem1
+    text: "As pegadas seguem at\xE9 a escada."
+    direction: "Baixo, contido, como quem percebe algo sozinho. Deixar o sil\xEAncio entre as frases."
+    voice: {fileID: 8300000, guid: 1c77e27f958d5de47913bc06c2c5c8f5, type: 3}
+    seconds: 2.1875
+  - id: wp_whistle_v2_child_call_01
+    trigger: child.call
+    speaker: "Crian\xE7a"
+    priority: P1
+    actor: Menina1
+    text: o apito
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 7aa2678dd1408094292807e3661b90aa, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_discovery_0_01
+    trigger: child.discovery.0
+    speaker: Marta
+    priority: P2
+    actor: Menina1
+    text: aqui
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 6b83d7456de07c94b856258b3d40e607, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_0_01
+    trigger: child.response.0
+    speaker: Marta
+    priority: P2
+    actor: Menina1
+    text: aqui
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 6b83d7456de07c94b856258b3d40e607, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_0_02
+    trigger: child.response.0
+    speaker: Marta
+    priority: P2
+    actor: Menina1
+    text: eu ouvi
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: f94aa9cfae435ce40890fe2b519a418b, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_0_03
+    trigger: child.response.0
+    speaker: Marta
+    priority: P2
+    actor: Menina1
+    text: desse lado
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 55dc3f3b58e705d4c951c1dee004b8e0, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_discovery_1_01
+    trigger: child.discovery.1
+    speaker: Caio
+    priority: P2
+    actor: Homem2
+    text: aqui
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 2d71f303432bd144c9a7defd07b817b5, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_1_01
+    trigger: child.response.1
+    speaker: Caio
+    priority: P2
+    actor: Homem2
+    text: aqui
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 2d71f303432bd144c9a7defd07b817b5, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_1_02
+    trigger: child.response.1
+    speaker: Caio
+    priority: P2
+    actor: Homem2
+    text: eu ouvi
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: c6df7e6817d89304b974dc06774135c9, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_1_03
+    trigger: child.response.1
+    speaker: Caio
+    priority: P2
+    actor: Homem2
+    text: desse lado
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: a3f677ab45d3645438d928a95fa92f56, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_discovery_2_01
+    trigger: child.discovery.2
+    speaker: Luan
+    priority: P2
+    actor: Homem3
+    text: Escuta.
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 91269e6a924e24643b6e27d7db668343, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_2_01
+    trigger: child.response.2
+    speaker: Luan
+    priority: P2
+    actor: Homem3
+    text: Escuta.
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 91269e6a924e24643b6e27d7db668343, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_2_02
+    trigger: child.response.2
+    speaker: Luan
+    priority: P2
+    actor: Homem3
+    text: eu ouvi
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 2a6f82dbfc639d947982c10b4d6e009c, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_2_03
+    trigger: child.response.2
+    speaker: Luan
+    priority: P2
+    actor: Homem3
+    text: desse lado
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: cbe71c60a7a8f3745b60a70bd7515d71, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_discovery_3_01
+    trigger: child.discovery.3
+    speaker: Bia
+    priority: P2
+    actor: Menina2
+    text: aqui
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 84636a91fff8c0145aa6c2cc86bd5f6c, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_3_01
+    trigger: child.response.3
+    speaker: Bia
+    priority: P2
+    actor: Menina2
+    text: aqui
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 84636a91fff8c0145aa6c2cc86bd5f6c, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_3_02
+    trigger: child.response.3
+    speaker: Bia
+    priority: P2
+    actor: Menina2
+    text: eu ouvi
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: e58882a9bf8865b478bc2783fa2bb746, type: 3}
+    seconds: 1
+  - id: wp_whistle_v2_child_response_3_03
+    trigger: child.response.3
+    speaker: Bia
+    priority: P2
+    actor: Menina2
+    text: desse lado
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 7384dba1faf6c5d4cbb2d5fd27545544, type: 3}
+    seconds: 1
+  - id: POLISH_20261103_READ_EMAIL_01_01
+    trigger: read.email.01
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Eu devia ter respondido isso.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 619dde62bd1d807478873bc8658a45ea, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_READ_EMAIL_01_02
+    trigger: read.email.01
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Quatro mochilas... e ningu\xE9m voltou."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: f58f6d0eb83c3334b8f39f3811978fc0, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_READ_EMAIL_02_01
+    trigger: read.email.02
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Ela voltou na escola por causa deles.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 0e6432c27ef224f46a32abb91cc753da, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_READ_EMAIL_02_02
+    trigger: read.email.02
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "N\xE3o tinha mais ningu\xE9m procurando."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 4a2e6c53743fe5145976e399ed4248ce, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_READ_EMAIL_03_01
+    trigger: read.email.03
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Cortaram a energia. Como \xE9 que o sinal tocou?"
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 0516bc805b5a67741937dc1f8379736a, type: 3}
+    seconds: 2.8125
+  - id: POLISH_20261103_READ_EMAIL_03_02
+    trigger: read.email.03
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Quatro pares de pegadas. Sempre os quatro.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: af279e8e7350965439a89a65a842ab62, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_READ_EMAIL_04_01
+    trigger: read.email.04
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Eu n\xE3o abri isso naquela noite."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: d961e17107743ed4e8f9ba2dccf31e55, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_READ_EMAIL_04_02
+    trigger: read.email.04
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Como ela sabe da minha cadeira?
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 58514ef37f369b44c92b3ca64b526ff7, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_READ_EMAIL_05_01
+    trigger: read.email.05
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Quem est\xE1 escrevendo isso?"
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: c28dd72a118d8a648868e0d9a85e87f1, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_READ_EMAIL_05_02
+    trigger: read.email.05
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Giz... dentro da unha. Que merda \xE9 essa..."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 52a063130e49a104d97557ed6177f241, type: 3}
+    seconds: 2.625
+  - id: POLISH_20261103_READ_EMAIL_06_01
+    trigger: read.email.06
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Eu escondi. Ningu\xE9m tinha como saber onde."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 01d417eca9c0cc8408e060a1c7a8f7ca, type: 3}
+    seconds: 2.625
+  - id: POLISH_20261103_READ_EMAIL_06_02
+    trigger: read.email.06
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Se ela morreu... quem t\xE1 mandando isso?"
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 8a32ea90e9bebd44d873be76e13c3b9d, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_READ_EMAIL_07_01
+    trigger: read.email.07
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Ainda d\xE1 tempo de ir antes da demoli\xE7\xE3o."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: edf0868ee7bdac14fa317d7d230d7f5d, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_READ_EMAIL_07_02
+    trigger: read.email.07
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Essa foto... foi tirada de dentro do arm\xE1rio."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: bbba9cd3b7f1ba14992209d96be0e09b, type: 3}
+    seconds: 2.8125
+  - id: POLISH_20261103_EMAIL_ABANDONED_01
+    trigger: email.abandoned
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Eu preciso terminar de ler.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 253f21a5434b26943b23d7cc0c3f12e0, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_EMAIL_ABANDONED_02
+    trigger: email.abandoned
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "N\xE3o adianta ficar fechando."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 74c69415545f07743a66dac401e278da, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_EMAIL_ABANDONED_03
+    trigger: email.abandoned
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Ainda tem coisa a\xED."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 1fe39ec895b4d294e99fda650af06bcc, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_EMAIL_ABANDONED_04
+    trigger: email.abandoned
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Eu n\xE3o cheguei no fim."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 1f14687132542cc4f8f1c9ec0274c545, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_1_01
+    trigger: guide.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Eu deixei alguma coisa passar.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: e709e63e0866ee6448f2517a1bd36d69, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_1_02
+    trigger: guide.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Ainda falta uma parte disso.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: b4d8cd5dcc5036f459cf2372715aaaa8, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_1_03
+    trigger: guide.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Preciso pensar no que vim fazer.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 9258b7eea349ec541bbb314022c1d80e, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_1_04
+    trigger: guide.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "N\xE3o terminei aqui."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 553e4a7cf578aa34e8de458406bfd76b, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_1_05
+    trigger: guide.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Tenho que continuar.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: c8cbc2c699357b24f9dd61bbb5b9cd4b, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_2_01
+    trigger: guide.2
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Ainda preciso resolver o que falta.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 390d193de3aa1584292d6f0363dcb2a6, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_2_02
+    trigger: guide.2
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Os registros... preciso conferir de novo.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 94fc08f257b6985439c61b51150c3cf4, type: 3}
+    seconds: 2.5625
+  - id: POLISH_20261103_GUIDE_2_03
+    trigger: guide.2
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "O que eu preciso t\xE1 anotado."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 395a5af6612210046b6790e4fc451ea2, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_2_04
+    trigger: guide.2
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "N\xE3o posso sair daqui sem terminar."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: bdaf0665fabbc084894519c25d2a7d39, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_2_05
+    trigger: guide.2
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Tem uma coisa que ainda n\xE3o fiz."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: aa650c8eedd10114b96e7db77fc996b8, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_3_01
+    trigger: guide.3
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: 'Agora eu preciso: {objetivo}.'
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_3_02
+    trigger: guide.3
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "O que falta \xE9: {objetivo}."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_3_03
+    trigger: guide.3
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "T\xE1. Primeiro: {objetivo}."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_3_04
+    trigger: guide.3
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: 'Eu tenho que voltar pra isso: {objetivo}.'
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5625
+  - id: POLISH_20261103_GUIDE_3_05
+    trigger: guide.3
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Ainda n\xE3o terminei: {objetivo}."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_OFFROUTE_01
+    trigger: guide.offroute
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Acho que n\xE3o \xE9 pra c\xE1."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 41dd9ede87d19f047888c7cda9e64644, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_OFFROUTE_02
+    trigger: guide.offroute
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Isso n\xE3o ajuda."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 74994c023a50c734db0d9e79febecc11, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_OFFROUTE_03
+    trigger: guide.offroute
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Eu t\xF4 me afastando."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 0533e25b71ac8f8418e499ce4a5bf06a, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_OFFROUTE_04
+    trigger: guide.offroute
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "N\xE3o tem nada do caso por aqui."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 2a76b6581109a2f4f96469957774a74d, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_GUIDE_OFFROUTE_05
+    trigger: guide.offroute
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Melhor voltar.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: b304703990eddb64fbfcd8edd05d19fe, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_RAT_SQUEAK_01
+    trigger: rat.squeak
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "S\xF3 rato. S\xF3 rato."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 372c0e222614c6242831c93b8bcc4d17, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_RAT_SQUEAK_02
+    trigger: rat.squeak
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Maldito rato.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: fb6e1ef3e245f794a82283b4cce7cf51, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_RAT_SQUEAK_03
+    trigger: rat.squeak
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Esses ratos...
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: d18e01b10632a3145bce2c849e8be5bd, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_RAT_SQUEAK_04
+    trigger: rat.squeak
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Tem alguma coisa no forro.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 675c1c80a5487a442a7b394d3608ef4c, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_RAT_SQUEAK_05
+    trigger: rat.squeak
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "T\xE1 dentro da parede."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 249bc4170c3c01045b8630c4c3329d38, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_AMBIENT_FALL_01
+    trigger: ambient.fall
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Alguma coisa caiu l\xE1 dentro."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: c8f6a09f66897594f8bcb6d61c683d74, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_AMBIENT_FALL_02
+    trigger: ambient.fall
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Esse barulho veio de outra sala.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 825e06bc46e1d2849bd8a2e2ab9c7b93, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_AMBIENT_FALL_03
+    trigger: ambient.fall
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Deve ter sido uma caixa.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: a2fba3fa0c3c77d4fa3b73a1824b2d35, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_AMBIENT_FALL_04
+    trigger: ambient.fall
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Eu n\xE3o encostei em nada."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: dcc4376b073fb51478801971bfd62da4, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_AMBIENT_FALL_05
+    trigger: ambient.fall
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Tem alguma coisa solta l\xE1 atr\xE1s."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 21d3e7f50bc4c114ea896893c4190544, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_RAT_SURPRISED_01
+    trigger: rat.surprised
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Porra... s\xF3 um rato."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RAT_SURPRISED_02
+    trigger: rat.surprised
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "T\xE1. Foi s\xF3 isso."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RAT_SURPRISED_03
+    trigger: rat.surprised
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Calma. S\xF3 rato."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RAT_SURPRISED_04
+    trigger: rat.surprised
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Sai da\xED..."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RAT_SURPRISED_05
+    trigger: rat.surprised
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Eu ouvi. N\xE3o preciso ir atr\xE1s."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_PHONE_REMINDER_01
+    trigger: phone.reminder
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "T\xE1 vibrando de novo."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 65bdbabef259adc49853db38ef1db7cd, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_PHONE_REMINDER_02
+    trigger: phone.reminder
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Preciso ver isso.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: df9bde7a1c0002d4fb1faa793715d79c, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_PHONE_REMINDER_03
+    trigger: phone.reminder
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Tem outra mensagem.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: c94dfb2f8cc190e409eb7bacf7f4f55c, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_PHONE_REMINDER_04
+    trigger: phone.reminder
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Eu preciso ler o que mandaram.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 1541da530a3d166488045ca549b24026, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_RADIO_1_01
+    trigger: radio.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "N\xE3o t\xF4 com cabe\xE7a pra isso."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RADIO_2_01
+    trigger: radio.2
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Essa tamb\xE9m n\xE3o."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RADIO_3_01
+    trigger: radio.3
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "N\xE3o... chega."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RADIO_4_01
+    trigger: radio.4
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Vou tentar a pr\xF3xima."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RADIO_5_01
+    trigger: radio.5
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "S\xF3 mais uma."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RADIO_6_01
+    trigger: radio.6
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Prefiro o sil\xEAncio."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RADIO_7_01
+    trigger: radio.7
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Desligou. Melhor assim.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RADIO_8_01
+    trigger: radio.8
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Eu n\xE3o liguei isso."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RADIO_9_01
+    trigger: radio.9
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: De onde saiu essa voz?
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_RADIO_10_01
+    trigger: radio.10
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "N\xE3o desliga..."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_THOUGHT_01
+    trigger: ending.thought
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem 1
+    text: Se eu ficar... eles saem.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_THOUGHT_02
+    trigger: ending.thought
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem 1
+    text: Ficar no lugar deles...
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_THOUGHT_03
+    trigger: ending.thought
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem 1
+    text: Ela quer que eu fique.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_SHOCK_01
+    trigger: ending.shock
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem 1
+    text: Meu Deus...
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_SHOCK_02
+    trigger: ending.shock
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem 1
+    text: "N\xE3o..."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_SHOCK_03
+    trigger: ending.shock
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem 1
+    text: "O que fizeram com voc\xEAs..."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_RETURN_01
+    trigger: ending.return
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem 1
+    text: "Isso \xE9 de voc\xEAs."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_RETURN_02
+    trigger: ending.return
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem 1
+    text: "Eu n\xE3o devia ter levado."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_RETURN_03
+    trigger: ending.return
+    speaker: "Jo\xE3o"
+    priority: P1
+    actor: Homem 1
+    text: Eu trouxe de volta.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_WAKING_01
+    trigger: ending.waking
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Eles... encontraram.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_WAKING_02
+    trigger: ending.waking
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "T\xE1 passando na televis\xE3o."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_WAKING_03
+    trigger: ending.waking
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "S\xE3o os quatro."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_WAKING_04
+    trigger: ending.waking
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Eu t\xF4 no escrit\xF3rio."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_WAKING_05
+    trigger: ending.waking
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "J\xE1 amanheceu."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_WAKING_06
+    trigger: ending.waking
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Acabou.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_PHONE_01
+    trigger: ending.phone
+    speaker: "Jo\xE3o"
+    priority: P0
+    actor: Homem 1
+    text: "Aqui \xE9 Jo\xE3o de Claus. Parem a demoli\xE7\xE3o. Chamem a pol\xEDcia. H\xE1 quatro crian\xE7as dentro da parede."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 0}
+    seconds: 5.9375
+  - id: POLISH_20261103_ENDING_ATTENDANT_01
+    trigger: ending.attendant
+    speaker: Atendente
+    priority: P0
+    actor: Homem 4
+    text: Vou avisar a equipe. Fique na linha, senhor.
+    direction: Profissional, preocupado; sem gritar.
+    voice: {fileID: 0}
+    seconds: 2.75
+  - id: POLISH_20261103_ENDING_HELENA_REAL_01
+    trigger: ending.helena.real
+    speaker: Helena
+    priority: P0
+    actor: Mulher 1
+    text: "Obrigada, seu Jo\xE3o."
+    direction: "Voz humana cansada e acolhedora, sem efeito demon\xEDaco."
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_OFFER_01
+    trigger: ending.offer
+    speaker: Helena
+    priority: P0
+    actor: Mulher 1
+    text: "Eles est\xE3o presos aqui por sua causa, Jo\xE3o. Algu\xE9m precisa ficar no lugar deles pra eles sa\xEDrem. O senhor sempre quis consertar isso."
+    direction: Educada demais, perfeita e calma. Vem do vidro em 3D.
+    voice: {fileID: 0}
+    seconds: 7
+  - id: POLISH_20261103_ENDING_REFUSE_01
+    trigger: ending.refuse
+    speaker: Helena
+    priority: P0
+    actor: Mulher 1
+    text: "O senhor n\xE3o deveria ter feito isso."
+    direction: "Raiva contida; n\xE3o gritar."
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_STAY_01
+    trigger: ending.stay
+    speaker: Helena
+    priority: P0
+    actor: Mulher 1
+    text: "Obrigada, Jo\xE3o."
+    direction: Educada e vazia, sem susto.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_WARNING_01
+    trigger: ending.warning
+    speaker: "Crian\xE7as"
+    priority: P0
+    actor: "Crian\xE7as"
+    text: "n\xE3o responde ela"
+    direction: "Sussurros baixos, pr\xF3ximos e tristes, nunca agressivos."
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_WARNING_02
+    trigger: ending.warning
+    speaker: "Crian\xE7as"
+    priority: P0
+    actor: "Crian\xE7as"
+    text: "n\xE3o"
+    direction: "Sussurros baixos, pr\xF3ximos e tristes, nunca agressivos."
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_WARNING_03
+    trigger: ending.warning
+    speaker: "Crian\xE7as"
+    priority: P0
+    actor: "Crian\xE7as"
+    text: obrigado
+    direction: "Sussurros baixos, pr\xF3ximos e tristes, nunca agressivos."
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_OFFER_REPEAT_01
+    trigger: ending.offer.repeat
+    speaker: Helena
+    priority: P1
+    actor: Mulher 1
+    text: "Ainda podemos resolver isso, seu Jo\xE3o."
+    direction: Muito educada; oferta sem contagem regressiva.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_OFFER_REPEAT_02
+    trigger: ending.offer.repeat
+    speaker: Helena
+    priority: P1
+    actor: Mulher 1
+    text: "O senhor n\xE3o quer deixar os quatro aqui, quer?"
+    direction: Muito educada; oferta sem contagem regressiva.
+    voice: {fileID: 0}
+    seconds: 2.875
+  - id: POLISH_20261103_ENDING_OFFER_REPEAT_03
+    trigger: ending.offer.repeat
+    speaker: Helena
+    priority: P1
+    actor: Mulher 1
+    text: Eu espero. Tome o tempo que precisar.
+    direction: Muito educada; oferta sem contagem regressiva.
+    voice: {fileID: 0}
+    seconds: 2.5
+  - id: POLISH_20261103_ENDING_NEWS_01
+    trigger: ending.news
+    speaker: Locutor
+    priority: P0
+    actor: Homem 3
+    text: "...restos de quatro crian\xE7as desaparecidas h\xE1 vinte anos foram encontrados na antiga escola SEEPE. A pol\xEDcia est\xE1 no local."
+    direction: "Notici\xE1rio s\xF3brio, informa\xE7\xE3o breve e natural."
+    voice: {fileID: 0}
+    seconds: 7
+  - id: POLISH_20261103_WARDROBE_01
+    trigger: wardrobe
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Tava fechado antes.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: d69c4f8ccf1835d4cb0d9e39c90d4a2a, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_WARDROBE_02
+    trigger: wardrobe
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Tem poeira aqui dentro.
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 70e6bbe9225870c44bd4c21195173bd3, type: 3}
+    seconds: 2.5
+  - id: POLISH_20261103_WARDROBE_03
+    trigger: wardrobe
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "N\xE3o tem ningu\xE9m."
+    direction: Baixo, cansado e seco. Pensar em voz alta; sem piada, sem teatralizar.
+    voice: {fileID: 8300000, guid: 32729b6f59fccbd409ff3361eecdb1f1, type: 3}
+    seconds: 2.5
+  - id: secretary.footprints.0
+    trigger: secretary.footprints.0
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Pegadas... pequenas.
+    direction: "Baixo e contido. Perceber antes de falar; sem teatralizar. Voz limpa; ambi\xEAncia somente na engine."
+    voice: {fileID: 8300000, guid: ab960c447e95f83479305869adc6a96a, type: 3}
+    seconds: 3
+  - id: secretary.footprints.1
+    trigger: secretary.footprints.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Quatro pares. V\xE3o para a escada."
+    direction: "Baixo e contido. Perceber antes de falar; sem teatralizar. Voz limpa; ambi\xEAncia somente na engine."
+    voice: {fileID: 8300000, guid: df514672065669c42a7825b26bdaa10a, type: 3}
+    seconds: 3.5
+  - id: secretary.clock.0
+    trigger: secretary.clock.0
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Parado. Tr\xEAs e sete."
+    direction: "Baixo e contido. Perceber antes de falar; sem teatralizar. Voz limpa; ambi\xEAncia somente na engine."
+    voice: {fileID: 8300000, guid: b38555b4797368b449ff0c1f18631012, type: 3}
+    seconds: 3
+  - id: secretary.clock.1
+    trigger: secretary.clock.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Tr\xEAs e sete. Igual ao email."
+    direction: "Baixo e contido. Perceber antes de falar; sem teatralizar. Voz limpa; ambi\xEAncia somente na engine."
+    voice: {fileID: 8300000, guid: fe792d21e9b95c241b8ed29b3b34c4c8, type: 3}
+    seconds: 3.5
+  - id: secretary.today.0
+    trigger: secretary.today.0
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Esse \xE9 de hoje. A data \xE9 de hoje."
+    direction: "Baixo e contido. Perceber antes de falar; sem teatralizar. Voz limpa; ambi\xEAncia somente na engine."
+    voice: {fileID: 8300000, guid: ff11521bf1f759c4db5bc01088a42905, type: 3}
+    seconds: 3
+  - id: secretary.today.1
+    trigger: secretary.today.1
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Vinte e seis de outubro. Hoje.
+    direction: "Baixo e contido. Perceber antes de falar; sem teatralizar. Voz limpa; ambi\xEAncia somente na engine."
+    voice: {fileID: 8300000, guid: 04cc517a95da5934f8f0ad6b3ad90572, type: 3}
+    seconds: 3.5
+  - id: child.answer.0
+    trigger: child.answer
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Respondeu.
+    direction: "Baixo, surpreso e contido. Uma percep\xE7\xE3o, sem chamar a crian\xE7a. GRAVAR \u2014 legenda provis\xF3ria."
+    voice: {fileID: 8300000, guid: e0c797ac404e2ea42a58d2b9f03df4da, type: 3}
+    seconds: 2.5
+  - id: child.answer.1
+    trigger: child.answer
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Veio dali.
+    direction: "Baixo, surpreso e contido. Uma percep\xE7\xE3o, sem chamar a crian\xE7a. GRAVAR \u2014 legenda provis\xF3ria."
+    voice: {fileID: 8300000, guid: 80abed2f276548c43afeab8899bf3c7c, type: 3}
+    seconds: 2.5
+  - id: child.answer.2
+    trigger: child.answer
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: "Algu\xE9m apitou de volta."
+    direction: "Baixo, surpreso e contido. Uma percep\xE7\xE3o, sem chamar a crian\xE7a. GRAVAR \u2014 legenda provis\xF3ria."
+    voice: {fileID: 8300000, guid: 52dbd4a5b9429ed428cbbd0722566239, type: 3}
+    seconds: 2.5
+  - id: child.answer.3
+    trigger: child.answer
+    speaker: "Jo\xE3o"
+    priority: P2
+    actor: Homem 1
+    text: Ouvi de novo.
+    direction: "Baixo, surpreso e contido. Uma percep\xE7\xE3o, sem chamar a crian\xE7a. GRAVAR \u2014 legenda provis\xF3ria."
+    voice: {fileID: 8300000, guid: 614c7bf037b6e73449e97c96444027d0, type: 3}
+    seconds: 2.5
+  - id: wp_opt_crianca_marta_185_01
+    trigger: child.response.0
+    speaker: Marta
+    priority: P2
+    actor: Menina1
+    text: Olha ali.
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: dfaef7f254e784443bb527caeb1076bf, type: 3}
+    seconds: 1.7681667
+  - id: wp_opt_crianca_marta_185_02
+    trigger: child.response.0
+    speaker: Marta
+    priority: P2
+    actor: Menina1
+    text: O caderno.
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 594d7825fc3ea7447ba5953694cba3da, type: 3}
+    seconds: 1.2376667
+  - id: wp_opt_crianca_marta_189_01
+    trigger: child.response.0
+    speaker: Marta
+    priority: P2
+    actor: Menina1
+    text: Por aqui.
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 8da2ec3882d6a3b41aa44113ef8891b8, type: 3}
+    seconds: 1.3026667
+  - id: wp_opt_crianca_caio_187_02
+    trigger: child.response.1
+    speaker: Caio
+    priority: P2
+    actor: Homem2
+    text: "Meu bon\xE9."
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 249265be1dde4ee45aa05bf6ccfb7fdc, type: 3}
+    seconds: 0.835
+  - id: wp_opt_crianca_caio_187_03
+    trigger: child.response.1
+    speaker: Caio
+    priority: P2
+    actor: Homem2
+    text: Olha dentro.
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 3f64ad077929f064b953da11885c47f1, type: 3}
+    seconds: 0.7076667
+  - id: wp_opt_crianca_caio_187_04
+    trigger: child.response.1
+    speaker: Caio
+    priority: P2
+    actor: Homem2
+    text: Aqui perto.
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: 79c28db985ca65b47bcf370461b507df, type: 3}
+    seconds: 0.93
+  - id: wp_opt_crianca_bia_190_03
+    trigger: child.response.3
+    speaker: Bia
+    priority: P2
+    actor: Menina2
+    text: Escuta baixinho.
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: f9fee4faed0d7d842a613b06b5ed61a9, type: 3}
+    seconds: 2.6931667
+  - id: wp_opt_crianca_bia_190_04
+    trigger: child.response.3
+    speaker: Bia
+    priority: P2
+    actor: Menina2
+    text: Tem outro som.
+    direction: "Baix\xEDssimo, perto do ouvido mas com dire\xE7\xE3o no espa\xE7o; voz humana, sem efeito monstruoso."
+    voice: {fileID: 8300000, guid: fea26e43075084241b7623390fa79599, type: 3}
+    seconds: 1.9626666

@@ -1,0 +1,56 @@
+{
+  "localCuts": [
+    {
+      "file": "draw_flashlight.wav",
+      "source": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\Player\\flashlight_on_01.wav",
+      "sourceSHA256": "77d533d153482e04f118eabb50f2e6341f12fb9a08ca372e3681c6fddfac6070",
+      "start": 0.02834467120181406,
+      "seconds": 0.14,
+      "recorded": true
+    },
+    {
+      "file": "stow_flashlight.wav",
+      "source": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\Player\\flashlight_off_01.wav",
+      "sourceSHA256": "5fc1a4885a981523d891194070ea2b7ddaf6c98ce6e96455172344240d35eb4b",
+      "start": 0.030476190476190476,
+      "seconds": 0.14,
+      "recorded": true
+    },
+    {
+      "file": "draw_whistle.wav",
+      "source": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\Objects\\key_pickup_01.wav",
+      "sourceSHA256": "ee2f3b3c7d3c7ef7beec3e268720fe51b8d2589766cd069e3842a312b5bd45ff",
+      "start": 0.07489795918367347,
+      "seconds": 0.2,
+      "recorded": true
+    },
+    {
+      "file": "stow_whistle.wav",
+      "source": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\Objects\\key_pickup_01.wav",
+      "sourceSHA256": "ee2f3b3c7d3c7ef7beec3e268720fe51b8d2589766cd069e3842a312b5bd45ff",
+      "start": 0.1017233560090703,
+      "seconds": 0.13,
+      "recorded": true
+    },
+    {
+      "file": "hud_select.wav",
+      "source": "C:\\Users\\ruhtra\\My project\\Assets\\Audio\\SFX\\UI\\ui_click_01.wav",
+      "sourceSHA256": "7e921488d680da6e969e02b08b640c6c2544e5e81aa64f1af8747a95506b36a5",
+      "start": 0.03507936507936508,
+      "seconds": 0.08,
+      "recorded": true
+    }
+  ],
+  "cloth": {
+    "author": "Iochi Glaucus",
+    "source": "https://opengameart.org/content/fabric-rustling",
+    "download": "https://opengameart.org/sites/default/files/rustling.ogg",
+    "license": "CC0 1.0",
+    "sourceSHA256": "897c0937041afdf3581427b80a7546f99d219d0008e12ff5500c2afdfa4b7a1e",
+    "cutStart": 7.13,
+    "cutSeconds": 0.24,
+    "recorded": true,
+    "synthesis": false
+  },
+  "synthesis": false
+}

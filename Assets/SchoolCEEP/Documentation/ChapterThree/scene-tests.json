@@ -1,0 +1,34 @@
+{
+  "status": "completed",
+  "duration": 19.89,
+  "summary": {
+    "total": 3,
+    "passed": 3,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterThreeSceneTests.ChapterThreeCarryJournalBlackoutAndRealRetryKeepIncomingEquipment",
+      "Status": "Passed",
+      "Duration": 6.639275,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterThreeSceneTests.CompletedRoadPresentsItsCardsThenLoadsTheRealChapterThree",
+      "Status": "Passed",
+      "Duration": 11.4463619,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterThreeSceneTests.UnpoweredEventReturnsToDarknessOnPauseWithoutRepeatedNarrativeShock",
+      "Status": "Passed",
+      "Duration": 1.7752671,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

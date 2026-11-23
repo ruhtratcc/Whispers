@@ -1,0 +1,349 @@
+{
+  "source": "tango-desktop-icons.png",
+  "width": 729,
+  "height": 783,
+  "coordinateOrigin": "sourceTopLeftRect is image top-left; unityRect is bottom-left",
+  "license": "CC0 / Public Domain, Tango Desktop Project, https://opengameart.org/content/tango-desktop-icons",
+  "sprites": [
+    {
+      "name": "email",
+      "column": 4,
+      "row": 5,
+      "sourceTopLeftRect": {
+        "x": 174,
+        "y": 579,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 174,
+        "y": 182,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "documents",
+      "column": 13,
+      "row": 3,
+      "sourceTopLeftRect": {
+        "x": 444,
+        "y": 519,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 444,
+        "y": 242,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "images",
+      "column": 20,
+      "row": 4,
+      "sourceTopLeftRect": {
+        "x": 654,
+        "y": 549,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 654,
+        "y": 212,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "notepad",
+      "column": 2,
+      "row": 0,
+      "sourceTopLeftRect": {
+        "x": 114,
+        "y": 429,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 114,
+        "y": 332,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "media",
+      "column": 1,
+      "row": 6,
+      "sourceTopLeftRect": {
+        "x": 84,
+        "y": 609,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 84,
+        "y": 152,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "browser",
+      "column": 6,
+      "row": 5,
+      "sourceTopLeftRect": {
+        "x": 234,
+        "y": 579,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 234,
+        "y": 182,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "trash",
+      "column": 17,
+      "row": 8,
+      "sourceTopLeftRect": {
+        "x": 564,
+        "y": 669,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 564,
+        "y": 92,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "error",
+      "column": 17,
+      "row": 2,
+      "sourceTopLeftRect": {
+        "x": 564,
+        "y": 489,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 564,
+        "y": 272,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "warning",
+      "column": 11,
+      "row": 1,
+      "sourceTopLeftRect": {
+        "x": 384,
+        "y": 459,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 384,
+        "y": 302,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "clock",
+      "column": 15,
+      "row": 0,
+      "sourceTopLeftRect": {
+        "x": 504,
+        "y": 429,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 504,
+        "y": 332,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "attachment",
+      "column": 9,
+      "row": 5,
+      "sourceTopLeftRect": {
+        "x": 324,
+        "y": 579,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 324,
+        "y": 182,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "file",
+      "column": 12,
+      "row": 1,
+      "sourceTopLeftRect": {
+        "x": 414,
+        "y": 459,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 414,
+        "y": 302,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "forward",
+      "column": 13,
+      "row": 4,
+      "sourceTopLeftRect": {
+        "x": 444,
+        "y": 549,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 444,
+        "y": 212,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "back",
+      "column": 14,
+      "row": 4,
+      "sourceTopLeftRect": {
+        "x": 474,
+        "y": 549,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 474,
+        "y": 212,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "close",
+      "column": 19,
+      "row": 4,
+      "sourceTopLeftRect": {
+        "x": 624,
+        "y": 549,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 624,
+        "y": 212,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "save",
+      "column": 19,
+      "row": 5,
+      "sourceTopLeftRect": {
+        "x": 624,
+        "y": 579,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 624,
+        "y": 182,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "play",
+      "column": 1,
+      "row": 6,
+      "sourceTopLeftRect": {
+        "x": 84,
+        "y": 609,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 84,
+        "y": 152,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "pause",
+      "column": 0,
+      "row": 6,
+      "sourceTopLeftRect": {
+        "x": 54,
+        "y": 609,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 54,
+        "y": 152,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "stop",
+      "column": 2,
+      "row": 6,
+      "sourceTopLeftRect": {
+        "x": 114,
+        "y": 609,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 114,
+        "y": 152,
+        "width": 22,
+        "height": 22
+      }
+    },
+    {
+      "name": "audio",
+      "column": 18,
+      "row": 0,
+      "sourceTopLeftRect": {
+        "x": 594,
+        "y": 429,
+        "width": 22,
+        "height": 22
+      },
+      "unityRect": {
+        "x": 594,
+        "y": 332,
+        "width": 22,
+        "height": 22
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "HorrorGame.Editor",
+  "rootNamespace": "HorrorGame.Editor",
+  "references": [
+    "HorrorGame.Runtime",
+    "Unity.InputSystem",
+    "Unity.TextMeshPro",
+    "Unity.ugui",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.RenderPipelines.Universal.Runtime",
+    "Unity.AI.Navigation"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

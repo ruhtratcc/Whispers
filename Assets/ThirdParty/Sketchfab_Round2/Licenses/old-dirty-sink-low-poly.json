@@ -1,0 +1,38 @@
+{
+  "source": {
+    "uid": "17c796aeb1b8455d8f594a72490e11b7",
+    "title": "Old Dirty Sink - Low Poly",
+    "author": "W0nnaFight",
+    "url": "https://sketchfab.com/3d-models/old-dirty-sink-low-poly-17c796aeb1b8455d8f594a72490e11b7",
+    "api": "https://api.sketchfab.com/v3/models/17c796aeb1b8455d8f594a72490e11b7",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "triangles": 2872,
+    "vertices": 1534,
+    "downloadable": true,
+    "textures": 4,
+    "materials": 1,
+    "description": "Made for my game\nInspired by: https://sketchfab.com/3d-models/old-sink-4e8ce1e067b6426494cf724dbe4e0f71",
+    "htmlStatus": "cached — original response not re-fetched",
+    "format": "glTF converted export offered by Sketchfab for downloadable models; source FBX/Blend NOT VERIFIED",
+    "geometryVisual": "NOT VERIFIED — no model download/import"
+  },
+  "licenseEvidence": {
+    "embeddedLicenseCount": 0,
+    "source": "Cached official public Sketchfab API response checked 2026-10-30",
+    "proofFile": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\ModelPass20261030\\SketchfabPropsEvidence\\17c796aeb1b8455d8f594a72490e11b7.json",
+    "license": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialAndModificationAllowed": true,
+    "creditRequired": true,
+    "requiredCredit": "Old Dirty Sink - Low Poly — W0nnaFight — https://sketchfab.com/3d-models/old-dirty-sink-low-poly-17c796aeb1b8455d8f594a72490e11b7 — CC BY4.0. Adapted for Whispers of the Past."
+  },
+  "archiveSha256": "ec018ff7b0631012293d668efd0c1e0ec15d633317cee9465e7a1160af18d3a1",
+  "changes": "Static native-mesh conversion, URP1K maps. Car four taxi accessory nodes removed; cabinet single closed variant selected."
+}

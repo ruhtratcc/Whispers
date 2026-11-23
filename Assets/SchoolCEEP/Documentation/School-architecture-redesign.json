@@ -1,0 +1,3721 @@
+{
+    "authoredLayout": true,
+    "dimensionsEstimated": true,
+    "oldWallSpans": 1162,
+    "rebuiltWallSpans": 275,
+    "reassignedDoors": 69,
+    "newDoors": 8,
+    "rooms": 91,
+    "usefulFurnitureGroups": 64,
+    "replacedFloatingFloorJoints": 0,
+    "roofFrames": 6,
+    "relocatedHallObjects": 3,
+    "wallTopClosures": 238,
+    "westCorridorClearWidthMeters": 2.8338887691497803,
+    "roomLayout": [
+        {
+            "name": "Informática — laboratório A",
+            "block": "west_south",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                370.9200134277344,
+                894.8200073242188,
+                459.3999938964844,
+                983.2559814453125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Informática — laboratório B",
+            "block": "west_south",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                370.9200134277344,
+                987.2559814453125,
+                459.3999938964844,
+                1075.6920166015625
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Grêmio estudantil",
+            "block": "west_south",
+            "kind": "support",
+            "level": 0,
+            "box": [
+                370.9200134277344,
+                1079.6920166015625,
+                459.3999938964844,
+                1168.1280517578125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala de apoio aos alunos",
+            "block": "west_south",
+            "kind": "support",
+            "level": 0,
+            "box": [
+                370.9200134277344,
+                1172.1280517578125,
+                459.3999938964844,
+                1260.56396484375
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Depósito técnico",
+            "block": "west_south",
+            "kind": "support",
+            "level": 0,
+            "box": [
+                370.9200134277344,
+                1264.56396484375,
+                459.3999938964844,
+                1353.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Instalações elétricas",
+            "block": "west_south",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                506.3999938964844,
+                894.8200073242188,
+                595.0399780273438,
+                1006.364990234375
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Topografia e desenho",
+            "block": "west_south",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                506.3999938964844,
+                1010.364990234375,
+                595.0399780273438,
+                1121.9100341796875
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Oficina de manutenção",
+            "block": "west_south",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                506.3999938964844,
+                1125.9100341796875,
+                595.0399780273438,
+                1237.4549560546875
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala de projetos",
+            "block": "west_south",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                506.3999938964844,
+                1241.4549560546875,
+                595.0399780273438,
+                1353.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Meio ambiente — laboratório 1",
+            "block": "west_north",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                405.0,
+                280.3599853515625,
+                500.0,
+                426.8399963378906
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Meio ambiente — laboratório 2",
+            "block": "west_north",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                405.0,
+                430.8399963378906,
+                500.0,
+                579.9600219726563
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala de uso múltiplo",
+            "block": "west_north",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                405.0,
+                583.9600219726563,
+                500.0,
+                730.0800170898438
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 11B",
+            "block": "main_laboratories_north",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                650.0,
+                339.2200012207031,
+                827.5999755859375,
+                423.6000061035156
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 11A",
+            "block": "main_laboratories_north",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                650.0,
+                427.6000061035156,
+                827.5999755859375,
+                509.3999938964844
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 10A",
+            "block": "main_laboratories_north",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                650.0,
+                513.4000244140625,
+                827.5999755859375,
+                595.239990234375
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala de preparação técnica",
+            "block": "main_laboratories_north",
+            "kind": "support",
+            "level": 0,
+            "box": [
+                650.0,
+                599.239990234375,
+                827.5999755859375,
+                638.280029296875
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 09",
+            "block": "main_laboratories_north",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                650.0,
+                642.280029296875,
+                827.5999755859375,
+                725.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 08",
+            "block": "main_laboratories_north",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                864.2999877929688,
+                339.2200012207031,
+                957.5,
+                465.6000061035156
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 07",
+            "block": "main_laboratories_north",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                864.2999877929688,
+                469.6000061035156,
+                957.5,
+                594.719970703125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Almoxarifado de ciências",
+            "block": "main_laboratories_north",
+            "kind": "support",
+            "level": 0,
+            "box": [
+                864.2999877929688,
+                598.719970703125,
+                957.5,
+                722.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sanitário feminino",
+            "block": "main_laboratories_north",
+            "kind": "bathroom",
+            "level": 0,
+            "box": [
+                864.2999877929688,
+                726.0,
+                957.5,
+                761.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sanitário masculino",
+            "block": "main_laboratories_north",
+            "kind": "bathroom",
+            "level": 0,
+            "box": [
+                864.2999877929688,
+                765.0,
+                957.5,
+                803.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 6",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                1079.0,
+                339.2200012207031,
+                1175.719970703125,
+                465.6000061035156
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 03A",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                1212.0799560546875,
+                339.2200012207031,
+                1388.5,
+                423.6000061035156
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 5",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                1079.0,
+                469.6000061035156,
+                1175.719970703125,
+                594.719970703125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 03B",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                1212.0799560546875,
+                427.6000061035156,
+                1388.5,
+                509.3999938964844
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 4",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                1079.0,
+                598.719970703125,
+                1175.719970703125,
+                722.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 03",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                1212.0799560546875,
+                513.4000244140625,
+                1388.5,
+                595.239990234375
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Depósito didático",
+            "block": "main_classrooms_north",
+            "kind": "support",
+            "level": 0,
+            "box": [
+                1079.0,
+                726.0,
+                1175.719970703125,
+                803.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 02",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                1212.0799560546875,
+                599.239990234375,
+                1388.5,
+                803.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 25",
+            "block": "main_laboratories_north",
+            "kind": "lab",
+            "level": 1,
+            "box": [
+                650.0,
+                339.2200012207031,
+                829.6400146484375,
+                423.6000061035156
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 24",
+            "block": "main_laboratories_north",
+            "kind": "lab",
+            "level": 1,
+            "box": [
+                650.0,
+                427.6000061035156,
+                829.6400146484375,
+                509.3999938964844
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 23",
+            "block": "main_laboratories_north",
+            "kind": "lab",
+            "level": 1,
+            "box": [
+                650.0,
+                513.4000244140625,
+                829.6400146484375,
+                595.239990234375
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Preparação de química",
+            "block": "main_laboratories_north",
+            "kind": "support",
+            "level": 1,
+            "box": [
+                650.0,
+                599.239990234375,
+                829.6400146484375,
+                638.280029296875
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 22",
+            "block": "main_laboratories_north",
+            "kind": "lab",
+            "level": 1,
+            "box": [
+                650.0,
+                642.280029296875,
+                829.6400146484375,
+                725.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 21",
+            "block": "main_laboratories_north",
+            "kind": "lab",
+            "level": 1,
+            "box": [
+                864.2999877929688,
+                339.2200012207031,
+                957.5,
+                465.6000061035156
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 20",
+            "block": "main_laboratories_north",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                864.2999877929688,
+                469.6000061035156,
+                957.5,
+                594.719970703125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 19",
+            "block": "main_laboratories_north",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                864.2999877929688,
+                598.719970703125,
+                957.5,
+                722.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Almoxarifado de química",
+            "block": "main_laboratories_north",
+            "kind": "support",
+            "level": 1,
+            "box": [
+                864.2999877929688,
+                726.0,
+                957.5,
+                803.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 18",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                1079.0,
+                339.2200012207031,
+                1177.3399658203125,
+                465.6000061035156
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 15",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                1211.9599609375,
+                339.2200012207031,
+                1388.5,
+                423.6000061035156
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 17",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                1079.0,
+                469.6000061035156,
+                1177.3399658203125,
+                594.719970703125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 14",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                1211.9599609375,
+                427.6000061035156,
+                1388.5,
+                509.3999938964844
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 16",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                1079.0,
+                598.719970703125,
+                1177.3399658203125,
+                722.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 13",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                1211.9599609375,
+                513.4000244140625,
+                1388.5,
+                595.239990234375
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Depósito didático",
+            "block": "main_classrooms_north",
+            "kind": "support",
+            "level": 1,
+            "box": [
+                1079.0,
+                726.0,
+                1177.3399658203125,
+                803.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 12",
+            "block": "main_classrooms_north",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                1211.9599609375,
+                599.239990234375,
+                1388.5,
+                803.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Direção",
+            "block": "administration_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                1066.43994140625,
+                1185.760009765625,
+                1141.29296875,
+                1239.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Arquivo administrativo",
+            "block": "administration_south",
+            "kind": "storage",
+            "level": 0,
+            "box": [
+                1066.43994140625,
+                1279.0,
+                1141.29296875,
+                1324.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Secretaria",
+            "block": "administration_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                1145.29296875,
+                1185.760009765625,
+                1220.14697265625,
+                1239.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Atendimento",
+            "block": "administration_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                1145.29296875,
+                1279.0,
+                1220.14697265625,
+                1324.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala dos professores",
+            "block": "administration_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                1224.14697265625,
+                1185.760009765625,
+                1299.0,
+                1239.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala de reuniões",
+            "block": "administration_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                1224.14697265625,
+                1279.0,
+                1299.0,
+                1324.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Coordenação pedagógica",
+            "block": "pedagogy_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                1495.800048828125,
+                1185.4599609375,
+                1544.719970703125,
+                1240.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala de planejamento",
+            "block": "pedagogy_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                1495.800048828125,
+                1280.0,
+                1544.719970703125,
+                1324.260009765625
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Orientação educacional",
+            "block": "pedagogy_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                1548.719970703125,
+                1185.4599609375,
+                1597.6400146484375,
+                1240.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Arquivo pedagógico",
+            "block": "pedagogy_south",
+            "kind": "storage",
+            "level": 0,
+            "box": [
+                1548.719970703125,
+                1280.0,
+                1597.6400146484375,
+                1324.260009765625
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Atendimento individual",
+            "block": "pedagogy_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                1601.6400146484375,
+                1185.4599609375,
+                1650.56005859375,
+                1240.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sanitário acessível",
+            "block": "pedagogy_south",
+            "kind": "bathroom",
+            "level": 0,
+            "box": [
+                1601.6400146484375,
+                1280.0,
+                1650.56005859375,
+                1324.260009765625
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Apoio de inclusão",
+            "block": "pedagogy_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                1654.56005859375,
+                1185.4599609375,
+                1703.47998046875,
+                1240.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Copa dos funcionários",
+            "block": "pedagogy_south",
+            "kind": "kitchen",
+            "level": 0,
+            "box": [
+                1654.56005859375,
+                1280.0,
+                1703.47998046875,
+                1324.260009765625
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Cozinha da cantina",
+            "block": "central_east_services",
+            "kind": "kitchen",
+            "level": 0,
+            "box": [
+                1466.1600341796875,
+                855.9210205078125,
+                1603.6400146484375,
+                958.52001953125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Despensa e serviço",
+            "block": "central_east_services",
+            "kind": "storage",
+            "level": 0,
+            "box": [
+                1466.1600341796875,
+                810.6400146484375,
+                1603.6400146484375,
+                851.9210205078125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Biblioteca",
+            "block": "proposed_library",
+            "kind": "library",
+            "level": 0,
+            "box": [
+                1902.6600341796875,
+                778.5850219726563,
+                2106.320068359375,
+                981.239990234375
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório de materiais",
+            "block": "proposed_northeast_laboratories",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                2113.679931640625,
+                318.3999938964844,
+                2194.0,
+                524.8800048828125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório de ensaios",
+            "block": "proposed_northeast_laboratories",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                2198.0,
+                318.3999938964844,
+                2280.800048828125,
+                524.8800048828125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Oficina de ferramentas",
+            "block": "proposed_northeast_laboratories",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                2284.800048828125,
+                318.3999938964844,
+                2367.320068359375,
+                524.8800048828125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório de construção",
+            "block": "proposed_northeast_laboratories",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                2371.320068359375,
+                318.3999938964844,
+                2451.3798828125,
+                524.8800048828125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala de desenho técnico",
+            "block": "proposed_northeast_laboratories",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                2455.3798828125,
+                318.3999938964844,
+                2536.47998046875,
+                524.8800048828125
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Oficina Automotiva",
+            "block": "proposed_northeast_laboratories",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                2540.47998046875,
+                318.3999938964844,
+                2621.47998046875,
+                524.8800048828125
+            ],
+            "openSouth": true,
+            "openEastAfterY": 453.55999755859375
+        },
+        {
+            "name": "Depósito da oficina",
+            "block": "proposed_northeast_laboratories",
+            "kind": "storage",
+            "level": 0,
+            "box": [
+                2625.47998046875,
+                318.3999938964844,
+                2707.639892578125,
+                420.3599853515625
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 52",
+            "block": "east_north_classrooms",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                1547.280029296875,
+                317.32000732421875,
+                1641.800048828125,
+                415.44000244140625
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 51",
+            "block": "east_north_classrooms",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                1547.280029296875,
+                419.44000244140625,
+                1641.800048828125,
+                517.4400024414063
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 50",
+            "block": "east_north_classrooms",
+            "kind": "class",
+            "level": 0,
+            "box": [
+                1547.280029296875,
+                521.4400024414063,
+                1641.800048828125,
+                619.4400024414063
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sanitário feminino — ala leste",
+            "block": "east_north_classrooms",
+            "kind": "bathroom",
+            "level": 0,
+            "box": [
+                1547.280029296875,
+                623.4400024414063,
+                1641.800048828125,
+                670.5
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sanitário masculino — ala leste",
+            "block": "east_north_classrooms",
+            "kind": "bathroom",
+            "level": 0,
+            "box": [
+                1547.280029296875,
+                674.5,
+                1641.800048828125,
+                721.5599975585938
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Coordenação e atendimento",
+            "block": "main_coordination_south",
+            "kind": "office",
+            "level": 0,
+            "box": [
+                832.9199829101563,
+                850.0,
+                956.4039916992188,
+                1060.0799560546875
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Auditório",
+            "block": "main_auditorium_south",
+            "kind": "assembly",
+            "level": 0,
+            "box": [
+                1080.916015625,
+                850.0,
+                1205.780029296875,
+                1060.0799560546875
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 28",
+            "block": "main_coordination_south",
+            "kind": "lab",
+            "level": 1,
+            "box": [
+                832.9199829101563,
+                850.0,
+                956.4039916992188,
+                1060.0799560546875
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 27B",
+            "block": "main_auditorium_south",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                1080.916015625,
+                938.0,
+                1205.780029296875,
+                1060.0799560546875
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 27A",
+            "block": "main_auditorium_south",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                1118.9200439453125,
+                850.0,
+                1205.780029296875,
+                931.3200073242188
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 70",
+            "block": "proposed_east_teaching",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                2292.840087890625,
+                826.8400268554688,
+                2391.0,
+                925.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 72",
+            "block": "proposed_east_teaching",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                2420.0,
+                826.8400268554688,
+                2518.39990234375,
+                925.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 71",
+            "block": "proposed_east_teaching",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                2292.840087890625,
+                929.0,
+                2391.0,
+                1046.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Laboratório 73",
+            "block": "proposed_east_teaching",
+            "kind": "lab",
+            "level": 0,
+            "box": [
+                2420.0,
+                929.0,
+                2518.39990234375,
+                1046.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sanitário acessível — ala técnica",
+            "block": "proposed_east_teaching",
+            "kind": "bathroom",
+            "level": 0,
+            "box": [
+                2420.0,
+                776.5999755859375,
+                2518.39990234375,
+                822.8400268554688
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 74",
+            "block": "proposed_east_teaching",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                2292.840087890625,
+                826.8400268554688,
+                2391.0,
+                925.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 76",
+            "block": "proposed_east_teaching",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                2420.0,
+                826.8400268554688,
+                2518.39990234375,
+                925.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 75",
+            "block": "proposed_east_teaching",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                2292.840087890625,
+                929.0,
+                2391.0,
+                1046.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sala 77",
+            "block": "proposed_east_teaching",
+            "kind": "class",
+            "level": 1,
+            "box": [
+                2420.0,
+                929.0,
+                2518.39990234375,
+                1046.0
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        },
+        {
+            "name": "Sanitário acessível — ala técnica",
+            "block": "proposed_east_teaching",
+            "kind": "bathroom",
+            "level": 1,
+            "box": [
+                2420.0,
+                776.5999755859375,
+                2518.39990234375,
+                822.8400268554688
+            ],
+            "openSouth": false,
+            "openEastAfterY": 0.0
+        }
+    ],
+    "intendedWalls": [
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 368.9200134277344,
+                "a": 844.5800170898438,
+                "b": 1355.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 597.0399780273438,
+                "a": 844.5800170898438,
+                "b": 1355.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1355.0,
+                "a": 368.9200134277344,
+                "b": 597.0399780273438,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 844.5800170898438,
+                "a": 368.9200134277344,
+                "b": 461.3999938964844,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 844.5800170898438,
+                "a": 504.3999938964844,
+                "b": 597.0399780273438,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 461.3999938964844,
+                "a": 844.5800170898438,
+                "b": 1355.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 504.3999938964844,
+                "a": 844.5800170898438,
+                "b": 1355.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 892.8200073242188,
+                "a": 368.9200134277344,
+                "b": 597.0399780273438,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 985.2559814453125,
+                "a": 368.9200134277344,
+                "b": 461.3999938964844,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1077.6920166015625,
+                "a": 368.9200134277344,
+                "b": 461.3999938964844,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1170.1280517578125,
+                "a": 368.9200134277344,
+                "b": 461.3999938964844,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1262.56396484375,
+                "a": 368.9200134277344,
+                "b": 461.3999938964844,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1008.364990234375,
+                "a": 504.3999938964844,
+                "b": 597.0399780273438,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1123.9100341796875,
+                "a": 504.3999938964844,
+                "b": 597.0399780273438,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1239.4549560546875,
+                "a": 504.3999938964844,
+                "b": 597.0399780273438,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 402.8800048828125,
+                "a": 278.3599853515625,
+                "b": 732.0800170898438,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 502.1199951171875,
+                "a": 278.3599853515625,
+                "b": 732.0800170898438,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 278.3599853515625,
+                "a": 402.8800048828125,
+                "b": 502.1199951171875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 732.0800170898438,
+                "a": 402.8800048828125,
+                "b": 502.1199951171875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 428.8399963378906,
+                "a": 402.8800048828125,
+                "b": 502.1199951171875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "west_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 581.9600219726563,
+                "a": 402.8800048828125,
+                "b": 502.1199951171875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 647.6799926757813,
+                "a": 337.2200012207031,
+                "b": 727.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 959.739990234375,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 822.76513671875,
+                "a": 337.2200012207031,
+                "b": 727.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 869.0895385742188,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 337.2200012207031,
+                "a": 647.6799926757813,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 312.05999755859375
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 727.0,
+                "a": 647.6799926757813,
+                "b": 822.76513671875,
+                "thickness": 2.8346457481384277,
+                "width": 175.08514404296875
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 805.0,
+                "a": 869.0895385742188,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 90.65045166015625
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 425.6000061035156,
+                "a": 647.6799926757813,
+                "b": 822.76513671875,
+                "thickness": 2.8346457481384277,
+                "width": 175.08514404296875
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 511.3999938964844,
+                "a": 647.6799926757813,
+                "b": 822.76513671875,
+                "thickness": 2.8346457481384277,
+                "width": 175.08514404296875
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 597.239990234375,
+                "a": 647.6799926757813,
+                "b": 822.76513671875,
+                "thickness": 2.8346457481384277,
+                "width": 175.08514404296875
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 640.280029296875,
+                "a": 647.6799926757813,
+                "b": 822.76513671875,
+                "thickness": 2.8346457481384277,
+                "width": 175.08514404296875
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 467.6000061035156,
+                "a": 869.0895385742188,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 90.65045166015625
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 596.719970703125,
+                "a": 869.0895385742188,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 90.65045166015625
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 724.0,
+                "a": 869.0895385742188,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 90.65045166015625
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 763.0,
+                "a": 869.0895385742188,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 90.65045166015625
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1076.800048828125,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1390.780029296875,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1170.9366455078125,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1216.75732421875,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 337.2200012207031,
+                "a": 1076.800048828125,
+                "b": 1390.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 313.97998046875
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 805.0,
+                "a": 1076.800048828125,
+                "b": 1170.9366455078125,
+                "thickness": 2.8346457481384277,
+                "width": 94.1365966796875
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 805.0,
+                "a": 1216.75732421875,
+                "b": 1390.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 174.022705078125
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 467.6000061035156,
+                "a": 1076.800048828125,
+                "b": 1170.9366455078125,
+                "thickness": 2.8346457481384277,
+                "width": 94.1365966796875
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 596.719970703125,
+                "a": 1076.800048828125,
+                "b": 1170.9366455078125,
+                "thickness": 2.8346457481384277,
+                "width": 94.1365966796875
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 724.0,
+                "a": 1076.800048828125,
+                "b": 1170.9366455078125,
+                "thickness": 2.8346457481384277,
+                "width": 94.1365966796875
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 425.6000061035156,
+                "a": 1216.75732421875,
+                "b": 1390.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 174.022705078125
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 511.3999938964844,
+                "a": 1216.75732421875,
+                "b": 1390.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 174.022705078125
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 597.239990234375,
+                "a": 1216.75732421875,
+                "b": 1390.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 174.022705078125
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 647.6799926757813,
+                "a": 337.2200012207031,
+                "b": 727.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 959.739990234375,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 824.285888671875,
+                "a": 337.2200012207031,
+                "b": 727.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 869.5616455078125,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 337.2200012207031,
+                "a": 647.6799926757813,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 312.05999755859375
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 727.0,
+                "a": 647.6799926757813,
+                "b": 824.285888671875,
+                "thickness": 2.8346457481384277,
+                "width": 176.60589599609375
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 805.0,
+                "a": 869.5616455078125,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 90.1783447265625
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 425.6000061035156,
+                "a": 647.6799926757813,
+                "b": 824.285888671875,
+                "thickness": 2.8346457481384277,
+                "width": 176.60589599609375
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 511.3999938964844,
+                "a": 647.6799926757813,
+                "b": 824.285888671875,
+                "thickness": 2.8346457481384277,
+                "width": 176.60589599609375
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 597.239990234375,
+                "a": 647.6799926757813,
+                "b": 824.285888671875,
+                "thickness": 2.8346457481384277,
+                "width": 176.60589599609375
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 640.280029296875,
+                "a": 647.6799926757813,
+                "b": 824.285888671875,
+                "thickness": 2.8346457481384277,
+                "width": 176.60589599609375
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 467.6000061035156,
+                "a": 869.5616455078125,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 90.1783447265625
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 596.719970703125,
+                "a": 869.5616455078125,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 90.1783447265625
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_laboratories_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 724.0,
+                "a": 869.5616455078125,
+                "b": 959.739990234375,
+                "thickness": 2.8346457481384277,
+                "width": 90.1783447265625
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1076.800048828125,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1390.780029296875,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1171.4466552734375,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1217.7095947265625,
+                "a": 337.2200012207031,
+                "b": 805.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 337.2200012207031,
+                "a": 1076.800048828125,
+                "b": 1390.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 313.97998046875
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 805.0,
+                "a": 1076.800048828125,
+                "b": 1171.4466552734375,
+                "thickness": 2.8346457481384277,
+                "width": 94.6466064453125
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 805.0,
+                "a": 1217.7095947265625,
+                "b": 1390.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 173.0704345703125
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 467.6000061035156,
+                "a": 1076.800048828125,
+                "b": 1171.4466552734375,
+                "thickness": 2.8346457481384277,
+                "width": 94.6466064453125
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 596.719970703125,
+                "a": 1076.800048828125,
+                "b": 1171.4466552734375,
+                "thickness": 2.8346457481384277,
+                "width": 94.6466064453125
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 724.0,
+                "a": 1076.800048828125,
+                "b": 1171.4466552734375,
+                "thickness": 2.8346457481384277,
+                "width": 94.6466064453125
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 425.6000061035156,
+                "a": 1217.7095947265625,
+                "b": 1390.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 173.0704345703125
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 511.3999938964844,
+                "a": 1217.7095947265625,
+                "b": 1390.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 173.0704345703125
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_classrooms_north",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 597.239990234375,
+                "a": 1217.7095947265625,
+                "b": 1390.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 173.0704345703125
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1064.43994140625,
+                "a": 1183.760009765625,
+                "b": 1326.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1348.884033203125,
+                "a": 1183.760009765625,
+                "b": 1326.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1183.760009765625,
+                "a": 1064.43994140625,
+                "b": 1348.884033203125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1326.0,
+                "a": 1064.43994140625,
+                "b": 1348.884033203125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1241.0,
+                "a": 1064.43994140625,
+                "b": 1301.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1277.0,
+                "a": 1064.43994140625,
+                "b": 1348.884033203125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1143.29296875,
+                "a": 1183.760009765625,
+                "b": 1241.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1143.29296875,
+                "a": 1277.0,
+                "b": 1326.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1222.14697265625,
+                "a": 1183.760009765625,
+                "b": 1241.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1222.14697265625,
+                "a": 1277.0,
+                "b": 1326.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1301.0,
+                "a": 1183.760009765625,
+                "b": 1241.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "administration_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1301.0,
+                "a": 1277.0,
+                "b": 1326.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1493.800048828125,
+                "a": 1183.4599609375,
+                "b": 1326.260009765625,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1705.47998046875,
+                "a": 1183.4599609375,
+                "b": 1326.260009765625,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1183.4599609375,
+                "a": 1493.800048828125,
+                "b": 1705.47998046875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1326.260009765625,
+                "a": 1493.800048828125,
+                "b": 1705.47998046875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1242.0,
+                "a": 1493.800048828125,
+                "b": 1705.47998046875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1278.0,
+                "a": 1493.800048828125,
+                "b": 1705.47998046875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1546.719970703125,
+                "a": 1183.4599609375,
+                "b": 1242.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1546.719970703125,
+                "a": 1278.0,
+                "b": 1326.260009765625,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1599.6400146484375,
+                "a": 1183.4599609375,
+                "b": 1242.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1599.6400146484375,
+                "a": 1278.0,
+                "b": 1326.260009765625,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1652.56005859375,
+                "a": 1183.4599609375,
+                "b": 1242.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "pedagogy_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1652.56005859375,
+                "a": 1278.0,
+                "b": 1326.260009765625,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "central_east_services",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1320.6400146484375,
+                "a": 808.6400146484375,
+                "b": 960.52001953125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "central_east_services",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1605.6400146484375,
+                "a": 808.6400146484375,
+                "b": 960.52001953125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "central_east_services",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 808.6400146484375,
+                "a": 1320.6400146484375,
+                "b": 1605.6400146484375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "central_east_services",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 960.52001953125,
+                "a": 1320.6400146484375,
+                "b": 1605.6400146484375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "central_east_services",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1464.1600341796875,
+                "a": 808.6400146484375,
+                "b": 960.52001953125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "central_east_services",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 853.9210205078125,
+                "a": 1464.1600341796875,
+                "b": 1605.6400146484375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "central_east_services",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 960.52001953125,
+                "a": 1320.6400146484375,
+                "b": 1409.9000244140625,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "central_east_services",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 960.52001953125,
+                "a": 1445.300048828125,
+                "b": 1605.6400146484375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_library",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1900.6600341796875,
+                "a": 776.5850219726563,
+                "b": 983.239990234375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_library",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2108.320068359375,
+                "a": 776.5850219726563,
+                "b": 983.239990234375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_library",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 776.5850219726563,
+                "a": 1900.6600341796875,
+                "b": 2108.320068359375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_library",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 983.239990234375,
+                "a": 1900.6600341796875,
+                "b": 2108.320068359375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2111.679931640625,
+                "a": 316.3999938964844,
+                "b": 526.8800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 316.3999938964844,
+                "a": 2111.679931640625,
+                "b": 2709.639892578125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2709.639892578125,
+                "a": 316.3999938964844,
+                "b": 422.3599853515625,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2196.0,
+                "a": 316.3999938964844,
+                "b": 526.8800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2282.800048828125,
+                "a": 316.3999938964844,
+                "b": 526.8800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2369.320068359375,
+                "a": 316.3999938964844,
+                "b": 526.8800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2453.3798828125,
+                "a": 316.3999938964844,
+                "b": 526.8800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2538.47998046875,
+                "a": 316.3999938964844,
+                "b": 526.8800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2623.47998046875,
+                "a": 316.3999938964844,
+                "b": 453.55999755859375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 422.3599853515625,
+                "a": 2623.47998046875,
+                "b": 2709.639892578125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_northeast_laboratories",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 526.8800048828125,
+                "a": 2111.679931640625,
+                "b": 2539.5,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "east_north_classrooms",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1545.280029296875,
+                "a": 315.32000732421875,
+                "b": 723.5599975585938,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "east_north_classrooms",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1643.800048828125,
+                "a": 315.32000732421875,
+                "b": 723.5599975585938,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "east_north_classrooms",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 315.32000732421875,
+                "a": 1545.280029296875,
+                "b": 1643.800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "east_north_classrooms",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 723.5599975585938,
+                "a": 1545.280029296875,
+                "b": 1643.800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "east_north_classrooms",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 417.44000244140625,
+                "a": 1545.280029296875,
+                "b": 1643.800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "east_north_classrooms",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 519.4400024414063,
+                "a": 1545.280029296875,
+                "b": 1643.800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "east_north_classrooms",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 621.4400024414063,
+                "a": 1545.280029296875,
+                "b": 1643.800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "east_north_classrooms",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 672.5,
+                "a": 1545.280029296875,
+                "b": 1643.800048828125,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_coordination_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 830.9199829101563,
+                "a": 848.0,
+                "b": 1062.0799560546875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_coordination_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 958.4039916992188,
+                "a": 848.0,
+                "b": 1062.0799560546875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_coordination_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 848.0,
+                "a": 830.9199829101563,
+                "b": 958.4039916992188,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_coordination_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1062.0799560546875,
+                "a": 830.9199829101563,
+                "b": 958.4039916992188,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_auditorium_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1078.916015625,
+                "a": 848.0,
+                "b": 1062.0799560546875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_auditorium_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1207.780029296875,
+                "a": 848.0,
+                "b": 1062.0799560546875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_auditorium_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 848.0,
+                "a": 1078.916015625,
+                "b": 1207.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_auditorium_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1062.0799560546875,
+                "a": 1078.916015625,
+                "b": 1207.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_coordination_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 830.9199829101563,
+                "a": 848.0,
+                "b": 1062.0799560546875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_coordination_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 958.4039916992188,
+                "a": 848.0,
+                "b": 1062.0799560546875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_coordination_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 848.0,
+                "a": 830.9199829101563,
+                "b": 958.4039916992188,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_coordination_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1062.0799560546875,
+                "a": 830.9199829101563,
+                "b": 958.4039916992188,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_auditorium_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1078.916015625,
+                "a": 848.0,
+                "b": 1062.0799560546875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_auditorium_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1207.780029296875,
+                "a": 848.0,
+                "b": 1062.0799560546875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_auditorium_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 848.0,
+                "a": 1078.916015625,
+                "b": 1207.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_auditorium_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1062.0799560546875,
+                "a": 1078.916015625,
+                "b": 1207.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_auditorium_south",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 1116.9200439453125,
+                "a": 848.0,
+                "b": 936.073974609375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_auditorium_south",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 936.073974609375,
+                "a": 1078.916015625,
+                "b": 1207.780029296875,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2290.840087890625,
+                "a": 824.8400268554688,
+                "b": 1048.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2393.0,
+                "a": 824.8400268554688,
+                "b": 1048.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2418.0,
+                "a": 774.5999755859375,
+                "b": 1048.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2520.39990234375,
+                "a": 774.5999755859375,
+                "b": 1048.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 824.8400268554688,
+                "a": 2290.840087890625,
+                "b": 2393.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 824.8400268554688,
+                "a": 2418.0,
+                "b": 2520.39990234375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 927.0,
+                "a": 2290.840087890625,
+                "b": 2393.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 927.0,
+                "a": 2418.0,
+                "b": 2520.39990234375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1048.0,
+                "a": 2290.840087890625,
+                "b": 2393.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1048.0,
+                "a": 2418.0,
+                "b": 2520.39990234375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 774.5999755859375,
+                "a": 2418.0,
+                "b": 2520.39990234375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2290.840087890625,
+                "a": 824.8400268554688,
+                "b": 1048.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2393.0,
+                "a": 824.8400268554688,
+                "b": 1048.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2418.0,
+                "a": 774.5999755859375,
+                "b": 1048.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 2520.39990234375,
+                "a": 774.5999755859375,
+                "b": 1048.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 824.8400268554688,
+                "a": 2290.840087890625,
+                "b": 2393.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 824.8400268554688,
+                "a": 2418.0,
+                "b": 2520.39990234375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 927.0,
+                "a": 2290.840087890625,
+                "b": 2393.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 927.0,
+                "a": 2418.0,
+                "b": 2520.39990234375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1048.0,
+                "a": 2290.840087890625,
+                "b": 2393.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 1048.0,
+                "a": 2418.0,
+                "b": 2520.39990234375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "proposed_east_teaching",
+                "source": "coherent school architecture revision",
+                "vertical": false,
+                "provisional": false,
+                "p": 774.5999755859375,
+                "a": 2418.0,
+                "b": 2520.39990234375,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 0,
+            "wall": {
+                "block": "main_middle_circulation",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 832.2639770507813,
+                "a": 805.0,
+                "b": 853.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        },
+        {
+            "level": 1,
+            "wall": {
+                "block": "main_middle_circulation",
+                "source": "coherent school architecture revision",
+                "vertical": true,
+                "provisional": false,
+                "p": 832.2639770507813,
+                "a": 805.0,
+                "b": 853.0,
+                "thickness": 2.8346457481384277,
+                "width": 0.0
+            }
+        }
+    ],
+    "notes": [
+        "User authorises a coherent school redesign, including invented functions where reference is missing. Envelope, photographed circulation and previous explicit access corrections remain the site reference.",
+        "Each reconstructed sector has one owner per wall axis, explicit room partitions and door cuts. Western high corridor is straight and 2.83m clear, with nine rooms and aligned accesses.",
+        "Laboratory/classroom banks, administration, pedagogy, kitchen, library and workshop rooms are enclosed deliberately. Bathrooms, pantry, office, storage and auditorium functions replace empty or contradictory generic boxes.",
+        "The canteen has a high inclined metal roof with visible rafters. The taller partition remains at the main hall roof height. All dimensions are estimates, not a surveyed reconstruction."
+    ]
+}

@@ -1,0 +1,45 @@
+{
+  "source": {
+    "uid": "d4c035d5857f4b49baf2ee27f7051a16",
+    "title": "2008 Baird Silver Coronet Taxicab",
+    "author": "Andrew Duong",
+    "authorURL": "https://sketchfab.com/aduong278",
+    "url": "https://sketchfab.com/3d-models/2008-baird-silver-coronet-taxicab-d4c035d5857f4b49baf2ee27f7051a16",
+    "api": "https://api.sketchfab.com/v3/models/d4c035d5857f4b49baf2ee27f7051a16",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "triangles": 85369,
+    "vertices": 46711,
+    "downloadable": true,
+    "price": null,
+    "materials": 6,
+    "textures": 35,
+    "pageStatus": 200,
+    "interior": "Autor confirma interior modelado. Portas, volante, agulhas do painel e vidros exteriores separados explicitamente na descrição. Bancos, teto, câmbio, retrovisor e console completos não foram inspecionados em malha.",
+    "pros": "Sedan fictício de 2008, coerente com carro usado de investigador; 6 materiais; peças de táxi separadas podem ser removidas. Não requer animar portas para a saída por teleporte.",
+    "cons": "85.369 tri excedem a preferência de ~30 mil. Há acessórios de táxi, placas e badging para remover/cobrir. Estética americana grande, não um compacto brasileiro. Custo só poderá ser reduzido e medido após download, sem prometer contagem menor.",
+    "recommend": "Primeiro candidato a inspecionar: melhor combinação de período, interior declarado, partes separadas e materiais contidos. Aprovação técnica CONDICIONAL após validar visão interna e descaracterizar táxi/marcas; não é substituição automaticamente aprovada.",
+    "format": "glTF convertido padrão da plataforma para todos os modelos Downloadable; GLB explicitamente nomeado no título do Sedan de3DHA. Formato FBX original NÃO VERIFICADO. Nenhum pacote/arquivo3D baixado.",
+    "incoming": "Assets/ThirdParty/Sketchfab_Incoming/carro_capitulo_2/",
+    "verificado": "API pública + HTML oficial HTTP200; consulta em30/10/2026. Licença, autor, Downloadable, contagens de tri/mat/tex e descrição declarada conferidos.",
+    "naoVerificado": "Malha em primeira pessoa, todos os componentes internos, escala real, interior/exterior no Unity, custo de desenho, logos e canalalpha do vidro."
+  },
+  "licenseEvidence": {
+    "embeddedLicenseCount": 0,
+    "source": "Cached official public Sketchfab API response checked 2026-10-30",
+    "proofFile": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\ModelPass20261030\\CarEvidence\\d4c035d5857f4b49baf2ee27f7051a16.json",
+    "license": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialAndModificationAllowed": true,
+    "creditRequired": true,
+    "requiredCredit": "2008 Baird Silver Coronet Taxicab — Andrew Duong — https://sketchfab.com/3d-models/2008-baird-silver-coronet-taxicab-d4c035d5857f4b49baf2ee27f7051a16 — CC BY4.0. Adapted for Whispers of the Past."
+  },
+  "archiveSha256": "2ef03d90a1f42d148106f3cfbb8c5a124c0fa063583e35893206cbc4082c6ba4",
+  "changes": "Static native-mesh conversion, URP1K maps. Car four taxi accessory nodes removed; cabinet single closed variant selected."
+}

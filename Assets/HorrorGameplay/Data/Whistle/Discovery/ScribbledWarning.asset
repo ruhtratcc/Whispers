@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: ScribbledWarning
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: bd.whistle.lore.2
+  title: "Folha rabiscada \u2014 ela ouve"
+  description: "Uma folha presa na parede de investiga\xE7\xE3o."
+  frontText: "o apito chama eles. mas ela ouve tamb\xE9m."
+  backText: "o apito chama eles. mas ela ouve tamb\xE9m."
+  detailText: 
+  alternateBackText: 
+  recordingText: 
+  model: {fileID: 3417381028130344640, guid: 7180265f96660bc4f85913d7188b5dd5, type: 3}
+  frontTexture: {fileID: 2800000, guid: c577945a0ff22c449aa394f4841ddb47, type: 3}
+  backTexture: {fileID: 0}
+  pages: []
+  recordInNotes: 1
+  canPlay: 0
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0
+  maximumStress: 0
+  pickupSound: {fileID: 0}
+  whisper: {fileID: 0}
+  recording: {fileID: 0}

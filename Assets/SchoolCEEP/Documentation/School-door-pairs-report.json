@@ -1,0 +1,2046 @@
+{
+    "passed": true,
+    "editorOnly": true,
+    "gameplayExecuted": false,
+    "checkpointTouched": false,
+    "doorTargetsExercised": true,
+    "temporaryDoorStateRestored": true,
+    "doors": 114,
+    "pairs": 14,
+    "leaves": 28,
+    "singleDoors": 86,
+    "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+    "detection": "Same floor/block/axis; non-provisional quarter-swing CAD spans share an endpoint within 0.05 PDF points; no intervening wall pier. Native curves place the hinges at the two outer jambs.",
+    "openings": [
+        {
+            "block": "west_south",
+            "firstId": "school.door.0.0",
+            "secondId": "school.door.0.70",
+            "floor": 0,
+            "axis": 892.8200073242188,
+            "start": 473.0199890136719,
+            "seam": 483.6400146484375,
+            "end": 494.260009765625,
+            "gapMeters": 0.0,
+            "openingWidthMeters": 1.4986014366149902,
+            "vertical": false,
+            "firstHinge": {
+                "x": -66.32080841064453,
+                "y": 0.0,
+                "z": 51.87103271484375
+            },
+            "secondHinge": {
+                "x": -64.82220458984375,
+                "y": 0.0,
+                "z": 51.87103271484375
+            }
+        },
+        {
+            "block": "main_auditorium_south",
+            "firstId": "school.door.0.71",
+            "secondId": "school.door.0.7",
+            "floor": 0,
+            "axis": 1078.916015625,
+            "start": 851.780029296875,
+            "seam": 869.469970703125,
+            "end": 887.177978515625,
+            "gapMeters": 0.0014081827830523252,
+            "openingWidthMeters": 2.4975218772888184,
+            "vertical": true,
+            "firstHinge": {
+                "x": -23.57147979736328,
+                "y": 0.0,
+                "z": 54.76662826538086
+            },
+            "secondHinge": {
+                "x": -23.57147979736328,
+                "y": 0.0,
+                "z": 52.269107818603516
+            }
+        },
+        {
+            "block": "main_coordination_south",
+            "firstId": "school.door.0.72",
+            "secondId": "school.door.0.8",
+            "floor": 0,
+            "axis": 958.4039916992188,
+            "start": 851.780029296875,
+            "seam": 869.469970703125,
+            "end": 887.177978515625,
+            "gapMeters": 0.0014081827830523252,
+            "openingWidthMeters": 2.4975218772888184,
+            "vertical": true,
+            "firstHinge": {
+                "x": -32.07427215576172,
+                "y": 0.0,
+                "z": 54.76662826538086
+            },
+            "secondHinge": {
+                "x": -32.07427215576172,
+                "y": 0.0,
+                "z": 52.269107818603516
+            }
+        },
+        {
+            "block": "main_middle_circulation",
+            "firstId": "school.door.0.9",
+            "secondId": "school.door.0.73",
+            "floor": 0,
+            "axis": 832.2639770507813,
+            "start": 809.9210205078125,
+            "seam": 827.9649658203125,
+            "end": 846.7860107421875,
+            "gapMeters": 0.0008483547135256231,
+            "openingWidthMeters": 2.601029872894287,
+            "vertical": true,
+            "firstHinge": {
+                "x": -40.974151611328125,
+                "y": 0.0,
+                "z": 57.72001647949219
+            },
+            "secondHinge": {
+                "x": -40.974151611328125,
+                "y": 0.0,
+                "z": 55.11898422241211
+            }
+        },
+        {
+            "block": "main_laboratories_north",
+            "firstId": "school.door.0.74",
+            "secondId": "school.door.0.13",
+            "floor": 0,
+            "axis": 827.5250244140625,
+            "start": 642.3040161132813,
+            "seam": 652.9400024414063,
+            "end": 663.5759887695313,
+            "gapMeters": -0.001266072504222393,
+            "openingWidthMeters": 1.500855803489685,
+            "vertical": true,
+            "firstHinge": {
+                "x": -41.78517532348633,
+                "y": 0.0,
+                "z": 69.54632568359375
+            },
+            "secondHinge": {
+                "x": -41.78517532348633,
+                "y": 0.0,
+                "z": 68.04547119140625
+            }
+        },
+        {
+            "block": "main_laboratories_north",
+            "firstId": "school.door.0.15",
+            "secondId": "school.door.0.75",
+            "floor": 0,
+            "axis": 553.4340209960938,
+            "start": 801.9840087890625,
+            "seam": 812.6199951171875,
+            "end": 823.2559814453125,
+            "gapMeters": -0.001270378939807415,
+            "openingWidthMeters": 1.500855803489685,
+            "vertical": false,
+            "firstHinge": {
+                "x": -43.518653869628906,
+                "y": 0.0,
+                "z": 75.81659698486328
+            },
+            "secondHinge": {
+                "x": -42.07491683959961,
+                "y": 0.0,
+                "z": 75.81659698486328
+            }
+        },
+        {
+            "block": "main_laboratories_north",
+            "firstId": "school.door.0.16",
+            "secondId": "school.door.0.76",
+            "floor": 0,
+            "axis": 508.0060119628906,
+            "start": 801.9840087890625,
+            "seam": 812.6199951171875,
+            "end": 823.2559814453125,
+            "gapMeters": -0.001270378939807415,
+            "openingWidthMeters": 1.500855803489685,
+            "vertical": false,
+            "firstHinge": {
+                "x": -43.518653869628906,
+                "y": 0.0,
+                "z": 79.02179718017578
+            },
+            "secondHinge": {
+                "x": -42.07491683959961,
+                "y": 0.0,
+                "z": 79.02179718017578
+            }
+        },
+        {
+            "block": "administration_south",
+            "firstId": "school.door.0.27",
+            "secondId": "school.door.0.28",
+            "floor": 0,
+            "axis": 1348.884033203125,
+            "start": 1276.7230224609375,
+            "seam": 1290.199951171875,
+            "end": 1303.677001953125,
+            "gapMeters": 0.00014641655434388667,
+            "openingWidthMeters": 1.9017529487609863,
+            "vertical": true,
+            "firstHinge": {
+                "x": -4.52373743057251,
+                "y": 0.6000000238418579,
+                "z": 24.784542083740234
+            },
+            "secondHinge": {
+                "x": -4.52373743057251,
+                "y": 0.6000000238418579,
+                "z": 22.882787704467773
+            }
+        },
+        {
+            "block": "proposed_northeast_laboratories",
+            "firstId": "school.door.0.43",
+            "secondId": "school.door.0.77",
+            "floor": 0,
+            "axis": 2195.81494140625,
+            "start": 494.9989929199219,
+            "seam": 508.760009765625,
+            "end": 522.52099609375,
+            "gapMeters": 0.0015524460468441248,
+            "openingWidthMeters": 1.9418301582336426,
+            "vertical": true,
+            "firstHinge": {
+                "x": 55.23194122314453,
+                "y": 0.0,
+                "z": 79.93951416015625
+            },
+            "secondHinge": {
+                "x": 55.23194122314453,
+                "y": 0.0,
+                "z": 77.9976806640625
+            }
+        },
+        {
+            "block": "proposed_northeast_laboratories",
+            "firstId": "school.door.0.44",
+            "secondId": "school.door.0.78",
+            "floor": 0,
+            "axis": 2369.425048828125,
+            "start": 494.9989929199219,
+            "seam": 508.760009765625,
+            "end": 522.52099609375,
+            "gapMeters": 0.0015524460468441248,
+            "openingWidthMeters": 1.9418301582336426,
+            "vertical": true,
+            "firstHinge": {
+                "x": 67.48109436035156,
+                "y": 0.0,
+                "z": 79.93951416015625
+            },
+            "secondHinge": {
+                "x": 67.48109436035156,
+                "y": 0.0,
+                "z": 77.9976806640625
+            }
+        },
+        {
+            "block": "proposed_northeast_laboratories",
+            "firstId": "school.door.0.79",
+            "secondId": "school.door.0.45",
+            "floor": 0,
+            "axis": 481.17498779296875,
+            "start": 2200.39892578125,
+            "seam": 2214.159912109375,
+            "end": 2227.9208984375,
+            "gapMeters": 0.0015502929454669356,
+            "openingWidthMeters": 1.9418280124664307,
+            "vertical": false,
+            "firstHinge": {
+                "x": 55.55536651611328,
+                "y": 0.0,
+                "z": 80.91487121582031
+            },
+            "secondHinge": {
+                "x": 57.497196197509766,
+                "y": 0.0,
+                "z": 80.91487121582031
+            }
+        },
+        {
+            "block": "proposed_library",
+            "firstId": "school.door.0.46",
+            "secondId": "school.door.0.47",
+            "floor": 0,
+            "axis": 776.5850219726563,
+            "start": 1990.6390380859375,
+            "seam": 2004.4000244140625,
+            "end": 2018.1610107421875,
+            "gapMeters": 0.0015502929454669356,
+            "openingWidthMeters": 1.9418280124664307,
+            "vertical": false,
+            "firstHinge": {
+                "x": 40.75564193725586,
+                "y": 0.0,
+                "z": 57.81427764892578
+            },
+            "secondHinge": {
+                "x": 42.69746780395508,
+                "y": 0.0,
+                "z": 57.81427764892578
+            }
+        },
+        {
+            "block": "main_auditorium_south",
+            "firstId": "school.door.1.30",
+            "secondId": "school.door.1.13",
+            "floor": 1,
+            "axis": 1078.916015625,
+            "start": 851.780029296875,
+            "seam": 869.469970703125,
+            "end": 887.177978515625,
+            "gapMeters": 0.0014081827830523252,
+            "openingWidthMeters": 2.4975218772888184,
+            "vertical": true,
+            "firstHinge": {
+                "x": -23.57147979736328,
+                "y": 3.809999942779541,
+                "z": 54.76662826538086
+            },
+            "secondHinge": {
+                "x": -23.57147979736328,
+                "y": 3.809999942779541,
+                "z": 52.269107818603516
+            }
+        },
+        {
+            "block": "main_coordination_south",
+            "firstId": "school.door.1.31",
+            "secondId": "school.door.1.14",
+            "floor": 1,
+            "axis": 958.4039916992188,
+            "start": 851.780029296875,
+            "seam": 869.469970703125,
+            "end": 887.177978515625,
+            "gapMeters": 0.0014081827830523252,
+            "openingWidthMeters": 2.4975218772888184,
+            "vertical": true,
+            "firstHinge": {
+                "x": -32.07427215576172,
+                "y": 3.809999942779541,
+                "z": 54.76662826538086
+            },
+            "secondHinge": {
+                "x": -32.07427215576172,
+                "y": 3.809999942779541,
+                "z": 52.269107818603516
+            }
+        }
+    ],
+    "checks": [
+        {
+            "name": "school.door.0.0 + school.door.0.70 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "west_south reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.71 + school.door.0.7 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.72 + school.door.0.8 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.9 + school.door.0.73 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.74 + school.door.0.13 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.15 + school.door.0.75 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.16 + school.door.0.76 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.27 + school.door.0.28 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "administration_south reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.43 + school.door.0.77 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.44 + school.door.0.78 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.79 + school.door.0.45 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.0.46 + school.door.0.47 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.1.30 + school.door.1.13 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "school.door.1.31 + school.door.1.14 closed leaf center preserved",
+            "detail": "Second hinge moves to the outer jamb; the closed physical leaf remains in its original opening.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south reciprocal pair and opposite hinges",
+            "detail": "Both leaves receive one shared target and rotate around opposite outer jambs.",
+            "passed": true
+        },
+        {
+            "name": "Independent school doors remain unpaired",
+            "detail": "Nearby doors separated by wall piers are not synchronized.",
+            "passed": true
+        },
+        {
+            "name": "west_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "west_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "west_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "west_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "west_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "west_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "west_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "west_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "west_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "west_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "west_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "administration_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "administration_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "administration_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "administration_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "administration_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "administration_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "administration_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "administration_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "administration_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "administration_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "administration_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "Single door still toggles independently",
+            "detail": "Optional pairing defaults to null on existing single doors.",
+            "passed": true
+        },
+        {
+            "name": "Exact Editor door state restored",
+            "detail": "Hinge rotations, private animation flags/timers, locks, keys and original UnityEvent references were restored. No disk save or PlayerPrefs calls.",
+            "passed": true
+        },
+        {
+            "name": "west_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "west_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "west_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "west_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "west_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "west_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "west_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "west_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "west_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "west_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "west_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_middle_circulation either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_laboratories_north either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "administration_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "administration_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "administration_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "administration_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "administration_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "administration_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "administration_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "administration_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "administration_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "administration_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "administration_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "proposed_northeast_laboratories either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "proposed_library either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_auditorium_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on first leaf opens both targets",
+            "detail": "Both leaves queue movement/completion towards their own openAngle.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on second leaf closes both targets",
+            "detail": "One interaction closes the entire doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on second leaf opens both targets",
+            "detail": "The reciprocal link has the same behavior from either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south interaction on first leaf closes both targets",
+            "detail": "No recursive toggle cancels either leaf's target.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south shared lock is atomic",
+            "detail": "A key for only one leaf does not unlock or open either leaf.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south keys unlock both from either leaf",
+            "detail": "Both required keys are checked before either lock changes.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south paired capture shares state",
+            "detail": "Both existing persistent IDs capture the same open/locked JSON.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south legacy restore owner then partner",
+            "detail": "A divergent partner record cannot override the stable owner ID.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south legacy restore partner then owner",
+            "detail": "Save enumeration order does not split a doorway.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south JSON restore snaps both leaf rotations",
+            "detail": "Each leaf is at its own openAngle; no movement or completion sounds are queued.",
+            "passed": true
+        },
+        {
+            "name": "main_coordination_south either leaf lock appears in both captures",
+            "detail": "A lock on either leaf locks the doorway in its saved state.",
+            "passed": true
+        },
+        {
+            "name": "Single door still toggles independently",
+            "detail": "Optional pairing defaults to null on existing single doors.",
+            "passed": true
+        },
+        {
+            "name": "Exact Editor door state restored",
+            "detail": "Hinge rotations, private animation flags/timers, locks, keys and original UnityEvent references were restored. No disk save or PlayerPrefs calls.",
+            "passed": true
+        }
+    ],
+    "errors": []
+}

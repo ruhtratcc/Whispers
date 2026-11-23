@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: Evidence
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: bd.helena.investigation
+  title: "Anota\xE7\xF5es de Helena"
+  description: "2007: conferir nomes, ouvir fam\xEDlias, guardar c\xF3pias.\n2012: as datas se repetem. Ningu\xE9m responde.\n2018: as palavras atravessam a margem.\n\nele sempre guardou o apito\nele sempre guardou o apito\nele sempre guardou o apito"
+  frontText: "Anota\xE7\xF5es de Helena"
+  backText: "2007: conferir nomes, ouvir fam\xEDlias, guardar c\xF3pias.\n2012: as datas se repetem. Ningu\xE9m responde.\n2018: as palavras atravessam a margem.\n\nele sempre guardou o apito\nele sempre guardou o apito\nele sempre guardou o apito"
+  detailText: 
+  alternateBackText: 
+  recordingText: 
+  model: {fileID: 1351618190364843467, guid: edd5a68e22782ad46ac8960aadc298d9, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  pages: []
+  recordInNotes: 1
+  canPlay: 0
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0
+  maximumStress: 0
+  pickupSound: {fileID: 11400000, guid: 3006a2c4d9f2d794a8cb65d783062973, type: 2}
+  whisper: {fileID: 0}
+  recording: {fileID: 0}

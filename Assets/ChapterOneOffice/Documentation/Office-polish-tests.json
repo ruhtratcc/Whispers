@@ -1,0 +1,33 @@
+{
+    "startedUtc": "2026-10-01T09:52:14.6111674Z",
+    "generatedUtc": "2026-10-01T09:52:43.0334235Z",
+    "scene": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+    "status": "Passed",
+    "completed": true,
+    "passed": true,
+    "editMode": {
+        "mode": "EditMode",
+        "result": "Passed",
+        "expectedMinimum": 5,
+        "passed": 5,
+        "failed": 0,
+        "skipped": 0,
+        "inconclusive": 0,
+        "duration": 0.0984157,
+        "success": true,
+        "failures": []
+    },
+    "playMode": {
+        "mode": "PlayMode",
+        "result": "Passed",
+        "expectedMinimum": 14,
+        "passed": 14,
+        "failed": 0,
+        "skipped": 0,
+        "inconclusive": 0,
+        "duration": 25.7562474,
+        "success": true,
+        "failures": []
+    },
+    "errors": []
+}

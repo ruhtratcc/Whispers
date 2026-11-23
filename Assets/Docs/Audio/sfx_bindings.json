@@ -1,0 +1,625 @@
+{
+  "bindings": [
+    {
+      "nome": "amb_car_interior",
+      "targetAsset": "Assets/Audio/Sets/car_interior.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "car_interior"
+    },
+    {
+      "nome": "amb_morning_birds",
+      "targetAsset": "Assets/Audio/Sets/dawn_birds.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "dawn_birds"
+    },
+    {
+      "nome": "amb_morning_birds",
+      "targetAsset": "Assets/HorrorGameplay/Data/Polish20261103/Endings.asset",
+      "field": "morningAmbience",
+      "index": -1,
+      "kind": "AudioClip",
+      "evidence": "EndingPresentationConfig.morningAmbience",
+      "sourceAlias": "morning_ambience"
+    },
+    {
+      "nome": "amb_wind_outside",
+      "targetAsset": "Assets/Audio/Sets/interior_wind_loop.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "interior_wind_loop"
+    },
+    {
+      "nome": "battery_pickup",
+      "targetAsset": "Assets/Audio/Sets/battery.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "battery"
+    },
+    {
+      "nome": "building_creak",
+      "targetAsset": "Assets/Audio/Sets/room_creak.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "explicit alias -> AudioCues.room_creak",
+      "sourceAlias": "building_creak"
+    },
+    {
+      "nome": "chair_scrape",
+      "targetAsset": "Assets/Audio/Sets/chair_tile_scrape.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "chair_tile_scrape"
+    },
+    {
+      "nome": "chair_scrape",
+      "targetAsset": "Assets/Audio/Sets/chair.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "chair"
+    },
+    {
+      "nome": "door_locked_rattle",
+      "targetAsset": "Assets/Audio/Sets/door_locked.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "door_locked"
+    },
+    {
+      "nome": "door_wood_close",
+      "targetAsset": "Assets/Audio/Sets/door_close.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "door_close"
+    },
+    {
+      "nome": "door_wood_open",
+      "targetAsset": "Assets/Audio/Sets/door_open.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "door_open"
+    },
+    {
+      "nome": "drawer_close",
+      "targetAsset": "Assets/Audio/Sets/drawer_close.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "drawer_close"
+    },
+    {
+      "nome": "drawer_open",
+      "targetAsset": "Assets/Audio/Sets/drawer_open.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "drawer_open"
+    },
+    {
+      "nome": "flashlight_off",
+      "targetAsset": "Assets/Audio/Sets/flashlight_off.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "flashlight_off"
+    },
+    {
+      "nome": "flashlight_on",
+      "targetAsset": "Assets/Audio/Sets/flashlight_on.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "flashlight_on"
+    },
+    {
+      "nome": "foot_carpet_walk",
+      "targetAsset": "Assets/Audio/Sets/step_carpet.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "step_carpet"
+    },
+    {
+      "nome": "foot_carpet_walk",
+      "targetAsset": "Assets/Audio/Sets/steps_carpet.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "steps_carpet"
+    },
+    {
+      "nome": "foot_carpet_walk",
+      "targetAsset": "Assets/HorrorGameplay/Audio/Step-Carpet.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "FootstepLibrary.entries surface 6",
+      "sourceAlias": "step_carpet"
+    },
+    {
+      "nome": "foot_concrete_walk",
+      "targetAsset": "Assets/Audio/Sets/step_concrete.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "step_concrete"
+    },
+    {
+      "nome": "foot_concrete_walk",
+      "targetAsset": "Assets/Audio/Sets/steps_concrete.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "steps_concrete"
+    },
+    {
+      "nome": "foot_concrete_walk",
+      "targetAsset": "Assets/HorrorGameplay/Audio/Step-Concrete.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "FootstepLibrary.entries surface 1",
+      "sourceAlias": "step_concrete"
+    },
+    {
+      "nome": "foot_land",
+      "targetAsset": "Assets/HorrorGameplay/Audio/Land-Tile.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "FootstepLibrary.entries landing 5",
+      "sourceAlias": "land_tile"
+    },
+    {
+      "nome": "foot_tile_walk",
+      "targetAsset": "Assets/Audio/Sets/step_tile.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "step_tile"
+    },
+    {
+      "nome": "foot_tile_walk",
+      "targetAsset": "Assets/Audio/Sets/steps_tile.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "steps_tile"
+    },
+    {
+      "nome": "foot_tile_walk",
+      "targetAsset": "Assets/HorrorGameplay/Audio/Step-Tile.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "FootstepLibrary.entries surface 5",
+      "sourceAlias": "step_tile"
+    },
+    {
+      "nome": "foot_wood_walk",
+      "targetAsset": "Assets/Audio/Sets/step_wood.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "step_wood"
+    },
+    {
+      "nome": "foot_wood_walk",
+      "targetAsset": "Assets/Audio/Sets/steps_wood.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "steps_wood"
+    },
+    {
+      "nome": "foot_wood_walk",
+      "targetAsset": "Assets/HorrorGameplay/Audio/Step-Wood.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "FootstepLibrary.entries surface 0",
+      "sourceAlias": "step_wood"
+    },
+    {
+      "nome": "glass_shatter_mirror",
+      "targetAsset": "Assets/Audio/Sets/mirror_shatter.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "explicit alias -> AudioCues.mirror_shatter",
+      "sourceAlias": "glass_shatter_mirror"
+    },
+    {
+      "nome": "hdd_seek",
+      "targetAsset": "Assets/Audio/Sets/mechanical_drive_seek.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "mechanical_drive_seek"
+    },
+    {
+      "nome": "hdd_seek",
+      "targetAsset": "Assets/Audio/Sets/pc_hd.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "pc_hd"
+    },
+    {
+      "nome": "heartbeat_fast",
+      "targetAsset": "Assets/Audio/Sets/heartbeat_recorded.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "heartbeat_recorded"
+    },
+    {
+      "nome": "heartbeat_fast",
+      "targetAsset": "Assets/Audio/Sets/heartbeat.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "heartbeat"
+    },
+    {
+      "nome": "item_pickup_soft",
+      "targetAsset": "Assets/Audio/Sets/item.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "item"
+    },
+    {
+      "nome": "key_pickup",
+      "targetAsset": "Assets/Audio/Sets/key_pickup.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "key_pickup"
+    },
+    {
+      "nome": "lockpick_break",
+      "targetAsset": "Assets/HorrorGameplay/Data/Lockpick/Snap.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/HorrorGameplay/Data/Lockpick/LockpickConfig.asset.snap",
+      "sourceAlias": "lockpick_break"
+    },
+    {
+      "nome": "lockpick_jam",
+      "targetAsset": "Assets/HorrorGameplay/Data/Lockpick/Blocked.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/HorrorGameplay/Data/Lockpick/LockpickConfig.asset.blocked",
+      "sourceAlias": "lockpick_blocked"
+    },
+    {
+      "nome": "lockpick_pin_set",
+      "targetAsset": "Assets/HorrorGameplay/Data/Lockpick/Pins.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/HorrorGameplay/Data/Lockpick/LockpickConfig.asset.pinClick",
+      "sourceAlias": "lockpick_pin"
+    },
+    {
+      "nome": "lockpick_scrape",
+      "targetAsset": "Assets/HorrorGameplay/Data/Lockpick/Scrape.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/HorrorGameplay/Data/Lockpick/LockpickConfig.asset.scrape",
+      "sourceAlias": "lockpick_scrape"
+    },
+    {
+      "nome": "lockpick_success",
+      "targetAsset": "Assets/HorrorGameplay/Data/Lockpick/Unlock.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/HorrorGameplay/Data/Lockpick/LockpickConfig.asset.unlock",
+      "sourceAlias": "lockpick_unlock"
+    },
+    {
+      "nome": "notify_soft",
+      "targetAsset": "Assets/Audio/Sets/pc_notification.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "pc_notification"
+    },
+    {
+      "nome": "paper_rustle",
+      "targetAsset": "Assets/Audio/Sets/paper.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "paper"
+    },
+    {
+      "nome": "pc_boot_jingle",
+      "targetAsset": "Assets/Audio/Sets/pc_boot.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "pc_boot"
+    },
+    {
+      "nome": "pc_fan",
+      "targetAsset": "Assets/Audio/Sets/computer_fan_loop.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "computer_fan_loop"
+    },
+    {
+      "nome": "pc_fan",
+      "targetAsset": "Assets/Audio/Sets/pc_fan.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "pc_fan"
+    },
+    {
+      "nome": "phone_message_sent",
+      "targetAsset": "Assets/Audio/Sets/phone_send.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "phone_send"
+    },
+    {
+      "nome": "phone_notify",
+      "targetAsset": "Assets/Audio/Sets/phone_notification.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "phone_notification"
+    },
+    {
+      "nome": "phone_typing_dots",
+      "targetAsset": "Assets/Audio/Sets/phone_screen_taps.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "phone_screen_taps"
+    },
+    {
+      "nome": "phone_typing_dots",
+      "targetAsset": "Assets/Audio/Sets/phone_typing.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "phone_typing"
+    },
+    {
+      "nome": "phone_vibrate_soft",
+      "targetAsset": "Assets/Audio/Sets/phone_vibrate_table.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "phone_vibrate_table"
+    },
+    {
+      "nome": "phone_vibrate_soft",
+      "targetAsset": "Assets/Audio/Sets/phone_vibration.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "phone_vibration"
+    },
+    {
+      "nome": "school_bell_far",
+      "targetAsset": "Assets/Audio/Sets/bell.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "bell"
+    },
+    {
+      "nome": "siren_police_pass",
+      "targetAsset": "Assets/HorrorGameplay/Data/Polish20261103/Endings.asset",
+      "field": "sirenSound",
+      "index": -1,
+      "kind": "AudioClip",
+      "evidence": "EndingPresentationConfig.sirenSound",
+      "sourceAlias": "siren_police"
+    },
+    {
+      "nome": "sting_mirror",
+      "targetAsset": "Assets/Audio/Sets/mirror_shock_hit.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "explicit alias -> AudioCues.mirror_shock_hit",
+      "sourceAlias": "sting_mirror"
+    },
+    {
+      "nome": "tape_hiss",
+      "targetAsset": "Assets/Audio/Sets/cassette_hiss_loop.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "cassette_hiss_loop"
+    },
+    {
+      "nome": "tape_play",
+      "targetAsset": "Assets/Audio/Sets/tape_play.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "tape_play"
+    },
+    {
+      "nome": "tape_rewind",
+      "targetAsset": "Assets/Audio/Sets/tape_rewind.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "tape_rewind"
+    },
+    {
+      "nome": "tape_stop",
+      "targetAsset": "Assets/Audio/Sets/tape_stop.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "tape_stop"
+    },
+    {
+      "nome": "ui_click",
+      "targetAsset": "Assets/Audio/Sets/ui_confirm.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "ui_confirm"
+    },
+    {
+      "nome": "water_drip",
+      "targetAsset": "Assets/Audio/Sets/water_drip.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "water_drip"
+    },
+    {
+      "nome": "water_drip",
+      "targetAsset": "Assets/Audio/Sets/drip.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "drip"
+    },
+    {
+      "nome": "whistle_blow",
+      "targetAsset": "Assets/Audio/Sets/whistle_real.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "whistle_real"
+    },
+    {
+      "nome": "whistle_blow",
+      "targetAsset": "Assets/Audio/Sets/whistle.asset",
+      "field": "clips",
+      "index": -1,
+      "kind": "SoundSet",
+      "evidence": "Assets/Audio/AudioCues.asset exact id",
+      "sourceAlias": "whistle"
+    },
+    {
+      "nome": "whistle_blow",
+      "targetAsset": "Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset",
+      "field": "tapClip",
+      "index": -1,
+      "kind": "AudioClip",
+      "evidence": "WhistleConfig.tapClip",
+      "sourceAlias": "whistle"
+    },
+    {
+      "nome": "whistle_lost_echo",
+      "targetAsset": "Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset",
+      "field": "emptyEchoClip",
+      "index": -1,
+      "kind": "AudioClip",
+      "evidence": "WhistleConfig.emptyEchoClip",
+      "sourceAlias": "whistle_empty_echo"
+    },
+    {
+      "nome": "whistle_reply_bia",
+      "targetAsset": "Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset",
+      "field": "childAnswerClips",
+      "index": 3,
+      "kind": "AudioClip",
+      "evidence": "WhistleConfig child order",
+      "sourceAlias": "whistle_child_bia"
+    },
+    {
+      "nome": "whistle_reply_caio",
+      "targetAsset": "Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset",
+      "field": "childAnswerClips",
+      "index": 1,
+      "kind": "AudioClip",
+      "evidence": "WhistleConfig child order",
+      "sourceAlias": "whistle_child_caio"
+    },
+    {
+      "nome": "whistle_reply_luan",
+      "targetAsset": "Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset",
+      "field": "childAnswerClips",
+      "index": 2,
+      "kind": "AudioClip",
+      "evidence": "WhistleConfig child order",
+      "sourceAlias": "whistle_child_luan"
+    },
+    {
+      "nome": "whistle_reply_marta",
+      "targetAsset": "Assets/HorrorGameplay/Data/Whistle/WhistleConfig.asset",
+      "field": "childAnswerClips",
+      "index": 0,
+      "kind": "AudioClip",
+      "evidence": "WhistleConfig child order",
+      "sourceAlias": "whistle_child_marta"
+    }
+  ]
+}

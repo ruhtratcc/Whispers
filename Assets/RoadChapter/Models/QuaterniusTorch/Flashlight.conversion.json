@@ -1,0 +1,87 @@
+{
+  "source": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\outputs\\RoadChapter\\Models\\QuaterniusTorch\\Torch.glb",
+  "output": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\outputs\\RoadChapter\\Models\\QuaterniusTorch\\Flashlight.obj",
+  "staticOnly": true,
+  "min": [
+    -0.035002,
+    -0.03447,
+    -0.13
+  ],
+  "max": [
+    0.035002,
+    0.03447,
+    0.13
+  ],
+  "size": [
+    0.070003,
+    0.06894,
+    0.260001
+  ],
+  "meshGroups": 4,
+  "triangles": 610,
+  "materials": [
+    "Yellow",
+    "Black",
+    "LightBlue",
+    "DarkYellow"
+  ],
+  "images": 0,
+  "parts": [
+    {
+      "name": "Torch_0",
+      "material": "Yellow",
+      "min": [
+        -0.03226,
+        -0.031854,
+        -0.108687
+      ],
+      "max": [
+        0.03226,
+        0.031686,
+        0.100264
+      ]
+    },
+    {
+      "name": "Torch_1",
+      "material": "Black",
+      "min": [
+        -0.035002,
+        -0.03447,
+        -0.13
+      ],
+      "max": [
+        0.035002,
+        0.03447,
+        0.127021
+      ]
+    },
+    {
+      "name": "Torch_2",
+      "material": "LightBlue",
+      "min": [
+        -0.030099,
+        -0.029792,
+        0.12702
+      ],
+      "max": [
+        0.030099,
+        0.029491,
+        0.13
+      ]
+    },
+    {
+      "name": "Torch_3",
+      "material": "DarkYellow",
+      "min": [
+        -0.015856,
+        -0.018497,
+        -0.017276
+      ],
+      "max": [
+        0.015856,
+        0.015029,
+        0.050483
+      ]
+    }
+  ]
+}

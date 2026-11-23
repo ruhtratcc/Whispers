@@ -1,0 +1,98 @@
+{
+  "id": "red_plaster_weathered",
+  "name": "Red Plaster Weathered",
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "author": "Amal Kumar",
+  "url": "https://polyhaven.com/a/red_plaster_weathered",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://polyhaven.com/license",
+  "dimensionsMillimeters": [
+    2000,
+    2000
+  ],
+  "infoUrl": "https://api.polyhaven.com/info/red_plaster_weathered",
+  "filesUrl": "https://api.polyhaven.com/files/red_plaster_weathered",
+  "resolution": "1k",
+  "format": "JPG",
+  "use": "Alvenaria terracota e reboco externo gasto; preservar cor existente",
+  "sourceDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\assets\\textures\\red_plaster_weathered",
+  "preparedDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered",
+  "maps": {
+    "albedoOriginal": "work/SurfaceFixturePolish/Textures/Prepared/red_plaster_weathered/red_plaster_weathered_diff_1k.jpg",
+    "albedoColorPreserving": "work/SurfaceFixturePolish/Textures/Prepared/red_plaster_weathered/AlbedoColorPreserving.png",
+    "normalOpenGL": "work/SurfaceFixturePolish/Textures/Prepared/red_plaster_weathered/red_plaster_weathered_nor_gl_1k.jpg",
+    "metallicSmoothness": "work/SurfaceFixturePolish/Textures/Prepared/red_plaster_weathered/MetallicSmoothness.png",
+    "occlusion": "work/SurfaceFixturePolish/Textures/Prepared/red_plaster_weathered/Occlusion.png"
+  },
+  "absoluteMaps": {
+    "albedoOriginal": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered\\red_plaster_weathered_diff_1k.jpg",
+    "albedoColorPreserving": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered\\AlbedoColorPreserving.png",
+    "normalOpenGL": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered\\red_plaster_weathered_nor_gl_1k.jpg",
+    "metallicSmoothness": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered\\MetallicSmoothness.png",
+    "occlusion": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered\\Occlusion.png"
+  },
+  "recommended": {
+    "preserveExistingBaseColor": true,
+    "useAlbedo": "AlbedoColorPreserving.png",
+    "normalStrength": 0.29,
+    "smoothnessFactor": 0.16,
+    "occlusionStrength": 0.32,
+    "emission": false,
+    "environmentReflections": false,
+    "physicalRepeatMeters": [
+      2.0,
+      2.0
+    ]
+  },
+  "channelPacking": {
+    "MetallicSmoothness.R": "ARM.B metallic",
+    "MetallicSmoothness.GB": "0",
+    "MetallicSmoothness.A": "255 - ARM.G roughness",
+    "Occlusion.G": "ARM.R AO"
+  },
+  "sRGB": [
+    "albedoOriginal",
+    "albedoColorPreserving"
+  ],
+  "linear": [
+    "metallicSmoothness",
+    "occlusion"
+  ],
+  "normalImporter": "TextureImporterType.NormalMap; source is OpenGL tangent space",
+  "conversionVerified": true,
+  "neutralAlbedoFormula": ".82 + .66*(Rec709 luminance - median luminance), clamp .32..96",
+  "files": [
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/red_plaster_weathered/red_plaster_weathered_diff_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered\\red_plaster_weathered_diff_1k.jpg",
+      "bytes": 710340,
+      "sha256": "b49519d865609f137b1796114234183f512d936a51989b74a17a67b47d3bf668"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/red_plaster_weathered/AlbedoColorPreserving.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered\\AlbedoColorPreserving.png",
+      "bytes": 717480,
+      "sha256": "1595163a094151fa2a45f1f6ec050922443f45f0f6fcdd8f96eed8317b913c0d"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/red_plaster_weathered/red_plaster_weathered_nor_gl_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered\\red_plaster_weathered_nor_gl_1k.jpg",
+      "bytes": 581562,
+      "sha256": "72ee053a5ea8a0e9c9a33bd6d84ab576cb218961c62f97b08804c3e19f824d5f"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/red_plaster_weathered/MetallicSmoothness.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered\\MetallicSmoothness.png",
+      "bytes": 1216677,
+      "sha256": "92f3c503a24fb6a23ff47b8f3799dfb838e4766006a396eef6ec717f0793f657"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/red_plaster_weathered/Occlusion.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\red_plaster_weathered\\Occlusion.png",
+      "bytes": 727461,
+      "sha256": "ffc1e412a892c2f0a5717eb448f3339bf65efcd9f248b2d5ba36cd1efa17340f"
+    }
+  ]
+}

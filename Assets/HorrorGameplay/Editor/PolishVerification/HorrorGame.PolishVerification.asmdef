@@ -1,0 +1,11 @@
+{
+  "name": "HorrorGame.PolishVerification",
+  "rootNamespace": "HorrorGame.PolishVerification",
+  "references": [
+    "HorrorGame.Runtime",
+    "HorrorGame.Editor",
+    "UnityEditor.TestRunner"
+  ],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

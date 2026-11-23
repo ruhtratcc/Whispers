@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: Marta
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: bd.marta.notebook
+  title: Caderno da Marta
+  description: Caderno da Marta
+  frontText: Caderno da Marta
+  backText: "MARTA \u2014 12 ANOS\nDesenhos de uma figura alta na porta. No \xFAltimo, um homem de costas segura um apito. O casaco \xE9 o meu."
+  detailText: 
+  alternateBackText: 
+  recordingText: 
+  model: {fileID: 7424482941708835517, guid: ecb5d4ecc82ecf1438d05bc0b12fff17, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  pages: []
+  recordInNotes: 1
+  canPlay: 0
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0
+  maximumStress: 0
+  pickupSound: {fileID: 11400000, guid: 352984ba3e2ffc249a99842c6a9a4b72, type: 2}
+  whisper: {fileID: 0}
+  recording: {fileID: 0}
+  recordingCues: []

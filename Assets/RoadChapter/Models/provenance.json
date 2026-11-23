@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sedã próprio de João",
+    "kind": "Native Unity geometry created for this project",
+    "usedInCurrentScene": true,
+    "source": "work/RoadChapter/Editor/DetectiveSedanBuilder.cs",
+    "installedSource": "Assets/RoadChapter/Editor/DetectiveSedanBuilder.cs",
+    "sourceSha256": "8E7E87AB22AF1A5FA5C71E30D38D488D9E45EBBDDDE10A151823DE2A58CAE7EA",
+    "assets": "Assets/RoadChapter/Models/DetectiveSedan",
+    "externalModelDerivedFrom": null
+  },
+  {
+    "name": "Spectral GT RS",
+    "author": "JaronKBragg7337",
+    "source": "https://github.com/JaronKBragg7337/spectral-gt-rs",
+    "download": "https://raw.githubusercontent.com/JaronKBragg7337/spectral-gt-rs/main/spectral_gt_rs_game_ready.glb",
+    "license": "CC0-1.0",
+    "originalSha256": "E7B7F0D9DE0C3BC3897C8134B1CEAE5631B1DA2690D336DF18C3EA82E7238C73",
+    "objSha256": "1CD21D3931559FA37865E4CC55F18F836FB11374E0D5787D397535E2781D0FDD",
+    "usedInCurrentScene": false
+  },
+  {
+    "name": "Torch",
+    "author": "Quaternius",
+    "source": "https://poly.pizza/m/WGsvr4KOZd",
+    "download": "https://static.poly.pizza/035c4897-22f3-4e9c-b29f-ebafe2b566da.glb",
+    "license": "CC0-1.0",
+    "originalSha256": "62C1F1E63E889716480AC5484E342E82650461AAB9A0158B65E2C3516A522D3C",
+    "objSha256": "867290C36295F485C7F1447D01C340C0496852AA2EA1E32F46FBC940716C8110",
+    "usedInCurrentScene": true
+  }
+]

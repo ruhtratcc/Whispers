@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+  "heights": [
+    {
+      "zone": "Hall elevado",
+      "height": 0.644,
+      "passed": true,
+      "collider": "Hall — plataforma principal"
+    },
+    {
+      "zone": "Mesas de jogos abaixo",
+      "height": 0.044,
+      "passed": true,
+      "collider": "Piso térreo"
+    },
+    {
+      "zone": "Lateral oeste abaixo",
+      "height": 0.0249999985,
+      "passed": true,
+      "collider": "Oeste — passagem normal junto do jardim"
+    },
+    {
+      "zone": "Refeitório abaixo",
+      "height": 0.0,
+      "passed": true,
+      "collider": "Piso térreo"
+    }
+  ],
+  "collisionMeshes": [
+    {
+      "name": "Oeste_Rampa",
+      "path": "Assets/SchoolCEEP/Meshes/HallGrade/20261002-181723-021-82d0d9e4/Oeste_Rampa.asset",
+      "saved": true
+    },
+    {
+      "name": "Oeste_Rampa_Retorno",
+      "path": "Assets/SchoolCEEP/Meshes/HallGrade/20261002-181723-021-82d0d9e4/Oeste_Rampa_Retorno.asset",
+      "saved": true
+    },
+    {
+      "name": "Leste_Rampa",
+      "path": "Assets/SchoolCEEP/Meshes/HallGrade/20261002-181723-021-82d0d9e4/Leste_Rampa.asset",
+      "saved": true
+    },
+    {
+      "name": "Entrada_Hall",
+      "path": "Assets/SchoolCEEP/Meshes/HallGrade/20261002-181723-021-82d0d9e4/Entrada_Hall.asset",
+      "saved": true
+    }
+  ]
+}

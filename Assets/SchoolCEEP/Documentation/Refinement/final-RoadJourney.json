@@ -1,0 +1,27 @@
+{
+  "scene": "Assets/RoadChapter/Scenes/RoadJourney.unity",
+  "dirty": false,
+  "play": false,
+  "compiling": false,
+  "missingScripts": 0,
+  "missingMeshes": 0,
+  "missingMaterials": 0,
+  "unsupportedShaders": [],
+  "shaderErrors": [],
+  "gameSessions": 1,
+  "cameras": 1,
+  "players": 1,
+  "enemies": 0,
+  "duplicatePersistentIds": [],
+  "emptyPersistentIds": 0,
+  "storyErrors": [],
+  "horrorFilter": true,
+  "chapterIndex": 1,
+  "saturation": 0.5,
+  "temporaryObjects": [],
+  "position": {
+    "x": -0.43,
+    "y": -0.37,
+    "z": -0.28
+  }
+}

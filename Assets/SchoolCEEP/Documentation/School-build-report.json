@@ -1,0 +1,38 @@
+{
+    "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+    "status": "ready",
+    "walls": 1121,
+    "windows": 160,
+    "doors": 114,
+    "lights": 138,
+    "rooms": 70,
+    "staticRenderers": 192,
+    "redundantTrimCollidersOmitted": 979,
+    "provisionalFurnitureRelocated": 19,
+    "provisionalFurnitureOmitted": 0,
+    "metersPerPoint": 0.07055555284023285,
+    "floorHeight": 3.809999942779541,
+    "integration": {
+        "passed": true,
+        "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+        "startingChapterId": "school",
+        "schoolScene": "SchoolCEEP",
+        "newGameScene": "Chapter1Office",
+        "roadScene": "",
+        "gameSessions": 1,
+        "players": 1,
+        "narrativeDirectors": 1,
+        "saveSystems": 1,
+        "prologueFlows": 0,
+        "referencesValid": true,
+        "buildSceneEnabled": true,
+        "flashlightStartsOn": false,
+        "flashlightIntensity": 90.0,
+        "spawn": {
+            "x": 0.0,
+            "y": 0.05000000074505806,
+            "z": 2.8222222328186035
+        },
+        "duplicatePersistentIds": []
+    }
+}

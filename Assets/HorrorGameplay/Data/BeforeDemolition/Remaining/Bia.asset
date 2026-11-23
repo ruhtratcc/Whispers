@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: Bia
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: bd.bia.tape
+  title: "Fita 2 \u2014 Bia"
+  description: "Fita 2 \u2014 Bia"
+  frontText: "Fita 2 \u2014 Bia"
+  backText: "BIA \u2014 13 ANOS\nOu\xE7a a grava\xE7\xE3o at\xE9 o fim. R para reproduzir."
+  detailText: 
+  alternateBackText: 
+  recordingText: "A tia Helena deixou a gente ficar. Ela falou que j\xE1 voltava. A luz acabou e a gente ouviu o sinal. S\xF3 que o sinal n\xE3o tocou l\xE1 em cima, tocou dentro da parede. A gente correu pra ela chamar, e a tia Helena tava na porta sorrindo. Mas ela n\xE3o tava mexendo a boca."
+  model: {fileID: 4716785379691064382, guid: 71e6b510958bb594e82f93668a150103, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  pages: []
+  recordInNotes: 1
+  canPlay: 1
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 23.766624
+  stressPerSecond: 0
+  maximumStress: 0
+  pickupSound: {fileID: 11400000, guid: d826124dff1ce5746b98840b305e8ae2, type: 2}
+  whisper: {fileID: 0}
+  recording: {fileID: 11400000, guid: f1cf1bc6e9ef1e243a48ddf4746fdef2, type: 2}
+  recordingCues:
+  - start: 0.63
+    end: 2.98
+    text: A tia Helena mandou a gente ficar na sala.
+  - start: 4
+    end: 5.55
+    text: "Ela falou que j\xE1 voltava."
+  - start: 6.84
+    end: 9.23
+    text: A luz acabou e a gente ouviu o sinal.
+  - start: 10.48
+    end: 12.77
+    text: "S\xF3 que o sinal n\xE3o tocou l\xE1 em cima."
+  - start: 12.8
+    end: 14.3
+    text: Tocou dentro da parede.
+  - start: 15.22
+    end: 17.1
+    text: A gente correu pra ela chamar,
+  - start: 17.22
+    end: 19.6
+    text: e a tia Helena tava na porta sorrindo.
+  - start: 21.02
+    end: 23.46
+    text: "Mas ela n\xE3o tava mexendo a boca."

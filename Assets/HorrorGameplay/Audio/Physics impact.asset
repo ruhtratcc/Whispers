@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80b3c7e9f7c341143b507c75926ee639, type: 3}
+  m_Name: Physics impact
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.SoundSet
+  clips:
+  - {fileID: 8300000, guid: 7a6f3ce5436fd0545abe634e693339e2, type: 3}
+  - {fileID: 8300000, guid: b485218a418aefa4c99a2b668d95df0e, type: 3}
+  - {fileID: 8300000, guid: 950bcc2b0237b1c40bad844192f36fb5, type: 3}
+  pitch: {x: 0.94, y: 1.06}
+  volume: {x: 0.42, y: 0.58}
+  minimumDistance: 1
+  maximumDistance: 15

@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+  "dimensionsEstimated": true,
+  "editorPhysicsOnly": true,
+  "checks": [
+    {
+      "name": "Canteen roof has raised native underside",
+      "passed": true,
+      "detail": "Actual native solid roof spans4.20..4.40m."
+    },
+    {
+      "name": "Clear height grows without raising floor",
+      "passed": true,
+      "detail": "Native floor remains at low grade; overhead clearance exceeds4.15m."
+    },
+    {
+      "name": "Partition reaches existing hall roof profile",
+      "passed": true,
+      "detail": "Native gable matches5.10m eave and6.40m hall ridge."
+    },
+    {
+      "name": "Upper wall is solid",
+      "passed": true,
+      "detail": "A native horizontal ray at5.90m hits the wall below the hall ridge."
+    },
+    {
+      "name": "Wide entrance upper band joins the gable",
+      "passed": true,
+      "detail": "Twenty independent native rays confirm no gap from3.35m to5.10m over the original wide opening."
+    },
+    {
+      "name": "Wide entrance upper band is rendered",
+      "passed": true,
+      "detail": "Twenty front-face rays hit the saved rendered plaster triangles above the entrance, independently of its collider."
+    },
+    {
+      "name": "Roof detail follows raised envelope",
+      "passed": true,
+      "detail": "Steel trusses and light fixtures are raised with the roof; service counters remain at their working heights."
+    },
+    {
+      "name": "Opening identities retained",
+      "passed": true,
+      "detail": "Native door positions, dimensions, leaf colliders and hinges remain intact during the height change."
+    }
+  ],
+  "errors": [],
+  "ceilingMeters": 4.20000029,
+  "partitionRidgeMeters": 6.4
+}

@@ -1,0 +1,1346 @@
+{
+  "generatedUtc": "2026-11-04T10:20:13.3313814Z",
+  "scope": "Imagens: importação explícita; nenhum save pessoal ou estado de jogo acessado.",
+  "completed": true,
+  "entries": [
+    {
+      "asset": "Assets/ThirdParty/Images/drawing_wall_01.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/drawing_wall_01.png",
+      "state": "movido",
+      "detail": "GUID de Incoming preservado."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/drawing_wall_02.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/drawing_wall_02.png",
+      "state": "movido",
+      "detail": "GUID de Incoming preservado."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/drawing_wall_03.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/drawing_wall_03.png",
+      "state": "movido",
+      "detail": "GUID de Incoming preservado."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/foto_corredor.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/foto_corredor.png",
+      "state": "movido",
+      "detail": "GUID de Incoming preservado."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/foto_escritorio.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/foto_escritorio.png",
+      "state": "movido",
+      "detail": "GUID de Incoming preservado."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/foto_porta_secretaria.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/foto_porta_secretaria.png",
+      "state": "movido",
+      "detail": "GUID de Incoming preservado."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_01.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_01.png",
+      "state": "atualizado",
+      "detail": "GUID do destino preservado; Incoming mantido."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_02.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_02.png",
+      "state": "atualizado",
+      "detail": "GUID do destino preservado; Incoming mantido."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_03.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_03.png",
+      "state": "atualizado",
+      "detail": "GUID do destino preservado; Incoming mantido."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/secretary_footprint_mask.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/secretary_footprint_mask.png",
+      "state": "atualizado",
+      "detail": "GUID do destino preservado; Incoming mantido."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/inspect_luan_drawing.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/inspect_luan_drawing.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_investigation_wall.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_investigation_wall.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/wall_school_lit_4x3.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/wall_school_lit_4x3.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/wall_school_lit_4x3_2048.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/wall_school_lit_4x3_2048.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/final_school_lit_16x9.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/final_school_lit_16x9.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/photo_school_facade_bw.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/photo_school_facade_bw.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/sign_seepe_facade.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/sign_seepe_facade.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_cracks_mirror.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_decal_cracks_mirror.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_handprint_glass.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_decal_handprint_glass.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_footprints_small.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_decal_footprints_small.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/icon_flashlight.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/icon_flashlight.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/icon_whistle.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/icon_whistle.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/icon_lockpick.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/icon_lockpick.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/icon_check.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/icon_check.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/icon_lock.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/icon_lock.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/foto_escritorio.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/foto_escritorio.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/foto_porta_secretaria.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/foto_porta_secretaria.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/foto_corredor.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/foto_corredor.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/inspect_helena_note.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_helena_note.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/inspect_helena_scribble.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_helena_scribble.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/inspect_report_2006.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_report_2006.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/inspect_news_2006.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_news_2006.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/secretary_footprint_mask.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/secretary_footprint_mask.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_01.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_01.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_chalkboard_01.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_chalkboard_01.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/drawing_wall_01.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/drawing_wall_01.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_02.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_02.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_chalkboard_02.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_chalkboard_02.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/drawing_wall_02.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/drawing_wall_02.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_03.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_03.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_chalkboard_03.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_chalkboard_03.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/drawing_wall_03.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/drawing_wall_03.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Cases/caso_01.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/Cases/caso_01.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_dirt_01.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_decal_dirt_01.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Cases/caso_02.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/Cases/caso_02.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_dirt_02.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_decal_dirt_02.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Cases/caso_03.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/Cases/caso_03.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_dirt_03.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_decal_dirt_03.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Cases/caso_04.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/Cases/caso_04.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_dirt_04.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/tex_decal_dirt_04.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_01.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/poster_school_01.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_02.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/poster_school_02.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_03.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/poster_school_03.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_04.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/poster_school_04.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_05.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/poster_school_05.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_06.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/poster_school_06.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_07.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/poster_school_07.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_08.png",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/poster_school_08.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/attach_school_day_lit.jpg",
+      "field": "importSettings",
+      "image": "Assets/ThirdParty/Images/attach_school_day_lit.jpg",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/attach_school_day_lit.png",
+      "field": "arquivo",
+      "image": "Assets/ThirdParty/Images/attach_school_day_lit.png",
+      "state": "alternativa não necessária",
+      "detail": "Versão JPEG1280x960 produzida; não duplicar PNG."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/TutorialCards/flashlight_placeholder.png",
+      "field": "importSettings",
+      "image": "Assets/HorrorGameplay/Data/TutorialCards/flashlight_placeholder.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/TutorialCards/whistle_placeholder.png",
+      "field": "importSettings",
+      "image": "Assets/HorrorGameplay/Data/TutorialCards/whistle_placeholder.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/TutorialCards/equipment_placeholder.png",
+      "field": "importSettings",
+      "image": "Assets/HorrorGameplay/Data/TutorialCards/equipment_placeholder.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/TutorialCards/lockpick_placeholder.png",
+      "field": "importSettings",
+      "image": "Assets/HorrorGameplay/Data/TutorialCards/lockpick_placeholder.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/TutorialCards/phone_placeholder.png",
+      "field": "importSettings",
+      "image": "Assets/HorrorGameplay/Data/TutorialCards/phone_placeholder.png",
+      "state": "configurado",
+      "detail": "NPOT None; sRGB; sem mipmaps; Clamp; aniso 0; máximo 2048."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Whistle/Discovery/HelenaNote.asset",
+      "field": "frontTexture",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_helena_note.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Whistle/Discovery/HelenaNote.asset/model/paper",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_helena_note.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Whistle/Discovery/ScribbledWarning.asset",
+      "field": "frontTexture",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_helena_scribble.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Whistle/Discovery/ScribbledWarning.asset/model/paper",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_helena_scribble.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Whistle/Discovery/LuanDrawing.asset",
+      "field": "frontTexture",
+      "image": "Assets/ThirdParty/Images/inspect_luan_drawing.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Whistle/Discovery/LuanDrawing.asset/model/paper",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/inspect_luan_drawing.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/BeforeDemolition/School/Report.asset",
+      "field": "frontTexture",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_report_2006.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/BeforeDemolition/ClosedCaseReport.asset",
+      "field": "frontTexture",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_report_2006.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/BeforeDemolition/School/Lunchbox.asset",
+      "field": "pages",
+      "image": "inspect_lunchbox_draw_01..03",
+      "state": "ligado",
+      "detail": "Três páginas; somente 03 currentDate; itemId preservado; modelo da lancheira intocado."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/BeforeDemolition/School/Lunchbox.asset",
+      "field": "pages[0].image",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_01.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/BeforeDemolition/School/Lunchbox.asset",
+      "field": "pages[1].image",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_02.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/BeforeDemolition/School/Lunchbox.asset",
+      "field": "pages[2].image",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_lunchbox_draw_03.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset",
+      "field": "secretary.photo.image",
+      "image": "Assets/ThirdParty/Images/foto_porta_secretaria.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/PhoneMessages/Messages.asset",
+      "field": "loop.photo.image",
+      "image": "Assets/ThirdParty/Images/foto_corredor.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionOfficeEmails.asset",
+      "field": "email.07/foto_escritorio.jpg",
+      "image": "Assets/HorrorGameplay/Data/BeforeDemolition/foto_escritorio.png",
+      "state": "preservado",
+      "detail": "Disponibilidade e relatórios bloqueados preservados."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Email/BeforeDemolitionEmails.asset",
+      "field": "email.07/foto_escritorio.jpg",
+      "image": "Assets/HorrorGameplay/Data/BeforeDemolition/foto_escritorio.png",
+      "state": "preservado",
+      "detail": "Disponibilidade e relatórios bloqueados preservados."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/",
+      "field": "attach_school_day_lit",
+      "image": "attach_school_day_lit.jpg",
+      "state": "disponível sem slot",
+      "detail": "Email 06 não tem anexo; estrutura narrativa preservada."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/CRTDesktop/DesktopContent.asset",
+      "field": "schoolWallpaper/files[photo.school].texture",
+      "image": "Assets/ThirdParty/Images/wall_school_lit_4x3.png",
+      "state": "ligado",
+      "detail": "Wallpaper paisagístico normal preservado."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/CRTDesktop/pagina_ceep_local_arquivo_quatro-alunos.asset",
+      "field": "image",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/inspect_news_2006.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Polish20261103/Endings.asset",
+      "field": "schoolImage",
+      "image": "Assets/ThirdParty/Images/final_school_lit_16x9.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Equipment/LANTERNA.asset",
+      "field": "icon",
+      "image": "Assets/ThirdParty/Images/icon_flashlight.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Equipment/APITO.asset",
+      "field": "icon",
+      "image": "Assets/ThirdParty/Images/icon_whistle.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Equipment/GRAMPO.asset",
+      "field": "icon",
+      "image": "Assets/ThirdParty/Images/icon_lockpick.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/TutorialCards/flashlight.asset",
+      "field": "image/fallbackImage",
+      "image": "Assets/HorrorGameplay/Data/TutorialCards/flashlight_placeholder.png",
+      "state": "existente",
+      "detail": "Mídia de tutorial existente preservada."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/TutorialCards/whistle.asset",
+      "field": "image/fallbackImage",
+      "image": "Assets/HorrorGameplay/Data/TutorialCards/whistle_placeholder.png",
+      "state": "existente",
+      "detail": "Demo de vídeo ainda depende de gravação; imagem fallback preservada."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/TutorialCards/equipment.asset",
+      "field": "image/fallbackImage",
+      "image": "Assets/HorrorGameplay/Data/TutorialCards/equipment_placeholder.png",
+      "state": "existente",
+      "detail": "Mídia de tutorial existente preservada."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/TutorialCards/lockpick.asset",
+      "field": "image/fallbackImage",
+      "image": "Assets/HorrorGameplay/Data/TutorialCards/lockpick_placeholder.png",
+      "state": "existente",
+      "detail": "Mídia de tutorial existente preservada."
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/TutorialCards/phone.asset",
+      "field": "image/fallbackImage",
+      "image": "Assets/HorrorGameplay/Data/TutorialCards/phone_placeholder.png",
+      "state": "existente",
+      "detail": "Mídia de tutorial existente preservada."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Materials/Caso-01.mat",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/Cases/caso_01.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "Escritório de João de Claus — Capítulo 1/Mural de casos em aberto/Foto sépia [x=-0.66]",
+      "image": "Assets/ThirdParty/Images/Cases/caso_01.png",
+      "state": "ligado",
+      "detail": "Somente superfície fotográfica; papéis, textos e fios preservados."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Materials/Caso-02.mat",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/Cases/caso_02.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "Escritório de João de Claus — Capítulo 1/Mural de casos em aberto/Foto sépia [x=-0.22]",
+      "image": "Assets/ThirdParty/Images/Cases/caso_02.png",
+      "state": "ligado",
+      "detail": "Somente superfície fotográfica; papéis, textos e fios preservados."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Materials/Caso-03.mat",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/Cases/caso_03.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "Escritório de João de Claus — Capítulo 1/Mural de casos em aberto/Foto sépia [x=0.24]",
+      "image": "Assets/ThirdParty/Images/Cases/caso_03.png",
+      "state": "ligado",
+      "detail": "Somente superfície fotográfica; papéis, textos e fios preservados."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Materials/Caso-04.mat",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/Cases/caso_04.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "Escritório de João de Claus — Capítulo 1/Mural de casos em aberto/Foto sépia [x=0.65]",
+      "image": "Assets/ThirdParty/Images/Cases/caso_04.png",
+      "state": "ligado",
+      "detail": "Somente superfície fotográfica; papéis, textos e fios preservados."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "decoração",
+      "image": "poster_school/drawing_wall",
+      "state": "sem superfície compatível",
+      "detail": "Nenhuma geometria criada."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "lousa",
+      "image": "tex_chalkboard_01..03",
+      "state": "sem superfície compatível",
+      "detail": "Atlas Sketchfab misto preservado; não aplicar textura verde ao verso/moldura."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Materials/Caso-01.mat",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/Cases/caso_01.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Polish20261103/MorningOffice.prefab",
+      "field": "MorningOffice/Escritório de João de Claus — Capítulo 1/Mural de casos em aberto/Foto sépia [x=-0.66]",
+      "image": "Assets/ThirdParty/Images/Cases/caso_01.png",
+      "state": "ligado",
+      "detail": "Somente superfície fotográfica; papéis, textos e fios preservados."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Materials/Caso-02.mat",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/Cases/caso_02.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Polish20261103/MorningOffice.prefab",
+      "field": "MorningOffice/Escritório de João de Claus — Capítulo 1/Mural de casos em aberto/Foto sépia [x=-0.22]",
+      "image": "Assets/ThirdParty/Images/Cases/caso_02.png",
+      "state": "ligado",
+      "detail": "Somente superfície fotográfica; papéis, textos e fios preservados."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Materials/Caso-03.mat",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/Cases/caso_03.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Polish20261103/MorningOffice.prefab",
+      "field": "MorningOffice/Escritório de João de Claus — Capítulo 1/Mural de casos em aberto/Foto sépia [x=0.24]",
+      "image": "Assets/ThirdParty/Images/Cases/caso_03.png",
+      "state": "ligado",
+      "detail": "Somente superfície fotográfica; papéis, textos e fios preservados."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/Materials/Caso-04.mat",
+      "field": "material.BaseMap",
+      "image": "Assets/ThirdParty/Images/Cases/caso_04.png",
+      "state": "ligado",
+      "detail": ""
+    },
+    {
+      "asset": "Assets/HorrorGameplay/Data/Polish20261103/MorningOffice.prefab",
+      "field": "MorningOffice/Escritório de João de Claus — Capítulo 1/Mural de casos em aberto/Foto sépia [x=0.65]",
+      "image": "Assets/ThirdParty/Images/Cases/caso_04.png",
+      "state": "ligado",
+      "detail": "Somente superfície fotográfica; papéis, textos e fios preservados."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/wall_school_lit_4x3_2048.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/wall_school_lit_4x3_2048.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/photo_school_facade_bw.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/photo_school_facade_bw.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/sign_seepe_facade.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/sign_seepe_facade.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_cracks_mirror.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/tex_decal_cracks_mirror.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_handprint_glass.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/tex_decal_handprint_glass.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_footprints_small.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/tex_decal_footprints_small.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/icon_check.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/icon_check.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/icon_lock.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/icon_lock.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/foto_escritorio.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/foto_escritorio.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/InspectionDetails/secretary_footprint_mask.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/InspectionDetails/secretary_footprint_mask.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "GUID preservado; materiais existentes continuam referenciando esta máscara."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_chalkboard_01.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/tex_chalkboard_01.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/drawing_wall_01.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/drawing_wall_01.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_chalkboard_02.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/tex_chalkboard_02.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/drawing_wall_02.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/drawing_wall_02.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_chalkboard_03.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/tex_chalkboard_03.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/drawing_wall_03.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/drawing_wall_03.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_dirt_01.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/tex_decal_dirt_01.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_dirt_02.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/tex_decal_dirt_02.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_dirt_03.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/tex_decal_dirt_03.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/tex_decal_dirt_04.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/tex_decal_dirt_04.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Decal importado com alfa; efeitos de malha existentes preservados. Aplicação em superfície específica não presumida."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_01.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/poster_school_01.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_02.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/poster_school_02.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_03.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/poster_school_03.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_04.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/poster_school_04.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_05.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/poster_school_05.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_06.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/poster_school_06.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_07.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/poster_school_07.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/poster_school_08.png",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/poster_school_08.png",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/ThirdParty/Images/attach_school_day_lit.jpg",
+      "field": "uso",
+      "image": "Assets/ThirdParty/Images/attach_school_day_lit.jpg",
+      "state": "disponível/revisar vínculo",
+      "detail": "Imagem disponível; nenhum slot compatível confirmado nesta ferramenta. Sem criar geometria ou fatos narrativos."
+    },
+    {
+      "asset": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+      "field": "Painel de cortiça.material",
+      "image": "Assets/ThirdParty/Images/tex_investigation_wall.png",
+      "state": "ligado",
+      "detail": "Material próprio; recorte UV preserva proporção; objetos e textos do mural permanecem."
+    }
+  ],
+  "extras": [],
+  "errors": []
+}

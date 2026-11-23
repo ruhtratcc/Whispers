@@ -1,0 +1,38 @@
+{
+  "source": {
+    "uid": "7ca01a2834384d1a9205e2919a7acb30",
+    "title": "Chalkboard",
+    "author": "FrodoUndead",
+    "url": "https://sketchfab.com/3d-models/chalkboard-7ca01a2834384d1a9205e2919a7acb30",
+    "api": "https://api.sketchfab.com/v3/models/7ca01a2834384d1a9205e2919a7acb30",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "triangles": 100,
+    "vertices": 56,
+    "downloadable": true,
+    "textures": 3,
+    "materials": 1,
+    "description": "[Wishlist my upcoming game \"Shinrin Yoku\" on STEAM today!](https://store.steampowered.com/app/2243320/Shinrin_Yoku/)\n\nA chalkboard that I made for my upcoming game, Shinrin Yoku! This object uses a single 1024x1024 texture and is very low-poly to help with batching in your game.\n\nFeel free to use these models in anyway you wish, just don't claim ownership. Credit is not required, but is appreciated.\n\nFollow me on [Facebook](https://www.facebook.com/FrodoUndead/), [Instagram](https://www.instagram.com/frodoundead/), or [SketchFab](https://sketchfab.com/FrodoUndead) to support me and keep up with future game releases.",
+    "htmlStatus": "cached — original response not re-fetched",
+    "format": "glTF converted export offered by Sketchfab for downloadable models; source FBX/Blend NOT VERIFIED",
+    "geometryVisual": "NOT VERIFIED — no model download/import"
+  },
+  "licenseEvidence": {
+    "embeddedLicenseCount": 0,
+    "source": "Cached official public Sketchfab API response checked 2026-10-30",
+    "proofFile": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\ModelPass20261030\\SketchfabPropsEvidence\\7ca01a2834384d1a9205e2919a7acb30.json",
+    "license": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialAndModificationAllowed": true,
+    "creditRequired": true,
+    "requiredCredit": "Chalkboard — FrodoUndead — https://sketchfab.com/3d-models/chalkboard-7ca01a2834384d1a9205e2919a7acb30 — CC BY4.0. Adapted for Whispers of the Past."
+  },
+  "archiveSha256": "86c9bdbeb3fe8044ce2b9127634c9ad99ff918a32c1bfd635068160159124ff2",
+  "changes": "Static native-mesh conversion, URP1K maps. Car four taxi accessory nodes removed; cabinet single closed variant selected."
+}

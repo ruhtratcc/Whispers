@@ -1,0 +1,11 @@
+{
+  "nearSurfaceDimming": true,
+  "exposureDistance": 5.8,
+  "minimumExposure": 0.045,
+  "intensity": 90.0,
+  "range": 17.0,
+  "shadowBias": 0.015,
+  "shadowNormalBias": 0.04,
+  "shadowNearPlane": 0.1,
+  "usePipelineSettings": false
+}

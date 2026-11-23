@@ -1,0 +1,123 @@
+{
+    "revision": 1,
+    "scene": "Assets/RoadChapter/Scenes/RoadJourney.unity",
+    "texture": "Assets/HorrorMenu/Art/CorridorMist.asset",
+    "material": "Assets/RoadChapter/Data/Refinement/EnvironmentMist.mat",
+    "protectedBefore": "0A056C0B00009F72C45601CAFE6E11D798572C0C5C4B237F22C868B2934FF449",
+    "protectedAfter": "0A056C0B00009F72C45601CAFE6E11D798572C0C5C4B237F22C868B2934FF449",
+    "passed": true,
+    "protectedArchitectureAndStoryPreserved": true,
+    "worldSpace": true,
+    "environmentParent": true,
+    "noNewColliders": true,
+    "noNewLights": true,
+    "nearCameraClear": true,
+    "softParticlesEnabled": true,
+    "depthTextureRequested": true,
+    "attachedDustDisabled": true,
+    "allEmitterCentersSupported": true,
+    "allRoomWispsContained": true,
+    "classroomEmitters": 0,
+    "exteriorEmitters": 3,
+    "emitters": 3,
+    "maximumLiveParticles": 30,
+    "colliders": 0,
+    "lights": 0,
+    "attachedDustCount": 0,
+    "cameraNearFade": 2.0,
+    "cameraFarFade": 5.0,
+    "maximumAlpha": 0.11999999731779099,
+    "fogStart": 14.0,
+    "fogEnd": 85.0,
+    "fogColor": {
+        "r": 0.009999999776482582,
+        "g": 0.014999999664723873,
+        "b": 0.01600000075995922,
+        "a": 1.0
+    },
+    "emitterResults": [
+        {
+            "name": "Chegada — névoa no passeio 1",
+            "position": {
+                "x": -2.0,
+                "y": 0.3499999940395355,
+                "z": 403.0
+            },
+            "shapeSize": {
+                "x": 0.44999998807907104,
+                "y": 0.05999999865889549,
+                "z": 2.5
+            },
+            "maximumBillboard": {
+                "x": 3.200000047683716,
+                "y": 0.550000011920929,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.11999999731779099,
+            "maximumParticles": 10,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Chegada — névoa no passeio 2",
+            "position": {
+                "x": 2.0,
+                "y": 0.3499999940395355,
+                "z": 403.0
+            },
+            "shapeSize": {
+                "x": 0.44999998807907104,
+                "y": 0.05999999865889549,
+                "z": 2.5
+            },
+            "maximumBillboard": {
+                "x": 3.200000047683716,
+                "y": 0.550000011920929,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.11999999731779099,
+            "maximumParticles": 10,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        },
+        {
+            "name": "Chegada — névoa no passeio 3",
+            "position": {
+                "x": 0.0,
+                "y": 0.3499999940395355,
+                "z": 395.0
+            },
+            "shapeSize": {
+                "x": 0.44999998807907104,
+                "y": 0.05999999865889549,
+                "z": 2.5
+            },
+            "maximumBillboard": {
+                "x": 3.200000047683716,
+                "y": 0.550000011920929,
+                "z": 1.0
+            },
+            "floor": 0.0,
+            "alpha": 0.11999999731779099,
+            "maximumParticles": 10,
+            "worldSpace": true,
+            "environmentParent": true,
+            "supported": true,
+            "containedInRoom": true
+        }
+    ],
+    "skipped": [],
+    "errors": [],
+    "notes": [
+        "Wisps use the existing CorridorMist texture and native URP particle shader; no download, new renderer feature, camera overlay or menu asset modification.",
+        "Fixed scene parents, World simulation, depth-tested transparent billboards, soft geometry intersections and camera fade from 2 to 5 m. First 14 m of distance fog remain clear.",
+        "Per-room emission averages about one wisp; 6-particle room caps and 8/10-particle circulation/arrival caps. Off-screen particle simulation pauses and catches up. No physics, shadows, lights or runtime controller.",
+        "Billboards are atmospheric wisps, not ray-marched volumetric lighting. Native visual inspection and actual performance measurement remain the caller's responsibility."
+    ]
+}

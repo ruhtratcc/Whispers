@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: Tape
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: bd.tape.01
+  title: "Gravador \u2014 Fita 1, Helena, 2007"
+  description: "Um gravador antigo. Etiqueta escrita \xE0 m\xE3o: Helena Souza, 2007."
+  frontText: "Gravador \u2014 Fita 1, Helena, 2007"
+  backText: "Fita 1 \u2014 Helena Souza, 2007. Um registro deixado na biblioteca."
+  detailText: 
+  alternateBackText: 
+  recordingText: "Quinze de maio de 2007.\n\nOs desenhos continuam na gaveta. Joguei um fora. No dia seguinte ele estava l\xE1 de novo.\n\nJo\xE3o assinou o relat\xF3rio e foi embora. Disse que n\xE3o havia mais nada a procurar. Mas eu vi o que ele pegou no p\xE1tio.\n\nSe algu\xE9m ouvir isso, o apito est\xE1 com ele."
+  model: {fileID: 4716785379691064382, guid: 71e6b510958bb594e82f93668a150103, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  pages: []
+  recordInNotes: 1
+  canPlay: 1
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 21.98
+  stressPerSecond: 0
+  maximumStress: 0
+  pickupSound: {fileID: 11400000, guid: d826124dff1ce5746b98840b305e8ae2, type: 2}
+  whisper: {fileID: 0}
+  recording: {fileID: 11400000, guid: 44cbcbcb03fd3274e8d26ad15eb7edd3, type: 2}
+  recordingCues:
+  - start: 0.06
+    end: 2.3
+    text: Quinze de maio de 2007.
+  - start: 2.8
+    end: 4.85
+    text: Os desenhos continuam na gaveta.
+  - start: 5.34
+    end: 6.12
+    text: Joguei um fora.
+  - start: 6.56
+    end: 8.95
+    text: "No dia seguinte, ele estava l\xE1 de novo."
+  - start: 9.2
+    end: 11.58
+    text: "Jo\xE3o assinou o relat\xF3rio e foi embora."
+  - start: 11.94
+    end: 13.92
+    text: "Disse que n\xE3o havia mais nada a procurar."
+  - start: 14.22
+    end: 16.06
+    text: "Mas eu vi o que ele pegou no p\xE1tio."
+  - start: 16.42
+    end: 18.1
+    text: "Se algu\xE9m ouvir isso,"
+  - start: 18.16
+    end: 19.46
+    text: "o apito est\xE1 com ele."

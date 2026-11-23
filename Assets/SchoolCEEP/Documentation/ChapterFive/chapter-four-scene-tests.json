@@ -1,0 +1,34 @@
+{
+  "status": "completed",
+  "duration": 22.61,
+  "summary": {
+    "total": 3,
+    "passed": 3,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFourSceneTests.ActualChapterThreeFinalDrawingHandsOffInPlaceWithoutReloadOrLostEquipment",
+      "Status": "Passed",
+      "Duration": 6.5024573,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFourSceneTests.ActualCluesStationaryPresencesWallAndDoorFinishOnlyChapterFour",
+      "Status": "Passed",
+      "Duration": 9.4242686,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolChapterFourSceneTests.RealCheckpointAndBlackoutRetryKeepChapterThreeButResetChapterFour",
+      "Status": "Passed",
+      "Duration": 6.6744814,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

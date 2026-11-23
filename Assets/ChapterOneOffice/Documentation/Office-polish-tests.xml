@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="office-polish" result="Passed" testcasecount="19" total="19" passed="19" failed="0" skipped="0" inconclusive="0" duration="25.8546631" start-time="2026-10-01T09:52:14.6111674Z" end-time="2026-10-01T09:52:43.0254218Z">
+  <test-suite type="TestSuite" id="edit-1000" name="My project" fullname="My project" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.098416" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="edit-1007" name="HorrorGame.EditTests.dll" fullname="C:/Users/ruhtra/My project/Library/ScriptAssemblies/HorrorGame.EditTests.dll" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.089188" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="5168" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestSuite" id="edit-1008" name="HorrorGame" fullname="HorrorGame" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.088740" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="edit-1009" name="Tests" fullname="HorrorGame.Tests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.088509" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="edit-1001" name="FoundationEditTests" fullname="HorrorGame.Tests.FoundationEditTests" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.087547" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="edit-1005" name="GameplayPrefabHasReferencesAndRenderingOverrides" fullname="HorrorGame.Tests.FoundationEditTests.GameplayPrefabHasReferencesAndRenderingOverrides" methodname="GameplayPrefabHasReferencesAndRenderingOverrides" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" seed="403041812" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.039675" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="edit-1002" name="InputAssetContainsAllRequiredActions" fullname="HorrorGame.Tests.FoundationEditTests.InputAssetContainsAllRequiredActions" methodname="InputAssetContainsAllRequiredActions" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" seed="658331048" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.002035" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="edit-1004" name="SaveReaderRejectsInvalidAndNonfiniteData" fullname="HorrorGame.Tests.FoundationEditTests.SaveReaderRejectsInvalidAndNonfiniteData" methodname="SaveReaderRejectsInvalidAndNonfiniteData" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" seed="1526592910" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.002545" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="edit-1006" name="SceneObjectsHaveUniqueSaveIds" fullname="HorrorGame.Tests.FoundationEditTests.SceneObjectsHaveUniqueSaveIds" methodname="SceneObjectsHaveUniqueSaveIds" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" seed="1969203635" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.027743" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="edit-1003" name="SoundSelectionNeverRepeatsWhenAlternativesExist" fullname="HorrorGame.Tests.FoundationEditTests.SoundSelectionNeverRepeatsWhenAlternativesExist" methodname="SoundSelectionNeverRepeatsWhenAlternativesExist" classname="HorrorGame.Tests.FoundationEditTests" runstate="Runnable" seed="886362012" result="Passed" start-time="2026-10-01 09:52:15Z" end-time="2026-10-01 09:52:15Z" duration="0.003380" asserts="0">
+              <properties>
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Saving results to: C:/Users/ruhtra/AppData/LocalLow/DefaultCompany/My project\TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+  <test-suite type="TestSuite" id="play-1044" name="My project" fullname="My project" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-10-01 09:52:16Z" end-time="2026-10-01 09:52:42Z" duration="25.756247" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <test-suite type="Assembly" id="play-1062" name="HorrorGame.PlayTests.dll" fullname="C:/Users/ruhtra/My project/Library/ScriptAssemblies/HorrorGame.PlayTests.dll" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-10-01 09:52:16Z" end-time="2026-10-01 09:52:42Z" duration="25.754107" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="5168" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <test-suite type="TestSuite" id="play-1063" name="HorrorGame" fullname="HorrorGame" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-10-01 09:52:16Z" end-time="2026-10-01 09:52:42Z" duration="25.751865" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="play-1064" name="Tests" fullname="HorrorGame.Tests" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-10-01 09:52:16Z" end-time="2026-10-01 09:52:42Z" duration="25.750215" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestFixture" id="play-1045" name="AudioPolishPlayTests" fullname="HorrorGame.Tests.AudioPolishPlayTests" classname="HorrorGame.Tests.AudioPolishPlayTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-10-01 09:52:16Z" end-time="2026-10-01 09:52:18Z" duration="2.194965" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="play-1046" name="BlockedDoorHasNoMovementSoundOrNoiseUntilItCanMove" fullname="HorrorGame.Tests.AudioPolishPlayTests.BlockedDoorHasNoMovementSoundOrNoiseUntilItCanMove" methodname="BlockedDoorHasNoMovementSoundOrNoiseUntilItCanMove" classname="HorrorGame.Tests.AudioPolishPlayTests" runstate="Runnable" seed="480921425" result="Passed" start-time="2026-10-01 09:52:16Z" end-time="2026-10-01 09:52:16Z" duration="0.161357" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+            <test-case id="play-1047" name="ClosingLatchWaitsForTheLeafAndRestoredDoorAndDrawerStaySilent" fullname="HorrorGame.Tests.AudioPolishPlayTests.ClosingLatchWaitsForTheLeafAndRestoredDoorAndDrawerStaySilent" methodname="ClosingLatchWaitsForTheLeafAndRestoredDoorAndDrawerStaySilent" classname="HorrorGame.Tests.AudioPolishPlayTests" runstate="Runnable" seed="38601027" result="Passed" start-time="2026-10-01 09:52:16Z" end-time="2026-10-01 09:52:18Z" duration="2.029964" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="play-1048" name="FoundationPlayTests" fullname="HorrorGame.Tests.FoundationPlayTests" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" testcasecount="10" result="Passed" start-time="2026-10-01 09:52:18Z" end-time="2026-10-01 09:52:33Z" duration="15.047394" total="10" passed="10" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-case id="play-1056" name="BatteryRechargePauseAndDeathUiWork" fullname="HorrorGame.Tests.FoundationPlayTests.BatteryRechargePauseAndDeathUiWork" methodname="BatteryRechargePauseAndDeathUiWork" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" seed="1368792762" result="Passed" start-time="2026-10-01 09:52:18Z" end-time="2026-10-01 09:52:19Z" duration="0.811925" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+            <test-case id="play-1054" name="CheckpointRestoresCrouchUnderCeiling" fullname="HorrorGame.Tests.FoundationPlayTests.CheckpointRestoresCrouchUnderCeiling" methodname="CheckpointRestoresCrouchUnderCeiling" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" seed="650366572" result="Passed" start-time="2026-10-01 09:52:19Z" end-time="2026-10-01 09:52:20Z" duration="1.240801" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+            <test-case id="play-1051" name="CollisionsStopAtCornersAndStepsAreClimbable" fullname="HorrorGame.Tests.FoundationPlayTests.CollisionsStopAtCornersAndStepsAreClimbable" methodname="CollisionsStopAtCornersAndStepsAreClimbable" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" seed="636090132" result="Passed" start-time="2026-10-01 09:52:20Z" end-time="2026-10-01 09:52:24Z" duration="3.158575" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+            <test-case id="play-1050" name="CrouchCannotStandThroughCeiling" fullname="HorrorGame.Tests.FoundationPlayTests.CrouchCannotStandThroughCeiling" methodname="CrouchCannotStandThroughCeiling" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" seed="324662144" result="Passed" start-time="2026-10-01 09:52:24Z" end-time="2026-10-01 09:52:25Z" duration="1.230214" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+            <test-case id="play-1058" name="EnemyHearsNoiseAndVisionIsOccluded" fullname="HorrorGame.Tests.FoundationPlayTests.EnemyHearsNoiseAndVisionIsOccluded" methodname="EnemyHearsNoiseAndVisionIsOccluded" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" seed="1708875649" result="Passed" start-time="2026-10-01 09:52:25Z" end-time="2026-10-01 09:52:25Z" duration="0.529313" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+            <test-case id="play-1057" name="HidingSuppressesVisionAndSupportsHoldingBreath" fullname="HorrorGame.Tests.FoundationPlayTests.HidingSuppressesVisionAndSupportsHoldingBreath" methodname="HidingSuppressesVisionAndSupportsHoldingBreath" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" seed="170068585" result="Passed" start-time="2026-10-01 09:52:25Z" end-time="2026-10-01 09:52:26Z" duration="0.857988" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 6 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 6 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+            <test-case id="play-1055" name="HoldingThrowingAndAutomaticDropRestoreCollision" fullname="HorrorGame.Tests.FoundationPlayTests.HoldingThrowingAndAutomaticDropRestoreCollision" methodname="HoldingThrowingAndAutomaticDropRestoreCollision" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" seed="540755202" result="Passed" start-time="2026-10-01 09:52:26Z" end-time="2026-10-01 09:52:27Z" duration="1.018706" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+            <test-case id="play-1053" name="KeyUnlockAndCheckpointRestoreWorldAndInventory" fullname="HorrorGame.Tests.FoundationPlayTests.KeyUnlockAndCheckpointRestoreWorldAndInventory" methodname="KeyUnlockAndCheckpointRestoreWorldAndInventory" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" seed="1659486190" result="Passed" start-time="2026-10-01 09:52:27Z" end-time="2026-10-01 09:52:28Z" duration="0.731000" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+            <test-case id="play-1052" name="OptionalJumpLandsAndProducesNoise" fullname="HorrorGame.Tests.FoundationPlayTests.OptionalJumpLandsAndProducesNoise" methodname="OptionalJumpLandsAndProducesNoise" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" seed="1803124022" result="Passed" start-time="2026-10-01 09:52:28Z" end-time="2026-10-01 09:52:29Z" duration="1.410120" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+            <test-case id="play-1049" name="SprintConsumesStaminaAndRecovers" fullname="HorrorGame.Tests.FoundationPlayTests.SprintConsumesStaminaAndRecovers" methodname="SprintConsumesStaminaAndRecovers" classname="HorrorGame.Tests.FoundationPlayTests" runstate="Runnable" seed="1695828939" result="Passed" start-time="2026-10-01 09:52:29Z" end-time="2026-10-01 09:52:33Z" duration="4.052930" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Reduced additional punctual light shadows resolution by 2 to make 7 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+          </test-suite>
+          <test-suite type="TestFixture" id="play-1059" name="OfficePlayTests" fullname="HorrorGame.Tests.OfficePlayTests" classname="HorrorGame.Tests.OfficePlayTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-10-01 09:52:33Z" end-time="2026-10-01 09:52:42Z" duration="8.506210" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            <test-case id="play-1061" name="OfficeDrawerNotesFlashlightSaveAndPauseWork" fullname="HorrorGame.Tests.OfficePlayTests.OfficeDrawerNotesFlashlightSaveAndPauseWork" methodname="OfficeDrawerNotesFlashlightSaveAndPauseWork" classname="HorrorGame.Tests.OfficePlayTests" runstate="Runnable" seed="103009497" result="Passed" start-time="2026-10-01 09:52:33Z" end-time="2026-10-01 09:52:36Z" duration="2.689657" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+]]></output>
+            </test-case>
+            <test-case id="play-1060" name="OfficeWallsDeskAndDoorAreTraversableCorrectly" fullname="HorrorGame.Tests.OfficePlayTests.OfficeWallsDeskAndDoorAreTraversableCorrectly" methodname="OfficeWallsDeskAndDoorAreTraversableCorrectly" classname="HorrorGame.Tests.OfficePlayTests" runstate="Runnable" seed="835566943" result="Passed" start-time="2026-10-01 09:52:36Z" end-time="2026-10-01 09:52:42Z" duration="5.765705" asserts="0">
+              <properties>
+                <property name="_JOINTYPE" value="UnityCombinatorial" />
+                <property name="retryIteration" value="0" />
+                <property name="repeatIteration" value="0" />
+              </properties>
+              <output><![CDATA[Reduced additional punctual light shadows resolution by 4 to make 19 shadow maps fit in the 2048x2048 shadow atlas. To avoid this, increase shadow atlas size, decrease big shadow resolutions, or reduce the number of shadow maps active in the same frame
+Saving results to: C:/Users/ruhtra/AppData/LocalLow/DefaultCompany/My project\TestResults.xml
+]]></output>
+            </test-case>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

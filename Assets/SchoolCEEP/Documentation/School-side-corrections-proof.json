@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "noSideRoofs": true,
+  "noFloatingLamps": true,
+  "centralRoof": true,
+  "lowPassage": true,
+  "northLanding": true,
+  "validationPaths": 23,
+  "checks": 820,
+  "editorPhysicsOnly": true,
+  "play": false,
+  "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity"
+}

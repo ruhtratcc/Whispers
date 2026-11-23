@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80b3c7e9f7c341143b507c75926ee639, type: 3}
+  m_Name: steps_tile
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.SoundSet
+  overrideChannel: 1
+  channel: 1
+  caption: 
+  clips:
+  - {fileID: 8300000, guid: 5e661a94e625fcc4c8ff5a356e914f68, type: 3}
+  - {fileID: 8300000, guid: 06aef265cbc05534a9bdef5ed327ddd3, type: 3}
+  - {fileID: 8300000, guid: d1412f5173977684f86442a35ae12b74, type: 3}
+  pitch: {x: 0.97, y: 1.03}
+  volume: {x: 0.88, y: 1}
+  minimumDistance: 0.7
+  maximumDistance: 10

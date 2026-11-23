@@ -1,0 +1,104 @@
+{
+  "name": "Interface Sounds 1.0",
+  "author": "Kenney",
+  "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+  "downloadSourcePage": "https://opengameart.org/content/interface-sounds",
+  "downloadUrl": "https://opengameart.org/sites/default/files/kenney_interfaceSounds.zip",
+  "license": "CC0-1.0",
+  "licenseOriginal": "License-Kenney-Interface-Sounds.txt",
+  "downloadDate": "2026-10-28",
+  "sourceArchiveBytes": 834536,
+  "sourceArchiveSHA256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+  "conversion": "None; original Ogg Vorbis files copied unchanged. Unity supports direct OGG AudioClip import.",
+  "auditionVerified": false,
+  "clips": [
+    {
+      "slot": "boot",
+      "filename": "CRT_Boot.ogg",
+      "sourceFilename": "confirmation_004.ogg",
+      "recommendedVolume": 0.14,
+      "loop": false,
+      "note": "Short electronic confirmation used as the original system boot cue.",
+      "channels": 1,
+      "sampleRate": 44100,
+      "duration": 0.490408,
+      "bytes": 12391,
+      "sha256": "568967a3d9f8a8f6af54ea01729c4882284308f2a27d78c07ffd7ee0d6951661"
+    },
+    {
+      "slot": "confirm",
+      "filename": "CRT_Confirm.ogg",
+      "sourceFilename": "confirmation_001.ogg",
+      "recommendedVolume": 0.1,
+      "loop": false,
+      "note": "General successful action.",
+      "channels": 1,
+      "sampleRate": 44100,
+      "duration": 0.289841,
+      "bytes": 8968,
+      "sha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a"
+    },
+    {
+      "slot": "click",
+      "filename": "CRT_Click.ogg",
+      "sourceFilename": "click_003.ogg",
+      "recommendedVolume": 0.07,
+      "loop": false,
+      "note": "Soft UI click.",
+      "channels": 1,
+      "sampleRate": 44100,
+      "duration": 0.010023,
+      "bytes": 4371,
+      "sha256": "2fa929138bc3a0f432696588f66eac94b8f6d463905ec8808c6461ce4b054292"
+    },
+    {
+      "slot": "error",
+      "filename": "CRT_Error.ogg",
+      "sourceFilename": "error_006.ogg",
+      "recommendedVolume": 0.09,
+      "loop": false,
+      "note": "Short error cue; avoid loud playback.",
+      "channels": 1,
+      "sampleRate": 44100,
+      "duration": 0.500045,
+      "bytes": 8288,
+      "sha256": "a97513d7fd2b12b1210c423be943b4c1ab0e899b11db95855e9b74836e646ae0"
+    },
+    {
+      "slot": "notification",
+      "filename": "CRT_Notification.ogg",
+      "sourceFilename": "bong_001.ogg",
+      "recommendedVolume": 0.1,
+      "loop": false,
+      "note": "New mail / notification.",
+      "channels": 1,
+      "sampleRate": 44100,
+      "duration": 0.122834,
+      "bytes": 4848,
+      "sha256": "d21d0f0b782445db579d11e2506b24cd1ac9d664ee33aeaf807761aa7b6fd710"
+    },
+    {
+      "slot": "hd",
+      "filename": "CRT_HD.ogg",
+      "sourceFilename": "scratch_001.ogg",
+      "recommendedVolume": 0.035,
+      "loop": false,
+      "note": "Identified approximation: short interface scratch for disk activity; not a recording of a physical hard drive.",
+      "channels": 1,
+      "sampleRate": 44100,
+      "duration": 0.13932,
+      "bytes": 8989,
+      "sha256": "5c294d2e1a6b6d07ee2d75b17105a55ad3527e5482dd60652dc49c2ea4c70096"
+    }
+  ],
+  "optionalUnfilledSlots": [
+    {
+      "slot": "crtHum",
+      "reason": "No dedicated licensed hum recording found. Optional; leave null rather than label interface audio as physical hum."
+    }
+  ],
+  "intentionallyMissingContent": [
+    "Helena message from2006",
+    "detuned childrens circle song"
+  ]
+}

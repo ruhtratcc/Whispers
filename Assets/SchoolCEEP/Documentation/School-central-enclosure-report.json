@@ -1,0 +1,29 @@
+{
+    "dimensionsEstimated": true,
+    "existingDoorIdsPreserved": true,
+    "rampDoors": 2,
+    "fullHeightStairWalls": 4,
+    "upperParapets": 1,
+    "trimmedUpperRampGuardGroups": 2,
+    "doorIds": [
+        "school.door.0.81",
+        "school.door.1.32"
+    ],
+    "notes": [
+        "User confirms the two ramp doorway walls farther south, toward the ramp. Estimated placement at PDF y887.96 joins the existing side masonry after the Coordination/Auditorium double-door apertures, without solid side returns through those doors.",
+        "A ground-only wall closes the unused opening below the east stair exit; the west stair entrance and upper east exit stay open.",
+        "The central stair divider reaches the upper ceiling. Solid stair skins receive continuous physical collision outside the full tread widths; original tread collision remains intact, while the two guards projecting into the transverse corridor are omitted.",
+        "The small upper wall protects the lower-flight void at the upper landing. It does not cross the upper stair exit or the north return.",
+        "New single doors reuse the existing interactive prefab and persistent/save behavior, appended after all existing door entries. Fourteen established double-door pairs are preserved.",
+        "Native jambs leave6.5cm beside both unchanged ramp leaves. The one parallel ground Coordination segment is shortened by9cm at the same hinge, leaving its remaining wall and neighboring double-door apertures intact. The full +/-95-degree sweeps must be verified against all active colliders.",
+        "The upper connector guards start just south of the relocated wall, over the supported gallery. Exposed ramp/landing edges remain guarded. Ground leaf opens toward the ramp; upper leaf opens into the gallery, clear of these guards."
+    ],
+    "dividerTopMeters": 7.099999904632568,
+    "upperParapetMeters": 1.100000023841858,
+    "boundaryPdfY": 887.9600219726563,
+    "wallMovedTowardRampMeters": 2.5992684364318848,
+    "upperDoorWidthMeters": 1.4562675952911377,
+    "upperDoorHeightMeters": 2.2799999713897705,
+    "rampDoorJambClearanceMeters": 0.06499999761581421,
+    "groundAdjacentJambClearanceMeters": 0.09000000357627869
+}

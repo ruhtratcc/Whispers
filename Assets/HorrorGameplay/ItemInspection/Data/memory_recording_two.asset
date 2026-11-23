@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: memory_recording_two
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: memory_recording_two
+  title: "Gravador antigo \u2014 fita 2"
+  description: "Um gravador de fita. H\xE1 uma grava\xE7\xE3o preservada."
+  frontText: 
+  backText: 
+  detailText: "Etiqueta: FITA 2 \u2014 1984."
+  alternateBackText: 
+  recordingText: "FITA 2 \u2014 TRANSCRI\xC7\xC3O\n\nJo\xE3o prometeu que voltaria.\n\n[O mecanismo para.]\n\nUma etiqueta remete \xE0 fotografia da turma no Arquivo antigo, sobre a segunda bancada."
+  model: {fileID: 3437745072629221588, guid: 87d17354210650d40b8b5b308774c169, type: 3}
+  frontTexture: {fileID: 2800000, guid: 286034cf351eaf14486eda80abe8943b, type: 3}
+  backTexture: {fileID: 2800000, guid: 7eaca32934c58a047990e961445a97b0, type: 3}
+  recordInNotes: 1
+  canPlay: 1
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0.12
+  maximumStress: 5
+  pickupSound: {fileID: 11400000, guid: 3006a2c4d9f2d794a8cb65d783062973, type: 2}
+  whisper: {fileID: 11400000, guid: ae6eb24ea089d6a46af30914918cf529, type: 2}
+  recording: {fileID: 11400000, guid: aa6855fd949b1984ebfc3189e8ba280f, type: 2}

@@ -1,0 +1,774 @@
+{
+  "rooms": [
+    {
+      "name": "Laboratório25 Química Analítica Qualitativa",
+      "level": 1,
+      "box": [
+        645.28,
+        340.16,
+        831.4,
+        422.36
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório24 Análise Química Orgânica",
+      "level": 1,
+      "box": [
+        645.28,
+        425.6,
+        831.4,
+        508.16
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório23 Química Analítica Quantitativa",
+      "level": 1,
+      "box": [
+        645.28,
+        511.4,
+        831.4,
+        594.0
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Sala de Preparos Químicos",
+      "level": 1,
+      "box": [
+        645.28,
+        597.24,
+        831.4,
+        637.04
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Laboratório22 Análise Ambiental e Tratamento de Água e Esgoto",
+      "level": 1,
+      "box": [
+        645.28,
+        640.28,
+        831.4,
+        721.76
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório21 Química Orgânica e Bromatologia",
+      "level": 1,
+      "box": [
+        863.92,
+        340.16,
+        959.32,
+        464.84
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Sala Aula20",
+      "level": 1,
+      "box": [
+        863.92,
+        467.6,
+        959.32,
+        593.48
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula19",
+      "level": 1,
+      "box": [
+        863.92,
+        596.72,
+        959.32,
+        721.64
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Almoxarifado de Produtos Químicos",
+      "level": 1,
+      "box": [
+        863.92,
+        724.0,
+        959.32,
+        803.96
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Sala Aula18",
+      "level": 1,
+      "box": [
+        1070.44,
+        340.16,
+        1174.6,
+        464.84
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula17",
+      "level": 1,
+      "box": [
+        1070.44,
+        467.6,
+        1174.6,
+        593.48
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula16",
+      "level": 1,
+      "box": [
+        1070.44,
+        596.72,
+        1174.6,
+        721.64
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Material Didático",
+      "level": 1,
+      "box": [
+        1070.44,
+        724.0,
+        1174.6,
+        803.96
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Sala Aula15",
+      "level": 1,
+      "box": [
+        1210.12,
+        340.16,
+        1393.56,
+        422.36
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula14",
+      "level": 1,
+      "box": [
+        1210.12,
+        425.6,
+        1393.56,
+        508.16
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula13",
+      "level": 1,
+      "box": [
+        1210.12,
+        511.4,
+        1393.56,
+        594.0
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula12",
+      "level": 1,
+      "box": [
+        1210.12,
+        597.24,
+        1393.56,
+        721.76
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Laboratório28 Análise Instrumental",
+      "level": 1,
+      "box": [
+        829.48,
+        851.12,
+        961.36,
+        1062.28
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Sala Aula27A",
+      "level": 1,
+      "box": [
+        1105.0,
+        851.12,
+        1210.12,
+        933.3
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula27B",
+      "level": 1,
+      "box": [
+        1076.16,
+        936.2,
+        1210.12,
+        1062.28
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula74",
+      "level": 1,
+      "box": [
+        2290.84,
+        824.08,
+        2393.0,
+        922.0
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula75",
+      "level": 1,
+      "box": [
+        2290.84,
+        924.0,
+        2393.0,
+        1046.68
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula76",
+      "level": 1,
+      "box": [
+        2418.0,
+        824.08,
+        2520.4,
+        922.0
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala Aula77",
+      "level": 1,
+      "box": [
+        2418.0,
+        924.0,
+        2520.4,
+        1046.68
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "I.S.F. + Elev./WC PCD",
+      "level": 1,
+      "box": [
+        2418.0,
+        774.6,
+        2520.4,
+        824.08
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Laboratório 11B",
+      "level": 0,
+      "box": [
+        645.28,
+        340.16,
+        831.4,
+        422.36
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 11A",
+      "level": 0,
+      "box": [
+        645.28,
+        425.6,
+        831.4,
+        508.16
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 10A",
+      "level": 0,
+      "box": [
+        645.28,
+        511.4,
+        831.4,
+        594.0
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 10B",
+      "level": 0,
+      "box": [
+        645.28,
+        597.24,
+        831.4,
+        637.04
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 09",
+      "level": 0,
+      "box": [
+        645.28,
+        640.28,
+        831.4,
+        721.76
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 08",
+      "level": 0,
+      "box": [
+        863.92,
+        340.16,
+        959.32,
+        464.84
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 07",
+      "level": 0,
+      "box": [
+        863.92,
+        467.6,
+        959.32,
+        593.48
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Almoxarifado",
+      "level": 0,
+      "box": [
+        863.92,
+        596.72,
+        959.32,
+        721.64
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Sanitários",
+      "level": 0,
+      "box": [
+        863.92,
+        724.0,
+        959.32,
+        803.96
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Sala 06",
+      "level": 0,
+      "box": [
+        1070.44,
+        340.16,
+        1174.6,
+        464.84
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala 05",
+      "level": 0,
+      "box": [
+        1070.44,
+        467.6,
+        1174.6,
+        593.48
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala 04",
+      "level": 0,
+      "box": [
+        1070.44,
+        596.72,
+        1174.6,
+        721.64
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Depósito",
+      "level": 0,
+      "box": [
+        1070.44,
+        724.0,
+        1174.6,
+        803.96
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Laboratório 03A",
+      "level": 0,
+      "box": [
+        1210.12,
+        340.16,
+        1393.56,
+        422.36
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 03B",
+      "level": 0,
+      "box": [
+        1210.12,
+        425.6,
+        1393.56,
+        508.16
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 03",
+      "level": 0,
+      "box": [
+        1210.12,
+        511.4,
+        1393.56,
+        594.0
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 02 e 01",
+      "level": 0,
+      "box": [
+        1210.12,
+        597.24,
+        1393.56,
+        721.76
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Coordenação",
+      "level": 0,
+      "box": [
+        829.48,
+        851.12,
+        961.36,
+        1062.28
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Auditório",
+      "level": 0,
+      "box": [
+        1105.0,
+        851.12,
+        1210.12,
+        933.3
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Apoio",
+      "level": 0,
+      "box": [
+        1076.16,
+        936.2,
+        1210.12,
+        1062.28
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Laboratório 70",
+      "level": 0,
+      "box": [
+        2290.84,
+        824.08,
+        2393.0,
+        922.0
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 72",
+      "level": 0,
+      "box": [
+        2290.84,
+        924.0,
+        2393.0,
+        1046.68
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 71",
+      "level": 0,
+      "box": [
+        2418.0,
+        824.08,
+        2520.4,
+        922.0
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório 73",
+      "level": 0,
+      "box": [
+        2418.0,
+        924.0,
+        2520.4,
+        1046.68
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Sanitários",
+      "level": 0,
+      "box": [
+        2418.0,
+        774.6,
+        2520.4,
+        824.08
+      ],
+      "kind": "support"
+    },
+    {
+      "name": "Laboratório Meio Ambiente 42",
+      "level": 0,
+      "box": [
+        402.88,
+        272.0,
+        508.6,
+        421.66666666666663
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Laboratório Meio Ambiente 41",
+      "level": 0,
+      "box": [
+        402.88,
+        421.66666666666663,
+        508.6,
+        571.3333333333333
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Sala Uso Múltiplo 40",
+      "level": 0,
+      "box": [
+        402.88,
+        571.3333333333333,
+        508.6,
+        721.0
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala 52",
+      "level": 0,
+      "box": [
+        1521,
+        306.0,
+        1655,
+        416.3333333333333
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala 51",
+      "level": 0,
+      "box": [
+        1521,
+        416.3333333333333,
+        1655,
+        526.6666666666666
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Sala 50",
+      "level": 0,
+      "box": [
+        1521,
+        526.6666666666666,
+        1655,
+        637.0
+      ],
+      "kind": "class"
+    },
+    {
+      "name": "Ala técnica oeste",
+      "level": 0,
+      "box": [
+        356,
+        860,
+        469,
+        973
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Ala técnica oeste",
+      "level": 0,
+      "box": [
+        356,
+        978,
+        469,
+        1091
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Ala técnica oeste",
+      "level": 0,
+      "box": [
+        356,
+        1096,
+        469,
+        1209
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Ala técnica oeste",
+      "level": 0,
+      "box": [
+        356,
+        1214,
+        469,
+        1327
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Ala técnica oeste",
+      "level": 0,
+      "box": [
+        493,
+        860,
+        606,
+        973
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Ala técnica oeste",
+      "level": 0,
+      "box": [
+        493,
+        978,
+        606,
+        1091
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Ala técnica oeste",
+      "level": 0,
+      "box": [
+        493,
+        1096,
+        606,
+        1209
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Ala técnica oeste",
+      "level": 0,
+      "box": [
+        493,
+        1214,
+        606,
+        1327
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Oficina técnica 80",
+      "level": 0,
+      "box": [
+        2108,
+        318,
+        2195,
+        519
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Oficina técnica 81",
+      "level": 0,
+      "box": [
+        2200,
+        318,
+        2287,
+        519
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Oficina técnica 82",
+      "level": 0,
+      "box": [
+        2292,
+        318,
+        2379,
+        519
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Oficina técnica 83",
+      "level": 0,
+      "box": [
+        2384,
+        318,
+        2471,
+        519
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Oficina técnica 84",
+      "level": 0,
+      "box": [
+        2476,
+        318,
+        2563,
+        519
+      ],
+      "kind": "lab"
+    },
+    {
+      "name": "Oficina técnica 85",
+      "level": 0,
+      "box": [
+        2568,
+        318,
+        2655,
+        519
+      ],
+      "kind": "lab"
+    }
+  ]
+}

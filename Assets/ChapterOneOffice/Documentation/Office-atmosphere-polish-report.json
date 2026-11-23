@@ -1,0 +1,184 @@
+{
+    "passed": true,
+    "interactionIdsPreserved": true,
+    "hatPresent": true,
+    "coatRemoved": true,
+    "visualStreetPresent": true,
+    "windowColliderPreserved": true,
+    "supportsAdditionalLightShadows": true,
+    "pipelineChanged": false,
+    "wallSwitchPresent": true,
+    "wallSwitchStartsOn": true,
+    "switchAlwaysOn": true,
+    "keepLightingPassed": true,
+    "streetLightAligned": true,
+    "streetBulbEmissive": true,
+    "ceilingEmitterClear": true,
+    "generalLightingConfigured": true,
+    "generatedUtc": "2026-10-01T15:21:56.4462866Z",
+    "scene": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+    "pipelineAsset": "Assets/Settings/PC_RPAsset.asset",
+    "errors": [],
+    "warnings": [],
+    "screenshots": [
+        "Assets/ChapterOneOffice/Documentation/Office-atmosphere-room.png",
+        "Assets/ChapterOneOffice/Documentation/Office-atmosphere-window.png",
+        "Assets/ChapterOneOffice/Documentation/Office-atmosphere-switch.png",
+        "Assets/ChapterOneOffice/Documentation/Office-atmosphere-hat.png",
+        "Assets/ChapterOneOffice/Documentation/Office-atmosphere-desk-shadows.png",
+        "Assets/ChapterOneOffice/Documentation/Office-atmosphere-desk-no-shadows-debug.png"
+    ],
+    "lights": [
+        {
+            "name": "Reflexo do monitor",
+            "type": "Point",
+            "shadows": "None",
+            "softShadowQuality": "UsePipelineSettings",
+            "position": {
+                "x": 0.4619700610637665,
+                "y": 1.0850000381469727,
+                "z": 1.1282856464385986
+            },
+            "intensity": 0.699999988079071,
+            "range": 1.5,
+            "spotAngle": 30.0,
+            "depthBias": 0.03500000014901161,
+            "normalBias": 0.11999999731779099,
+            "resolutionTier": 2,
+            "shadowFaces": 0
+        },
+        {
+            "name": "Luz quente da mesa",
+            "type": "Spot",
+            "shadows": "Soft",
+            "softShadowQuality": "Medium",
+            "position": {
+                "x": 0.8600000143051147,
+                "y": 1.1549999713897705,
+                "z": 1.4399999380111694
+            },
+            "intensity": 10.5,
+            "range": 3.5999999046325684,
+            "spotAngle": 122.0,
+            "depthBias": 0.07999999821186066,
+            "normalBias": 0.2199999988079071,
+            "resolutionTier": 1,
+            "shadowFaces": 1
+        },
+        {
+            "name": "Luz do vestíbulo",
+            "type": "Point",
+            "shadows": "None",
+            "softShadowQuality": "UsePipelineSettings",
+            "position": {
+                "x": -2.0799999237060547,
+                "y": 2.700000047683716,
+                "z": -4.46999979019165
+            },
+            "intensity": 2.299999952316284,
+            "range": 3.0,
+            "spotAngle": 30.0,
+            "depthBias": 0.03500000014901161,
+            "normalBias": 0.11999999731779099,
+            "resolutionTier": 2,
+            "shadowFaces": 0
+        },
+        {
+            "name": "Luz suave do teto",
+            "type": "Spot",
+            "shadows": "Soft",
+            "softShadowQuality": "Low",
+            "position": {
+                "x": 0.4000000059604645,
+                "y": 2.700000047683716,
+                "z": -0.6000000238418579
+            },
+            "intensity": 18.0,
+            "range": 11.0,
+            "spotAngle": 158.0,
+            "depthBias": 0.07999999821186066,
+            "normalBias": 0.2199999988079071,
+            "resolutionTier": 1,
+            "shadowFaces": 1
+        },
+        {
+            "name": "Preenchimento discreto",
+            "type": "Point",
+            "shadows": "None",
+            "softShadowQuality": "UsePipelineSettings",
+            "position": {
+                "x": 0.4000000059604645,
+                "y": 2.6600000858306885,
+                "z": -0.6000000238418579
+            },
+            "intensity": 7.5,
+            "range": 11.0,
+            "spotAngle": 30.0,
+            "depthBias": 0.03500000014901161,
+            "normalBias": 0.11999999731779099,
+            "resolutionTier": 2,
+            "shadowFaces": 0
+        },
+        {
+            "name": "Luz externa entrando pelas persianas",
+            "type": "Spot",
+            "shadows": "Soft",
+            "softShadowQuality": "Medium",
+            "position": {
+                "x": 4.949999809265137,
+                "y": 2.9100000858306885,
+                "z": 1.9800000190734863
+            },
+            "intensity": 38.0,
+            "range": 11.0,
+            "spotAngle": 106.0,
+            "depthBias": 0.10000000149011612,
+            "normalBias": 0.5,
+            "resolutionTier": 2,
+            "shadowFaces": 1
+        },
+        {
+            "name": "Brilho fraco do poste",
+            "type": "Point",
+            "shadows": "None",
+            "softShadowQuality": "UsePipelineSettings",
+            "position": {
+                "x": 4.949999809265137,
+                "y": 2.9100000858306885,
+                "z": 1.9800000190734863
+            },
+            "intensity": 2.200000047683716,
+            "range": 3.200000047683716,
+            "spotAngle": 30.0,
+            "depthBias": 0.05000000074505806,
+            "normalBias": 0.4000000059604645,
+            "resolutionTier": 2,
+            "shadowFaces": 0
+        },
+        {
+            "name": "Luz do poste sobre a rua",
+            "type": "Spot",
+            "shadows": "None",
+            "softShadowQuality": "UsePipelineSettings",
+            "position": {
+                "x": 4.949999809265137,
+                "y": 2.9100000858306885,
+                "z": 1.9800000190734863
+            },
+            "intensity": 44.0,
+            "range": 13.0,
+            "spotAngle": 128.0,
+            "depthBias": 0.05000000074505806,
+            "normalBias": 0.4000000059604645,
+            "resolutionTier": 2,
+            "shadowFaces": 0
+        }
+    ],
+    "fixedShadowFaces": 3,
+    "maximumShadowFacesWithFlashlight": 4,
+    "fedoraTriangles": 4005,
+    "externalColliders": 0,
+    "deskShadowMeanDifference": 0.031997356563806534,
+    "ceilingFixtureClearance": 0.08000016212463379,
+    "deskShadowChangedBlocks": 451
+}

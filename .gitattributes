@@ -1,0 +1,10 @@
+# Arquivos grandes da Unity. Mantenha Git LFS ativo ao clonar.
+Assets/models/SchoolIntegration/ReplacementMeshes/FurnitureBatch-002.asset filter=lfs diff=lfs merge=lfs -text
+Assets/SchoolCEEP/Documentation/Reference-OppositeCourtBlock/Lower-block-1.png filter=lfs diff=lfs merge=lfs -text
+Assets/SchoolCEEP/Documentation/Reference-OppositeCourtBlock/Reference-2.png filter=lfs diff=lfs merge=lfs -text
+Assets/SchoolCEEP/Documentation/Reference-UpperClassroomsRamp/Reference-7.png filter=lfs diff=lfs merge=lfs -text
+Assets/SchoolCEEP/Meshes/Build-20261007-002208/School-161.asset filter=lfs diff=lfs merge=lfs -text
+Assets/SchoolCEEP/Meshes/Overgrowth20261014/Overgrowth-20261014-095319.asset filter=lfs diff=lfs merge=lfs -text
+Assets/SchoolCEEP/Models/AbandonmentPolish/FanReplacement-20261010-234120-027/FurnitureBatch-001.asset filter=lfs diff=lfs merge=lfs -text
+Assets/SchoolCEEP/Scenes/SchoolCEEP.unity filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/Sketchfab_Round2/Models/2008-baird-silver-coronet-taxicab/MeshData.json filter=lfs diff=lfs merge=lfs -text

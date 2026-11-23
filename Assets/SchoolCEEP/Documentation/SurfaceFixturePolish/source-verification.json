@@ -1,0 +1,26 @@
+[
+  {
+    "canonical": "work/SurfaceFixturePolish/Editor/SchoolFixtureReplacementPass.cs",
+    "installed": "C:/Users/ruhtra/My project/Assets/SchoolCEEP/Editor/SurfaceFixturePolish/SchoolFixtureReplacementPass.cs",
+    "hash": "4202889178E2E0288B02A976C906077AD0292F9D7408BF0C9718E0260B27A52C",
+    "identical": true
+  },
+  {
+    "canonical": "work/SurfaceFixturePolish/Editor/SchoolSurfaceFinishPass.cs",
+    "installed": "C:/Users/ruhtra/My project/Assets/SchoolCEEP/Editor/SurfaceFixturePolish/SchoolSurfaceFinishPass.cs",
+    "hash": "5F34B8F5CD1EC7D1209B0C6B85A4DCB268B5C66E47998DCC83BE20A58AC07054",
+    "identical": true
+  },
+  {
+    "canonical": "work/SchoolAssets/Editor/SchoolBatchVisualReplacement.cs",
+    "installed": "C:/Users/ruhtra/My project/Assets/SchoolCEEP/Editor/SchoolBatchVisualReplacement.cs",
+    "hash": "6976FAF56C9E38B85F67D9A14E9A56ED7E948F5E664A10D3513EF4FFE93FF544",
+    "identical": true
+  },
+  {
+    "canonical": "work/AbandonmentPolish/Editor/SchoolArtAssetImporter.cs",
+    "installed": "C:/Users/ruhtra/My project/Assets/SchoolCEEP/Editor/AbandonmentPolish/SchoolArtAssetImporter.cs",
+    "hash": "DEB916790372926757807643326B10EFA790DF232C07B8ADA87D29137A907E99",
+    "identical": true
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "installed": true,
+  "utc": "2026-10-01T22:39:10.8847149Z",
+  "length": 6.7,
+  "frequency": 44100,
+  "channels": 1,
+  "samples": 295470,
+  "peak": 0.465362549,
+  "rms": 0.052998373933736069,
+  "clippedSamples": 0,
+  "zeroSamples": 19016,
+  "loopBoundaryJump": 0.0,
+  "guid": "0186c8f61bd4c8746a59545fa34e75ef",
+  "breathingReference": true,
+  "compression": "PCM",
+  "scene": "Chapter1Office",
+  "sceneDirty": false
+}

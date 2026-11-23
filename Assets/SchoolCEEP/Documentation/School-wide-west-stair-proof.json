@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "stairWidthMeters": 2.82222223,
+  "handrailMountedOnTreads": true,
+  "posts": [
+    {
+      "name": "Oeste escada — corrimão montante 1",
+      "passed": true,
+      "tread": "Oeste_Escada — degrau 1"
+    },
+    {
+      "name": "Oeste escada — corrimão montante 2",
+      "passed": true,
+      "tread": "Oeste_Escada — degrau 2"
+    },
+    {
+      "name": "Oeste escada — corrimão montante 3",
+      "passed": true,
+      "tread": "Oeste_Escada — degrau 3"
+    },
+    {
+      "name": "Oeste escada — corrimão montante 4",
+      "passed": true,
+      "tread": "Oeste_Escada — degrau 4"
+    }
+  ],
+  "paths": 26,
+  "checks": 845,
+  "editorPhysicsOnly": true
+}

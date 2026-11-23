@@ -1,0 +1,70 @@
+{
+  "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+  "dirty": false,
+  "playing": false,
+  "architecture": "82E251C5DEE771F623A072CF2D80D100BD795AB4E3524AEDE0C935BBE747EACB",
+  "protectedArchitectureUnchanged": true,
+  "storyBook": "Assets/SchoolCEEP/Data/ChapterFour/SchoolStoryThroughChapterFour.asset",
+  "startingChapter": "school",
+  "sameSceneContinuation": true,
+  "stopBeforeChapterFive": true,
+  "storyErrors": [],
+  "sanity": 100.0,
+  "activeSchoolElectricLights": 0,
+  "clues": [
+    {
+      "title": "Relatório da noite dos desaparecimentos",
+      "position": [
+        -70.83315,
+        1.407,
+        33.5965157
+      ],
+      "visible": false,
+      "colliderEnabled": false
+    },
+    {
+      "title": "Fotografia de João — aluno",
+      "position": [
+        -70.83315,
+        1.407,
+        27.0746517
+      ],
+      "visible": false,
+      "colliderEnabled": false
+    },
+    {
+      "title": "Chave antiga do arquivo",
+      "position": [
+        -68.36212,
+        0.930033,
+        19.80278
+      ],
+      "visible": false,
+      "colliderEnabled": false
+    }
+  ],
+  "newColliders": 8,
+  "entitiesHaveColliders": 0,
+  "demonVisible": false,
+  "guideVisible": false,
+  "wallMessageVisible": false,
+  "memoryAnchorActive": false,
+  "wallFaceOffset": 0.01599884,
+  "keySupportedByBox": true,
+  "keyPosition": [
+    -68.36212,
+    0.930033,
+    19.80278
+  ],
+  "destination": "school.door.0.58",
+  "destinationLocked": true,
+  "destinationListeners": 1,
+  "anchorCount": 3,
+  "eventLights": 3,
+  "enemies": 0,
+  "missingScripts": 0,
+  "duplicateIds": [],
+  "emptyIds": 0,
+  "gameInstances": 1,
+  "cameras": 1
+}

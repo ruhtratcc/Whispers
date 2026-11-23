@@ -1,0 +1,38 @@
+{
+  "source": {
+    "uid": "383b49d7f1db4f6bbf22ac97ea72cb6d",
+    "title": "Low poly Drinking Fountain",
+    "author": "omri_ha_muglob",
+    "url": "https://sketchfab.com/3d-models/low-poly-drinking-fountain-383b49d7f1db4f6bbf22ac97ea72cb6d",
+    "api": "https://api.sketchfab.com/v3/models/383b49d7f1db4f6bbf22ac97ea72cb6d",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "triangles": 2938,
+    "vertices": 1410,
+    "downloadable": true,
+    "textures": 0,
+    "materials": 9,
+    "description": "Low poly Drinking Fountain made in blender",
+    "htmlStatus": "cached — original response not re-fetched",
+    "format": "glTF converted export offered by Sketchfab for downloadable models; source FBX/Blend NOT VERIFIED",
+    "geometryVisual": "NOT VERIFIED — no model download/import"
+  },
+  "licenseEvidence": {
+    "embeddedLicenseCount": 0,
+    "source": "Cached official public Sketchfab API response checked 2026-10-30",
+    "proofFile": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\ModelPass20261030\\SketchfabPropsEvidence\\383b49d7f1db4f6bbf22ac97ea72cb6d.json",
+    "license": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialAndModificationAllowed": true,
+    "creditRequired": true,
+    "requiredCredit": "Low poly Drinking Fountain — omri_ha_muglob — https://sketchfab.com/3d-models/low-poly-drinking-fountain-383b49d7f1db4f6bbf22ac97ea72cb6d — CC BY4.0. Adapted for Whispers of the Past."
+  },
+  "archiveSha256": "143fcc1feb4e374e09a0a4c2726ec1b98fb0fb8450ab5f0556047dbab8d4a256",
+  "changes": "Static native-mesh conversion, URP1K maps. Car four taxi accessory nodes removed; cabinet single closed variant selected."
+}

@@ -1,0 +1,10 @@
+{
+    "scene": "Assets/RoadChapter/Scenes/RoadJourney.unity",
+    "driveSeconds": 38.0,
+    "pathLength": 384.0,
+    "enemies": 0,
+    "cameras": 1,
+    "interactiveItems": 3,
+    "storyErrors": [],
+    "autoLoadNext": false
+}

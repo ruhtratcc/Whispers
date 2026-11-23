@@ -1,0 +1,579 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709849254618152211
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7609670725202931144}
+  - component: {fileID: 3659092343045031415}
+  m_Layer: 9
+  m_Name: Flashlight hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7609670725202931144
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709849254618152211}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.16, y: 1.48, z: 0.42600012}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 331161427055568781}
+  m_Father: {fileID: 8955568764589275504}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!108 &3659092343045031415
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1709849254618152211}
+  m_Enabled: 1
+  serializedVersion: 13
+  m_Type: 0
+  m_Color: {r: 0.88, g: 0.93, b: 1, a: 1}
+  m_Intensity: 90
+  m_Range: 17
+  m_SpotAngle: 52
+  m_InnerSpotAngle: 28
+  m_CookieSize2D: {x: 0.5, y: 0.5}
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
+  m_ForceVisible: 0
+  m_ShapeRadius: 0.025
+  m_ShadowAngle: 0
+  m_LightUnit: 1
+  m_LuxAtDistance: 1
+  m_EnableSpotReflector: 1
+--- !u!1 &5142319738644192641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8955568764589275504}
+  - component: {fileID: 1196540657227436324}
+  - component: {fileID: 6429008804679756252}
+  - component: {fileID: 5417098942389886265}
+  - component: {fileID: 7206529608296332394}
+  - component: {fileID: 1543977347918146166}
+  - component: {fileID: 4790028111276841017}
+  - component: {fileID: 4260813579720148200}
+  - component: {fileID: 5755571656479520639}
+  m_Layer: 9
+  m_Name: Player
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8955568764589275504
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5142319738644192641}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.05, z: -8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1478099291532063193}
+  - {fileID: 7609670725202931144}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!143 &1196540657227436324
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5142319738644192641}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Height: 1.8
+  m_Radius: 0.32
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.035
+  m_MinMoveDistance: 0
+  m_Center: {x: 0, y: 0.9, z: 0}
+--- !u!114 &6429008804679756252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5142319738644192641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4c99b999bc617c4bafcd4dde7e8c8ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InputReader
+  asset: {fileID: -944628639613478452, guid: a20417cbd94025b4a8aebbe77638a6a9, type: 3}
+--- !u!114 &5417098942389886265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5142319738644192641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57207087a476c2d4b884da41a79297b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.FirstPersonMotor
+  input: {fileID: 6429008804679756252}
+  view: {fileID: 1621277062560190766}
+  walkSpeed: 2.6
+  sprintSpeed: 4.5
+  crouchSpeed: 1.25
+  acceleration: 9
+  deceleration: 13
+  gravity: -24
+  groundStick: 2.5
+  allowJump: 0
+  jumpHeight: 0.8
+  slideSpeed: 2
+  standingHeight: 1.8
+  crouchedHeight: 1.05
+  stanceSpeed: 5
+  eyeInset: 0.16
+  collisionMask:
+    serializedVersion: 2
+    m_Bits: 4294966783
+  sensitivity: 0.07
+  smoothing: 0.035
+  pitchClamp: {x: -80, y: 80}
+  staminaCapacity: 7.2
+  staminaDrain: 1
+  staminaRecovery: 1.6
+  recoveryDelay: 0.8
+  exhaustionBreath: {fileID: 11400000, guid: 32a82a1f50ff7a142983753b47450a04, type: 2}
+  pushForce: 35
+  maxPushMass: 70
+--- !u!114 &7206529608296332394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5142319738644192641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4543b5c5704d6c74c8b4bdae7ae2e6cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.Inventory
+  items: []
+--- !u!114 &1543977347918146166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5142319738644192641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cf3dcc989917df42aa02fb37c003c27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.PhysicsGrabber
+  view: {fileID: 8248566228957946020}
+  motor: {fileID: 5417098942389886265}
+  holdDistance: 1.65
+  maxMass: 20
+  spring: 65
+  damping: 13
+  maxAcceleration: 45
+  maximumDistance: 3
+  stuckError: 0.85
+  stuckTime: 0.65
+  throwImpulse: 7
+  obstructionMask:
+    serializedVersion: 2
+    m_Bits: 3328
+--- !u!114 &4790028111276841017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5142319738644192641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e750521798d1c1478a94147a9664290, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.PlayerInteraction
+  input: {fileID: 6429008804679756252}
+  view: {fileID: 8248566228957946020}
+  inventory: {fileID: 7206529608296332394}
+  grabber: {fileID: 1543977347918146166}
+  motor: {fileID: 5417098942389886265}
+  range: 2.6
+  mask:
+    serializedVersion: 2
+    m_Bits: 4294966783
+--- !u!114 &4260813579720148200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5142319738644192641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea3c861b683db648ae01cbe4161d2da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.FootstepAudio
+  motor: {fileID: 5417098942389886265}
+  library: {fileID: 11400000, guid: 6597901e5fc31084c9292a90c8025e0a, type: 2}
+  groundPatches: []
+  walkStride: 0.9
+  sprintStride: 1.35
+  crouchStride: 0.75
+  walkVolume: 0.5
+  sprintVolume: 0.8
+  crouchVolume: 0.2
+  walkRadius: 5
+  sprintRadius: 10
+  crouchRadius: 1.7
+--- !u!114 &5755571656479520639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5142319738644192641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecfcb2d0c2a5c8c449b141c58444b776, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.FlashlightController
+  input: {fileID: 6429008804679756252}
+  view: {fileID: 8248566228957946020}
+  lamp: {fileID: 3659092343045031415}
+  handRig: {fileID: 7609670725202931144}
+  click: {fileID: 11400000, guid: 5c2462e471a2b204a8675e22f4978b07, type: 2}
+  clickOn: {fileID: 11400000, guid: 8833e7463d7307240972625d825e055f, type: 2}
+  clickOff: {fileID: 11400000, guid: 9a35f64e1dc641f498ea7926ef8492da, type: 2}
+  capacitySeconds: 240
+  lowBattery: 0.18
+  startsOn: 1
+  handOffset: {x: 0.16, y: -0.16, z: 0.426}
+  positionFollow: 22
+  rotationFollow: 13
+  breathingSway: 0.007
+  nearSurfaceDimming: 0
+  exposureDistance: 5.8
+  minimumExposure: 0.045
+--- !u!1 &8056506064692259457
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1478099291532063193}
+  - component: {fileID: 8248566228957946020}
+  - component: {fileID: 4739047656252359652}
+  - component: {fileID: 2920419113577511745}
+  - component: {fileID: 1621277062560190766}
+  m_Layer: 9
+  m_Name: Player Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1478099291532063193
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8056506064692259457}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.64, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8955568764589275504}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!20 &8248566228957946020
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8056506064692259457}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.006, g: 0.009, b: 0.015, a: 1}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_Iso: 200
+  m_ShutterSpeed: 0.005
+  m_Aperture: 16
+  m_FocusDistance: 10
+  m_FocalLength: 50
+  m_BladeCount: 5
+  m_Curvature: {x: 2, y: 11}
+  m_BarrelClipping: 0.25
+  m_Anamorphism: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.04
+  far clip plane: 80
+  field of view: 49
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!81 &4739047656252359652
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8056506064692259457}
+  m_Enabled: 1
+--- !u!114 &2920419113577511745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8056506064692259457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
+  m_RenderShadows: 1
+  m_RequiresDepthTextureOption: 2
+  m_RequiresOpaqueTextureOption: 2
+  m_CameraType: 0
+  m_Cameras: []
+  m_RendererIndex: -1
+  m_VolumeLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  m_VolumeTrigger: {fileID: 0}
+  m_VolumeFrameworkUpdateModeOption: 2
+  m_RenderPostProcessing: 1
+  m_Antialiasing: 0
+  m_AntialiasingQuality: 2
+  m_StopNaN: 0
+  m_Dithering: 0
+  m_ClearDepth: 1
+  m_AllowXRRendering: 1
+  m_AllowHDROutput: 1
+  m_UseScreenCoordOverride: 0
+  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
+  m_RequiresDepthTexture: 0
+  m_RequiresColorTexture: 0
+  m_TaaSettings:
+    m_Quality: 3
+    m_FrameInfluence: 0.1
+    m_JitterScale: 1
+    m_MipBias: 0
+    m_VarianceClampScale: 0.9
+    m_ContrastAdaptiveSharpening: 0
+  m_Version: 2
+--- !u!114 &1621277062560190766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8056506064692259457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 806f3906c30eb9a4098749924d411e81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.FirstPersonCamera
+  motor: {fileID: 5417098942389886265}
+  playerCamera: {fileID: 8248566228957946020}
+  bobEnabled: 1
+  swayEnabled: 1
+  walkBob: 0.013
+  sprintBob: 0.03
+  crouchBob: 0.007
+  bobFrequency: 7.5
+  breathSway: 0.004
+  positionSmooth: 0.035
+  lookFollow: 35
+  baseFov: 49
+  sprintFov: 49
+  fovSpeed: 4
+  focusFov: 49
+  maximumShake: 0.12
+  maximumFearRoll: 2.2
+  fearRecovery: 0.28
+--- !u!1001 &979675961055701276
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7609670725202931144}
+    m_Modifications:
+    - target: {fileID: 5036853116433978, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.02236138
+      objectReference: {fileID: 0}
+    - target: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.02752534
+      objectReference: {fileID: 0}
+    - target: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.116
+      objectReference: {fileID: 0}
+    - target: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.00000004371139
+      objectReference: {fileID: 0}
+    - target: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 649040715598106290, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_Name
+      value: "Lanterna compacta \u2014 Poly Haven"
+      objectReference: {fileID: 0}
+    - target: {fileID: 649040715598106290, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2638300750318969522, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7732660207794489153, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+--- !u!4 &331161427055568781 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 648526629777411729, guid: d09b00d0303b43f45bbd07e3802ff8eb, type: 3}
+  m_PrefabInstance: {fileID: 979675961055701276}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,55 @@
+{
+  "type": 2,
+  "name": "Television 02",
+  "categories": [
+    "collection: project_lighthouse",
+    "electronics"
+  ],
+  "category": "Electronics & Appliances/Audio & Video/Televisions",
+  "tags": [
+    "old",
+    "vintage",
+    "crt",
+    "cathode ray tube",
+    "tv",
+    "retro",
+    "boxy",
+    "screen"
+  ],
+  "description": "Free 8K model of a chunky retro CRT TV with scuffed glass, plastic bezel, push buttons, and vented metal speaker panel with sunburst decal and worn edges.",
+  "authors": {
+    "Benny Weimer": "All"
+  },
+  "donated": true,
+  "category_id": "2dcd04f3-a4a8-52c8-9495-789fba825be7",
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 2310,
+  "files_hash": "f4262124540572dc20120714aaa2de8a8b0e4655",
+  "texel_density": 7719.787770171387,
+  "dimensions": [
+    399.74847435951233,
+    350.19391775131226,
+    411.41476929375244
+  ],
+  "date_published": 1783036800,
+  "staging": null,
+  "collections": [
+    "project_lighthouse"
+  ],
+  "attributes": {
+    "material": [
+      "plastic",
+      "glass",
+      "metal"
+    ],
+    "condition": [
+      "worn"
+    ]
+  },
+  "img_version": "76b7612d",
+  "download_count": 3687,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/television_02.png?width=256&height=256&format=webp&v=76b7612d"
+}

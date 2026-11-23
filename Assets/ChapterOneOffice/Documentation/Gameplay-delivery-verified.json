@@ -1,0 +1,58 @@
+{
+  "utc": "2026-10-01T21:12:59.265790+00:00",
+  "applied": true,
+  "verified": true,
+  "editMode": {
+    "total": 21,
+    "passed": 21,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "playMode": {
+    "total": 11,
+    "passed": 11,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "shaderErrors": 0,
+  "renderGraphCompatibility": false,
+  "filterImageMeanRgbDifference": 0.001836378619734931,
+  "filterImageChangedPixels": 131944,
+  "filterImagePixelCount": 921600,
+  "chapters": 7,
+  "milestones": 48,
+  "sequences": 14,
+  "audio": [
+    {
+      "file": "HeavyBreathing.wav",
+      "seconds": 12.45,
+      "channels": 1,
+      "rate": 44100,
+      "peak": 0.698638916015625,
+      "rms": 0.053091115227069226,
+      "edges": [
+        0,
+        0
+      ]
+    },
+    {
+      "file": "TelephoneRing.wav",
+      "seconds": 2.15,
+      "channels": 1,
+      "rate": 44100,
+      "peak": 0.79998779296875,
+      "rms": 0.20150024840023772,
+      "edges": [
+        0,
+        0
+      ]
+    }
+  ],
+  "scene": "Chapter1Office",
+  "noNewMaps": true,
+  "noDialogueVoice": true,
+  "noMeshy": true,
+  "githubUpdated": false
+}

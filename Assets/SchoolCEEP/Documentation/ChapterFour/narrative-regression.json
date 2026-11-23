@@ -1,0 +1,62 @@
+{
+  "status": "completed",
+  "duration": 2.36,
+  "summary": {
+    "total": 7,
+    "passed": 7,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.CallQueuedDuringPauseLocksControlOnlyAfterResume",
+      "Status": "Passed",
+      "Duration": 0.4166586,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.EquipmentCollectedDuringNotePauseWaitsForResume",
+      "Status": "Passed",
+      "Duration": 0.1841638,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.MissingRoadMapKeepsOfficeProgressAndAllowsMenuState",
+      "Status": "Passed",
+      "Duration": 0.2295285,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.PauseDuringCallFreezesDialogueAndRestoresCutsceneState",
+      "Status": "Passed",
+      "Duration": 0.9391345,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.RestoredCallsDoNotReplayAndEquipmentGateSurvives",
+      "Status": "Passed",
+      "Duration": 0.183951,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.TwoCallsRequireAnswerThenEquipmentAndExit",
+      "Status": "Passed",
+      "Duration": 0.3639158,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.WorldEventRestoresSilentlyWithoutReplayingScare",
+      "Status": "Passed",
+      "Duration": 0.0330333,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

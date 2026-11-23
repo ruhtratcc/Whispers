@@ -1,0 +1,63 @@
+{
+    "passed": true,
+    "dimensionsNative": true,
+    "groundPassagesOpen": true,
+    "originalUpperHingeAndColliderPreserved": true,
+    "fourteenPairsPreserved": true,
+    "upperMetalDoors": 2,
+    "panicBars": 2,
+    "movingDecorativeParts": 14,
+    "activeDoorLeaves": 114,
+    "nativeJambClosures": 2,
+    "fixedCasingParts": 6,
+    "casingInnerEdgeClearanceMeters": 0.06499999761581421,
+    "casingWidthMeters": 0.05000000074505806,
+    "casingThicknessMeters": 0.05000000074505806,
+    "northPdfY": 337.2200012207031,
+    "supportedNorthApronMeters": 2.3918328285217285,
+    "upperMetalDoorIds": [
+        "school.door.1.12",
+        "school.door.1.33"
+    ],
+    "removedGroundDoorIds": [
+        "school.door.0.41",
+        "school.door.0.42"
+    ],
+    "notes": [
+        "User confirms a metal emergency door at the far end of both upper central corridors, and no door at the matching ground passage.",
+        "Ground door array slots 41 and 42 are retained as open-passage records; their scene leaves are intentionally omitted, preserving all subsequent numeric IDs.",
+        "The left upper door retains ID 1.12 and its native hinge/collider. The right upper door is appended as ID 1.33 after the central ramp door.",
+        "The metal finish is opaque. Panic bars and small leaf reinforcements move with each leaf, are nonstatic and add no colliders.",
+        "Two upper-only native masonry spans close the gaps beside the new right emergency door. Both emergency leaves receive fixed blue metal casing outside their 65mm end clearances; this decoration adds no collider and is batched under the existing architecture blocks.",
+        "Both single leaves open north by 95 degrees onto the existing upper regional slab, which extends to PDF y303.32. No exterior stair or additional exit route is invented.",
+        "Reported leaf dimensions come from the built native BoxColliders; they are not measurements of the photographed real building. Fourteen existing paired openings remain unchanged."
+    ],
+    "doors": [
+        {
+            "id": "school.door.1.12",
+            "block": "main_laboratories_north",
+            "widthMeters": 1.7765496969223022,
+            "heightMeters": 2.2799999713897705,
+            "thicknessMeters": 0.10000000149011612,
+            "openAngle": -95.0,
+            "hingePosition": {
+                "x": -40.844242095947266,
+                "y": 3.809999942779541,
+                "z": 91.07169342041016
+            }
+        },
+        {
+            "id": "school.door.1.33",
+            "block": "main_classrooms_north",
+            "widthMeters": 1.8429367542266846,
+            "heightMeters": 2.2799999713897705,
+            "thicknessMeters": 0.10000000149011612,
+            "openAngle": -95.0,
+            "hingePosition": {
+                "x": -16.50174903869629,
+                "y": 3.809999942779541,
+                "z": 91.07169342041016
+            }
+        }
+    ]
+}

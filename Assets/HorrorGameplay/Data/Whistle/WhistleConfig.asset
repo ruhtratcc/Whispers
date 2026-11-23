@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b03cc99f72c95b1419f2ba65e6eaffb0, type: 3}
+  m_Name: WhistleConfig
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.WhistleConfig
+  range: 24
+  highlightHeightTolerance: 2.5
+  cooldown: 10
+  holdMinimum: 0.55
+  holdMaximum: 3
+  mirrorHoldSeconds: 2.1
+  tapVolume: 0.3
+  holdVolume: 0.16
+  responseVolume: 0.22
+  echoDelay: 0.35
+  responseMaxSeconds: 1.1
+  stressPerBlow: 1
+  stressThreshold: 3
+  stressMaximum: 6
+  stressCoolingPerSecond: 0.045
+  rareCommentCooldown: 75
+  pulseExpansionSeconds: 1.6
+  effectDuration: 10
+  desaturation: -12
+  outlineWidth: 0.02
+  highlightStrength: 0.9
+  throughWallStrength: 0.8
+  maxHighlights: 512
+  highlightMask:
+    serializedVersion: 2
+    m_Bits: 1073741824
+  usefulColor: {r: 0.46, g: 0.79, b: 1, a: 1}
+  storyColor: {r: 1, g: 0.67, b: 0.27, a: 1}
+  pathColor: {r: 0.78, g: 0.94, b: 0.84, a: 1}
+  highlightMaterial: {fileID: 2100000, guid: a1b6a2b0d5a272340be9366cb406caf0, type: 2}
+  trailMaterial: {fileID: 2100000, guid: 9b8054595407ce2429daaeb412015f92, type: 2}
+  tapClip: {fileID: 8300000, guid: b089484fc307c4b4a83bc69cd06f105a, type: 3}
+  holdClip: {fileID: 8300000, guid: ac0d83a3285a5234db9fd332eb979677, type: 3}
+  childAnswerClips:
+  - {fileID: 8300000, guid: e840ebb41100f3943aba5d74a12e791e, type: 3}
+  - {fileID: 8300000, guid: daa5336efae0c6243894f5e95ec08455, type: 3}
+  - {fileID: 8300000, guid: 1f9931aeddceb264dae33e6df2e4adab, type: 3}
+  - {fileID: 8300000, guid: 69e2e0a744e5bb34eb6d5642e35bc9e6, type: 3}
+  emptyEchoClip: {fileID: 8300000, guid: 71d6bbd4bed419b49bc7932745e33bdf, type: 3}
+  childAnswerDelay: {x: 0.6, y: 1.2}
+  childAnswerRange: 38
+  childAnswerVolume: 0.38
+  emptyEchoVolume: 0.08
+  dialogue: {fileID: 11400000, guid: d8367109e7425d041bce0c9fe5ff41be, type: 2}
+  tapCaption: '[apito]'
+  responseCaption: '[algo respondeu]'

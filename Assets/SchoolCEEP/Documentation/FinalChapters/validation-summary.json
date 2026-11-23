@@ -1,0 +1,51 @@
+{
+  "story": "Original psychological horror",
+  "uniqueTests": 31,
+  "passed": 31,
+  "failed": 0,
+  "rerunAfterDoorFix": [
+    "scene-tests",
+    "shared-tests"
+  ],
+  "regressionReportsFromPriorPass": [
+    "chapter3-regression",
+    "chapter4-regression",
+    "chapter5-regression",
+    "sanity-regression"
+  ],
+  "reports": [
+    {
+      "report": "scene-tests",
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "report": "shared-tests",
+      "passed": 7,
+      "failed": 0
+    },
+    {
+      "report": "chapter3-regression",
+      "passed": 3,
+      "failed": 0
+    },
+    {
+      "report": "chapter4-regression",
+      "passed": 3,
+      "failed": 0
+    },
+    {
+      "report": "chapter5-regression",
+      "passed": 4,
+      "failed": 0
+    },
+    {
+      "report": "sanity-regression",
+      "passed": 8,
+      "failed": 0
+    }
+  ],
+  "testGuardActive": false,
+  "gameBuildProduced": false,
+  "fpsMeasured": false
+}

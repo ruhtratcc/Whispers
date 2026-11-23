@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6456f6c0335a56a48986287dd1719cef, type: 3}
+  m_Name: equipment
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.TutorialCardData
+  id: equipment
+  title: ITENS E EQUIPAMENTOS
+  lines:
+  - "Voc\xEA carrega um item por vez."
+  - "Troque quando precisar. Apertar o mesmo n\xFAmero de novo guarda o item."
+  mediaKind: 2
+  model: {fileID: 0}
+  video: {fileID: 0}
+  image: {fileID: 2800000, guid: 27dd8a8c796fd3d4f81c69110c2fdb87, type: 3}
+  fallbackImage: {fileID: 2800000, guid: 27dd8a8c796fd3d4f81c69110c2fdb87, type: 3}
+  videoAudio: 0
+  controls:
+  - actionId: Slots
+    label: Escolher um item
+    hold: 0
+  - actionId: EquipmentCycle
+    label: Trocar de item
+    hold: 0
+  - actionId: WhistleEquip
+    label: Alternar equipamento
+    hold: 0
+  - actionId: EquipmentPrevious
+    label: "Voltar ao \xFAltimo item"
+    hold: 0
+  trigger: 4
+  triggerId: 
+  delay: 0.75
+  priority: 40
+  helpOrder: 1
+  blocksGame: 1
+  readInHelp: 1
+  openSound: {fileID: 11400000, guid: 70406328687043e4b87b93168575b81f, type: 2}
+  closeSound: {fileID: 11400000, guid: f55445759afc0884f84362feeaeebe3f, type: 2}
+  buttonSound: {fileID: 11400000, guid: e36be15841e07b941a69baf36c7b6018, type: 2}

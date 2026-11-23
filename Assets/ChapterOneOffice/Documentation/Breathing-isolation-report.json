@@ -1,0 +1,72 @@
+{
+  "source": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\BreathPhoneDrawer\\Audio\\HeavyBreathing-before.wav",
+  "candidate": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\BreathAudioIsolation\\HeavyBreathing-isolated.wav",
+  "rate": 44100,
+  "channels": 1,
+  "bits": 16,
+  "seconds": 12.45,
+  "method": "Inter-breath learned stationary noise; conservative phase-preserving Wiener mask; smooth time/frequency mask; full-band breath protection; no low-pass, no gain normalization",
+  "gaps": [
+    [
+      1.47,
+      1.56
+    ],
+    [
+      2.3,
+      2.37
+    ],
+    [
+      3.0,
+      3.065
+    ],
+    [
+      3.65,
+      3.73
+    ],
+    [
+      6.625,
+      6.685
+    ],
+    [
+      7.29,
+      7.345
+    ],
+    [
+      8.71,
+      8.77
+    ],
+    [
+      9.4,
+      9.46
+    ],
+    [
+      10.11,
+      10.17
+    ]
+  ],
+  "quietReductionDB": -10.496303031754994,
+  "strongBreathWaveformCorrelation": 0.9999030556431883,
+  "envelopeCorrelation": 0.99496216309868,
+  "foregroundBandTransferDB": {
+    "80-1800 Hz": -0.0035436698425699836,
+    "1800-3500 Hz": -0.001398988897721011,
+    "3500-8000 Hz": -0.00266345882683949,
+    "8000-16000 Hz": -0.013246910425715514
+  },
+  "originalRMS": 0.053091115227069226,
+  "candidateRMS": 0.05109612213260312,
+  "originalPeak": 0.698638916015625,
+  "candidatePeak": 0.6986389160156251,
+  "clippedSamples": 0,
+  "edgeSamples": [
+    0,
+    0
+  ],
+  "sourceSHA256": "147201ac950fd9f3f7a90ad46cbb0d296ef68f02dc21493ee90b78fd1fb62914",
+  "candidateSHA256": "17b771be9f6a3851cf308adf182c7cd521fb3119ec51d6602205a987ffb4d21e",
+  "auditoryVerified": false,
+  "installed": true,
+  "limitations": "Monophonic background overlapping breathing cannot be perfectly separated; foreground protection deliberately keeps the original tone at strong breaths.",
+  "installedUtc": "2026-10-01T22:27:24.776488+00:00",
+  "causeConfirmation": "The user listened to the isolated original recording and confirmed that its embedded ambient background is the unwanted sound."
+}

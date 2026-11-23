@@ -1,0 +1,186 @@
+{
+    "coloredPlan": "C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/work/SchoolCEEP/User-colored-plan-20261003.png",
+    "legend": "Blue=walls; yellow=doors. Hand-drawn topology uses local building landmarks, not a global metric scale.",
+    "removed": [
+        {
+            "level": 0,
+            "block": "west_south",
+            "reason": "Cota horizontal 700 dentro da Sala30 ou do Laboratório de Instalações Elétricas; não é divisória.",
+            "vertical": false,
+            "p": 855.3200073242188,
+            "a": 368.9200134277344,
+            "b": 469.4800109863281
+        },
+        {
+            "level": 0,
+            "block": "west_south",
+            "reason": "Cota horizontal 700 dentro da Sala30 ou do Laboratório de Instalações Elétricas; não é divisória.",
+            "vertical": false,
+            "p": 1023.3200073242188,
+            "a": 497.9200134277344,
+            "b": 597.0399780273438
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 278.3599853515625,
+            "b": 348.0799865722656
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 358.760009765625,
+            "b": 402.2669982910156
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 415.7330017089844,
+            "b": 428.4800109863281
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 428.8399963378906,
+            "b": 498.9200134277344
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 509.6000061035156,
+            "b": 543.2680053710938
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.3599853515625,
+            "a": 556.7319946289063,
+            "b": 579.6799926757813
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.4800109863281,
+            "a": 580.4000244140625,
+            "b": 650.239990234375
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.4800109863281,
+            "a": 660.7999877929688,
+            "b": 704.2680053710938
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Segmento da cota vertical 1005, paralela à parede real x502.12; a linha foi recortada junto às portas existentes.",
+            "vertical": true,
+            "p": 496.4800109863281,
+            "a": 717.7319946289063,
+            "b": 730.6400146484375
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Cota horizontal 700 desenhada dentro de uma das três salas, sob sua parede norte verdadeira.",
+            "vertical": false,
+            "p": 291.32000732421875,
+            "a": 402.8800048828125,
+            "b": 502.8399963378906
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Cota horizontal 700 desenhada dentro de uma das três salas, sob sua parede norte verdadeira.",
+            "vertical": false,
+            "p": 441.9200134277344,
+            "a": 402.8800048828125,
+            "b": 502.8399963378906
+        },
+        {
+            "level": 0,
+            "block": "west_north",
+            "reason": "Cota horizontal 700 desenhada dentro de uma das três salas, sob sua parede norte verdadeira.",
+            "vertical": false,
+            "p": 591.2000122070313,
+            "a": 401.44000244140625,
+            "b": 502.1199951171875
+        },
+        {
+            "level": 0,
+            "block": "main_laboratories_north",
+            "reason": "Limite da PASSARELA COBERTA: linha simples .72 com tracejado paralelo y795.56 no P01, cotas e PLACA abaixo. Não é alvenaria; preservar a lateral estrutural real x829.48.",
+            "vertical": false,
+            "p": 794.3599853515625,
+            "a": 553.1199951171875,
+            "b": 829.47998046875
+        },
+        {
+            "level": 0,
+            "block": "proposed_east_teaching",
+            "reason": "False pairing of facade dashed line y773.12 and PLACA annotation y776.72; yellow doorway in colored plan. Preserve masonry jambs.",
+            "vertical": false,
+            "p": 774.9199829101563,
+            "a": 2400.280029296875,
+            "b": 2407.360107421875
+        },
+        {
+            "level": 0,
+            "block": "main_middle_circulation",
+            "reason": "Topo do retângulo PLACA pareado com a cota 2570; uma anotação de incêndio virou uma falsa parede.",
+            "vertical": false,
+            "p": 837.97998046875,
+            "a": 1153.3599853515625,
+            "b": 1176.760009765625
+        },
+        {
+            "level": 0,
+            "block": "main_middle_circulation",
+            "reason": "Cota 2570 atravessa a circulação aberta; não é alvenaria.",
+            "vertical": false,
+            "p": 839.719970703125,
+            "a": 829.47998046875,
+            "b": 1210.1199951171875
+        },
+        {
+            "level": 0,
+            "block": "proposed_library",
+            "reason": "Vertical 1460 dimension inside library, with text gap and diagonal ticks in native PDF; colored plan shows a single reading room.",
+            "vertical": true,
+            "p": 1910.56005859375,
+            "a": 776.5999755859375,
+            "b": 874.1599731445313
+        },
+        {
+            "level": 0,
+            "block": "proposed_library",
+            "reason": "Vertical 1460 dimension inside library, with text gap and diagonal ticks in native PDF; colored plan shows a single reading room.",
+            "vertical": true,
+            "p": 1910.56005859375,
+            "a": 884.719970703125,
+            "b": 982.1599731445313
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "path": "Assets/HorrorMenu/Scenes/MainMenu.unity",
+    "hash": "A8048A1319D61BDCA3017D9C8D27A552DBC36BC15E44F44ADAE606440E03E164",
+    "identical": true,
+    "authorizedRoadHandoff": false
+  },
+  {
+    "path": "Assets/ChapterOneOffice/Scenes/Chapter1Office.unity",
+    "hash": "AE177B444A0323CED35B835B9602C11C21747BC99480EF1D53EFA23BAB775701",
+    "identical": true,
+    "authorizedRoadHandoff": false
+  },
+  {
+    "path": "Assets/RoadChapter/Scenes/RoadJourney.unity",
+    "hash": "3B8E5C3ACB28444E708247B291EF6DF360CD2C52183928BCEED01E78E6787081",
+    "identical": false,
+    "authorizedRoadHandoff": true
+  },
+  {
+    "path": "Assets/HorrorGameplay/Prefabs/GameplayRoot.prefab",
+    "hash": "178D947EC7367CAC810FC95B6D37A2CE03EE8225FD230C2E801B9A3D269CEA71",
+    "identical": true,
+    "authorizedRoadHandoff": false
+  }
+]

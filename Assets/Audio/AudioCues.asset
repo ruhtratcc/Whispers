@@ -1,0 +1,451 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2208c992177bcf9448268d291f536e3c, type: 3}
+  m_Name: AudioCues
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.AudioCueLibrary
+  cues:
+  - id: bell
+    sound: {fileID: 11400000, guid: 7354bd2b7faaeb64482e24775543eea2, type: 2}
+    channel: 2
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: car_interior
+    sound: {fileID: 11400000, guid: e63e17dddd5c675468394de5bd9bcacd, type: 2}
+    channel: 1
+    spatial: 0
+    essential: 1
+    loopPrepared: 1
+  - id: cassette_hiss_loop
+    sound: {fileID: 11400000, guid: 225e0f01af4cd0a40a10cdebf1c117c1, type: 2}
+    channel: 5
+    spatial: 0
+    essential: 1
+    loopPrepared: 1
+  - id: chair_tile_scrape
+    sound: {fileID: 11400000, guid: 5463ea534a23aa74d822e01caa4e6640, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: computer_fan_loop
+    sound: {fileID: 11400000, guid: e30c125653c9b1b43bf0d8404c0f87f5, type: 2}
+    channel: 5
+    spatial: 1
+    essential: 1
+    loopPrepared: 1
+  - id: dawn_birds
+    sound: {fileID: 11400000, guid: 32024d1abcfd5fa4e8446aba97d8ada5, type: 2}
+    channel: 2
+    spatial: 0
+    essential: 1
+    loopPrepared: 1
+  - id: door_close
+    sound: {fileID: 11400000, guid: ddcf632fd2358d14486c30be50072ca7, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: door_latch
+    sound: {fileID: 11400000, guid: 10f1d77984e63fd4586948955491af87, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: door_locked
+    sound: {fileID: 11400000, guid: d7e6482d3e62acd4da0f39b53b43d6f4, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: door_open
+    sound: {fileID: 11400000, guid: b9cabaa3fd4b3de43a33f43a2a0d5783, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: drawer_close
+    sound: {fileID: 11400000, guid: e8be1b3d31bf4194ebc8ab70571e216e, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: drawer_open
+    sound: {fileID: 11400000, guid: 8766767c6179026478c0614cdd4ce79c, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: drawer_stop
+    sound: {fileID: 11400000, guid: 7134bc338de62264fb32de4717685989, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: flashlight_off
+    sound: {fileID: 11400000, guid: 509b32d26891b7f4e80a784a8da49f6d, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: flashlight_on
+    sound: {fileID: 11400000, guid: f397307489848fe4f93892bb5aa516de, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: heartbeat_recorded
+    sound: {fileID: 11400000, guid: 5822e01c158bc8c4ea7b9fe4882a260f, type: 2}
+    channel: 1
+    spatial: 0
+    essential: 1
+    loopPrepared: 1
+  - id: interior_wind_loop
+    sound: {fileID: 11400000, guid: a29f2f5375455d5408c20222b46878c9, type: 2}
+    channel: 2
+    spatial: 0
+    essential: 1
+    loopPrepared: 1
+  - id: key_pickup
+    sound: {fileID: 11400000, guid: 7842bd72cb12bd54bb5f8d4ec0d6d582, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: mechanical_drive_seek
+    sound: {fileID: 11400000, guid: 0223ac5f4d45feb4bb573f5bc56958de, type: 2}
+    channel: 5
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: mirror_shatter
+    sound: {fileID: 11400000, guid: a703e49b94cb2ba4cb4b8d054aab7c71, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: mirror_shock_hit
+    sound: {fileID: 11400000, guid: cfaf9232a90892f468ffad839d22d4f7, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: paper
+    sound: {fileID: 11400000, guid: 352984ba3e2ffc249a99842c6a9a4b72, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: pc_boot
+    sound: {fileID: 11400000, guid: a9ae9ab701ff2f340964f18c05bf4d55, type: 2}
+    channel: 5
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: pc_error
+    sound: {fileID: 11400000, guid: 436f793c7eef3464097823bfbd50ea2e, type: 2}
+    channel: 5
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: phone_notification
+    sound: {fileID: 11400000, guid: 628d156698f805c44aa825818f9a2510, type: 2}
+    channel: 6
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: phone_screen_taps
+    sound: {fileID: 11400000, guid: 3c4d6ba37c473c144982f81e3e077cbd, type: 2}
+    channel: 6
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: phone_vibrate_table
+    sound: {fileID: 11400000, guid: 16c84d406e76d794da791d144982362a, type: 2}
+    channel: 6
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: room_creak
+    sound: {fileID: 11400000, guid: ff17d77bfa77ae94dbd03970ed9ee6d7, type: 2}
+    channel: 2
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: step_carpet
+    sound: {fileID: 11400000, guid: 12282495e988da242bc6834541011c30, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: step_concrete
+    sound: {fileID: 11400000, guid: de0a2f2d9303dbd4b84733ef4fd68954, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: step_dirt
+    sound: {fileID: 11400000, guid: e4dbe451d6047cc4aac71adc51776f57, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: step_grass
+    sound: {fileID: 11400000, guid: 55daeac08570aad45aaa28e014d6ea40, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: step_metal
+    sound: {fileID: 11400000, guid: 80b535b88d02921449f9e862ba324c2a, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: step_tile
+    sound: {fileID: 11400000, guid: 7ea26145ef4580546a47425a805e3665, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: step_wood
+    sound: {fileID: 11400000, guid: 403677ec09ad8f64d900ec1ac7d6eb34, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: stone_fall
+    sound: {fileID: 11400000, guid: 820c4dbc5507dbb4a8648d59225e07d9, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: tension_music
+    sound: {fileID: 11400000, guid: 445f9a1049591f241bd6cb164fc99f5f, type: 2}
+    channel: 0
+    spatial: 0
+    essential: 1
+    loopPrepared: 1
+  - id: ui_click
+    sound: {fileID: 11400000, guid: cc15d1a586b0de44995ff6e6bdc2b801, type: 2}
+    channel: 4
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: ui_confirm
+    sound: {fileID: 11400000, guid: d4fe6c36fe84b464fa1b3854564daec0, type: 2}
+    channel: 4
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: water_drip
+    sound: {fileID: 11400000, guid: e5146ca02a1d39249b3d0d56754835ed, type: 2}
+    channel: 2
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: whistle_real
+    sound: {fileID: 11400000, guid: d6e1a106a7a945d41a00072746eca4bf, type: 2}
+    channel: 1
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: wood_walk_source
+    sound: {fileID: 11400000, guid: e5292d49d444fe348af173bdf3a6639e, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 0
+    loopPrepared: 0
+  - id: key
+    sound: {fileID: 11400000, guid: ce141961eb49a094dbd9cffc54c45798, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: battery
+    sound: {fileID: 11400000, guid: d70bbfde7180078498a34aecde6f9a94, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: item
+    sound: {fileID: 11400000, guid: 3006a2c4d9f2d794a8cb65d783062973, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: metal_lid
+    sound: {fileID: 11400000, guid: 77eac0f840ddeef43ae93160103632d3, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: child_vanish
+    sound: {fileID: 11400000, guid: ea3cc4f2d079c2242b0e0a9fede9aa5e, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: whistle
+    sound: {fileID: 11400000, guid: 3b5b89c6cfbdf1549ad2f4ddd86ef829, type: 2}
+    channel: 1
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: heartbeat
+    sound: {fileID: 11400000, guid: 638949841cb830f46a71232b488ec176, type: 2}
+    channel: 1
+    spatial: 0
+    essential: 1
+    loopPrepared: 1
+  - id: phone_vibration
+    sound: {fileID: 11400000, guid: 2d3e87ca64b05a441bb0389de7a94437, type: 2}
+    channel: 6
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: phone_typing
+    sound: {fileID: 11400000, guid: ec92f241b213e404d800ed2351371780, type: 2}
+    channel: 6
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: phone_send
+    sound: {fileID: 11400000, guid: 82a4acecb7e970f408a119c7ce240e32, type: 2}
+    channel: 6
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: pc_click
+    sound: {fileID: 11400000, guid: 63b2aa2ac9427ff48a4359a9ec8749c7, type: 2}
+    channel: 5
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: pc_hd
+    sound: {fileID: 11400000, guid: 8b15e5479e228fb49ae75e5f4fdc5655, type: 2}
+    channel: 5
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: pc_fan
+    sound: {fileID: 11400000, guid: da750825ed05ef84aadc40a84f9cfcea, type: 2}
+    channel: 5
+    spatial: 1
+    essential: 1
+    loopPrepared: 1
+  - id: pc_notification
+    sound: {fileID: 11400000, guid: 8412b13c48f3ce6498e381d7b9622cd7, type: 2}
+    channel: 5
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: tape_play
+    sound: {fileID: 11400000, guid: d826124dff1ce5746b98840b305e8ae2, type: 2}
+    channel: 4
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: tape_stop
+    sound: {fileID: 11400000, guid: ebd991d0170b33144bb58290050591a7, type: 2}
+    channel: 4
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: tape_rewind
+    sound: {fileID: 11400000, guid: 1a64b8020048cea46a2ab161814b9674, type: 2}
+    channel: 4
+    spatial: 0
+    essential: 1
+    loopPrepared: 0
+  - id: mirror_shock
+    sound: {fileID: 11400000, guid: 93094634118dd5544b1264536c7a55e2, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: mirror_break
+    sound: {fileID: 11400000, guid: dfd31ad9ba7ec0045bbb3ddd9781a1b8, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: wall_collapse
+    sound: {fileID: 11400000, guid: f2e5f66cfe0e0854bb3fc56a31192618, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: drip
+    sound: {fileID: 11400000, guid: b2a69aebff1afcc47b40285290830819, type: 2}
+    channel: 2
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: chair
+    sound: {fileID: 11400000, guid: 930c004ce2a6e1d49ae99a76d89a97c8, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: steps_tile
+    sound: {fileID: 11400000, guid: 855fc9a99351b9d469b310cf97716b88, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: steps_concrete
+    sound: {fileID: 11400000, guid: 811847289f7bbbe43b886abbd2c4f728, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: steps_carpet
+    sound: {fileID: 11400000, guid: 331d5e54e509ac949ab84d82ea4a5d71, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: steps_metal
+    sound: {fileID: 11400000, guid: 3abd2955c9687a04295949a88a2c6c5c, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: steps_grass
+    sound: {fileID: 11400000, guid: d56896b30bb08584f9bb9f3310a59f64, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: steps_dirt
+    sound: {fileID: 11400000, guid: 45d7ded0df0f4af4e9eba21287f8a706, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: steps_wood
+    sound: {fileID: 11400000, guid: 0c9ae0ea08c178743b993dc324d5f83f, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  - id: car_door
+    sound: {fileID: 11400000, guid: dad4e96199ec7d64ab9af8590aeda2e8, type: 2}
+    channel: 1
+    spatial: 1
+    essential: 1
+    loopPrepared: 0
+  officeBed: {fileID: 8300000, guid: 0d21b0d98c586fb42bf34c791667301b, type: 3}
+  roadBed: {fileID: 8300000, guid: 0d21b0d98c586fb42bf34c791667301b, type: 3}
+  schoolBed: {fileID: 8300000, guid: 0d21b0d98c586fb42bf34c791667301b, type: 3}
+  tensionMusic: {fileID: 8300000, guid: fd916a83a977d0c4ebd322a94a5bf5a9, type: 3}

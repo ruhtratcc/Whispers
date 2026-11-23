@@ -1,0 +1,22 @@
+{
+  "originalArchitectureBefore": "82E251C5DEE771F623A072CF2D80D100BD795AB4E3524AEDE0C935BBE747EACB",
+  "originalArchitectureAfter": "82E251C5DEE771F623A072CF2D80D100BD795AB4E3524AEDE0C935BBE747EACB",
+  "authorizedAddition": "Escola — terraço e última saída",
+  "ceilingProof": {
+    "exactSource": "Escada — forro superior branco",
+    "removedTriangles": 12,
+    "toleranceMetres": 0.0001,
+    "references": [
+      {
+        "original": "Assets/SchoolCEEP/Meshes/Build-20261007-002208/School-120.asset",
+        "replacement": "Assets/SchoolCEEP/Data/FinalChapters/RoofOpeningMeshes-20261008-135516/Opened-0.asset",
+        "removedTriangles": 12
+      }
+    ]
+  },
+  "terraceHeight": 7.32,
+  "newStairTreads": 20,
+  "riserHeight": 0.1755,
+  "newColliders": 53,
+  "entityColliders": 0
+}

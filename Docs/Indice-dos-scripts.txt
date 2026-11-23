@@ -1,0 +1,888 @@
+WHISPERS OF THE PAST — ÍNDICE DOS SCRIPTS
+
+432 arquivos C# próprios registrados pela Unity. Cada linha indica o caminho e o papel do arquivo. Os nomes de métodos de teste identificam os comportamentos verificados.
+
+Jogo (193)
+
+Assets/HorrorGameplay/Scripts/Audio/AudioCueLibrary.cs
+  Localiza efeitos sonoros pelos nomes usados nos scripts.
+Assets/HorrorGameplay/Scripts/Audio/AudioManager.cs
+  Toca e reaproveita fontes de som, ajustando volume, posição e canais do mixer.
+Assets/HorrorGameplay/Scripts/Audio/BreathingResponse.cs
+  Calcula a intensidade da respiração conforme esforço, medo e pausa.
+Assets/HorrorGameplay/Scripts/Audio/DemonVoice.cs [revisado]
+  Escolhe e mistura as camadas da voz de Helena no corredor e no espelho.
+Assets/HorrorGameplay/Scripts/Audio/DemonVoiceConfig.cs
+  Guarda clipes, volumes e atrasos das camadas da voz.
+Assets/HorrorGameplay/Scripts/Audio/FootstepAudio.cs
+  Dispara passos e aterrissagens quando João se movimenta.
+Assets/HorrorGameplay/Scripts/Audio/FootstepLibrary.cs [revisado]
+  Escolhe o som do piso pelo tipo de superfície, material físico ou tag.
+Assets/HorrorGameplay/Scripts/Audio/ImpactAudio.cs
+  Toca o efeito de impacto de objetos físicos.
+Assets/HorrorGameplay/Scripts/Audio/RandomScareAudio.cs
+  Escolhe quando e onde reproduzir sons inesperados.
+Assets/HorrorGameplay/Scripts/Audio/SceneAudioDetails.cs
+  Aplica detalhes sonoros próprios de cada cenário.
+Assets/HorrorGameplay/Scripts/Audio/SfxCatalog.cs
+  Reúne e localiza os efeitos que o jogo usa.
+Assets/HorrorGameplay/Scripts/Audio/SoundSet.cs
+  Agrupa variações de um som e evita repetir o último clipe quando há alternativas.
+Assets/HorrorGameplay/Scripts/Audio/SpatialAmbience.cs
+  Posiciona e regula ambientes sonoros no espaço.
+Assets/HorrorGameplay/Scripts/Audio/SurfaceType.cs
+  Identifica o material do chão para os passos.
+Assets/HorrorGameplay/Scripts/Audio/VoiceAudioPresentation.cs
+  Aplica o tratamento de voz de rádio, interfone ou ambiente.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopBootView.cs [revisado]
+  Mostra a sequência de ligar o computador.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopContent.cs
+  Guarda o conteúdo, as imagens e os dados dos aplicativos.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopContentDefaults.cs
+  Define o conteúdo padrão do computador fictício.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopError.cs [revisado]
+  Monta as caixas de erro com aparência do sistema.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopInvestigationApps.cs
+  Controla correio, documentos, imagens e lixeira.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopJungBrowser.cs [revisado]
+  Exibe páginas locais da investigação no navegador fictício.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopNote.cs [revisado]
+  Organiza as anotações do computador.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopPage.cs [revisado]
+  Define uma página que o navegador pode abrir.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopPointer.cs [revisado]
+  Transforma a interação do jogador em cursor na tela do monitor.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopSecondaryApps.cs
+  Implementa Bloco de Notas, Media Player e Campo Minado.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopSnakeApp.cs
+  Controla a Cobrinha, suas entradas e o estado da partida.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopStartMenu.cs [revisado]
+  Abre os aplicativos pelo menu Iniciar.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopSystemText.cs
+  Centraliza textos usados pelo computador fictício.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopUI.cs [revisado]
+  Monta a área de trabalho e coordena aplicativos e janelas.
+Assets/HorrorGameplay/Scripts/Desktop/DesktopWindow.cs [revisado]
+  Gerencia posição, foco e tamanho das janelas.
+Assets/HorrorGameplay/Scripts/Desktop/RetroComputer.cs
+  Coordena a câmera, o cursor, o monitor e o fluxo do computador.
+Assets/HorrorGameplay/Scripts/Desktop/RetroComputerInteraction.cs [revisado]
+  Encaminha o comando de usar o computador.
+Assets/HorrorGameplay/Scripts/Email/EmailCatalog.cs
+  Contém o texto, os anexos e as regras iniciais de entrega dos emails.
+Assets/HorrorGameplay/Scripts/Email/EmailInboxController.cs
+  Entrega, registra leituras e comunica mudanças ao jogo.
+Assets/HorrorGameplay/Scripts/Email/EmailInboxState.cs
+  Valida e guarda os IDs dos emails entregues e lidos.
+Assets/HorrorGameplay/Scripts/Email/EmailInboxView.cs [revisado]
+  Exibe a caixa de entrada e o conteúdo das mensagens.
+Assets/HorrorGameplay/Scripts/Email/RoadPhoneCallView.cs
+  Apresenta a interface da ligação recebida na estrada.
+Assets/HorrorGameplay/Scripts/Enemy/EnemyBrain.cs
+  Contém lógica de inimigo de protótipo, separada da campanha psicológica atual.
+Assets/HorrorGameplay/Scripts/Equipment/EquipmentController.cs [revisado]
+  Controla o item da mão, a troca de slot e o uso do apito ou da lanterna.
+Assets/HorrorGameplay/Scripts/Equipment/EquipmentDefinition.cs
+  Define os itens equipáveis e as preferências gravadas desse sistema.
+Assets/HorrorGameplay/Scripts/Equipment/EquipmentHud.cs
+  Mostra o item, a carga e o tempo de espera quando necessário.
+Assets/HorrorGameplay/Scripts/Equipment/EquipmentOptionsPanel.cs [revisado]
+  Exibe as opções de HUD, lanterna e rolagem da roda do mouse.
+Assets/HorrorGameplay/Scripts/Inspection/ArchiveRecords.cs
+  Classifica documentos, itens e pistas pelo registro conhecido.
+Assets/HorrorGameplay/Scripts/Inspection/DiscoveryNotifications.cs
+  Mostra os novos registros em fila, com miniatura e som quando disponíveis.
+Assets/HorrorGameplay/Scripts/Inspection/InspectableItem.cs
+  Permite que um objeto da cena entre no sistema de inspeção.
+Assets/HorrorGameplay/Scripts/Inspection/InspectionCameraController.cs [revisado]
+  Posiciona a câmera e controla giro e zoom.
+Assets/HorrorGameplay/Scripts/Inspection/InspectionItemData.cs
+  Guarda modelo, textos, imagens, páginas e gravação de um objeto.
+Assets/HorrorGameplay/Scripts/Inspection/InspectionManager.cs [revisado]
+  Abre e fecha a inspeção, gerencia o item atual e confirma ações de coleta.
+Assets/HorrorGameplay/Scripts/Inspection/InspectionUI.cs [revisado]
+  Exibe controles, páginas, leitura e gravações durante a inspeção.
+Assets/HorrorGameplay/Scripts/Inspection/NarrativeArchive.cs
+  Mostra e reabre os registros que João já coletou.
+Assets/HorrorGameplay/Scripts/Inspection/SchoolInspectionCatalog.cs
+  Localiza os dados de inspeção pelo ID do item.
+Assets/HorrorGameplay/Scripts/Interaction/CollectibleItem.cs
+  Processa a coleta de itens e registra a ação no inventário.
+Assets/HorrorGameplay/Scripts/Interaction/HidingSpot.cs
+  Controla a entrada e a saída dos lugares em que é possível se esconder.
+Assets/HorrorGameplay/Scripts/Interaction/IInteractable.cs
+  Define o contrato comum de uma interação, como mostrar a dica e executar a ação.
+Assets/HorrorGameplay/Scripts/Interaction/InteractableLightSwitch.cs
+  Liga ou desliga luzes ligadas ao interruptor.
+Assets/HorrorGameplay/Scripts/Interaction/InteractiveDoor.cs
+  Controla abertura, fechamento, trava e estado persistente de portas.
+Assets/HorrorGameplay/Scripts/Interaction/InteractiveDrawer.cs
+  Controla o movimento, a interação e o estado de uma gaveta.
+Assets/HorrorGameplay/Scripts/Interaction/Inventory.cs
+  Guarda os itens adquiridos e registra quais foram examinados.
+Assets/HorrorGameplay/Scripts/Interaction/PhysicsGrabber.cs
+  Pega, segura e solta objetos físicos.
+Assets/HorrorGameplay/Scripts/Interaction/PhysicsPickup.cs
+  Define os objetos que podem ser levantados.
+Assets/HorrorGameplay/Scripts/Interaction/PlayerInteraction.cs
+  Identifica o alvo à frente da câmera e encaminha a ação escolhida.
+Assets/HorrorGameplay/Scripts/Interaction/SchoolAreaRestriction.cs
+  Restringe interações ou áreas que estão fora da rota configurada.
+Assets/HorrorGameplay/Scripts/Lockpick/LockableDoor.cs [revisado]
+  Conecta fechaduras e seus estados a portas ou gavetas.
+Assets/HorrorGameplay/Scripts/Lockpick/LockpickConfig.cs
+  Guarda a dificuldade e os parâmetros de arrombamento.
+Assets/HorrorGameplay/Scripts/Lockpick/LockpickDialogue.cs [revisado]
+  Fornece as falas associadas ao uso do grampo.
+Assets/HorrorGameplay/Scripts/Lockpick/LockpickNoteProposal.cs
+  Organiza o texto de apoio sobre fechaduras e o grampo.
+Assets/HorrorGameplay/Scripts/Lockpick/LockpickPickup.cs [revisado]
+  Registra a coleta do grampo.
+Assets/HorrorGameplay/Scripts/Lockpick/LockpickSystem.cs [revisado]
+  Executa o minijogo e controla os pinos da fechadura.
+Assets/HorrorGameplay/Scripts/Lockpick/LockpickView.cs [revisado]
+  Desenha a interface da fechadura e seus controles.
+Assets/HorrorGameplay/Scripts/Lockpick/PinGlint.cs [revisado]
+  Controla o brilho usado como indicação do grampo.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionCampaign.cs
+  Identifica a campanha atual, seus capítulos e as regras de compatibilidade de progresso.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionContent.cs
+  Reúne as definições de conteúdo da campanha atual.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionEndingView.cs
+  Mostra a decisão final e as telas associadas ao desfecho.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionFourStudentsFlow.cs
+  Coordena os quatro alunos, os itens, a gravação de Bia e o acesso à escada.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionFourStudentsInteraction.cs
+  Liga os objetos dos quatro alunos ao fluxo do capítulo.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionMirrorFlow.cs [revisado]
+  Controla a apresentação do espelho, as escolhas e o retorno do apito.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionOfficeFlow.cs
+  Coordena o PC, os emails, a gaveta e a saída do escritório.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionOfficeInteraction.cs
+  Liga portas e objetos do escritório às ações narrativas.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionRoadFlow.cs
+  Coordena a viagem, as ações dentro do carro e a entrada na escola.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionRoadInteraction.cs
+  Traduz interações com o interior do carro e o portão em ações.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionRoadRadio.cs
+  Troca rádio, noticiário, músicas, chamadas e a cantiga.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionRoadState.cs
+  Guarda a etapa do rádio e as ações já concluídas na estrada.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionSchoolFlow.cs [revisado]
+  Coordena a secretaria, as evidências, a chave e a visita à biblioteca.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionSchoolInteraction.cs
+  Traduz interações com os objetos da secretaria e da biblioteca em ações.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionSchoolState.cs
+  Guarda o progresso e os estados usados na primeira visita à escola.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionTwoVoicesFlow.cs
+  Coordena o corredor infinito, a fita e a saída para o espelho.
+Assets/HorrorGameplay/Scripts/Narrative/BeforeDemolitionWhistle.cs
+  Integra o apito às regras de investigação da campanha.
+Assets/HorrorGameplay/Scripts/Narrative/ChapterTransitionView.cs
+  Mostra os cartões e fades das trocas de capítulo.
+Assets/HorrorGameplay/Scripts/Narrative/CorridorAtmosphere.cs [revisado]
+  Monta a apresentação do corredor infinito, com névoa, luz e marcas.
+Assets/HorrorGameplay/Scripts/Narrative/CorridorAtmosphereConfig.cs
+  Guarda medidas, limites e parâmetros visuais do corredor.
+Assets/HorrorGameplay/Scripts/Narrative/EndingEpilogue.cs
+  Orquestra a sequência final, incluindo transições, notícias e apresentação das cenas.
+Assets/HorrorGameplay/Scripts/Narrative/EndingPresentationConfig.cs
+  Reúne textos, imagens, falas e durações do final.
+Assets/HorrorGameplay/Scripts/Narrative/GhostAppearance.cs
+  Controla aparições guiadas da versão anterior da história.
+Assets/HorrorGameplay/Scripts/Narrative/MirrorReflectionMask.cs [revisado]
+  Recorta a figura do reflexo para aparecer dentro do vidro.
+Assets/HorrorGameplay/Scripts/Narrative/NarrativeDirector.cs
+  Aceita eventos, atualiza o objetivo e coordena diálogos e capítulos.
+Assets/HorrorGameplay/Scripts/Narrative/NarrativeProgress.cs [revisado]
+  Guarda os eventos cumpridos e verifica qual ação vem em seguida.
+Assets/HorrorGameplay/Scripts/Narrative/OfficeEndingFlow.cs
+  Coordena o retorno ao escritório no fluxo narrativo ao qual está ligado.
+Assets/HorrorGameplay/Scripts/Narrative/OfficeWardrobe.cs [revisado]
+  Controla a interação com o armário do escritório.
+Assets/HorrorGameplay/Scripts/Narrative/PoltergeistEvent.cs
+  Encena mudanças pontuais no cenário a partir de eventos configurados.
+Assets/HorrorGameplay/Scripts/Narrative/PrologueFlow.cs
+  Coordena o prólogo alternativo do escritório.
+Assets/HorrorGameplay/Scripts/Narrative/RoadJourneyFlow.cs
+  Controla a viagem da versão anterior da história.
+Assets/HorrorGameplay/Scripts/Narrative/RoadJourneyInteraction.cs
+  Adapta os pontos interativos à viagem anterior.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolFinalPhone.cs
+  Executa a ligação final do fluxo anterior.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolLastExitFlow.cs
+  Coordena a última saída na versão anterior.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolLeftBehindClue.cs
+  Identifica as pistas do capítulo antigo sobre o que ficou para trás.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolLeftBehindFlow.cs
+  Executa a investigação da área antiga no roteiro anterior.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolMemoriesClue.cs
+  Identifica uma pista do capítulo anterior de memórias.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolMemoriesFlow.cs
+  Controla as descobertas e transições das memórias no roteiro anterior.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolMemoryMirror.cs
+  Controla a interação com o espelho de memórias da versão anterior.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolOpeningClue.cs
+  Identifica um objeto da abertura antiga da escola.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolOpeningFlow.cs
+  Coordena os primeiros eventos no roteiro anterior da escola.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolSimplifiedFlow.cs
+  Coordena a campanha simplificada usada como roteiro anterior.
+Assets/HorrorGameplay/Scripts/Narrative/SchoolTerraceFlow.cs
+  Controla a subida e as revelações do antigo capítulo do terraço.
+Assets/HorrorGameplay/Scripts/Narrative/SecretaryEvidence.cs
+  Controla a análise das pegadas na secretaria.
+Assets/HorrorGameplay/Scripts/Narrative/SecretaryEvidenceText.cs
+  Sincroniza os textos das evidências entre versões de save.
+Assets/HorrorGameplay/Scripts/Narrative/SimplifiedSchoolClue.cs
+  Registra pistas da campanha simplificada.
+Assets/HorrorGameplay/Scripts/Narrative/SimplifiedStoryContent.cs
+  Monta as definições e itens do roteiro simplificado.
+Assets/HorrorGameplay/Scripts/Narrative/StoryBook.cs [revisado]
+  Reúne capítulos, marcos, falas e sequências, com buscas por ID.
+Assets/HorrorGameplay/Scripts/Narrative/StoryContent.cs
+  Reúne o conteúdo e os padrões da campanha anterior.
+Assets/HorrorGameplay/Scripts/Narrative/StoryEquipment.cs
+  Permite coletar equipamentos ligados à história.
+Assets/HorrorGameplay/Scripts/Narrative/StoryExit.cs
+  Processa pontos de saída vinculados à narrativa.
+Assets/HorrorGameplay/Scripts/Narrative/StoryInteraction.cs
+  Liga uma interação genérica a um evento narrativo.
+Assets/HorrorGameplay/Scripts/Narrative/StoryTelephone.cs
+  Liga o telefone do cenário a uma ação narrativa.
+Assets/HorrorGameplay/Scripts/Narrative/StoryWorldEvent.cs
+  Liga eventos no ambiente a marcos da história.
+Assets/HorrorGameplay/Scripts/Objectives/ChapterObjectives.cs
+  Guarda textos e etapas consultáveis dos objetivos.
+Assets/HorrorGameplay/Scripts/Objectives/ObjectiveOptions.cs [revisado]
+  Controla preferências sobre a apresentação do objetivo.
+Assets/HorrorGameplay/Scripts/Objectives/ObjectiveService.cs [revisado]
+  Atualiza a tarefa atual conforme o capítulo e o progresso.
+Assets/HorrorGameplay/Scripts/Phone/PhoneMessageCatalog.cs
+  Guarda mensagens, fotos e gatilhos de entrega do celular.
+Assets/HorrorGameplay/Scripts/Phone/PhoneMessages.cs
+  Gerencia entrega, notificações, leitura e salvamento das conversas.
+Assets/HorrorGameplay/Scripts/Phone/PhoneMessagesView.cs
+  Monta a interface das conversas do celular.
+Assets/HorrorGameplay/Scripts/Phone/PhoneProgression.cs
+  Verifica leituras obrigatórias, lembretes e travas ligadas às mensagens.
+Assets/HorrorGameplay/Scripts/Phone/PhoneProgressionConfig.cs
+  Define as mensagens e áreas usadas para avançar a história.
+Assets/HorrorGameplay/Scripts/Phone/PhoneWindowDrag.cs
+  Permite arrastar uma janela de conversa.
+Assets/HorrorGameplay/Scripts/Player/FirstPersonCamera.cs
+  Posiciona a câmera, aplica balanço e responde aos controles de visão.
+Assets/HorrorGameplay/Scripts/Player/FirstPersonMotor.cs
+  Executa movimento, corrida, agachamento, salto e colisões do jogador.
+Assets/HorrorGameplay/Scripts/Player/FlashlightController.cs
+  Controla feixe, bateria e aparência da lanterna na mão.
+Assets/HorrorGameplay/Scripts/Player/VintageCameraEffect.cs
+  Configura o filtro de vídeo antigo conforme o capítulo e a tensão.
+Assets/HorrorGameplay/Scripts/Player/VintageCameraRendererFeature.cs
+  Aplica o filtro de imagem no pipeline URP.
+Assets/HorrorGameplay/Scripts/Systems/Checkpoint.cs
+  Marca um lugar ou evento que serve como ponto de retorno.
+Assets/HorrorGameplay/Scripts/Systems/ContextBarks.cs [revisado]
+  Dispara comentários curtos e contextuais de João.
+Assets/HorrorGameplay/Scripts/Systems/DarknessZone.cs
+  Identifica regiões escuras para o sistema de atmosfera.
+Assets/HorrorGameplay/Scripts/Systems/EventZone.cs
+  Detecta entrada em áreas que disparam uma ação.
+Assets/HorrorGameplay/Scripts/Systems/FlickerLight.cs
+  Executa oscilações de luz configuradas no cenário.
+Assets/HorrorGameplay/Scripts/Systems/GameClock.cs [revisado]
+  Mantém o relógio interno usado nas cenas e interfaces.
+Assets/HorrorGameplay/Scripts/Systems/GameSession.cs
+  Coordena os modos de jogo como exploração, pausa, inspeção e cutscene.
+Assets/HorrorGameplay/Scripts/Systems/HorrorAtmosphere.cs
+  Integra sinais de tensão e ajustes atmosféricos.
+Assets/HorrorGameplay/Scripts/Systems/InputReader.cs [revisado]
+  Lê teclado, mouse e controle e entrega os comandos aos sistemas.
+Assets/HorrorGameplay/Scripts/Systems/Jumpscare.cs
+  Executa sustos pontuais configurados no cenário.
+Assets/HorrorGameplay/Scripts/Systems/LoadingMetrics.cs [revisado]
+  Mede etapas de carregamento para diagnóstico.
+Assets/HorrorGameplay/Scripts/Systems/NoiseSystem.cs
+  Distribui eventos de ruído do mundo.
+Assets/HorrorGameplay/Scripts/Systems/PersistentObject.cs
+  É a base de objetos que têm ID e estado salvo.
+Assets/HorrorGameplay/Scripts/Systems/RatScurry.cs [revisado]
+  Controla os ratos, seus trajetos e sons.
+Assets/HorrorGameplay/Scripts/Systems/SaveSystem.cs
+  Valida, grava e recupera o checkpoint e o estado dos objetos.
+Assets/HorrorGameplay/Scripts/Systems/SceneCatalog.cs
+  Aponta para as cenas e o livro da campanha em uso.
+Assets/HorrorGameplay/Scripts/Systems/SceneTransitionService.cs
+  Coordena a troca assíncrona de cenário, os fades e o bloqueio temporário de entrada.
+Assets/HorrorGameplay/Scripts/Systems/SchoolAmbientConfig.cs
+  Guarda os sons e intervalos dos eventos ambientes da escola.
+Assets/HorrorGameplay/Scripts/Systems/SchoolAmbientEvents.cs [revisado]
+  Executa eventos ambientes conforme os pontos e regras da escola.
+Assets/HorrorGameplay/Scripts/Systems/SchoolAnchorInspection.cs
+  Integra itens âncora ao fluxo de inspeção.
+Assets/HorrorGameplay/Scripts/Systems/SchoolFlashlightDust.cs
+  Apresenta partículas de poeira no feixe da lanterna.
+Assets/HorrorGameplay/Scripts/Systems/SchoolHorrorAtmosphere.cs
+  Liga iluminação, ambiente e tensões específicas da escola.
+Assets/HorrorGameplay/Scripts/Systems/SchoolMemoryAnchor.cs
+  Define um ponto usado para recuperar a sanidade.
+Assets/HorrorGameplay/Scripts/Systems/SchoolObjectiveJournal.cs
+  Mantém os objetivos da escola disponíveis para consulta.
+Assets/HorrorGameplay/Scripts/Systems/SchoolPerceptionEvents.cs
+  Aplica mudanças de percepção e consequências do blackout à cena.
+Assets/HorrorGameplay/Scripts/Systems/SchoolSanityController.cs
+  Calcula a sanidade e determina o momento do blackout.
+Assets/HorrorGameplay/Scripts/Systems/SchoolSanityView.cs
+  Aplica a apresentação visual e sonora associada à sanidade.
+Assets/HorrorGameplay/Scripts/Systems/StandaloneSchoolBenchmark.cs
+  Executa a medição técnica da escola para diagnóstico.
+Assets/HorrorGameplay/Scripts/Tutorial/TutorialBindings.cs [revisado]
+  Exibe a tecla atual de cada ação, respeitando remapeamentos.
+Assets/HorrorGameplay/Scripts/Tutorial/TutorialCardCatalog.cs
+  Reúne os cartões de tutorial pelo ID.
+Assets/HorrorGameplay/Scripts/Tutorial/TutorialCardData.cs
+  Define texto, controles, imagem ou vídeo de cada cartão.
+Assets/HorrorGameplay/Scripts/Tutorial/TutorialCardMedia.cs [revisado]
+  Exibe o modelo, vídeo ou imagem estática do tutorial.
+Assets/HorrorGameplay/Scripts/Tutorial/TutorialCardSystem.cs [revisado]
+  Organiza a fila de cartões e guarda os que o jogador já viu.
+Assets/HorrorGameplay/Scripts/Tutorial/TutorialCardView.cs [revisado]
+  Desenha a interface de um cartão.
+Assets/HorrorGameplay/Scripts/UI/AccessibilityPanel.cs [revisado]
+  Mostra os ajustes de acessibilidade.
+Assets/HorrorGameplay/Scripts/UI/CaptionPresentation.cs
+  Aplica o estilo de apresentação das legendas.
+Assets/HorrorGameplay/Scripts/UI/ChapterCommandTerminal.cs [revisado]
+  Recebe comandos de teste de capítulos, como o atalho da estrada.
+Assets/HorrorGameplay/Scripts/UI/DisplayAccessibility.cs
+  Mantém ajustes de visibilidade e apresentação.
+Assets/HorrorGameplay/Scripts/UI/GameHUD.cs
+  Mostra objetivos, interação, legendas, pausa e demais indicadores.
+Assets/HorrorGameplay/Scripts/UI/GameplayOptions.cs
+  Guarda os ajustes de jogabilidade.
+Assets/HorrorGameplay/Scripts/UI/PresentationSettings.cs
+  Centraliza preferências de redução de efeitos e apresentação.
+Assets/HorrorGameplay/Scripts/UI/RecordingOverlay.cs
+  Mostra os controles e o progresso da reprodução de uma fita.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleChildAnswers.cs [revisado]
+  Calcula quando e como a resposta das crianças é reproduzida.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleConfig.cs
+  Guarda alcance, tempo de espera, sons e limites do apito.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleDialogueCatalog.cs
+  Escolhe as falas associadas a cada gatilho do apito.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleHighlightable.cs [revisado]
+  Marca um objeto que pode receber o destaque do apito.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleLoreClue.cs
+  Reconhece uma pista que explica o apito.
+Assets/HorrorGameplay/Scripts/Whistle/WhistlePulseRendererFeature.cs [revisado]
+  Desenha o pulso e os contornos pelo pipeline URP.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleResponder.cs [revisado]
+  Liga objetos ou eventos do cenário à resposta de um apito.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleSchoolDiscovery.cs [revisado]
+  Coordena a descoberta da mecânica do apito na escola.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleSense.cs [revisado]
+  Seleciona as pistas e os objetos elegíveis para o pulso.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleSenseCamera.cs
+  Fornece os dados da câmera usados na apresentação do pulso.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleState.cs
+  Guarda as informações do apito usadas no checkpoint.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleSystem.cs [revisado]
+  Executa o toque, o tempo de espera, as falas e as respostas.
+Assets/HorrorGameplay/Scripts/Whistle/WhistleTrailRoute.cs [revisado]
+  Define os rastros que podem orientar João durante a investigação.
+
+Jogo e tutorial da Unity (13)
+
+Assets/HorrorMenu/Scripts/AnalogSignal.cs
+  Gera a apresentação do efeito analógico no menu.
+Assets/HorrorMenu/Scripts/ChapterSelection.cs
+  Exibe e confirma o início do capítulo.
+Assets/HorrorMenu/Scripts/HauntedTitle.cs
+  Coordena o efeito do título na apresentação do menu.
+Assets/HorrorMenu/Scripts/LoadingBenchmark.cs
+  Mede o carregamento a partir do menu para diagnóstico.
+Assets/HorrorMenu/Scripts/MainMenuController.cs
+  Coordena Novo Jogo, Continuar, configurações e a saída.
+Assets/HorrorMenu/Scripts/MenuAtmosphere.cs
+  Controla o ambiente e eventos de fundo do menu.
+Assets/HorrorMenu/Scripts/MenuAudio.cs [revisado]
+  Toca os sons de interface e do ambiente do menu.
+Assets/HorrorMenu/Scripts/MenuChoice.cs [revisado]
+  Implementa o comportamento de seleção dos botões do menu.
+Assets/HorrorMenu/Scripts/MenuItemFX.cs [revisado]
+  Reage ao mouse e à seleção para animar as opções.
+Assets/HorrorMenu/Scripts/SceneFader.cs
+  Mostra o fade e os cartões de introdução de Novo Jogo.
+Assets/HorrorMenu/Scripts/SettingsManager.cs [revisado]
+  Aplica e salva volume, sensibilidade e opções de tela.
+Assets/HorrorMenu/Scripts/WindDoor.cs
+  Anima a porta de fundo do menu.
+Assets/TutorialInfo/Readme.cs
+  Guarda os dados do tutorial padrão da Unity.
+
+Testes de Edit Mode (36)
+
+Assets/HorrorGameplay/Tests/EditMode/AudioPassDataTests.cs
+  Verifica EssentialEventsHaveRecordedClipsAndSpatialFilesAreMono, RequiredSurfacesHaveFourToSixDifferentFootfalls, MixerGraphIncludesEightBusesAndChildMixersFeedEffects, PhoneAndProceduralReplacementsUseRealAssetsAndLoopsArePrepared.
+Assets/HorrorGameplay/Tests/EditMode/BeforeDemolitionLaterSaveTests.cs
+  Verifica SetUp, RetryBeforeChoiceIsDetachedAndStillPassesStrictSaveValidation, EveryLaterCheckpointPreservesTheCompletedCampaignPrefix, BothCompletedEndingsRoundTripWithTheChosenBranch, GatheredMilestoneRequiresEveryStudentObjectAndTheFullBiaTape, EveryLaterChapterStillRequiresTheSchoolEvidenceAndEmails, AnIncompleteRecordingMayBeKeptWithoutItsHeardMarker, CompletingTheIntercomDoesNotImplyThatTheStairKeyWasPickedUp, FourStudentEvidenceCannotSkipTheIntercomOrExplicitKeyPickup, CorridorCheckpointsRequireTheirEntryContextAndConsistentRecordingState, MirrorCheckpointsKeepStageChoiceAndEndingPresentationConsistent, LaterCheckpointsRejectCrossChapterOrMalformedProgress, TearDown.
+Assets/HorrorGameplay/Tests/EditMode/BeforeDemolitionRoadSaveTests.cs
+  Verifica SetUp, AllRadioPhasesRoundTripWithoutLosingOfficeContext, ArrivalAndOrderedPlayerActionsHaveValidSnapshots, InvalidRoadSnapshotsAreRejectedBeforeRestore, DeliveryAndChapterCompletionCannotDisagreeWithWorldState, FailedHauntedPowerAttemptRoundTripsWithoutReplayingTheAttempt, FailedHauntedPowerCannotExistBeforeTheStrangeSong, MissingStateFieldsFailClosed, ProductionRadioHasARealTwoSecondSilenceAndAtLeastOneMinuteOfNews, TearDown.
+Assets/HorrorGameplay/Tests/EditMode/BeforeDemolitionSaveTests.cs
+  Verifica SetUp, TearDown, NewProfileResolvesDedicatedFileAndRequestKeysBeforeAnyIO, LegacyProfileRetainsItsConfiguredFileAndKeys, TestStorageRejectsRelativeDirectories, InitialOfficeCheckpointAndOutOfOrderReadStateRoundTrip, ReadyAndCompletedExitRoundTripWithoutLegacyKeysOrEnding, RevisionThreeCannotMasqueradeAsLegacyOrAnotherStory, NewIdentityNeverEntersOldRevisionMigration, PhaseCRejectsUnimplementedScenesAndOldChapterIds, ReadyRequiresEveryApprovedMinimumRead, ReadyRequiresWhistleAndExitRequiresCompletedPendingBoundary, UnfinishedOfficeCannotClaimCompletionOrGameEnding, UnorderedReadFlagsAndOldSignalsCannotPolluteOrderedMilestones, DuplicateMilestonesObjectsAndInventoryAreRejected, ExitCannotPrecedeItsReadyMilestone, OfficeFlowAndEmailIdentityFieldsAreRequiredInsteadOfConstructorDefaults, FutureDeliveryUnknownMessagesAndDuplicateReadIdsAreRejected, ProfileFilteredBackupSkipsLegacyPrincipalWithoutRewritingEither, CorruptNewPrimaryUsesOnlyCompatibleBackupAndNeverCreatesMissingFiles.
+Assets/HorrorGameplay/Tests/EditMode/BeforeDemolitionSchoolSaveTests.cs
+  Verifica SetUp, EveryCheckpointPreservesTheOfficeAndRoadContext, ImpossibleOrCrossStoryCheckpointsAreRejected, ClosingAnUnfinishedTapeCanKeepTheObjectWithoutGrantingItsCompletion, MissingStateFieldsFailClosed, TearDown.
+Assets/HorrorGameplay/Tests/EditMode/BreathingResponseTests.cs
+  Verifica WalkingAndHoldingSprintAgainstWallStaySilent, RunningBreathStartsNearExhaustionAndWalkingRecoversGradually, ScareTriggersBreathingWithoutMovementAndFades, HoldingBreathMutesFearWithoutErasingIt, PausedClockPreservesResponse.
+Assets/HorrorGameplay/Tests/EditMode/CorridorDemonTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/EditMode/DesktopDataTests.cs
+  Verifica AdditiveStateRoundTripsAndRejectsIncompleteOrCorruptRecords, MinesFirstClickFloodsSafelyAndRareBoardKeepsThe0307Glyphs, EditableDefaultsHaveFiveVisitsThreeLocalPagesSixErrorsAndNoFabricatedVoice.
+Assets/HorrorGameplay/Tests/EditMode/DesktopSnakeTests.cs
+  Verifica TurnsCannotReverseOrChainBeforeTheNextMoveAndWallsEndTheRound, EatingGrowsTheSnakeAndNewFoodAlwaysUsesAFreeCell, AFullBoardWinsWithoutTryingToSpawnFoodForever, TurningIntoTheBodyEndsTheRound.
+Assets/HorrorGameplay/Tests/EditMode/EmailCatalogTests.cs
+  Verifica SetUp, TearDown, BodiesExactlyMatchApprovedSource, MetadataPreservesDatesSubjectsAndUnspecifiedHours, HumanizedEmailsKeepTheCluesAndHelenasTwoVoices, ChildParagraphsAreStyleMetadataAndAuthorNotesAreAbsent, OnlyEmailSevenContainsTheThreeSpecifiedAttachmentsWithoutInventedArt, ContentFactoriesDoNotShareMutableMessageParagraphOrAttachmentData, ValidationReportsMalformedIdsDatesBodiesAndAttachments.
+Assets/HorrorGameplay/Tests/EditMode/EmailProgressTests.cs
+  Verifica SetUp, TearDown, InitialInboxIsUnreadAndAcceptsOutOfOrderReadsOnlyOnce, CopiesOwnTheirListsAndDoNotChangeTheOriginal, InvalidStatesAreRejectedWithoutRepairOrMutation, StoreRequiresAnExplicitAbsolutePath, FreshLoadDoesNotCreateFilesAndRestartPreservesReadAndDeliveredIds, HealthyBackupLoadsAfterCorruptOrMissingPrimaryWithoutRewritingFiles, BlockedTemporaryWritePreservesBothFilesAndTheSameStateCanBeRetried, InvalidOrIncompleteFilesFailWithoutWritingOrCreatingAFreshState, InvalidSaveIsRejectedBeforeCreatingItsDisposableDirectory.
+Assets/HorrorGameplay/Tests/EditMode/FloorPatchFootstepTests.cs
+  Verifica IrregularPatchUsesWetSoundOnlyInsideItsShapeOnTheSameFloor, MissingOrDegenerateMeshesKeepTheExistingSurface.
+Assets/HorrorGameplay/Tests/EditMode/FoundationEditTests.cs
+  Verifica InputAssetContainsAllRequiredActions, SoundSelectionNeverRepeatsWhenAlternativesExist, SaveReaderRejectsInvalidAndNonfiniteData, GameplayPrefabHasReferencesAndRenderingOverrides, SceneObjectsHaveUniqueSaveIds.
+Assets/HorrorGameplay/Tests/EditMode/GameClockDataTests.cs
+  Verifica OldSavesHaveNoClockAndNewClockRoundTrips, NightRollsOverAndHistoricalMailMetadataStaysIntact.
+Assets/HorrorGameplay/Tests/EditMode/ImmersionPolishDataTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/EditMode/LockpickTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/EditMode/ModelReplacementToolsTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/EditMode/NarrativeProgressTests.cs
+  Verifica SetUp, TearDown, CatalogueUsesAuthorizedChapterOrderAndTitles, OnlyTheThreeAuthorizedChaptersHaveAvailableScenes, ContentHasNoInvalidReferencesAndKeepsAuthorizedCompletionPhrases, MainPhoneCallsAndRecordingsPreserveScriptCaptions, EnvironmentalInscriptionsPreserveTheWrittenEvidence, MilestonesRequireOrderAndEquipmentWithoutDuplicates, SequenceCompletionIsRecordedOnlyOnce, CopyPreservesStateAndOwnsIndependentLists, CompletedPrologueQueuesRoadAndEntersItOnlyOnRequest, FinalChapterRecordsEndingWithoutQueuingAnotherChapter, PopulateRejectsNullAndDestroyedUnityObjects.
+Assets/HorrorGameplay/Tests/EditMode/NarrativeSaveTests.cs
+  Verifica SetUp, TearDown, ExistingVersionOneCheckpointsRemainReadable, VersionTwoRoundTripPreservesNarrativeAndPendingMap, UnknownSchemaAndDamagedJsonAreRejected, CurrentChaptersAcceptTheirAuthoredScenesWithRequiredKeys, CurrentChaptersRejectAnIncompatibleScene, CurrentStoryRejectsChaptersOutsideTheSixChapterCampaign, UnknownStoryRevisionsAreNotTreatedAsLegacy, CurrentAdvancedChaptersRejectMissingKeys, FirstHospicioChapterNeedsOnlyTheLibraryKey, OfficeReturnAndCompletedEndingKeepTheLastExitChapter, LastExitCannotAppearInTheOfficeBeforeLeavingSchool, NullInventoryEntriesAreRejectedAfterJsonRoundTrip, InventoryEntriesRequireAnId, DuplicateInventoryIdsAreRejectedWithoutChoosingOneEntry, LegacySnapshotsWithoutInventoryOrNarrativeRemainReadable, WellFormedUnknownItemIdsAndInspectionMetadataArePreserved, OlderAdvancedStoriesCanReachTheirExistingMigrationWithoutCurrentKeys, MigratedAdvancedStoriesRemainReadableAfterTheirNextSave, CurrentCheckpointPreservesAnOlderPendingChapterValue, ImpossiblePrincipalSelectsHealthyBackupWithoutRewritingEitherFile, SnapshotWriterRejectsInvalidInventoryWithoutCreatingItsDisposableFile.
+Assets/HorrorGameplay/Tests/EditMode/PhoneMessageDataTests.cs
+  Verifica MessageReceiptsAndPendingTypingRoundTripWithoutAliasing, InvalidAndDuplicateReceiptsAreRejected, EditableCatalogContainsEveryRequestedLineAndOriginalIdentity, ReplyCatalogReferencesAreCompleteAndChoicesAreAdditiveAndValidated, PickupStateIsAdditiveAndPreservedWithoutBreakingLegacyVersions.
+Assets/HorrorGameplay/Tests/EditMode/ReleaseProfileTests.cs
+  Verifica WindowsDistributionContainsExactlyTheFourProductionScenes.
+Assets/HorrorGameplay/Tests/EditMode/RoadPickupVisibilityTests.cs
+  Verifica RestoringPickupDoesNotResurrectRetiredMeshesOrColliders.
+Assets/HorrorGameplay/Tests/EditMode/SchoolAreaRestrictionTests.cs
+  Verifica SetUp, TearDown, OldUnlockedOpenSaveOutsideIsClosedAndHasNoFakeKeyPrompt, LeafInteractionResolvesRestrictionBeforeItsParentDoor, CheckpointInsideCanExitAndReenteringFromOutsideStaysBlocked, PairedLeavesRemainSynchronizedAfterOldRestore, SilentClosingDoesNotTeleportThroughPlayerAtClosedPose.
+Assets/HorrorGameplay/Tests/EditMode/SchoolAtmosphereEditTests.cs
+  Verifica AmbientClockDoesNotTickOutsideSchool, PauseFreezesSchoolClockAndSingleFaultRestoresFixture.
+Assets/HorrorGameplay/Tests/EditMode/SchoolMemoryMirrorTests.cs
+  Verifica ReflectionMirrorsAcrossAnOffsetPlaneAndApplyingTwiceRestoresThePoint, LookingAwayAndPauseFreezeTheSmileAndRestoreDoesNotReplayTheMemory.
+Assets/HorrorGameplay/Tests/EditMode/SchoolPerceptionBlackoutTests.cs
+  Verifica SetUp, TearDown, LegacyChairPlacementIsPreservedAndBlackoutStillChangesIt, ConsecutiveBlackoutsRemainBoundedAndRestoreWithoutApplyingAgain, MissingChairDoesNotThrowOrScheduleAChange.
+Assets/HorrorGameplay/Tests/EditMode/SecretaryEvidenceTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/EditMode/SfxBatchImporterTests.cs
+  Verifica FindsTheExistingDedicatedMixersAsWellAsGameplayGroups, NamesCannotEscapeTheCatalog, RawAndExternalFilesCannotBecomeRuntimeClips, NativeImporterAppliesLatencyAndStreamingRules.
+Assets/HorrorGameplay/Tests/EditMode/SfxCatalogTests.cs
+  Verifica VariantsUseTheExistingNonRepeatingSoundSet, MissingOrEmptySoundsReturnNoVariant, LookupMatchesOnlyTheExactNameAndSkipsNullEntries.
+Assets/HorrorGameplay/Tests/EditMode/SimplifiedStoryContentTests.cs
+  Verifica SetUp, TearDown, SixChaptersHaveValidReferencesAndTheNewDanielOfficeEnding, OlderSchoolCheckpointsKeepTheirEvidenceAndReceiveOnlyReachedChapterKeys, OfficeAndRoadCheckpointsKeepTheirExactPositionInTheStory, APreviouslyFinishedEndingStaysFinishedAndMissingLegacyListsAreAccepted.
+Assets/HorrorGameplay/Tests/EditMode/StoryRefinementTests.cs
+  Verifica InstalledBooksKeepSixChaptersAndDelayTheIdentityUntil113, TapeRecordAndPersonalObjectsUseTheApprovedTextAndHumanAudio.
+Assets/HorrorGameplay/Tests/EditMode/TutorialCardTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/EditMode/VintageCameraEditTests.cs
+  Verifica OfficeCannotReceiveFilterEvenAfterChapterIndexChanges, NarrativeChapterGateEnablesRoadAndDisablesPrologue, SchoolTapePresetIsExplicitAndCannotBleedIntoAnotherScene, SchoolTrackingFreezesDuringPauseAndUsesBoundedBriefFaults, ExplicitRoadGradeCannotLeakIntoMenuOrChapterZero, HorrorGradeStillExcludesTheOfficeAndFreezesWithGameplay, ExhaustionWarpIsBoundedAndCannotReachTheOfficeOrAnotherChapter, CompositeColourIsOptInAndDoesNotScheduleRepeatedTrackingFaults.
+Assets/HorrorGameplay/Tests/EditMode/WhistleChildAnswerTests.cs
+  Verifica QuietSideRejectsHelenaAndSideways, DistanceOcclusionAndExcessUseIncreaseDelayWithoutBlocking, EachChildHasADistinctRecordedPlaybackTimbre.
+Assets/HorrorGameplay/Tests/EditMode/WhistleEditTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/EditMode/WhistleFloorTests.cs
+  Verifica .
+
+Testes de Play Mode (92)
+
+Assets/HorrorGameplay/Tests/PlayMode/AudioPassPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/AudioPassSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/AudioPolishPlayTests.cs
+  Verifica SetUp, BlockedDoorHasNoMovementSoundOrNoiseUntilItCanMove, ClosingLatchWaitsForTheLeafAndRestoredDoorAndDrawerStaySilent, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/BatteryInteractionTests.cs
+  Verifica SetUp, TearDown, FullLampDoesNotConsumeTheReplacementAndAnEmptyLampTurnsOnAfterTheSwap, NearbyBatteriesAllowSlightlyImpreciseAimButNeverThroughAWall.
+Assets/HorrorGameplay/Tests/PlayMode/BeforeDemolitionCorridorTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/BeforeDemolitionEndingSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/BeforeDemolitionFourStudentsTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/BeforeDemolitionMirrorTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/BeforeDemolitionOfficeSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/BeforeDemolitionRoadSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/BeforeDemolitionSchoolSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/CameraScarePlayTests.cs
+  Verifica SetUp, TearDown, ScareRollRecoversAndSmallLandingDoesNotEraseIt, PauseFreezesScareAndSignal, CutscenePoseRemainsUsableDuringScareAndRecovers.
+Assets/HorrorGameplay/Tests/PlayMode/CorridorDemonSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/DesktopAdvancedPointerPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/DesktopBootFlowPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/DesktopGamesPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/DesktopOfficePlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/DesktopPhoneMessagesTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/DesktopSharpnessFinalAssertions.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/DesktopSharpnessPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/EmailInboxPlayTests.cs
+  Verifica SetUp, PointerReadsOutOfOrderOnceAndDeliveryAndRestartKeepTheSameInbox, EscapeClosesOneLayerAndBothDevicesPreserveCallerTimeAndCursor, UnavailablePdfsKeepTheReaderAndDiagnosticImageKeepsItsAspectRatio, LongChildWritingUsesTheApprovedFontAndScrollsWithoutChangingText, DesktopAndPhoneFitThreeResolutionsWithNativeCaptures, ImmediateReopenAndExternalDisableReleaseCursorAndInspectionOwnership, FailedWriteKeepsReadFlagsAndRetryButtonSavesAfterUnlock, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/EndingPresentationTests.cs
+  Verifica EndingSkipsTheChapterCardAndKeepsOneTitleWhenMenuBecomesAvailable.
+Assets/HorrorGameplay/Tests/PlayMode/EquipmentPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/FinalMenuSceneTests.cs
+  Verifica SetUp, TearDown, NoSaveHidesContinueAndMainButtonsSupportPointerAndKeyboard, SettingsMouseClickSlidersEscapeAndFocusWorkWithoutDisplayChanges, NewGamePresentsTheLoreAndAnyKeySkipsToTheOffice, NewGameKeepsChapterConfirmationAndStartsExistingOffice, ContinueLoadsSavedOfficePositionAndInventoryInsteadOfNewGame, ContinueWithOnlyHealthySchoolBackupRestoresSchoolInventoryAndPose, ContinueUsesHealthySchoolSnapshotWhenSavedScenePreferenceIsMissing, ContinueUsesHealthySchoolSnapshotInsteadOfWrongOfficePreference, ContinueWithCorruptPrimaryRestoresHealthySchoolBackup, ContinueWithNoHealthyCandidateStaysInMenuAndPreservesInvalidFiles, ContinueLosingFilesDuringMenuFadeDoesNotStartOrSaveNewGame, ContinueLosingFilesBeforeSessionStartBlocksStartupSavesAndReturnsToMenu, ExplicitNewGameClearsStaleStoryCarryInsteadOfResumingSchoolInventory.
+Assets/HorrorGameplay/Tests/PlayMode/FlashlightImmersionPlayTests.cs
+  Verifica NearbyWallsReduceGlareAndTheDistantBeamRecoversWithoutRecharging.
+Assets/HorrorGameplay/Tests/PlayMode/FlowPropPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/FoundationPlayTests.cs
+  Verifica SetUp, TearDown, SprintConsumesStaminaAndRecovers, ExhaustionRecoversQuicklyResumesAtTwentyPercentAndPausePreservesStamina, CrouchCannotStandThroughCeiling, CollisionsStopAtCornersAndStepsAreClimbable, OptionalJumpLandsAndProducesNoise, KeyUnlockAndCheckpointRestoreWorldAndInventory, CheckpointRestoresCrouchUnderCeiling, HoldingThrowingAndAutomaticDropRestoreCollision, BatteryRechargePauseAndDeathUiWork, HidingSuppressesVisionAndSupportsHoldingBreath, EnemyHearsNoiseAndVisionIsOccluded.
+Assets/HorrorGameplay/Tests/PlayMode/HudFormattingPlayTests.cs
+  Verifica TearDown, FormattingTracksValuesAndDoorStateWithoutAllocatingWhenUnchanged.
+Assets/HorrorGameplay/Tests/PlayMode/ImmersionPolishTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/JungDesktopTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/LibraryDoorPhysicalTests.cs
+  Verifica SetUp, LibraryPairHasPhysicalClosedBasesAndClearsThePlayerAfterUnlockAndOldRestore, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/LoadingServicePlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/LoadingTransitionPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/LockpickSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/MenuItemFocusPlayTests.cs
+  Verifica FocusAccentsAnimateWhilePausedAndReleaseForDisabledOrDeselectedButtons.
+Assets/HorrorGameplay/Tests/PlayMode/MirrorReflectionMaskTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/ModelReplacementCaptureTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/ModelRoundTwoCaptureTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/NarrativeArchiveTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/NarrativeRuntimeTests.cs
+  Verifica SetUp, TearDown, TwoCallsRequireAnswerThenEquipmentAndExit, PauseDuringCallFreezesDialogueAndRestoresCutsceneState, CallQueuedDuringPauseLocksControlOnlyAfterResume, EquipmentCollectedDuringNotePauseWaitsForResume, RestoredCallsDoNotReplayAndEquipmentGateSurvives, MissingRoadMapKeepsOfficeProgressAndAllowsMenuState, WorldEventRestoresSilentlyWithoutReplayingScare.
+Assets/HorrorGameplay/Tests/PlayMode/NarrativeVoiceTests.cs
+  Verifica SetUp, LongerVoiceFinishesBeforeCompletionAndPausePreservesItsTime, InspectingHoldsVoiceAndSequenceUntilTheItemIsClosed, RecordedVoiceUsesRealPlaybackTimeWhenTheGameClockIsSlower, RestoringAnOldCheckpointSkipsPastReactionsButResumesStoryLines, BlackoutAndDisableReleaseVoiceWithoutCompletingTheSequence, VoicedCaptionUsesClipDurationAndMediaFiltersResetForJoao, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/ObservationFocusPlayTests.cs
+  Verifica SetUp, ZoomFramingIsNowTheDefaultWithOrWithoutObservation, ZoomFramingStaysConsistentInCarHidingSprintInspectionAndPause, ExistingFocusBindingsArePreservedInsteadOfAddingAnotherAction, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/OfficeEndingFlowTests.cs
+  Verifica SetUp, DeskRingAndBlackEndingFollowExitAndFreezeDuringPause, RingCheckpointSkipsWakeAndPrologueDoesNotActivateTheEnding, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/OfficeExitInputTests.cs
+  Verifica SetUp, WalkThroughOpenDoorAndPressEOnExitCarriesOfficeEquipmentToRoad, CaseNoteAndPenUseTheReaderWithoutEnablingTheOfficeFlashlight, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/OfficePlayTests.cs
+  Verifica SetUp, TearDown, OfficeWallsDeskAndDoorAreTraversableCorrectly, OfficeDrawerNotesFlashlightSaveAndPauseWork.
+Assets/HorrorGameplay/Tests/PlayMode/PerformanceQueryPlayTests.cs
+  Verifica StandingQueryPreservesCeilingAndSelfCollisionRulesAfterBufferGrowth.
+Assets/HorrorGameplay/Tests/PlayMode/PhoneMessagePlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/PhonePickupPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/PhonePolishPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/PolishEndingPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/PolishIntercomPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/PolishMapPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/PolishProgressPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/PolishRoadEntryPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/PresentationOptionsTests.cs
+  Verifica SetUp, FreshProfileCalibratesInMenuAndRetainsOptionsAfterFirstEscape, PauseOptionsKeepCaptionsBatteryAndSanityWhileEscapeClosesOneLayerAtATime, GammaIsNeutralAtOneAndBrightensRealUrpPixelsMonotonically, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/PrologueOfficeCallsTests.cs
+  Verifica SetUp, TearDown, AuthoredOfficeCallsCheckpointInterruptionResumeAndRoadRestartStayInCurrentScene.
+Assets/HorrorGameplay/Tests/PlayMode/RoadJourneyFlowTests.cs
+  Verifica SetUp, TearDown, JourneyUsesPhysicalPhoneFlashlightAndSeparateDoorThenEndsAtGate, MovingSeatCameraTracksEveryLateFrameWithoutWorldLag, RadioCaptionsDoNotStopTheCarOrSeatedCamera, DrivingAndWindowTimersFreezeWhilePaused, WindowRequiresClearSightAndCannotSkipArrivalCall, SeatedCheckpointIsWritableAndRestoresParkedProgressWithoutReplayingEvents, RestoredWalkKeepsSavedPositionAndDoesNotDragPlayerBackToTheCar, HeldFlashlightCheckpointStaysSeatedUntilDoorInteraction, LegacyWalkingCheckpointAddsExitSilentlyAndKeepsOutsidePosition, LegacyCompletedChapterRemainsCompleteWithNewDoorMilestone.
+Assets/HorrorGameplay/Tests/PlayMode/RoadJourneySceneTests.cs
+  Verifica SetUp, TearDown, RealRoadHasReachableCabinItemsWindowAndContinuousWalkToGate, CompletedOfficeCheckpointCarriesEquipmentIntoRealRoadSpawn.
+Assets/HorrorGameplay/Tests/PlayMode/RoadRadioGateRegressionTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/RoomOcclusionPlayTests.cs
+  Verifica SetUp, SolidWallMufflesAndOpenPathRecoversWithoutChangingGainAndPauseFreezesFilter, TriggersAreIgnoredAndReusedTwoDimensionalVoiceStaysClean, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/SaveFailurePlayTests.cs
+  Verifica SetUp, TearDown, InitialWriteFailureWarnsOnceAndRealPauseRetryRecoversAfterUnlock, BlockedOfficeExitCarriesEquipmentAndBatteryThroughAuthoredRoadTransition, BlockedRoadExitCarriesEquipmentAndBatteryThroughAuthoredSchoolTransition, BlockedSchoolExitCarriesKeysAndBatteryIntoExistingOfficeEnding.
+Assets/HorrorGameplay/Tests/PlayMode/SceneRefinementTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/SchoolAccess20261105Tests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterContinuationTests.cs
+  Verifica SetUp, TearDown, OptInKeepsWorldGearPositionAndNotifiesAfterWorldRestoration, DefaultsKeepTheExistingCompletionCardAndPendingChapter, RetrySnapshotResetsOnlyChapterFourAndKeepsItsIncomingWorldAndSanity, RestoredChapterFourBaselineDoesNotMoveToTheLaterCheckpoint, UniqueChapterFourShocksAndFinalCardNeverStartChapterFive, ExistingVersionOneSchoolBaselineStillRestartsAtFullSanity.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterFiveSceneTests.cs
+  Verifica SetUp, TearDown, ActualLastChapterFourDoorHandsOffInPlaceWithItsWorldAndGear, ActualMemoriesRecordingsNotebookAndImmaterialGuideFinishOnlyChapterFive, InterruptedPhotographRevelationResumesFromItsUniqueNoteWithoutReplayingEarlierShocks, InterruptedRecordingCheckpointAndAutomaticBlackoutPreserveLatestDiscoveries.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterFiveSharedTests.cs
+  Verifica SetUp, TearDown, MemoriesExposureUsesTheExistingLightAndPauseRules, ChapterFiveShocksAreUniqueAndLoadingDoesNotRepeatThem, RetryKeepsChaptersThreeAndFourAndOnlyResetsCurrentDiscoveries, SavedChapterFiveBaselineStaysAtEntryInsteadOfTheLaterCheckpoint, ChapterFiveCompletionStopsAtTheExistingCardWithoutDevelopingSix.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterFourSceneTests.cs
+  Verifica SetUp, TearDown, ActualCluesStationaryPresencesWallAndDoorFinishOnlyChapterFour, RealCheckpointAndAutomaticBlackoutKeepLatestChapterFourProgress, ActualChapterThreeFinalDrawingHandsOffInPlaceWithoutReloadOrLostEquipment.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolChapterThreeSceneTests.cs
+  Verifica SetUp, TearDown, ChapterThreeCarryJournalAndAutomaticBlackoutKeepLatestCheckpoint, CompletedRoadPresentsItsCardsThenLoadsTheRealChapterThree, UnpoweredEventReturnsToDarknessOnPauseWithoutRepeatedNarrativeShock.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolFinalSceneTests.cs
+  Verifica SetUp, TearDown, ActualFiveHandoffRoofDoorAndDescentContinueInPlaceToTheFinalChapter, TerracePauseAndBothManualCheckpointsPreserveDismissedPresenceAndOnlyPendingSignals, HeldPhoneRequiresFreshInputItsCheckpointResumesAndOccludedWindowCannotEndTheGame, TerraceBlackoutReturnsToLatestCheckpointWithProgressAndCollectedSupply, FinalBlackoutReturnsToLatestCheckpointWithProgressAndCollectedSupply, ContinuousInputClimbsBothNewFlightsCrossesTheirLandingAndDescendsWithoutIntermediateWarp.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolFinalSharedTests.cs
+  Verifica SetUp, TearDown, BothSameSceneHandoffsCaptureTheirBaselineAfterWorldRestorationAndKeepSchoolExposure, AcceptedShocksInEachFinalChapterAreUniquePausedAndSilentOnRestore, TerraceRetryResetsOnlySixAndKeepsEveryIncomingChapterFiveDiscovery, LastExitRetryKeepsCompletedSixAndResetsOnlyTheCurrentFinalChapter, SavedTerraceBaselineDoesNotMoveToTheLaterCheckpoint, SavedLastExitBaselineDoesNotMoveToTheLaterCheckpoint, BuiltInEndingCompletesTheFinalStoryWithoutAnotherSceneOrChapter.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolOpeningFlowTests.cs
+  Verifica SetUp, TearDown, EntireOpeningUsesPhysicalInteractionsAndEndsAtUnimplementedChapterBoundary, EntryAndPhotographWaitDuringPauseThenContinueOnce, ObservationRequiresClearSightAndLookingBackNearTheBoard, RestoreIsSilentAndDoesNotOverwriteUnrelatedDoorState, CollectedDrawingCheckpointResumesOnlyCaptionAndPausedBlackoutTimer, PairedDoorSilentStoryPoseKeepsClosedBasisAndNoPlayerEvents.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolOpeningSceneTests.cs
+  Verifica SetUp, TearDown, InspectionRestoresControlsCollectsOnceRevisitsAndAbortsOnBlackout, InspectionRespondsToKeyboardMouseAndExitWithoutPausing, SchoolFallVolumeCallbackIgnoresPauseAndRecoversWithoutASaveSystem, SchoolFallReturnsToLatestCheckpointWithoutRestartingChapter, SchoolFallWithUnavailableCheckpointKeepsCurrentProgressAtTheAuthoredSpawn, SchoolFallRejectsAStoredFallingPoseWithoutGameOverOrSaveLoss, RealSchoolOpeningSupportsGateCluesSightlinesAndBlackout.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolPolishPresentationTests.cs
+  Verifica SetUp, RecorderControlsRemainVisibleAndCollectedTapesPlayFromTheActualSchoolCanvas, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolProgressionGateTests.cs
+  Verifica SetUp, EarlyKeyRemainsCollectibleButCannotOpenEitherGateAndRestoreClosesAnOldOpenGate, RecordedTapeAndKeyOnlyUnlockAfterRecorderRegisterAndFigureMilestones, MigratedMemoriesCheckpointKeepsItsKeyAndOpenDoorsAccessible, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolSanityTests.cs
+  Verifica SetUp, TearDown, EntryPauseAndAuthoredCaptionsSuspendDarkness, GraceFlashlightAndFiniteMemoryAnchorRecoverGradually, EmptyBatteryDarknessEscalatesAfterGraceAndPauseOrLightPreventsDeath, DarknessRetryOnlyRepairsItsOwnSanityAndKeepsTheSavedWorldAndEmptyBattery, ARevelationStillCausesTheLegacyBlackoutEvenWhenTheLampIsEmpty, ExhaustedDarknessFadesIntoDeathWithoutOverwritingTheLastCheckpoint, AcceptedNarrativeShocksAreUniqueAndRestorationIsSilent, ChapterStartSnapshotKeepsIncomingGearAndEarlierProgressWithFreshScenery, AutomaticBlackoutPreservesLatestCheckpointAndBlocksPendingSaves, LegacyAndBackupCheckpointsRejectAnotherSceneAndRetainInspectionMetadata, LegacyCheckpointMissingNewObjectRecordsRestoresDefaultsAndNarrativeShocks, SchoolOptInAndLampPresentationRestoreTheBatteryBaseline, SnapshotWriterRejectsWrongSceneAndNonfiniteDataWithoutWriting.
+Assets/HorrorGameplay/Tests/PlayMode/SchoolSimplifiedSceneTests.cs
+  Verifica SetUp, LibraryKeysTapesBlackoutMirrorAndSchoolExitUseTheSavedSixChapterRoute, DarknessDeathRetriesTheLastSchoolCheckpointWithTimeToFindBatteries, IndependentReaderKeepsEvidenceLegibleAtAllZoomsAndEscClosesLayersInOrder, LegacyEarlyCheckpointFromUpperCorridorCanDescendWithoutCompletingTape, LegacyEarlyCheckpointInside113CanReturnToGroundFloorWithoutCompletingTape, FigureQuestionPrecedesDisappearanceAndNeitherReactionRepeatsAfterRestore, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/SecretaryEvidenceSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/SecretaryVisualDiagnostics.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/TapeRecordingCompletionTests.cs
+  Verifica SetUp, OnlyNaturalCompletionCountsAndListenerOrSourcePauseCannotComplete, StopCloseAndCancelDoNotCountAsHeard, RecorderShowsBothTapeControlsButOnlyCollectedTapesCanPlay, TearDown.
+Assets/HorrorGameplay/Tests/PlayMode/TelephoneFoleyTests.cs
+  Verifica SetUp, TearDown, BothCallsPlayOnePickupAndOneHangupWithoutInteractionDuplicates, PauseCannotPrematurelyHangUpTheReceiver, DeathCancelsTheCallWithoutFakingHangup, RestoringInterruptedCallResetsReceiverSilentlyAndAllowsFreshPickup.
+Assets/HorrorGameplay/Tests/PlayMode/TutorialCardPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/TutorialCardVisualTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/VintageSignalRenderPlayTests.cs
+  Verifica SchoolSignalChangesRenderedColourWithoutFoggingBlackOrBlurringDetail, RestoreTemporaryScene.
+Assets/HorrorGameplay/Tests/PlayMode/WhistleChildAnswerSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/WhistleDiscoveryPlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/WhistleDiscoverySceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/WhistleOfficeSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/WhistlePlayTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/WhistleRoadSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/WhistleSchoolSceneTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/WhistleSensePerformanceTests.cs
+  Verifica .
+Assets/HorrorGameplay/Tests/PlayMode/WhistleXrayPlayTests.cs
+  Verifica .
+
+Ferramentas do Editor (18)
+
+Assets/HorrorGameplay/Editor/AudioPolishPass.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Apply, Validate.
+Assets/HorrorGameplay/Editor/GameplayAssets.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Folders, Scenes, Input, Layer, Material, Mixer, Sound, Steps, Profile, AssignIds.
+Assets/HorrorGameplay/Editor/GameplayBuilder.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Player, BuildMenu, Build.
+Assets/HorrorGameplay/Editor/GameplayCompletionPass.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Schedule, PlaceEquipmentInDrawer, Validate.
+Assets/HorrorGameplay/Editor/GameplayUI.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Rect, Text, Create.
+Assets/HorrorGameplay/Editor/HudPresentationPass.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Apply, Validate.
+Assets/HorrorGameplay/Editor/OfficeAtmospherePolishPass.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Apply, Add, T, Q, Build, ValidateAndCapture.
+Assets/HorrorGameplay/Editor/OfficeDetailPolishPass.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Apply, Vertex, Triangle, Quad, Build, ValidateAndCapture.
+Assets/HorrorGameplay/Editor/OfficePolishBootstrap.cs
+  Ferramenta de preparação ou verificação usada no Editor.
+Assets/HorrorGameplay/Editor/OfficeRefinementPass.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: ApplyRequested, Apply, Inspect, ValidateRequested, ValidateAndCapture.
+Assets/HorrorGameplay/Editor/OfficeSceneBuilder.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: DetailScene, Create.
+Assets/HorrorGameplay/Editor/PresentationCapture.cs
+  Ferramenta de captura de imagem para revisão. Métodos públicos: Capture.
+Assets/HorrorGameplay/Editor/SchoolItemInspectionSetup.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/HorrorGameplay/Editor/SfxBatchImporter.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: ImportAll, SafeName, ProcessedPath.
+Assets/HorrorGameplay/Editor/VintageCameraSetup.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Configure, EnsureRendererFeatures, ClearDuplicateImageEffects, CopyPreviewConfiguration, Validate.
+Assets/HorrorGameplay/Editor/WhispersImageTools.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: ImportAll.
+Assets/HorrorGameplay/Editor/WhispersPhotoCapture.cs
+  Ferramenta de captura de imagem para revisão. Métodos públicos: PrepareMarkers, CaptureAll.
+Assets/HorrorGameplay/Editor/WhispersReleaseBuildValidation.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: PrepareForBuild.
+
+Verificação no Editor (1)
+
+Assets/HorrorGameplay/Editor/PolishVerification/OfficePolishTestCoordinator.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Request, RunStarted, TestStarted, TestFinished, OnError, RunFinished.
+
+Ferramentas do Editor (79)
+
+Assets/HorrorMenu/Editor/ChapterScreenPass.cs
+  Ferramenta de preparação da cena e da apresentação do menu. Métodos públicos: Apply.
+Assets/HorrorMenu/Editor/CorridorMistPass.cs
+  Ferramenta de preparação da cena e da apresentação do menu. Métodos públicos: Apply.
+Assets/HorrorMenu/Editor/DoorGeometryRepair.cs
+  Ferramenta de preparação da cena e da apresentação do menu. Métodos públicos: Apply, Finish.
+Assets/HorrorMenu/Editor/MenuArtPass.cs
+  Ferramenta de preparação da cena e da apresentação do menu. Métodos públicos: Apply.
+Assets/HorrorMenu/Editor/MenuBuilder.cs
+  Ferramenta de preparação da cena e da apresentação do menu. Métodos públicos: Folders, Box, Environment.
+Assets/HorrorMenu/Editor/MenuHauntingPass.cs
+  Ferramenta de preparação da cena e da apresentação do menu. Métodos públicos: Apply.
+Assets/HorrorMenu/Editor/MenuPresentationPass.cs
+  Ferramenta de preparação da cena e da apresentação do menu. Métodos públicos: Dispose, Apply, RepairPointerTargets, ValidateAndCapture.
+Assets/HorrorMenu/Editor/MenuUIBuilder.cs
+  Ferramenta de preparação da cena e da apresentação do menu. Métodos públicos: Interface, Audio.
+Assets/HorrorMenu/Editor/PresentationPolishBootstrap.cs
+  Ferramenta de preparação da cena e da apresentação do menu.
+Assets/HorrorMenu/Editor/WindDoorPass.cs
+  Ferramenta de preparação da cena e da apresentação do menu. Métodos públicos: Apply.
+Assets/RoadChapter/Editor/DetectiveSedanBuilder.cs
+  Ferramenta de montagem da estrada, do carro ou do rádio. Métodos públicos: Build.
+Assets/RoadChapter/Editor/RoadJourneyBuilder.cs
+  Ferramenta de montagem da estrada, do carro ou do rádio. Métodos públicos: Build, Capture.
+Assets/RoadChapter/Editor/RoadRadioButtonsPass.cs
+  Ferramenta de montagem da estrada, do carro ou do rádio. Métodos públicos: Apply.
+Assets/RoadChapter/Editor/RoadVehicleAssets.cs
+  Ferramenta de montagem da estrada, do carro ou do rádio. Métodos públicos: Build.
+Assets/SchoolCEEP/Editor/AbandonmentPolish/SchoolAbandonedSurfacePass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply, RetuneWallMaterials, Audit, RetuneRouteClearance, ApplyBlueWalls, CaptureProtectedState.
+Assets/SchoolCEEP/Editor/AbandonmentPolish/SchoolArtAssetImporter.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Import, ImportModels, RetuneClockGlass.
+Assets/SchoolCEEP/Editor/AbandonmentPolish/SchoolCanteenLightingPolish.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/AbandonmentPolish/SchoolImmersionLightingPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/AbandonmentPolish/SchoolNightMaterialPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply, Restore, Audit.
+Assets/SchoolCEEP/Editor/AbandonmentPolish/SchoolPolyHavenPropPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply, Audit, RetuneClocks.
+Assets/SchoolCEEP/Editor/ModelReplacementTools.cs
+  Ferramenta de preparação ou verificação usada no Editor.
+Assets/SchoolCEEP/Editor/RoadEntranceRefinementPass.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: Install.
+Assets/SchoolCEEP/Editor/SchoolAbandonmentPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolArchitectureBatch.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: QueueBuild, Review, Build.
+Assets/SchoolCEEP/Editor/SchoolArchitectureCaptures.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Capture.
+Assets/SchoolCEEP/Editor/SchoolArchitectureProof.cs
+  Ferramenta da escola de validação. Métodos públicos: Verify.
+Assets/SchoolCEEP/Editor/SchoolArchitectureRepairPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Prepare, Carve, AdaptRoomCatalog, Apply.
+Assets/SchoolCEEP/Editor/SchoolArrivalRefinementPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolBatchVisualReplacement.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Preview, Replace.
+Assets/SchoolCEEP/Editor/SchoolCampusConnectionsPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Receded, Y, Box, Prepare, AdaptRooms, ShiftEastStair, Build.
+Assets/SchoolCEEP/Editor/SchoolCanteenConnector.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Build.
+Assets/SchoolCEEP/Editor/SchoolCanteenHeightPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolCanteenVestibulePass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Prepare, Apply, Verify.
+Assets/SchoolCEEP/Editor/SchoolCentralEnclosurePass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Prepare, Apply.
+Assets/SchoolCEEP/Editor/SchoolCentralPhotoPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolCentralStairPhotoPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolChapterFivePass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Install, Apply, Audit.
+Assets/SchoolCEEP/Editor/SchoolChapterFourPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Install, Apply, Audit.
+Assets/SchoolCEEP/Editor/SchoolChapterThreePass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Install, Apply, ArchitectureSignature.
+Assets/SchoolCEEP/Editor/SchoolCirculation.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: PdfPoint, Build.
+Assets/SchoolCEEP/Editor/SchoolClassroomPhotoPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolColumnRepairPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Prepare, ApertureDigest.
+Assets/SchoolCEEP/Editor/SchoolDoorDetailPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: World, Local, Apply, Verify.
+Assets/SchoolCEEP/Editor/SchoolDoorPairPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply, ValidateInteraction, Restore, Matches.
+Assets/SchoolCEEP/Editor/SchoolEnvironmentMistPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply, Audit.
+Assets/SchoolCEEP/Editor/SchoolFinalChaptersPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Install, Apply, Audit.
+Assets/SchoolCEEP/Editor/SchoolFrontPhotoProps.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Build.
+Assets/SchoolCEEP/Editor/SchoolFurnitureRefinementPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply, Audit, RestoreOriginalFurniture.
+Assets/SchoolCEEP/Editor/SchoolGeometryPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Prepare, Inspect.
+Assets/SchoolCEEP/Editor/SchoolHallGrade.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolHorrorAtmospherePass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply, Validate.
+Assets/SchoolCEEP/Editor/SchoolIntegrationPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolMapBuilder.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: NativeBaseHeight, OccupiedFloorHeight, Point, CorridorX, CorridorBox, Build, IsPairedDoor, DoorWidth, GroundSlab.
+Assets/SchoolCEEP/Editor/SchoolMasonryOptimizationPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply, VolumeDifference, Inspect.
+Assets/SchoolCEEP/Editor/SchoolNearCanteenGradePass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply, Verify.
+Assets/SchoolCEEP/Editor/SchoolOpeningPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolOpeningTestGuard.cs
+  Ferramenta da escola de validação. Métodos públicos: Begin, End.
+Assets/SchoolCEEP/Editor/SchoolOpeningVerification.cs
+  Ferramenta da escola de validação. Métodos públicos: Validate, Capture.
+Assets/SchoolCEEP/Editor/SchoolOppositeBlockPhotoPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Preserved, IdentityPreserved, PosePreserved, Build.
+Assets/SchoolCEEP/Editor/SchoolPhotoDetails.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Build.
+Assets/SchoolCEEP/Editor/SchoolPhotoPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolPlayableBoundsPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: IsDeliberatelyInaccessible, IsAutomotiveGateRoute, Apply, Verify.
+Assets/SchoolCEEP/Editor/SchoolPropAudit.cs
+  Ferramenta da escola de validação. Métodos públicos: AuditMenu, Audit.
+Assets/SchoolCEEP/Editor/SchoolRampPhotoPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply.
+Assets/SchoolCEEP/Editor/SchoolReadyAssetPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: ImportAssets, Install, Audit.
+Assets/SchoolCEEP/Editor/SchoolRefectoryPhotoPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Build.
+Assets/SchoolCEEP/Editor/SchoolRefinementReadyPropsPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: PrefabPath, UpgradeLoosePages, Import, Apply, Audit.
+Assets/SchoolCEEP/Editor/SchoolReviewPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Validate, Capture.
+Assets/SchoolCEEP/Editor/SchoolRoomRepairsPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Prepare.
+Assets/SchoolCEEP/Editor/SchoolStairEnvelopePass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Prepare, Apply, Verify.
+Assets/SchoolCEEP/Editor/SchoolUpperEmergencyPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Prepare, Apply.
+Assets/SchoolCEEP/Editor/SchoolUserPlanPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Prepare.
+Assets/SchoolCEEP/Editor/SchoolValidationPass.cs
+  Ferramenta da escola de validação. Métodos públicos: Validate.
+Assets/SchoolCEEP/Editor/SchoolWestBlockAccessPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Apply, Preserved, Validate.
+Assets/SchoolCEEP/Editor/SchoolWholeMapAudit.cs
+  Ferramenta da escola de validação. Métodos públicos: Clear, Line, Failure, Route, Find, Audit.
+Assets/SchoolCEEP/Editor/SchoolWorkshopPhotoPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Prepare, Build.
+Assets/SchoolCEEP/Editor/SurfaceFixturePolish/SchoolFixtureReplacementPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Add, Cast, Preview, Apply, Audit, ProtectedSignature.
+Assets/SchoolCEEP/Editor/SurfaceFixturePolish/SchoolSurfaceFinishPass.cs
+  Ferramenta da escola para construção ou acabamento. Métodos públicos: Preview, Apply, Restore, Audit.
+Assets/TutorialInfo/Editor/ReadmeEditor.cs
+  Ferramenta de preparação ou verificação usada no Editor. Métodos públicos: OnInspectorGUI, CreateInspectorGUI.

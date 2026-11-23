@@ -1,0 +1,50 @@
+[
+  {
+    "file": "shared-tests.json",
+    "status": "completed",
+    "total": 6,
+    "passed": 6,
+    "failed": 0,
+    "seconds": 0.31
+  },
+  {
+    "file": "scene-tests.json",
+    "status": "completed",
+    "total": 3,
+    "passed": 3,
+    "failed": 0,
+    "seconds": 20.19
+  },
+  {
+    "file": "chapter-three-regression.json",
+    "status": "completed",
+    "total": 3,
+    "passed": 3,
+    "failed": 0,
+    "seconds": 20.63
+  },
+  {
+    "file": "sanity-regression.json",
+    "status": "completed",
+    "total": 8,
+    "passed": 8,
+    "failed": 0,
+    "seconds": 0.29
+  },
+  {
+    "file": "narrative-regression.json",
+    "status": "completed",
+    "total": 7,
+    "passed": 7,
+    "failed": 0,
+    "seconds": 2.36
+  },
+  {
+    "file": "opening-regression.json",
+    "status": "completed",
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "seconds": 14.84
+  }
+]

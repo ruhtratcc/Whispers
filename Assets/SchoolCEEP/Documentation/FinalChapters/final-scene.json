@@ -1,0 +1,32 @@
+{
+  "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+  "dirty": false,
+  "playing": false,
+  "startingChapter": "school",
+  "sevenChapters": 7,
+  "storyErrors": [],
+  "sameSceneContinuation": true,
+  "stableFinalScreen": true,
+  "roofMemoryAllowsLook": true,
+  "originalRestSignature": "9D4ED98580D952DB2AB42CD24F26B30048DA3B41F0F27483859E52FCB5CC02EE",
+  "stairTreads": 20,
+  "terraceDoor": {
+    "persistentId": "school.chapter6.terrace.door",
+    "locked": true,
+    "open": false,
+    "leafSize": "(1.38, 2.28, 0.07)"
+  },
+  "presentationInitiallyHidden": true,
+  "storyLightsOff": true,
+  "oldElectricFixturesOff": true,
+  "anchors": 6,
+  "sanity": 100.0,
+  "phoneHasRing": true,
+  "phoneHasNoCollider": true,
+  "entityColliders": 0,
+  "enemies": 0,
+  "missingScripts": 0,
+  "duplicateIds": [],
+  "emptyIds": 0,
+  "cameras": 1
+}

@@ -1,0 +1,99 @@
+{
+  "id": "corrugated_iron",
+  "name": "Corrugated Iron",
+  "authors": {
+    "Jenelle van Heerden": "Processing",
+    "Dimitrios Savva": "Photography"
+  },
+  "author": "Jenelle van Heerden, Dimitrios Savva",
+  "url": "https://polyhaven.com/a/corrugated_iron",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://polyhaven.com/license",
+  "dimensionsMillimeters": [
+    1120.0000047683716,
+    1120.0000047683716
+  ],
+  "infoUrl": "https://api.polyhaven.com/info/corrugated_iron",
+  "filesUrl": "https://api.polyhaven.com/files/corrugated_iron",
+  "resolution": "1k",
+  "format": "JPG",
+  "use": "Cobertura de chapa ondulada galvanizada e gasta",
+  "sourceDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\assets\\textures\\corrugated_iron",
+  "preparedDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron",
+  "maps": {
+    "albedoOriginal": "work/SurfaceFixturePolish/Textures/Prepared/corrugated_iron/corrugated_iron_diff_1k.jpg",
+    "albedoColorPreserving": "work/SurfaceFixturePolish/Textures/Prepared/corrugated_iron/AlbedoColorPreserving.png",
+    "normalOpenGL": "work/SurfaceFixturePolish/Textures/Prepared/corrugated_iron/corrugated_iron_nor_gl_1k.jpg",
+    "metallicSmoothness": "work/SurfaceFixturePolish/Textures/Prepared/corrugated_iron/MetallicSmoothness.png",
+    "occlusion": "work/SurfaceFixturePolish/Textures/Prepared/corrugated_iron/Occlusion.png"
+  },
+  "absoluteMaps": {
+    "albedoOriginal": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron\\corrugated_iron_diff_1k.jpg",
+    "albedoColorPreserving": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron\\AlbedoColorPreserving.png",
+    "normalOpenGL": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron\\corrugated_iron_nor_gl_1k.jpg",
+    "metallicSmoothness": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron\\MetallicSmoothness.png",
+    "occlusion": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron\\Occlusion.png"
+  },
+  "recommended": {
+    "preserveExistingBaseColor": true,
+    "useAlbedo": "AlbedoColorPreserving.png",
+    "normalStrength": 0.38,
+    "smoothnessFactor": 0.24,
+    "occlusionStrength": 0.32,
+    "emission": false,
+    "environmentReflections": false,
+    "physicalRepeatMeters": [
+      1.12,
+      1.12
+    ]
+  },
+  "channelPacking": {
+    "MetallicSmoothness.R": "ARM.B metallic",
+    "MetallicSmoothness.GB": "0",
+    "MetallicSmoothness.A": "255 - ARM.G roughness",
+    "Occlusion.G": "ARM.R AO"
+  },
+  "sRGB": [
+    "albedoOriginal",
+    "albedoColorPreserving"
+  ],
+  "linear": [
+    "metallicSmoothness",
+    "occlusion"
+  ],
+  "normalImporter": "TextureImporterType.NormalMap; source is OpenGL tangent space",
+  "conversionVerified": true,
+  "neutralAlbedoFormula": ".82 + .66*(Rec709 luminance - median luminance), clamp .32..96",
+  "files": [
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/corrugated_iron/corrugated_iron_diff_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron\\corrugated_iron_diff_1k.jpg",
+      "bytes": 719557,
+      "sha256": "7f3649dd0d056a55a910146f09b1d5298370696a90f511a255fb4c5715bb4b58"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/corrugated_iron/AlbedoColorPreserving.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron\\AlbedoColorPreserving.png",
+      "bytes": 752204,
+      "sha256": "1d28e03ecd88aaa77e4a6da7581340f3fc34c46a45d4ec1ef6ca29a4529ba2ae"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/corrugated_iron/corrugated_iron_nor_gl_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron\\corrugated_iron_nor_gl_1k.jpg",
+      "bytes": 755185,
+      "sha256": "e98b839ae681ba929eb80f07348c70d0731b48239abe69268effab18420cd271"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/corrugated_iron/MetallicSmoothness.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron\\MetallicSmoothness.png",
+      "bytes": 1047463,
+      "sha256": "423e111f208faac47a851753ed49239c7b135afb06824c1d7c9facd55d6c1586"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/corrugated_iron/Occlusion.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\corrugated_iron\\Occlusion.png",
+      "bytes": 420665,
+      "sha256": "b4241b2c1d02f147026591c57c869147350b4deefc166b5f88daa00414a8e950"
+    }
+  ]
+}

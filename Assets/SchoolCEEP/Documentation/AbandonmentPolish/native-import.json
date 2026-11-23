@@ -1,0 +1,17 @@
+{
+    "models": 4,
+    "materials": 10,
+    "nearTriangles": 44574,
+    "distantTriangles": 27817,
+    "normalMaps": 7,
+    "textures": 37,
+    "prefabs": [
+        "Assets/SchoolCEEP/Models/AbandonmentPolish/ceiling_fan/ceiling_fan.prefab",
+        "Assets/SchoolCEEP/Models/AbandonmentPolish/wall_clock/wall_clock.prefab",
+        "Assets/SchoolCEEP/Models/AbandonmentPolish/metal_trash_can/metal_trash_can.prefab",
+        "Assets/SchoolCEEP/Models/AbandonmentPolish/plastic_broom/plastic_broom.prefab"
+    ],
+    "nativeMeshes": true,
+    "noRuntimeImporter": true,
+    "allEmissionOff": true
+}

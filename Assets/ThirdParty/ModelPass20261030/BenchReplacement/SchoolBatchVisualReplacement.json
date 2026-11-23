@@ -1,0 +1,18 @@
+{
+    "partCount": 1,
+    "expectedTriangles": 12,
+    "removedTriangles": 12,
+    "changedBatches": 0,
+    "directRenderersDisabled": 1,
+    "alreadyApplied": false,
+    "positionTolerance": 0.00009999999747378752,
+    "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+    "targetDigest": "4124F0A611A49D6676D1F3D0E8B5AB1EEEAFFA6DDF5DBD2E7BBE1D1C5112142E",
+    "sourcePartPaths": [
+        "CEEP — arquitetura das plantas[0]/Ligação cantina e bloco[32]/Vestíbulo — banco de madeira junto da cantina[94]"
+    ],
+    "directRendererPaths": [
+        "CEEP — arquitetura das plantas[0]/Ligação cantina e bloco[32]/Vestíbulo — banco de madeira junto da cantina[94]"
+    ],
+    "batches": []
+}

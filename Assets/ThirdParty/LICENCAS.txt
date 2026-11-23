@@ -1,0 +1,432 @@
+WHISPERS OF THE PAST — DESKTOP CRT
+Data: 28/10/2026. Cada uso abaixo corresponde aos arquivos locais importados.
+
+Television 02 — Benny Weimer / Poly Haven
+Fonte: https://polyhaven.com/a/television_02
+Licença: CC0 1.0, https://polyhaven.com/license
+Uso: carcaça CRT do PC do escritório, adaptada como monitor. glTF/FBX e mapas 1K originais preservados em CRT/television_02/Source e CRT/Textures. Geometria convertida para Unity sem importador runtime; plano de tela 4:3 separado sobre o vidro. Licença/proveniência originais em Source.
+
+Cursor Pack 1.1 — Kenney
+Fontes: https://kenney.nl/assets/cursor-pack e https://opengameart.org/content/cursor-pack-1
+Licença: CC0 1.0. License-Kenney.txt preservado em Icons/Cursors.
+Uso: seta, mão, ampulheta, cursor de texto e ícone de Campo Minado. PNGs originais, hotspots documentados em Icons/Cursors/hotspots.json. Download Kenney direto retornou 403; publicação do próprio autor no OpenGameArt utilizada.
+
+Tango Desktop Icons — Tango Desktop Project; publicação OpenGameArt por LFA
+Fonte: https://opengameart.org/content/tango-desktop-icons
+Licença: Public Domain / CC0 conforme publicação. Página de licença e texto CC0 originais preservados junto aos ícones.
+Uso: aplicativos, arquivos e avisos do desktop. Sprite sheet original preservada; vinte sprites fatiados nativamente conforme Icons/tango-slices.json. Não são ícones da Microsoft.
+
+Game Icon Pack — Kenney Vleugels
+Fontes: https://kenney.nl/assets/game-icons e https://opengameart.org/content/game-icons
+Licença: CC0 1.0; arquivo original de licença junto aos símbolos.
+Uso: símbolos auxiliares disponibilizados em Icons/Kenney; os aplicativos usam a folha Tango e o ícone de mina do Cursor Pack.
+
+VT323 — Peter Hull / VT323 Project Authors
+Fontes: https://fonts.google.com/specimen/VT323 e https://github.com/google/fonts/tree/main/ofl/vt323
+Licença: SIL Open Font License 1.1; OFL-VT323.txt preservado em Fonts.
+Uso: interface, relógio e textos do desktop retrô. Fonte original sem alterações; atlas TMP próprio em HorrorGameplay/Data/CRTDesktop.
+
+Interface Sounds 1.0 — Kenney
+Fontes: https://kenney.nl/assets/interface-sounds e https://opengameart.org/content/interface-sounds
+Licença: CC0 1.0; License-Kenney-Interface-Sounds.txt e fonte original preservadas em Sounds.
+Uso: boot, clique, confirmação, erro, notificação e atividade do HD. Seis OGGs originais, 47.855 bytes; nomes/origens/durações/hashes em Sounds/CRT-audio-slots.json. O HD usa uma aproximação sonora identificada, sem gravação física de disco. Nenhum som de Windows.
+
+Reuso local: Patrick Hand — Patrick Wagesreiter — SIL OFL 1.1
+Fonte: https://github.com/google/fonts/tree/main/ofl/patrickhand
+Uso: trechos infantis das mensagens e do Bloco de Notas. TTF/licença já existentes em HorrorGameplay/Email/Fonts; atlas novo próprio. Crédito original mantido em Assets/CREDITS.md.
+
+Reuso local: UI SFX Set — Kenney — CC0
+Fonte: https://opengameart.org/content/51-ui-sound-effects-buttons-switches-and-clicks
+Uso: efeitos de interface anteriormente presentes, preservados com sua licença. Os seis slots novos usam Interface Sounds acima.
+
+Imagens do usuário / projeto — sem download novo
+Uso: fotos locais do corredor e da escola nos papéis de parede; foto_escritorio.png canônica já existente no catálogo de emails, vista de dentro do armário. Arquivos fotográficos originais preservados, importação limitada a 1K.
+As vinte imagens de Downloads/imagens tcc são SOMENTE referências de layout/proporção. Marcas, ícones imitados do Windows e imagens semelhantes a Bliss não são usados na interface do jogo. Não foram usadas fontes Tahoma/Segoe, sons de boot/erro ou logos Microsoft.
+
+Não foi incluído asset com licença NC, ND ou sem permissão comercial clara. Nenhum asset novo selecionado exige CC-BY. Downloads de pesquisa não utilizados permanecem fora de Assets, no diretório de trabalho.
+Atualização visual do desktop CRT — 28/10/2026
+
+Noto Sans Regular — Noto Project Authors / Google.
+Fontes: https://fonts.google.com/noto/specimen/Noto+Sans ; https://github.com/notofonts/noto-fonts
+Download: https://raw.githubusercontent.com/notofonts/noto-fonts/main/hinted/ttf/NotoSans/NotoSans-Regular.ttf
+Licença: SIL Open Font License 1.1; NotoSans-OFL.txt original junto ao TTF. Copyright 2018 The Noto Project Authors.
+Uso: fonte sans-serif legível de corpo e controles do desktop. TTF estático Regular original, 569.208 bytes, sem alterações e sem fonte Microsoft. Data: 28/10/2026.
+
+Lake and Mountain / Moraine Lake — James Wheeler.
+Fonte: https://www.pexels.com/photo/lake-and-mountain-417074/
+Fotógrafo: https://www.pexels.com/@souvenirpixels/
+Download: https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1024
+Licença: Pexels License (https://www.pexels.com/license/), permite uso comercial; atribuição opcional. NÃO é CC0. Fonte/licença verificadas nas páginas oficiais em 28/10/2026; evidência local em Pexels-License-evidence.md. JPG original de CDN 1024×690, 115.836 bytes, sem edição ou geração local.
+Uso: wallpaper paisagístico do desktop fictício do jogo. Fotografia real de lago, montanhas, floresta e céu; sem imagens ou marcas Microsoft e sem imitar Bliss. Data: 28/10/2026.
+
+Hashes SHA256, URLs e dimensões completos em provenance.json. Originais permanecem em work/CRTDesktop20261028/AssetStage/PeriodRefresh20261028. Esta preparação não alterou o projeto nem o LICENCAS.txt final existente.
+
+
+Phone — Quaternius, CC0 1.0 Universal. Fonte: https://poly.pizza/m/k2kgBepoMU . Download: https://static.poly.pizza/bb788859-3dca-4a80-b4da-f5f26e6148f6.glb . Uso: celular físico no carro. Original GLB preservado; conversão de coordenadas para mesh Unity, escala física ~19 cm e materiais adaptados para URP. Sem texturas externas. Data: 29/10/2026.
+
+
+POLIMENTO DE AUDIO — 29/10/2026
+Todos os 15 downloads abaixo: CC0 1.0 Universal, uso comercial permitido. Data: 29/10/2026.
+Processamento: recorte, normalização de pico, conversão 44.1 kHz; mono para emissores 3D; transição cruzada nas camas preparadas. Sem síntese.
+Licença: https://creativecommons.org/publicdomain/zero/1.0/
+
+phone_vibrate_table — Joseph SARDIN
+Fonte: https://bigsoundbank.com/mobile-phone-vibrator-2-s0023.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/0023.ogg
+Uso/arquivo: Assets/Audio/SFX/Phone/phone_vibrate_table.wav
+Licença: CC0 1.0; SHA256 do download: 86448a8e797664350eff128d1c39f98d8cfc44e41492e11ba44cbefa8c529b76
+
+interior_wind_loop — Joseph SARDIN
+Fonte: https://bigsoundbank.com/wind-from-inside-1-s1714.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/1714.ogg
+Uso/arquivo: Assets/Audio/Ambience/interior_wind_loop.ogg
+Licença: CC0 1.0; SHA256 do download: 15fb6f4690aa9f5508785c2b3ad84a663eed563b14e0e91c946824bf8ebcf051
+
+water_drip — Joseph SARDIN
+Fonte: https://bigsoundbank.com/drops-of-water-3-s1386.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/1386.ogg
+Uso/arquivo: Assets/Audio/SFX/Objects/water_drip.wav
+Licença: CC0 1.0; SHA256 do download: 1946e8bb3209a2e0b4d2f0d232b22700e55a2e4cbd4f34d9d0a1e721b0427681
+
+chair_tile_scrape — Joseph SARDIN
+Fonte: https://bigsoundbank.com/chair-s0666.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/0666.ogg
+Uso/arquivo: Assets/Audio/SFX/Horror/chair_tile_scrape.wav
+Licença: CC0 1.0; SHA256 do download: 022ae53f70ba68e6c930a96026e4383e9e11a212a1a3f8d068192b6709851529
+
+whistle_real — Joseph SARDIN
+Fonte: https://bigsoundbank.com/plastic-whistle-s1017.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/1017.ogg
+Uso/arquivo: Assets/Audio/SFX/Player/whistle_real.wav
+Licença: CC0 1.0; SHA256 do download: bf0565b9ebe9042e13099bace49f035c4d42a6a2aa3454b4616fff4efa906d4a
+
+stone_fall — Joseph SARDIN
+Fonte: https://bigsoundbank.com/fall-of-stone-s1022.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/1022.ogg
+Uso/arquivo: Assets/Audio/SFX/Horror/stone_fall.wav
+Licença: CC0 1.0; SHA256 do download: e2ada01ff84c6e7f0240cc72b65f1e3ce0e7427f9320cbc1de30f77f2654da31
+
+mirror_shatter — Joseph SARDIN
+Fonte: https://bigsoundbank.com/mirror-explodes-s0387.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/0387.ogg
+Uso/arquivo: Assets/Audio/SFX/Horror/mirror_shatter.wav
+Licença: CC0 1.0; SHA256 do download: 7307801f2fc18ec447c30cb3148487063b5ea813a7322f4f6dec2665561c0dbc
+
+computer_fan_loop — Joseph SARDIN
+Fonte: https://bigsoundbank.com/computer-1-ventilation-s0125.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/0125.ogg
+Uso/arquivo: Assets/Audio/SFX/PC/computer_fan_loop.ogg
+Licença: CC0 1.0; SHA256 do download: 3971ce3a174fe265e2175b3c45c9e91525263ae94f9fd16d0750fca7e736463a
+
+mechanical_drive_seek — Joseph SARDIN
+Fonte: https://bigsoundbank.com/floppy-disk-3-5-reading-s1396.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/1396.ogg
+Uso/arquivo: Assets/Audio/SFX/PC/mechanical_drive_seek.wav
+Licença: CC0 1.0; SHA256 do download: d705a9c84025944eefa5c17dd63bf6d87638aff38a057427a1e8ee52f879eb4a
+
+phone_screen_taps — Joseph SARDIN
+Fonte: https://bigsoundbank.com/finger-on-smartphone-s2650.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/2650.ogg
+Uso/arquivo: Assets/Audio/SFX/Phone/phone_screen_taps.wav
+Licença: CC0 1.0; SHA256 do download: 641fa02e173897907b16d0fabc1641562bee4a075beb218e34767ea00070d355
+
+dawn_birds — Joseph SARDIN
+Fonte: https://bigsoundbank.com/wake-birds-2-s0935.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/0935.ogg
+Uso/arquivo: Assets/Audio/Ambience/dawn_birds.ogg
+Licença: CC0 1.0; SHA256 do download: 538ee5260dadeb98391f2b342b6187ec297713338c6aa20ebf1834bf8069323c
+
+heartbeat_recorded — FenrirFangs
+Fonte: https://freesound.org/people/FenrirFangs/sounds/213181/
+Download: https://cdn.freesound.org/previews/213/213181_3635427-hq.mp3
+Uso/arquivo: Assets/Audio/SFX/Player/heartbeat_recorded.ogg
+Licença: CC0 1.0; SHA256 do download: 7127f18efa7e3591a2e54497c2beaa7c8d4350e634902e0915efa16f560579ad
+
+cassette_hiss_loop — stecman
+Fonte: https://freesound.org/people/stecman/sounds/375984/
+Download: https://cdn.freesound.org/previews/375/375984_1595545-hq.mp3
+Uso/arquivo: Assets/Audio/SFX/PC/cassette_hiss_loop.ogg
+Licença: CC0 1.0; SHA256 do download: 674ee0e78ec6d7460e48ba5b51ff9349e57da0036094d22f8b21eb137a1e98ba
+
+wood_walk_source — spenceomatic
+Fonte: https://freesound.org/people/spenceomatic/sounds/119766/
+Download: https://cdn.freesound.org/previews/119/119766_2123118-hq.mp3
+Uso/arquivo: Assets/Audio/SFX/Player/wood_walk_source.ogg
+Licença: CC0 1.0; SHA256 do download: c3bc27765bf8be05a8fb2eb562fe545df8ec4a5923da5b1edfbb0f82b959e631
+
+car_door_close — Joseph SARDIN
+Fonte: https://bigsoundbank.com/car-door-s0655.html
+Download: https://bigsoundbank.com/UPLOAD/ogg/0655.ogg
+Uso/arquivo: Assets/Audio/SFX/Car/car_door_close.wav
+Licença: CC0 1.0; SHA256 do download: 40d5a70c13b4e8caaba491e7fadedab54329ac9c294142820d96ec4e96745591
+
+Reuso local, sem novo download:
+Foley doméstico, sino e impactos: laleksic, CC0 — https://opengameart.org/node/143670
+Interface/boot/alertas: Kenney, CC0 — https://opengameart.org/content/51-ui-sound-effects-buttons-switches-and-clicks ; https://kenney.nl/assets/interface-sounds
+Passos concreto/grama/impactos: Kenney, CC0 — https://kenney.nl/assets/impact-sounds
+Passos tapete/terra: acervo local, créditos de origem preservados em Assets/HorrorGameplay/Audio/Recorded/CREDITS.txt.
+Passos azulejo/metal: congusbongus, derivados de swuing, ceberation e Eelke, CC-BY 3.0. Fontes e atribuições completas copiadas abaixo. Novas cópias mono 44.1 kHz, normalização de pico e fade inicial; originais preservados.
+Música: Post Apocalyptic Wastelands [Loop Ready], Juhani Junkala / SubspaceAudio, CC0 — https://opengameart.org/node/79273
+Motor do carro: cópia OGG do CarInterior.mp3 local; créditos de origem existentes preservados. Dublagens humanas e seus arquivos/metadados não foram alterados.
+A ventoinha é uma gravação mecânica real de computador, não som de sistema Apple nem zumbido literal de CRT. Busca de disco é unidade de disquete, não gravação literal de HD. Pedras caindo representam entulho, não gravação de demolição.
+
+Whispers of Past — Audio sources
+
+Recorded household Foley: laleksic, Various Sound Effects, CC0-1.0.
+https://opengameart.org/node/143670
+Recorded/organic interface Foley: Kenney, UI SFX Set, CC0-1.0.
+https://opengameart.org/content/51-ui-sound-effects-buttons-switches-and-clicks
+Wood/dirt footsteps: TinyWorlds, edited pdsounds.org recordings, CC0-1.0.
+https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud
+Concrete/grass footsteps and object impacts: Kenney, Impact Sounds, CC0-1.0.
+https://kenney.nl/assets/impact-sounds
+
+Metal/tile footsteps: congusbongus, Footsteps on different surfaces, CC BY 3.0.
+https://opengameart.org/content/footsteps-on-different-surfaces
+https://creativecommons.org/licenses/by/3.0/
+Per-surface source-author notices, original source links and license text are reproduced below.
+
+footsteps\metal\license.txt
+Derived from fboots on aluminum ladder 01 by Eelke
+https://freesound.org/people/Eelke/sounds/462598/
+
+http://creativecommons.org/licenses/by/3.0/
+
+footsteps\tile\license.txt
+Derived from footstep-concrete.wav by swuing
+http://www.freesound.org/people/swuing/sounds/38873/
+
+And Squeaky footstep.wav from ceberation
+https://freesound.org/people/ceberation/sounds/235524/
+
+http://creativecommons.org/licenses/by/3.0/
+
+Changes: household WAV clips downmixed to mono, DC corrected, silence trimmed, bounded gain, short edge fades; closing latch cropped from a recorded door close. Drawer closing movement and final stop cut into disjoint source ranges with no duplicated samples. Footstep OGG files unchanged; Unity mono import only.
+No sound generation, no synthetic breathing, no hiss ambience loop.
+
+Music: Lost in a bad place — congusbongus, CC0-1.0.
+https://opengameart.org/content/lost-in-a-bad-place-horror-ambience-loop
+Music: Post Apocalyptic Wastelands [Loop Ready] — Juhani Junkala / SubspaceAudio, CC0-1.0.
+https://opengameart.org/node/79273
+Music files unchanged; preserve stereo and authored loop boundaries.
+
+
+SUBSTITUICAO DE MODELOS — RODADA 1 — 30/10/2026
+Autorização direta para downloads livres; todos abaixo CC0 1.0 Universal. Fonte oficial: https://polyhaven.com/license
+
+Painted Wooden Bench — Kirill Sannikov
+Fonte: https://polyhaven.com/a/painted_wooden_bench
+Licença: CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
+Data:30/10/2026. Uso: SchoolCEEP: banco do vestíbulo junto da cantina. Seiscentos e trinta tri LOD0; piso comprovado em Y=0. Bancos semicirculares não alterados.
+Originais/hashes: provenance.json em Source/painted_wooden_bench ou arquivo de avaliados; SHA256 completo também em work/ModelPass20261030/new-models-provenance.json. Conversão estática glTF→meshes Unity; materiais URP, normais GL; ARM: AO=R, roughness=G, metallic=B→URP R=metal,A=1-roughness. Sem logos visíveis na prévia; toda a superfície de textura NÃO VERIFICADA pixel a pixel.
+
+Desk Lamp Arm 01 — Yann Kervran, Kuutti Siitonen
+Fonte: https://polyhaven.com/a/desk_lamp_arm_01
+Licença: CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
+Data:30/10/2026. Uso: Chapter1Office: luminária sobre a mesa; visual somente, luz/colisão/pontos originais mantidos. Emissão importada desativada, mapas1K, LOD detalhado só perto.
+Originais/hashes: provenance.json em Source/desk_lamp_arm_01 ou arquivo de avaliados; SHA256 completo também em work/ModelPass20261030/new-models-provenance.json. Conversão estática glTF→meshes Unity; materiais URP, normais GL; ARM: AO=R, roughness=G, metallic=B→URP R=metal,A=1-roughness. Sem logos visíveis na prévia; toda a superfície de textura NÃO VERIFICADA pixel a pixel.
+
+Mid Century Lounge Chair — Kuutti Siitonen
+Fonte: https://polyhaven.com/a/mid_century_lounge_chair
+Licença: CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
+Data:30/10/2026. Uso: AVALIADO, NÃO USADO NAS CENAS. Proporção não serviu; movido nativamente para Assets/_Substituidos/ModelPass20261030/Avaliados_nao_usados, com originais e GUIDs preservados.
+Originais/hashes: provenance.json em Source/mid_century_lounge_chair ou arquivo de avaliados; SHA256 completo também em work/ModelPass20261030/new-models-provenance.json. Conversão estática glTF→meshes Unity; materiais URP, normais GL; ARM: AO=R, roughness=G, metallic=B→URP R=metal,A=1-roughness. Sem logos visíveis na prévia; toda a superfície de textura NÃO VERIFICADA pixel a pixel.
+
+Green Chair 01 — Kirill Sannikov
+Fonte: https://polyhaven.com/a/GreenChair_01
+Licença: CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
+Data:30/10/2026. Uso: Chapter1Office: duas cadeiras de visitante. Escala uniforme, colliders e objetos originais preservados.
+Originais/hashes: provenance.json em Source/GreenChair_01 ou arquivo de avaliados; SHA256 completo também em work/ModelPass20261030/new-models-provenance.json. Conversão estática glTF→meshes Unity; materiais URP, normais GL; ARM: AO=R, roughness=G, metallic=B→URP R=metal,A=1-roughness. Sem logos visíveis na prévia; toda a superfície de textura NÃO VERIFICADA pixel a pixel.
+
+Reuso local sem download: Wall Clock (PierreB3D) e Metal Trash Can (GurJas Studios), Poly Haven/CC0, agora também no escritório. Arquivos da escola preservados; o relógio conserva mostrador/ponteiros anteriores. Cadeiras/carteiras escolares, livros, luminárias e plantas PH existentes mantidos.
+Poly Pizza — apito Poly by Google CC-BY3.0 continua em uso: crédito mantido. Chave e celular Quaternius CC0 continuam em uso como placeholders/objetos de história. Nenhum desses modelos foi removido.
+Little girl/Jair Trejo: rejeitado anteriormente, não integrado; auditoria atual encontrou zero arquivos conhecidos desse modelo sob Assets. Fora do uso ativo; crédito retirado da seção ativa, registro histórico e fonte https://poly.pizza/m/5ihpeSlkOkt preservados aqui. NÃO reintroduzir.
+Ceiling Fan/CreativeTrio: removido/substituído na seleção anterior por ceiling_fan da Poly Haven; sem arquivo conhecido da fonte antiga no inventário atual. Fonte histórica https://poly.pizza/m/pRMxaQQXha, CC0. Não contar como substituição feita agora.
+Os meshes compartilhados das cadeiras originais permanecem usados pela cadeira do PC; primitivas internas do Unity não têm arquivo movível. Os visuais anteriores estão arquivados em prefabs em Assets/_Substituidos/ModelPass20261030/Visuais e backups de cenas/prefabs em Backup. Não apagar fontes compartilhadas.
+
+## Sketchfab — Rodada 2 integrada em 30/10/2026
+- 2008 Baird Silver Coronet Taxicab — Andrew Duong. Fonte: https://sketchfab.com/3d-models/2008-baird-silver-coronet-taxicab-d4c035d5857f4b49baf2ee27f7051a16. Licenca: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Adaptacao: conversao estatica para malhas nativas Unity/URP e mapas1K; ajustes de escala/orientacao. Carro: placas/taximetros/divisoria de taxi retirados, pintura cinza sem letras; arquivo metalico: uma variante fechada selecionada; bebedouro: piso auxiliar oculto.
+- Chalkboard — FrodoUndead. Fonte: https://sketchfab.com/3d-models/chalkboard-7ca01a2834384d1a9205e2919a7acb30. Licenca: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Adaptacao: conversao estatica para malhas nativas Unity/URP e mapas1K; ajustes de escala/orientacao. Carro: placas/taximetros/divisoria de taxi retirados, pintura cinza sem letras; arquivo metalico: uma variante fechada selecionada; bebedouro: piso auxiliar oculto.
+- Filing Cabinet - 6MB — Mehdi Shahsavan. Fonte: https://sketchfab.com/3d-models/filing-cabinet-6mb-d217a4bbdfa2426eb32ebf3b1007a8c3. Licenca: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Adaptacao: conversao estatica para malhas nativas Unity/URP e mapas1K; ajustes de escala/orientacao. Carro: placas/taximetros/divisoria de taxi retirados, pintura cinza sem letras; arquivo metalico: uma variante fechada selecionada; bebedouro: piso auxiliar oculto.
+- Game Ready - Rusted Locker — Allan-Jay Branscombe. Fonte: https://sketchfab.com/3d-models/game-ready-rusted-locker-c3a4c76c7d22483eb91aa6fd949cf157. Licenca: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Adaptacao: conversao estatica para malhas nativas Unity/URP e mapas1K; ajustes de escala/orientacao. Carro: placas/taximetros/divisoria de taxi retirados, pintura cinza sem letras; arquivo metalico: uma variante fechada selecionada; bebedouro: piso auxiliar oculto.
+- Low poly Drinking Fountain — omri_ha_muglob. Fonte: https://sketchfab.com/3d-models/low-poly-drinking-fountain-383b49d7f1db4f6bbf22ac97ea72cb6d. Licenca: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Adaptacao: conversao estatica para malhas nativas Unity/URP e mapas1K; ajustes de escala/orientacao. Carro: placas/taximetros/divisoria de taxi retirados, pintura cinza sem letras; arquivo metalico: uma variante fechada selecionada; bebedouro: piso auxiliar oculto.
+- Modern Generic Smartphone — Ottto3d. Fonte: https://sketchfab.com/3d-models/modern-generic-smartphone-f4d11e48cc52479c802ec2cf0d629f68. Licenca: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Adaptacao: conversao estatica para malhas nativas Unity/URP e mapas1K; ajustes de escala/orientacao. Carro: placas/taximetros/divisoria de taxi retirados, pintura cinza sem letras; arquivo metalico: uma variante fechada selecionada; bebedouro: piso auxiliar oculto.
+- Old Dirty Sink - Low Poly — W0nnaFight. Fonte: https://sketchfab.com/3d-models/old-dirty-sink-low-poly-17c796aeb1b8455d8f594a72490e11b7. Licenca: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Adaptacao: conversao estatica para malhas nativas Unity/URP e mapas1K; ajustes de escala/orientacao. Carro: placas/taximetros/divisoria de taxi retirados, pintura cinza sem letras; arquivo metalico: uma variante fechada selecionada; bebedouro: piso auxiliar oculto.
+- Phone — Zell-Wu. Fonte: https://sketchfab.com/3d-models/phone-eb42c07e79764c74aa5377e092f783ce. Licenca: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Adaptacao: conversao estatica para malhas nativas Unity/URP e mapas1K; ajustes de escala/orientacao. Carro: placas/taximetros/divisoria de taxi retirados, pintura cinza sem letras; arquivo metalico: uma variante fechada selecionada; bebedouro: piso auxiliar oculto.
+- Pytty — R3indeer. Fonte: https://sketchfab.com/3d-models/pytty-5a61bd320ae5496696b76807c36acb2b. Licenca: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Adaptacao: conversao estatica para malhas nativas Unity/URP e mapas1K; ajustes de escala/orientacao. Carro: placas/taximetros/divisoria de taxi retirados, pintura cinza sem letras; arquivo metalico: uma variante fechada selecionada; bebedouro: piso auxiliar oculto.
+- Stylish Office Chair Game Ready Asset — KnightIdeas. Fonte: https://sketchfab.com/3d-models/stylish-office-chair-game-ready-asset-8541b1ebf4ff4fcbb14aabbe721e6e3b. Licenca: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). Adaptacao: conversao estatica para malhas nativas Unity/URP e mapas1K; ajustes de escala/orientacao. Carro: placas/taximetros/divisoria de taxi retirados, pintura cinza sem letras; arquivo metalico: uma variante fechada selecionada; bebedouro: piso auxiliar oculto.
+
+
+## Rádio do carro — KENTO MC — 30/10/2026
+Trechos musicais usados conforme autorização do artista relatada por Arthur nesta conversa em 30/10/2026. Não são CC0; os direitos continuam com seus titulares. A autorização foi informada pelo usuário, não é um documento de licença obtido pelo agente.
+- 4 Cavala — KENTO MC. Fonte: https://music.apple.com/br/album/4-cavala/1727815048?i=1727815049&uo=4. Áudio público sem DRM: https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ba/3f/bf/ba3fbf93-c7a7-6bb7-f94b-4154c25b2b94/mzaf_14575520941188141257.plus.aac.p.m4a. Preview de 29.95s; recorte no jogo: 18s, mono, fades curtos, reprodução filtrada de rádio. Arquivo: Assets/Audio/Music/KentoRadio/Kento_4_Cavala.wav. Não é a faixa integral nem o master do artista.
+- Definição de Pecado — KENTO MC. Fonte: https://music.apple.com/br/album/defini%C3%A7%C3%A3o-de-pecado/1728174416?i=1728174417&uo=4. Áudio público sem DRM: https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/18/57/7918579b-f585-009f-0c10-c5cd402d2bb2/mzaf_15948786186963668813.plus.aac.p.m4a. Preview de 29.95s; recorte no jogo: 18s, mono, fades curtos, reprodução filtrada de rádio. Arquivo: Assets/Audio/Music/KentoRadio/Kento_Definicao_de_Pecado.wav. Não é a faixa integral nem o master do artista.
+- Turbulência — KENTO MC. Fonte: https://music.apple.com/br/album/turbul%C3%AAncia/1729721913?i=1729721914&uo=4. Áudio público sem DRM: https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5f/0c/5a/5f0c5a9e-d0fa-95f3-3fa5-695bf3ac1cfc/mzaf_9918092227605298652.plus.aac.p.m4a. Preview de 29.95s; recorte no jogo: 18s, mono, fades curtos, reprodução filtrada de rádio. Arquivo: Assets/Audio/Music/KentoRadio/Kento_Turbulencia.wav. Não é a faixa integral nem o master do artista.
+- Cantiga_Instrumental_Provisoria_Original: melodia instrumental original temporária, 22s, criada para este protótipo. Sem voz gerada, sem letra ou melodia infantil de terceiros. Substituir pela cantiga dublada quando disponível.
+- Cadeira do PC: reuso local GreenChair_01, Kirill Sannikov, Poly Haven, CC0 (https://polyhaven.com/a/GreenChair_01); atribuição já registrada. Stylish Office Chair preservada desativada, sem remover seus créditos históricos.
+
+
+## Rádio e cidade — revisão de 30/10/2026
+Os três trechos KENTO MC acima foram refeitos em24,5s (reprodução24s por estação), selecionados dentro dos mesmos previews públicos já obtidos. Permanecem sob autorização do artista RELATADA por Arthur; não CC0 nem faixas completas. Fontes e SHA do download preservados em outputs/RoadCity20261030/music-cuts.json.
+Baird/Andrew Duong CC-BY4.0: derivação adicional separa o volante original (2536triângulos) da cópia de carroceria usada somente em RoadJourney, preservando total de triângulos e arquivos originais. Fonte/licença completas permanecem no registro Sketchfab acima.
+Fachadas da cidade reutilizam geometria própria do escritório e o material Poly Haven Worn Cracked Plaster, Amal Kumar, CC0, https://polyhaven.com/a/worn_cracked_plaster; material derivado com tonalidade ajustada. Nenhum download novo. Motor gravado local car_interior_loop.ogg mantém fonte/licença anterior; passa-baixas/pitch em runtime.
+
+
+## Estrada — postes e rádio assombrado — 30/10/2026
+Street Lamp 01 — Josh Dean — Poly Haven
+Fonte: https://polyhaven.com/a/street_lamp_01
+Licença: CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
+Asset metadata: Powered by Poly Haven, https://api.polyhaven.com
+Download glTF1K +3texturas/bin:2.166.163bytes,5arquivos; URLs e SHA256 em provenance.json.
+Adaptações: conversão para meshes Unity/URP, LOD por agrupamento de vértices, ARM convertido para metallic/smoothness+AO, vidro transparente e emissão fraca somente da lâmpada.25instâncias na estrada.
+Não houve importador runtime ou novo pacote Unity.
+
+
+## Motor audível —31/10/2026
+Assets/Audio/SFX/Car/car_interior_audible.wav deriva do car_interior_loop.ogg/CarInterior.mp3 local já creditado, mesma origem e direitos, sem download. Adaptado com ganho14,64dB, RMS−20,5dB e crossfade60ms para loop, sem síntese. Original preservado. Cliques e chiado das trocas reutilizam ui_click e VoiceRadioStatic já registrados.
+
+
+Apito — derivações de gravação local, 31/10/2026
+Autor: Joseph SARDIN. Fonte: https://bigsoundbank.com/plastic-whistle-s1017.html. CC0 1.0.
+Original preservado: Assets/Audio/SFX/Player/whistle_real.wav (SHA256 ff9fd26635b48fca14676bfb1a6abbec772f532b6cdea9d161a202f323f2d4b7).
+Derivações: Assets/Audio/SFX/Whistle/whistle_tap_recorded.wav (recorte, fades e ganho); whistle_hold_recorded.wav (trecho gravado, crossfade para loop e ganho). Sem síntese. Nenhum novo download.
+Demais respostas reutilizam os SoundSets gravados já licenciados: Impact Glass, metal_lid, paper e tape_play. Modelo do apito Poly by Google CC-BY 3.0 já creditado; apenas instanciado como prop na mão.
+
+
+Apito — descoberta só na escola (31/10/2026)
+Sem novos downloads. Sons gravados reutilizados: whistle_tap_recorded/whistle_hold_recorded, Impact Glass, Impact Wood, paper e cassette_hiss_loop; licenças/fontes anteriores preservadas. O chiado de 11,7 s é reproduzido como resposta de até 1,1 s com fade, sem alterar o arquivo. Nenhuma voz sintetizada/TTS.
+Arte de referência e malhas simples de pegadas/mãos criadas para o projeto; placeholders 768x1024, sem imagem externa. Fontes locais Patrick Hand e Noto Sans, OFL, com licenças já presentes. Shaders e implementação próprios.
+
+
+Apito metálico — metal whistle.wav | strongbot | CC0 1.0
+Fonte: https://freesound.org/people/strongbot/sounds/568995/
+Áudio obtido do preview HQ público (MP3); original WAV não foi baixado.
+Recortes gravados, ganho, fades e crossfade de loop; sem síntese/TTS.
+Assets/Audio/SFX/Whistle/Metal/whistle_metal_tap.wav e whistle_metal_hold.wav.
+Deed: https://creativecommons.org/publicdomain/zero/1.0/
+
+
+Assobio humano — Whistling in the mouth | Joseph SARDIN | CC0 1.0
+Fonte: https://bigsoundbank.com/whistling-in-the-mouth-s1173.html
+Download OGG: https://bigsoundbank.com/UPLOAD/ogg/1173.ogg
+Derivações gravadas: Assets/Audio/SFX/Whistle/Human/whistle_human_tap.wav e whistle_human_hold.wav. Recorte, ganho, fades e crossfade para loop; sem síntese/TTS. Substitui o timbre metálico no sopro e eco, preservando os originais.
+
+
+Equipamentos / HUD lateral — 31/10/2026
+Barlow Condensed Medium e Regular — The Barlow Project Authors (2017) — SIL OFL 1.1.
+Fonte: https://github.com/google/fonts/tree/main/ofl/barlowcondensed
+Licença integral: Assets/ThirdParty/Fonts/BarlowCondensed/OFL.txt.
+Fabric Rustling — Iochi Glaucus — CC0 1.0.
+Fonte: https://opengameart.org/content/fabric-rustling
+Download público: https://opengameart.org/sites/default/files/rustling.ogg
+Recorte gravado de 0,24 s em cloth_move.wav; ganho/fades, sem síntese/TTS.
+Demais Foley: recortes dos WAV locais flashlight_on_01, flashlight_off_01, key_pickup_01 e ui_click_01. Créditos CC0 anteriores de laleksic/Kenney preservados; arquivos/SHA/recortes em Assets/Audio/SFX/Equipment/PROVENANCE.json. Originais não alterados.
+Ícones de lanterna, apito e grampo: silhuetas originais desenhadas para este projeto, sem assets do jogo de referência.
+
+
+Arrombamento opcional — 01/11/2026
+Lockpicking Sound — Tegurd — CC0 1.0.
+Fonte: https://opengameart.org/content/lockpicking-sound
+Download público: https://opengameart.org/sites/default/files/lockpicking.wav
+Derivações gravadas scrape_loop.wav e pin_2.wav: recorte, fades, ganho e crossfade de loop; sem síntese. Originais, SHA256 e recortes em Assets/Audio/SFX/Lockpick/PROVENANCE.json.
+Demais Foley: key_pickup_01, door_locked_01, Impact_Metal_Light_01 e door_open_01 locais, licenças anteriores preservadas. snap é um impacto metálico representativo, não gravação de um grampo quebrando.
+Modelo filing-cabinet-6mb já licenciado no projeto (Sketchfab, CC-BY 4.0); atribuição original preservada. Adaptação própria: separar somente os 98 triângulos da gaveta móvel dos 554 restantes, conservando os 652 triângulos originais. Arquivo fonte não alterado.
+Grampo 3D, sprite do grampo e cilindro da UI: originais deste projeto. Fonte Barlow Condensed OFL 1.1 já local. Nenhuma voz sintetizada; novos slots de voz pendentes.
+
+
+Cartões de tutorial — 01/11/2026
+Nenhum download novo. Barlow Condensed, The Barlow Project Authors, SIL OFL 1.1, já licenciado em Assets/ThirdParty/Fonts/BarlowCondensed/OFL.txt. Os glifos/diagramas e placeholders são originais deste projeto. Miniatura do grampo usa a própria UI do jogo, sem imagem externa.
+Modelo de lanterna reutiliza small_plastic_torch da Poly Haven, CC0, atribuição anterior preservada; somente visual atual foi extraído para a dica, com normalização/pose próprias, sem mudar o modelo do jogo.
+Sons de abrir/fechar reutilizam cloth_move.wav (Fabric Rustling, Iochi Glaucus, CC0, fonte já creditada) e botão reutiliza ui_click_01.wav local, licença anterior preservada. Roteamento UI; sem música/narração/síntese.
+codec_probe.mp4 é padrão visual técnico original gerado para testes, sem áudio, não ligado ao catálogo; não é demonstração de gameplay. Os vídeos de apito/grampo serão gravados pelo usuário.
+
+
+PASSE 03/11/2026 — modelos e som gravado
+tree_small_02 | autores: Rico Cilliers | CC0 1.0 | https://polyhaven.com/a/tree_small_02 | 175493 triângulos LOD próximo após preparo; 1K.
+dead_tree_trunk_02 | autores: Jenelle van Heerden, Rico Cilliers | CC0 1.0 | https://polyhaven.com/a/dead_tree_trunk_02 | 15978 triângulos LOD próximo após preparo; 1K.
+vintage_cabinet_01 | autores: Rico Cilliers | CC0 1.0 | https://polyhaven.com/a/vintage_cabinet_01 | 46909 triângulos LOD próximo após preparo; 1K.
+Licença Poly Haven: https://polyhaven.com/license . Malhas nativas Unity, redução/LODs, conversão de canais PBR, UV transform aplicado; originais preservados.
+Rat_Zabuhailo.mp3 | Zabuhailo | ratos reais | CC0 1.0 | https://freesound.org/people/Zabuhailo/sounds/143125/ | preview HQ público, sem login.
+Rat_toefur.mp3 | toefur | guincho de roedor derivado pelo autor de gravação de porco | CC0 1.0 | https://freesound.org/people/toefur/sounds/288941/ | preview HQ público; não é gravação natural de rato.
+Siren_conleec.mp3 | conleec | AMB_Siren_Police_Pass_004 | CC0 1.0 | https://freesound.org/people/conleec/sounds/159744/ | preview HQ público; mono na importação Unity. SHA256 6c49a4b3ec8958878fe96221efdd579bc9c1a525bba5195af609d8dcbf65d5d7.
+Nenhum TTS ou áudio sintetizado por código. Todos os previews são arquivos públicos das próprias páginas; nenhum acesso autenticado.
+
+
+SECRETARIA — 03/11/2026 — PLACEHOLDERS ORIGINAIS
+inspect_lunchbox_draw_01..05.png: arte provisória original, criada para este projeto; não é material de terceiros. Substituir pelos desenhos finais solicitados. secretary_footprint_mask.png e secretary_dust_mask.png: máscaras técnicas originais, sem fonte externa. Nenhum download nesta entrega. Relógio: reuso do modelo wall_clock da Poly Haven já existente/creditado no projeto (CC0).
+
+
+IMAGENS E APITO — 04/11/2026
+20 artes geradas por IA (image_gen nativo OpenAI), 04/11/2026; sem pessoas reais, marcas ou texto legível. Prompts/fontes em Assets/Docs/Prompts_Imagens.md. Uso: desenhos, fachada, colagem, cartazes e decals.
+inspect_lunchbox_draw_01 | gerada por IA | Use case: illustration-story. Production game asset, flat scan of a child's wax crayon drawing on slightly stained off-white paper, landscape 4:3, target 2048x1536. One very simple red-roof house with a front doorway and four windows, exactly FOUR small stick children standing outside, one extremely tall thin stick man standing in the doorway. Naive uneven wax strokes and paper texture, sparse child's drawing, unsettling but restrained, no realistic people. The house must remain a simple repeatable shape for later related drawings. NO writing, letters, dates, numbers, labels, watermark, logos, typography or border. Only paper and the drawing.
+inspect_luan_drawing | gerada por IA | Use case: illustration-story. Flat scanned original child's wax crayon drawing on worn off-white paper, landscape 4:3, target 2048x1536. A simple cutaway of a few small dark school rooms: small stick children in them, one holding a clearly drawn small whistle, curved sound lines from the whistle, other children raising their hands in answer. A very tall thin stick figure stands in one doorway. Childlike, irregular crayon texture, simple limited dark blue, red and yellow strokes, sad and subtly unsettling. Drawn stick figures only, absolutely no realistic people. NO writing, words, letters, numbers, logos, watermark or captions.
+wall_school_lit_4x3 | gerada por IA | Use case: photorealistic-natural. Original still photo for a psychological horror game, landscape 4:3, target 2048x1536. A deserted old Brazilian public school building made of faded brick with some peeling painted walls, two storeys, cloudy daytime, empty courtyard, overgrown edges, decades of neglect. EXACTLY ONE upstairs window has warm amber yellow light on, all other windows dark. Frontal three-quarter view with the entire school facade comfortably framed, believable mundane building, not grand or gothic. Early-2000s consumer digital camera appearance, subdued color, natural grain, slight JPEG character, closed shadows, cloudy diffuse daylight. No people, no children, no cars, no recognizable real location, no text, no readable signs, no school name, no logos or watermarks. Keep composition suitable for a 4:3 CRT wallpaper and a wider crop.
+inspect_lunchbox_draw_02 | gerada por IA | Edit the referenced child's crayon drawing into the second annual drawing. Keep exactly the same simple red-roof house, four windows, wax-crayon medium, aged off-white paper and flat 4:3 scanned composition. Move the FOUR small stick children so there is one child INSIDE EACH WINDOW instead of standing outside. The very tall thin man is now immediately in front of the doorway, closer to the viewer. No extra people. No realistic faces. NO text, date, letters, numbers, labels, logo or watermark anywhere. Target final canvas 2048x1536; clean complete paper edges.
+inspect_lunchbox_draw_03 | gerada por IA | Edit the referenced child's crayon drawing into the latest and most unsettling annual drawing. Preserve the same simple red-roof house with exactly four windows and front doorway, childlike wax texture, flat scanned landscape 4:3 aged paper. The house is drawn in the dark with dark blue and black crayon. ALL FOUR WINDOWS are painted solid black. A very tall thin stick man stands at the doorway with ONE small stick child beside him. No other visible children or figures. Leave a clean empty area in the lower RIGHT corner for a date to be added later by software. Absolutely NO writing, text, letters, dates or numbers in this image. No logos, watermark, realistic people or graphic content. Target 2048x1536.
+tex_investigation_wall | gerada por IA | Use case: photorealistic-natural. Original seamless-looking game wall-collage texture, flat frontal close view, 4:3 landscape target2048x1536. An exhausted investigator's old collection: tiny defocused photographs of an empty abandoned school, illegible newspaper clippings, schematic maps, yellowed blank sticky notes, worn adhesive tape, red thread connecting clues. Weathered papers, folds, stains, pin holes, subdued dim light, realistic early-2000s office materials. Composition fills frame as a corkboard collage texture, no surrounding room. All photos show buildings or empty rooms only. Absolutely NO readable writing, printed words, letters, numbers, names, dates, logos, watermark, faces or people.
+tex_decal_cracks_mirror | gerada por IA | Game decal texture, square target2048x2048, ONLY a restrained network of very fine hairline cracks in an old mirror, pale gray tiny reflective fracture lines and a few irregular branches, empty space between lines, no glass panel, no surrounding frame, no text, no background, no people. Truly transparent alpha background, thin realistic isolated cracks, flat orthographic front view.
+tex_decal_handprint_glass | gerada por IA | Game decal texture, square target1024x1024, ONE small child's handprint in condensation and dust on glass, five distinct fingers, faint smudged pale gray residue, subtle unsettling realism. HandPRINT only, no actual hand or person, no glass panel, no room, no text. True transparent alpha background, flat front view, isolated residue with soft irregular edges.
+tex_decal_dirt_01 | gerada por IA | Photoreal game decal, square target1024x1024, isolated irregular grime and brown rainwater stain on a neglected wall, subtle dirty porous edges fading into true transparent alpha. Only stain and flecks, no wall background, no border, no letters, no objects. Flat front orthographic texture, suitable for abandoned school.
+tex_decal_dirt_02 | gerada por IA | Photorealistic game decal texture, square1024x1024, faint spreading olive black mold speckles and damp patches for an abandoned school wall. Only organic irregular mildew spots fading at edges into true transparent alpha, no rectangular wall or background, no objects, no text.
+tex_decal_dirt_03 | gerada por IA | Photorealistic game decal texture, square1024x1024, isolated dark gray water seepage stains with a few vertical narrow drips, porous worn dirt edges and empty gaps, true transparent alpha background. Neglected school wall, subdued realistic grime only, no surface rectangle, no text or objects.
+tex_decal_dirt_04 | gerada por IA | Photorealistic game decal texture, square1024x1024, low irregular band of old dusty brown dirt and tiny black mildew marks, suitable at the foot of an abandoned wall. Organic patch with soft scattered edges, true transparent alpha background, no wall or floor plane, no text or objects.
+poster_school_01 | gerada por IA | Original old Brazilian classroom children's art poster, portrait 2:3 target1024x1536. Flat scanned slightly yellowed paper with a bright childlike watercolor sun and blue sky above a green hill and a single tree, no figures. Faded pigments, worn corners and a few faint damp stains, charming uneven elementary school art, suitable abandoned-school decoration but originally innocent. Full paper fills image. Absolutely NO writing, letters, numbers, readable text, logos, watermark, realistic people or faces.
+poster_school_02 | gerada por IA | Original old Brazilian classroom children's art poster, portrait 2:3 target1024x1536. Flat scanned slightly yellowed paper with a naive wax crayon drawing of colorful flowers and butterflies in a garden, no figures. Faded pigments, worn corners and a few faint damp stains, charming uneven elementary school art, suitable abandoned-school decoration but originally innocent. Full paper fills image. Absolutely NO writing, letters, numbers, readable text, logos, watermark, realistic people or faces.
+poster_school_03 | gerada por IA | Original old Brazilian classroom children's art poster, portrait 2:3 target1024x1536. Flat scanned slightly yellowed paper with a cheerful childlike painted rainbow above blue clouds and small yellow stars, no figures. Faded pigments, worn corners and a few faint damp stains, charming uneven elementary school art, suitable abandoned-school decoration but originally innocent. Full paper fills image. Absolutely NO writing, letters, numbers, readable text, logos, watermark, realistic people or faces.
+poster_school_04 | gerada por IA | Original old Brazilian elementary classroom children's art poster, portrait2:3 target1024x1536. Flat scan of yellowed paper with childlike crayon drawing of a little sailboat on a blue lake under a yellow sun, no figures. Innocent handmade uneven strokes, faded colors, little dust, worn corners and light damp stains, paper fills frame. Not frightening originally, just abandoned. Absolutely NO text, letters, dates, numbers, names, logos, watermark, realistic people or faces.
+poster_school_05 | gerada por IA | Original old Brazilian elementary classroom children's art poster, portrait2:3 target1024x1536. Flat scan of yellowed paper with simple cut-paper style artwork of three colorful birds among green leaves and flowers, no figures. Innocent handmade uneven strokes, faded colors, little dust, worn corners and light damp stains, paper fills frame. Not frightening originally, just abandoned. Absolutely NO text, letters, dates, numbers, names, logos, watermark, realistic people or faces.
+poster_school_06 | gerada por IA | Original old Brazilian elementary classroom children's art poster, portrait2:3 target1024x1536. Flat scan of yellowed paper with naive wax crayon drawing of a red-roof village with trees and mountains in the distance, no figures. Innocent handmade uneven strokes, faded colors, little dust, worn corners and light damp stains, paper fills frame. Not frightening originally, just abandoned. Absolutely NO text, letters, dates, numbers, names, logos, watermark, realistic people or faces.
+poster_school_07 | gerada por IA | Original abandoned Brazilian classroom children's art poster, flat scanned yellowed paper portrait2:3 target1024x1536, naive wax crayon drawing of colorful fish swimming among water plants in a blue pond, no people. Innocent uneven handmade elementary art, faded colors, worn corners and faint age stains, entire sheet fills frame. Absolutely NO words, letters, dates, numbers, labels, logo, watermark, realistic faces or people.
+poster_school_08 | gerada por IA | Original abandoned Brazilian classroom children's art poster, flat scanned yellowed paper portrait2:3 target1024x1536, simple child's paper collage of a large green tree with orange and yellow leaves and little fallen leaves on the ground, no people. Innocent uneven handmade elementary art, faded colors, worn corners and faint age stains, entire sheet fills frame. Absolutely NO words, letters, dates, numbers, labels, logo, watermark, realistic faces or people.
+Textos, placa SEEPE, ícones check/lock, papel e máscaras de sapato: arte original por código. Quatro casos: placeholders, imagens definitivas serão fornecidas pelo usuário.
+Caveat | Pablo Impallari | SIL OFL 1.1 | https://github.com/googlefonts/caveat | Assets/ThirdParty/Fonts/Caveat/OFL.txt. Patrick Hand e Barlow: reuso de fontes OFL locais já creditadas.
+sadWhisle.wav | Splashdust | CC0 1.0 | https://freesound.org/people/Splashdust/sounds/84327/ | preview HQ público https://cdn.freesound.org/previews/84/84327_754949-hq.mp3 | SHA256 dee352744081b35013a46c38be225aaacafb37958523ddc49df3b96cddb64aa6.
+Male whistle | J_Bond | CC0 1.0 | https://freesound.org/people/J_Bond/sounds/132294/ | preview HQ público https://cdn.freesound.org/previews/132/132294_2367413-hq.mp3 | SHA256 9bf2befc5cdc124f75382e295702f9dd26759c5e7b85261e83d209075033df97.
+Respostas infantis representadas por gravações de assobio processadas na Unity: mono, pitch distinto por criança, baixa passagem e espacialização. Não são gravações de atores infantis. Sem síntese de áudio por código ou TTS. Eco vazio reutiliza o toque gravado original.
+Fotos: 2 capturas nativas com silhuetas técnicas adultas temporárias; foto do armário reutiliza captura anterior do jogo. As silhuetas não são um modelo final detalhado de João.
+
+
+ELEVENLABS — 04/11/2026 — RESPOSTAS DO APITO
+4 efeitos gerados por IA com ElevenLabs Sound Effects v2, plano gratuito, em04/11/2026. Crianças Marta/Caio/Luan/Bia: assobios não verbais originais, sem TTS ou clonagem de voz. Prompts/hashes em Assets/Audio/SFX/ElevenLabs/WhistleResponses/PROVENANCE.json. MP3s originais preservados; WAVs mono derivados por ajuste de ganho, importados Vorbis85%,44.1kHz. Fontes CC0 anteriores preservadas.
+Licença: não são CC0. Uso não comercial com atribuição ao ElevenLabs (elevenlabs.io/11.ai), conforme plano gratuito. Conferir requisitos de atribuição no título ao publicar. Não alterar o título do jogo automaticamente. https://elevenlabs.io/docs/overview/administration/billing | https://help.elevenlabs.io/hc/en-us/articles/13313564601361-Can-I-publish-the-content-I-generate-on-the-platform
+Chave da API fora do projeto; nunca distribuída no jogo. Nenhuma assinatura ou compra realizada.
+
+
+## ElevenLabs SFX — lote 20261104
+Efeitos sonoros gerados com ElevenLabs Sound Effects. Geração iniciada: 04/11/2026. Plano consultado: Free. Prompts exatos, parâmetros, datas, custo real/estimado e arquivos estão em Assets/Docs/Audio/sfx_manifest.json. Conjunto único deste lote, não CC0. Plano Free: uso não comercial e atribuição obrigatória; revisar licença antes de uso comercial. Fonte/licença: https://elevenlabs.io/docs/overview/administration/billing . Crédito: ElevenLabs Sound Effects. Sons de dublagem humana e música não incluídos.
+
+Conclusão do lote SFX em 05/11/2026: 162 sons / 314 variantes; 66 variantes restantes geradas após conexão de outra conta explicitamente autorizada. Mesma licença Free não comercial com atribuição; histórico de custos e prompts preservado no manifesto. Árvore Tree Small 02 (Poly Haven, CC0): galhos e tronco originais com LOD de folhas em cartões usando o atlas original, corrigindo deformação da simplificação anterior. Nenhum novo download de modelo.
+
+
+CORREDOR C5 — 05/11/2026 — ARTE PROCEDURAL ORIGINAL
+24 máscaras de decal (8 contagens, 8 arranhões, 8 mãos de fuligem), 512x512 RGBA, e seus 24 mapas normais. Criadas especificamente para Whispers of the Past com formas/ruído procedural autorizados no pedido. Sem imagens ou áudio de terceiros. Fontes locais e gerador em work/CorridorDemon20261105/prepare.py. Materiais URP Lit sem emissão; geometrias modulares derivadas somente da escola e dos assets já presentes, mantendo suas licenças anteriores. Nenhum novo download, nenhuma voz TTS e nenhum áudio sintetizado. Takes demon_mask_01..32 / demon_low_01..32 e coro: aguardam gravação dos dubladores, não são assets licenciados como CC0.
+
+[05/11/2026 — Recorte do reflexo do espelho]
+MirrorReflectionMask.cs e MirrorReflectionMask.shader: código original do projeto; nenhuma imagem, voz ou modelo externo baixado.
+MirrorReflectionActor.shader: layout de propriedades e ForwardLit adaptados do pacote Unity Universal RP já instalado (com.unity.render-pipelines.universal@327d93d1cbc8). Mantém a licença do pacote Unity; não é conteúdo CC0. Alteração local: teste stencil dentro do passe, sem shadow caster, para desenhar exclusivamente na malha do vidro. Fonte local: Library/PackageCache/com.unity.render-pipelines.universal@327d93d1cbc8/Shaders/Lit.shader. Licença original: LICENSE.md do pacote.
+Árvores e livros: reutilizados os assets Poly Haven já importados e creditados neste arquivo; nenhum novo download.
+
+
+Rat — br-n518 (Immersion20261106)
+Fonte: https://opengameart.org/content/rat-0
+Autor: br-n518. Licença: CC0 1.0. Modelo e textura originais baixados de https://opengameart.org/sites/default/files/rat_godot.zip, convertido DAE para FBX com Blender local; escala para cena. Sem novo áudio gerado.
+
+## ElevenLabs TTS — Helena — 11/11/2026
+46 clipes em português com a voz pré-configurada Lily do ElevenLabs. As duas fitas da Helena real foram regravadas com Eleven v4. Os demais clipes usam Flash v2.5. As fitas e as falas em cena usam esses clipes. A camada grave da falsa Helena é processada no AudioMixer do jogo. Os textos do celular e do computador continuam em leitura silenciosa.
+Plano gratuito. Uso não comercial com atribuição. A publicação deve atribuir ElevenLabs conforme os termos do plano. https://elevenlabs.io/docs/pt/help-center/legal/can-i-publish-the-content-i-generate-on-the-platform
+
+Polimento 2026-11-11 — escola e rádio
+Dies Irae — Membeth, interpretação em domínio público, trecho recortado. https://commons.wikimedia.org/wiki/File:Dies.irae.ogg
+Trashbag — Benny Weimer / Poly Haven, CC0. https://polyhaven.com/a/trashbag
+Backpack — Quaternius, CC0. https://poly.pizza/m/2g9Jm7kvIU
+Trainer — Jeremy, CC BY 3.0, convertido para FBX. https://poly.pizza/m/cs7k_ENAZjQ
+DesenhosParede — ilustração original produzida com OpenAI ImageGen para este jogo.
+
+Isolamento e perícia SEEPE — 2026-11-12
+Police Tape Strip (adaptação) — Innerscene, CC0. Geometria orientada e revestida com estampa em português. https://www.innerscene.com/tools/library/3d-parts/red-and-white-hazard-tape-strip-0a8c8909
+Evidence Tent (adaptação de Numbered evidence marker set) — 3D Assets, CC0 1.0. Tenda extraída, UVs refeitas e impressão própria de vestígio. https://3dassets.dev/assets/police-station-and-detective-office-evidence-marker-se-779aa2b9
+
+Objetos dos alunos — 2026-11-13
+Cap — J-Toastie, CC BY 3.0. Conversão para FBX, escala e materiais ajustados. https://poly.pizza/m/aWxhfEnYwl
+Notebook — Poly by Google, CC BY 3.0. Conversão para FBX, escala, malha e materiais ajustados. https://poly.pizza/m/aXVPyk0zekf
+Licença: https://creativecommons.org/licenses/by/3.0/

@@ -1,0 +1,3662 @@
+{
+  "source": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\outputs\\RoadChapter\\Models\\SpectralGTRS\\spectral_gt_rs_game_ready.glb",
+  "output": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\outputs\\RoadChapter\\Models\\SpectralGTRS\\SpectralGTRS.obj",
+  "staticOnly": true,
+  "min": [
+    -1.263,
+    -0.01,
+    -2.587
+  ],
+  "max": [
+    1.263,
+    1.67,
+    2.62
+  ],
+  "size": [
+    2.526,
+    1.68,
+    5.207
+  ],
+  "meshGroups": 258,
+  "triangles": 151722,
+  "materials": [
+    "Spectral_Blue_Clearcoat",
+    "Smoked_Smart_Glass",
+    "Black_Glass_Display",
+    "Soft_Touch_Black",
+    "Machined_Chrome",
+    "Midnight_Blue_Shadow_Panels",
+    "Carbon_Fiber_Directional_Weave",
+    "Badge_Gold",
+    "Ice_Blue_Emission",
+    "Performance_Rubber",
+    "Tire_Sidewall_Ink",
+    "Brushed_Aluminum",
+    "Caliper_Red",
+    "Carbon_Leather",
+    "Cockpit_Display",
+    "Burgundy_Performance_Leather",
+    "Indicator_Amber",
+    "Headlamp_White",
+    "Tail_Lamp_Red",
+    "Suspension_Black",
+    "Engine_Machined_Metal",
+    "Suspension_Spring",
+    "Coolant_Blue"
+  ],
+  "images": 0,
+  "parts": [
+    {
+      "name": "BODY_Shell_Hero_0",
+      "material": "Spectral_Blue_Clearcoat",
+      "min": [
+        -0.998174,
+        0.43,
+        -2.48
+      ],
+      "max": [
+        0.998174,
+        0.98,
+        2.47
+      ]
+    },
+    {
+      "name": "CABIN_Roof_Shell_0",
+      "material": "Spectral_Blue_Clearcoat",
+      "min": [
+        -0.81662,
+        0.820881,
+        -1.43
+      ],
+      "max": [
+        0.81662,
+        1.43,
+        1.05
+      ]
+    },
+    {
+      "name": "Rear_Fender_Lip_-1_0",
+      "material": "Spectral_Blue_Clearcoat",
+      "min": [
+        -1.043872,
+        0.047,
+        -1.963
+      ],
+      "max": [
+        -0.956128,
+        1.013,
+        -0.997
+      ]
+    },
+    {
+      "name": "Rear_Fender_Lip_1_0",
+      "material": "Spectral_Blue_Clearcoat",
+      "min": [
+        0.956128,
+        0.047,
+        -1.963
+      ],
+      "max": [
+        1.043872,
+        1.013,
+        -0.997
+      ]
+    },
+    {
+      "name": "Front_Fender_Lip_-1_0",
+      "material": "Spectral_Blue_Clearcoat",
+      "min": [
+        -1.043872,
+        0.047,
+        0.887
+      ],
+      "max": [
+        -0.956128,
+        1.013,
+        1.853
+      ]
+    },
+    {
+      "name": "Front_Fender_Lip_1_0",
+      "material": "Spectral_Blue_Clearcoat",
+      "min": [
+        0.956128,
+        0.047,
+        0.887
+      ],
+      "max": [
+        1.043872,
+        1.013,
+        1.853
+      ]
+    },
+    {
+      "name": "L_Glass_Rear_0",
+      "material": "Smoked_Smart_Glass",
+      "min": [
+        -0.825,
+        0.98,
+        -1.28
+      ],
+      "max": [
+        -0.813,
+        1.34,
+        -0.7
+      ]
+    },
+    {
+      "name": "L_Glass_Main_0",
+      "material": "Smoked_Smart_Glass",
+      "min": [
+        -0.825,
+        0.99,
+        -0.62
+      ],
+      "max": [
+        -0.813,
+        1.36,
+        0.76
+      ]
+    },
+    {
+      "name": "R_Glass_Rear_0",
+      "material": "Smoked_Smart_Glass",
+      "min": [
+        0.801,
+        0.98,
+        -1.28
+      ],
+      "max": [
+        0.813,
+        1.34,
+        -0.7
+      ]
+    },
+    {
+      "name": "R_Glass_Main_0",
+      "material": "Smoked_Smart_Glass",
+      "min": [
+        0.801,
+        0.99,
+        -0.62
+      ],
+      "max": [
+        0.813,
+        1.36,
+        0.76
+      ]
+    },
+    {
+      "name": "Front_Windshield_0",
+      "material": "Smoked_Smart_Glass",
+      "min": [
+        -0.77,
+        1.02,
+        0.471695
+      ],
+      "max": [
+        0.77,
+        1.311271,
+        0.86
+      ]
+    },
+    {
+      "name": "Rear_Windshield_0",
+      "material": "Smoked_Smart_Glass",
+      "min": [
+        -0.73,
+        1.0,
+        -1.278963
+      ],
+      "max": [
+        0.73,
+        1.310755,
+        -0.91
+      ]
+    },
+    {
+      "name": "Panoramic_Roof_Glass_0",
+      "material": "Black_Glass_Display",
+      "min": [
+        -0.61,
+        1.4225,
+        -0.58
+      ],
+      "max": [
+        0.61,
+        1.4475,
+        0.52
+      ]
+    },
+    {
+      "name": "L_Window_Pillar_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.835504,
+        0.965445,
+        -0.72463
+      ],
+      "max": [
+        -0.803504,
+        1.354555,
+        -0.61537
+      ]
+    },
+    {
+      "name": "L_Shoulder_Line_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.829317,
+        0.67149,
+        -1.850223
+      ],
+      "max": [
+        -0.811317,
+        0.81464,
+        1.880915
+      ]
+    },
+    {
+      "name": "L_Lower_Sculpt_Line_0",
+      "material": "Midnight_Blue_Shadow_Panels",
+      "min": [
+        -0.84313,
+        0.501114,
+        -1.581015
+      ],
+      "max": [
+        -0.79913,
+        0.630844,
+        1.551824
+      ]
+    },
+    {
+      "name": "L_Door_Handle_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.839756,
+        0.866,
+        -0.265
+      ],
+      "max": [
+        -0.805756,
+        0.894,
+        -0.035
+      ]
+    },
+    {
+      "name": "L_Side_Skirt_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.885195,
+        0.41,
+        -1.625
+      ],
+      "max": [
+        -0.765195,
+        0.53,
+        1.325
+      ]
+    },
+    {
+      "name": "L_Air_Outlet_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.845134,
+        0.595,
+        0.24
+      ],
+      "max": [
+        -0.810134,
+        0.765,
+        0.8
+      ]
+    },
+    {
+      "name": "L_Intake_Strake_1_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.85452,
+        0.62,
+        0.3525
+      ],
+      "max": [
+        -0.83652,
+        0.74,
+        0.3875
+      ]
+    },
+    {
+      "name": "L_Intake_Strake_2_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.85452,
+        0.62,
+        0.4725
+      ],
+      "max": [
+        -0.83652,
+        0.74,
+        0.5075
+      ]
+    },
+    {
+      "name": "L_Intake_Strake_3_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.85452,
+        0.62,
+        0.5925
+      ],
+      "max": [
+        -0.83652,
+        0.74,
+        0.6275
+      ]
+    },
+    {
+      "name": "L_Mirror_Stalk_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.80861,
+        1.066249,
+        0.450407
+      ],
+      "max": [
+        -0.76861,
+        1.133751,
+        0.629593
+      ]
+    },
+    {
+      "name": "L_Mirror_Shell_0",
+      "material": "Midnight_Blue_Shadow_Panels",
+      "min": [
+        -0.90426,
+        1.045,
+        0.48
+      ],
+      "max": [
+        -0.75426,
+        1.195,
+        0.8
+      ]
+    },
+    {
+      "name": "R_Window_Pillar_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        0.803504,
+        0.965445,
+        -0.72463
+      ],
+      "max": [
+        0.835504,
+        1.354555,
+        -0.61537
+      ]
+    },
+    {
+      "name": "R_Shoulder_Line_0",
+      "material": "Machined_Chrome",
+      "min": [
+        0.811317,
+        0.67149,
+        -1.850223
+      ],
+      "max": [
+        0.829317,
+        0.81464,
+        1.880915
+      ]
+    },
+    {
+      "name": "R_Lower_Sculpt_Line_0",
+      "material": "Midnight_Blue_Shadow_Panels",
+      "min": [
+        0.79913,
+        0.501114,
+        -1.581015
+      ],
+      "max": [
+        0.84313,
+        0.630844,
+        1.551824
+      ]
+    },
+    {
+      "name": "R_Door_Handle_0",
+      "material": "Machined_Chrome",
+      "min": [
+        0.805756,
+        0.866,
+        -0.265
+      ],
+      "max": [
+        0.839756,
+        0.894,
+        -0.035
+      ]
+    },
+    {
+      "name": "R_Side_Skirt_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        0.765195,
+        0.41,
+        -1.625
+      ],
+      "max": [
+        0.885195,
+        0.53,
+        1.325
+      ]
+    },
+    {
+      "name": "R_Air_Outlet_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        0.810134,
+        0.595,
+        0.24
+      ],
+      "max": [
+        0.845134,
+        0.765,
+        0.8
+      ]
+    },
+    {
+      "name": "R_Intake_Strake_1_0",
+      "material": "Machined_Chrome",
+      "min": [
+        0.83652,
+        0.62,
+        0.3525
+      ],
+      "max": [
+        0.85452,
+        0.74,
+        0.3875
+      ]
+    },
+    {
+      "name": "R_Intake_Strake_2_0",
+      "material": "Machined_Chrome",
+      "min": [
+        0.83652,
+        0.62,
+        0.4725
+      ],
+      "max": [
+        0.85452,
+        0.74,
+        0.5075
+      ]
+    },
+    {
+      "name": "R_Intake_Strake_3_0",
+      "material": "Machined_Chrome",
+      "min": [
+        0.83652,
+        0.62,
+        0.5925
+      ],
+      "max": [
+        0.85452,
+        0.74,
+        0.6275
+      ]
+    },
+    {
+      "name": "R_Mirror_Stalk_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        0.76861,
+        1.066249,
+        0.450407
+      ],
+      "max": [
+        0.80861,
+        1.133751,
+        0.629593
+      ]
+    },
+    {
+      "name": "R_Mirror_Shell_0",
+      "material": "Midnight_Blue_Shadow_Panels",
+      "min": [
+        0.75426,
+        1.045,
+        0.48
+      ],
+      "max": [
+        0.90426,
+        1.195,
+        0.8
+      ]
+    },
+    {
+      "name": "Roof_Trim_Left_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.802,
+        1.433587,
+        -0.6
+      ],
+      "max": [
+        -0.778,
+        1.456413,
+        0.43
+      ]
+    },
+    {
+      "name": "Roof_Trim_Right_0",
+      "material": "Machined_Chrome",
+      "min": [
+        0.778,
+        1.433587,
+        -0.6
+      ],
+      "max": [
+        0.802,
+        1.456413,
+        0.43
+      ]
+    },
+    {
+      "name": "Front_Grille_Deep_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.62,
+        0.54,
+        2.365
+      ],
+      "max": [
+        0.62,
+        0.74,
+        2.445
+      ]
+    },
+    {
+      "name": "Front_Grille_Bar_-0.42_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.4325,
+        0.575,
+        2.43
+      ],
+      "max": [
+        -0.4075,
+        0.705,
+        2.48
+      ]
+    },
+    {
+      "name": "Front_Grille_Bar_0.0_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.0125,
+        0.575,
+        2.43
+      ],
+      "max": [
+        0.0125,
+        0.705,
+        2.48
+      ]
+    },
+    {
+      "name": "Front_Grille_Bar_0.42_0",
+      "material": "Machined_Chrome",
+      "min": [
+        0.4075,
+        0.575,
+        2.43
+      ],
+      "max": [
+        0.4325,
+        0.705,
+        2.48
+      ]
+    },
+    {
+      "name": "Front_Splitter_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.96,
+        0.4375,
+        2.28
+      ],
+      "max": [
+        0.96,
+        0.5025,
+        2.62
+      ]
+    },
+    {
+      "name": "Front_Canard_-1_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.993935,
+        0.5625,
+        2.101317
+      ],
+      "max": [
+        -0.786065,
+        0.5975,
+        2.358684
+      ]
+    },
+    {
+      "name": "Front_Canard_1_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        0.786065,
+        0.5625,
+        2.101317
+      ],
+      "max": [
+        0.993935,
+        0.5975,
+        2.358684
+      ]
+    },
+    {
+      "name": "Rear_Diffuser_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.89,
+        0.425,
+        -2.53
+      ],
+      "max": [
+        0.89,
+        0.535,
+        -2.25
+      ]
+    },
+    {
+      "name": "Diffuser_Fin_-0.6_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.6175,
+        0.45,
+        -2.57
+      ],
+      "max": [
+        -0.5825,
+        0.65,
+        -2.39
+      ]
+    },
+    {
+      "name": "Diffuser_Fin_-0.25_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.2675,
+        0.45,
+        -2.57
+      ],
+      "max": [
+        -0.2325,
+        0.65,
+        -2.39
+      ]
+    },
+    {
+      "name": "Diffuser_Fin_0.25_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        0.2325,
+        0.45,
+        -2.57
+      ],
+      "max": [
+        0.2675,
+        0.65,
+        -2.39
+      ]
+    },
+    {
+      "name": "Diffuser_Fin_0.6_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        0.5825,
+        0.45,
+        -2.57
+      ],
+      "max": [
+        0.6175,
+        0.65,
+        -2.39
+      ]
+    },
+    {
+      "name": "Wing_Post_-1_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.58,
+        0.84867,
+        -1.980715
+      ],
+      "max": [
+        -0.5,
+        1.19133,
+        -1.879285
+      ]
+    },
+    {
+      "name": "Wing_Post_1_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        0.5,
+        0.84867,
+        -1.980715
+      ],
+      "max": [
+        0.58,
+        1.19133,
+        -1.879285
+      ]
+    },
+    {
+      "name": "Active_Wing_Blade_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.84,
+        1.16115,
+        -2.101433
+      ],
+      "max": [
+        0.84,
+        1.27885,
+        -1.898567
+      ]
+    },
+    {
+      "name": "Wing_Endplate_-1_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.8625,
+        1.09,
+        -2.115
+      ],
+      "max": [
+        -0.8175,
+        1.39,
+        -1.885
+      ]
+    },
+    {
+      "name": "Wing_Endplate_1_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        0.8175,
+        1.09,
+        -2.115
+      ],
+      "max": [
+        0.8625,
+        1.39,
+        -1.885
+      ]
+    },
+    {
+      "name": "Exhaust_Outer_-1_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.665,
+        0.465,
+        -2.555
+      ],
+      "max": [
+        -0.455,
+        0.675,
+        -2.405
+      ]
+    },
+    {
+      "name": "Exhaust_Ring_-1_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.638,
+        0.492,
+        -2.571
+      ],
+      "max": [
+        -0.482,
+        0.648,
+        -2.549
+      ]
+    },
+    {
+      "name": "Exhaust_Inner_-1_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.611,
+        0.519,
+        -2.587
+      ],
+      "max": [
+        -0.509,
+        0.621,
+        -2.563
+      ]
+    },
+    {
+      "name": "Exhaust_Outer_1_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        0.455,
+        0.465,
+        -2.555
+      ],
+      "max": [
+        0.665,
+        0.675,
+        -2.405
+      ]
+    },
+    {
+      "name": "Exhaust_Ring_1_0",
+      "material": "Machined_Chrome",
+      "min": [
+        0.482,
+        0.492,
+        -2.571
+      ],
+      "max": [
+        0.638,
+        0.648,
+        -2.549
+      ]
+    },
+    {
+      "name": "Exhaust_Inner_1_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        0.509,
+        0.519,
+        -2.587
+      ],
+      "max": [
+        0.611,
+        0.621,
+        -2.563
+      ]
+    },
+    {
+      "name": "Badge_Side_Left_0",
+      "material": "Badge_Gold",
+      "min": [
+        -1.0277,
+        0.733035,
+        -0.421045
+      ],
+      "max": [
+        -1.0223,
+        0.793935,
+        0.122997
+      ]
+    },
+    {
+      "name": "Badge_Side_Right_0",
+      "material": "Badge_Gold",
+      "min": [
+        1.0223,
+        0.726065,
+        -0.421045
+      ],
+      "max": [
+        1.0277,
+        0.786965,
+        0.122997
+      ]
+    },
+    {
+      "name": "Badge_Rear_0",
+      "material": "Badge_Gold",
+      "min": [
+        -0.055944,
+        0.744959,
+        -2.57405
+      ],
+      "max": [
+        0.05099,
+        0.824061,
+        -2.56595
+      ]
+    },
+    {
+      "name": "Rear_Plate_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.26,
+        0.57,
+        -2.5475
+      ],
+      "max": [
+        0.26,
+        0.75,
+        -2.5225
+      ]
+    },
+    {
+      "name": "Plate_Text_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        -0.120412,
+        0.641378,
+        -2.554025
+      ],
+      "max": [
+        0.120355,
+        0.683205,
+        -2.549975
+      ]
+    },
+    {
+      "name": "Rear_Left_Tire_0",
+      "material": "Performance_Rubber",
+      "min": [
+        -1.15,
+        -0.01,
+        -2.02
+      ],
+      "max": [
+        -0.88,
+        1.07,
+        -0.94
+      ]
+    },
+    {
+      "name": "Rear_Left_Sidewall_Bead_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        -1.172,
+        0.173,
+        -1.837
+      ],
+      "max": [
+        -1.128,
+        0.887,
+        -1.123
+      ]
+    },
+    {
+      "name": "Rear_Left_Brake_Disc_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -1.0525,
+        0.21,
+        -1.8
+      ],
+      "max": [
+        -1.0075,
+        0.85,
+        -1.16
+      ]
+    },
+    {
+      "name": "Rear_Left_Brake_Hat_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -1.0905,
+        0.425,
+        -1.585
+      ],
+      "max": [
+        -1.0355,
+        0.635,
+        -1.375
+      ]
+    },
+    {
+      "name": "Rear_Left_Brake_Caliper_0",
+      "material": "Caliper_Red",
+      "min": [
+        -1.2005,
+        0.407482,
+        -1.315249
+      ],
+      "max": [
+        -1.1355,
+        0.692518,
+        -1.184751
+      ]
+    },
+    {
+      "name": "Rear_Left_Rim_Base_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -1.1925,
+        0.208,
+        -1.802
+      ],
+      "max": [
+        -1.1075,
+        0.852,
+        -1.158
+      ]
+    },
+    {
+      "name": "Rear_Left_Spoke_1_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.510577,
+        -1.489358
+      ],
+      "max": [
+        -1.1795,
+        0.729423,
+        -1.158873
+      ]
+    },
+    {
+      "name": "Rear_Left_Spoke_2_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.53,
+        -1.5075
+      ],
+      "max": [
+        -1.1795,
+        0.89,
+        -1.4525
+      ]
+    },
+    {
+      "name": "Rear_Left_Spoke_3_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.510577,
+        -1.801127
+      ],
+      "max": [
+        -1.1795,
+        0.729423,
+        -1.470642
+      ]
+    },
+    {
+      "name": "Rear_Left_Spoke_4_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.330577,
+        -1.801127
+      ],
+      "max": [
+        -1.1795,
+        0.549423,
+        -1.470642
+      ]
+    },
+    {
+      "name": "Rear_Left_Spoke_5_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.17,
+        -1.5075
+      ],
+      "max": [
+        -1.1795,
+        0.53,
+        -1.4525
+      ]
+    },
+    {
+      "name": "Rear_Left_Spoke_6_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.330577,
+        -1.489358
+      ],
+      "max": [
+        -1.1795,
+        0.549423,
+        -1.158873
+      ]
+    },
+    {
+      "name": "Rear_Left_Hub_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2475,
+        0.425,
+        -1.585
+      ],
+      "max": [
+        -1.2025,
+        0.635,
+        -1.375
+      ]
+    },
+    {
+      "name": "Rear_Left_Hub_Cap_0",
+      "material": "Badge_Gold",
+      "min": [
+        -1.263,
+        0.485,
+        -1.525
+      ],
+      "max": [
+        -1.243,
+        0.575,
+        -1.435
+      ]
+    },
+    {
+      "name": "Rear_Left_Tire_Block_1_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        -1.16,
+        0.718844,
+        -1.123471
+      ],
+      "max": [
+        -1.152,
+        0.765099,
+        -1.06538
+      ]
+    },
+    {
+      "name": "Rear_Left_Tire_Block_2_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        -1.16,
+        0.909857,
+        -1.338845
+      ],
+      "max": [
+        -1.152,
+        0.968346,
+        -1.297205
+      ]
+    },
+    {
+      "name": "Rear_Left_Tire_Block_3_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        -1.16,
+        0.919293,
+        -1.635508
+      ],
+      "max": [
+        -1.152,
+        0.977636,
+        -1.596427
+      ]
+    },
+    {
+      "name": "Rear_Left_Tire_Block_4_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        -1.16,
+        0.741618,
+        -1.880278
+      ],
+      "max": [
+        -1.152,
+        0.78991,
+        -1.822731
+      ]
+    },
+    {
+      "name": "Rear_Right_Tire_0",
+      "material": "Performance_Rubber",
+      "min": [
+        0.88,
+        -0.01,
+        -2.02
+      ],
+      "max": [
+        1.15,
+        1.07,
+        -0.94
+      ]
+    },
+    {
+      "name": "Rear_Right_Sidewall_Bead_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        1.128,
+        0.173,
+        -1.837
+      ],
+      "max": [
+        1.172,
+        0.887,
+        -1.123
+      ]
+    },
+    {
+      "name": "Rear_Right_Brake_Disc_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        1.0075,
+        0.21,
+        -1.8
+      ],
+      "max": [
+        1.0525,
+        0.85,
+        -1.16
+      ]
+    },
+    {
+      "name": "Rear_Right_Brake_Hat_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        1.0355,
+        0.425,
+        -1.585
+      ],
+      "max": [
+        1.0905,
+        0.635,
+        -1.375
+      ]
+    },
+    {
+      "name": "Rear_Right_Brake_Caliper_0",
+      "material": "Caliper_Red",
+      "min": [
+        1.1355,
+        0.407482,
+        -1.315249
+      ],
+      "max": [
+        1.2005,
+        0.692518,
+        -1.184751
+      ]
+    },
+    {
+      "name": "Rear_Right_Rim_Base_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        1.1075,
+        0.208,
+        -1.802
+      ],
+      "max": [
+        1.1925,
+        0.852,
+        -1.158
+      ]
+    },
+    {
+      "name": "Rear_Right_Spoke_1_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.510577,
+        -1.489358
+      ],
+      "max": [
+        1.2345,
+        0.729423,
+        -1.158873
+      ]
+    },
+    {
+      "name": "Rear_Right_Spoke_2_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.53,
+        -1.5075
+      ],
+      "max": [
+        1.2345,
+        0.89,
+        -1.4525
+      ]
+    },
+    {
+      "name": "Rear_Right_Spoke_3_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.510577,
+        -1.801127
+      ],
+      "max": [
+        1.2345,
+        0.729423,
+        -1.470642
+      ]
+    },
+    {
+      "name": "Rear_Right_Spoke_4_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.330577,
+        -1.801127
+      ],
+      "max": [
+        1.2345,
+        0.549423,
+        -1.470642
+      ]
+    },
+    {
+      "name": "Rear_Right_Spoke_5_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.17,
+        -1.5075
+      ],
+      "max": [
+        1.2345,
+        0.53,
+        -1.4525
+      ]
+    },
+    {
+      "name": "Rear_Right_Spoke_6_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.330577,
+        -1.489358
+      ],
+      "max": [
+        1.2345,
+        0.549423,
+        -1.158873
+      ]
+    },
+    {
+      "name": "Rear_Right_Hub_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.2025,
+        0.425,
+        -1.585
+      ],
+      "max": [
+        1.2475,
+        0.635,
+        -1.375
+      ]
+    },
+    {
+      "name": "Rear_Right_Hub_Cap_0",
+      "material": "Badge_Gold",
+      "min": [
+        1.243,
+        0.485,
+        -1.525
+      ],
+      "max": [
+        1.263,
+        0.575,
+        -1.435
+      ]
+    },
+    {
+      "name": "Rear_Right_Tire_Block_1_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        1.152,
+        0.718844,
+        -1.123471
+      ],
+      "max": [
+        1.16,
+        0.765099,
+        -1.06538
+      ]
+    },
+    {
+      "name": "Rear_Right_Tire_Block_2_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        1.152,
+        0.909857,
+        -1.338845
+      ],
+      "max": [
+        1.16,
+        0.968346,
+        -1.297205
+      ]
+    },
+    {
+      "name": "Rear_Right_Tire_Block_3_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        1.152,
+        0.919293,
+        -1.635508
+      ],
+      "max": [
+        1.16,
+        0.977636,
+        -1.596427
+      ]
+    },
+    {
+      "name": "Rear_Right_Tire_Block_4_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        1.152,
+        0.741618,
+        -1.880278
+      ],
+      "max": [
+        1.16,
+        0.78991,
+        -1.822731
+      ]
+    },
+    {
+      "name": "Front_Left_Tire_0",
+      "material": "Performance_Rubber",
+      "min": [
+        -1.15,
+        -0.01,
+        0.83
+      ],
+      "max": [
+        -0.88,
+        1.07,
+        1.91
+      ]
+    },
+    {
+      "name": "Front_Left_Sidewall_Bead_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        -1.172,
+        0.173,
+        1.013
+      ],
+      "max": [
+        -1.128,
+        0.887,
+        1.727
+      ]
+    },
+    {
+      "name": "Front_Left_Brake_Disc_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -1.0525,
+        0.21,
+        1.05
+      ],
+      "max": [
+        -1.0075,
+        0.85,
+        1.69
+      ]
+    },
+    {
+      "name": "Front_Left_Brake_Hat_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -1.0905,
+        0.425,
+        1.265
+      ],
+      "max": [
+        -1.0355,
+        0.635,
+        1.475
+      ]
+    },
+    {
+      "name": "Front_Left_Brake_Caliper_0",
+      "material": "Caliper_Red",
+      "min": [
+        -1.2005,
+        0.407482,
+        1.534751
+      ],
+      "max": [
+        -1.1355,
+        0.692518,
+        1.665249
+      ]
+    },
+    {
+      "name": "Front_Left_Rim_Base_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -1.1925,
+        0.208,
+        1.048
+      ],
+      "max": [
+        -1.1075,
+        0.852,
+        1.692
+      ]
+    },
+    {
+      "name": "Front_Left_Spoke_1_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.510577,
+        1.360642
+      ],
+      "max": [
+        -1.1795,
+        0.729423,
+        1.691127
+      ]
+    },
+    {
+      "name": "Front_Left_Spoke_2_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.53,
+        1.3425
+      ],
+      "max": [
+        -1.1795,
+        0.89,
+        1.3975
+      ]
+    },
+    {
+      "name": "Front_Left_Spoke_3_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.510577,
+        1.048873
+      ],
+      "max": [
+        -1.1795,
+        0.729423,
+        1.379358
+      ]
+    },
+    {
+      "name": "Front_Left_Spoke_4_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.330577,
+        1.048873
+      ],
+      "max": [
+        -1.1795,
+        0.549423,
+        1.379358
+      ]
+    },
+    {
+      "name": "Front_Left_Spoke_5_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.17,
+        1.3425
+      ],
+      "max": [
+        -1.1795,
+        0.53,
+        1.3975
+      ]
+    },
+    {
+      "name": "Front_Left_Spoke_6_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2345,
+        0.330577,
+        1.360642
+      ],
+      "max": [
+        -1.1795,
+        0.549423,
+        1.691127
+      ]
+    },
+    {
+      "name": "Front_Left_Hub_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -1.2475,
+        0.425,
+        1.265
+      ],
+      "max": [
+        -1.2025,
+        0.635,
+        1.475
+      ]
+    },
+    {
+      "name": "Front_Left_Hub_Cap_0",
+      "material": "Badge_Gold",
+      "min": [
+        -1.263,
+        0.485,
+        1.325
+      ],
+      "max": [
+        -1.243,
+        0.575,
+        1.415
+      ]
+    },
+    {
+      "name": "Front_Left_Tire_Block_1_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        -1.16,
+        0.718844,
+        1.726529
+      ],
+      "max": [
+        -1.152,
+        0.765099,
+        1.784621
+      ]
+    },
+    {
+      "name": "Front_Left_Tire_Block_2_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        -1.16,
+        0.909857,
+        1.511155
+      ],
+      "max": [
+        -1.152,
+        0.968346,
+        1.552795
+      ]
+    },
+    {
+      "name": "Front_Left_Tire_Block_3_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        -1.16,
+        0.919293,
+        1.214492
+      ],
+      "max": [
+        -1.152,
+        0.977636,
+        1.253573
+      ]
+    },
+    {
+      "name": "Front_Left_Tire_Block_4_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        -1.16,
+        0.741618,
+        0.969722
+      ],
+      "max": [
+        -1.152,
+        0.78991,
+        1.027269
+      ]
+    },
+    {
+      "name": "Front_Right_Tire_0",
+      "material": "Performance_Rubber",
+      "min": [
+        0.88,
+        -0.01,
+        0.83
+      ],
+      "max": [
+        1.15,
+        1.07,
+        1.91
+      ]
+    },
+    {
+      "name": "Front_Right_Sidewall_Bead_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        1.128,
+        0.173,
+        1.013
+      ],
+      "max": [
+        1.172,
+        0.887,
+        1.727
+      ]
+    },
+    {
+      "name": "Front_Right_Brake_Disc_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        1.0075,
+        0.21,
+        1.05
+      ],
+      "max": [
+        1.0525,
+        0.85,
+        1.69
+      ]
+    },
+    {
+      "name": "Front_Right_Brake_Hat_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        1.0355,
+        0.425,
+        1.265
+      ],
+      "max": [
+        1.0905,
+        0.635,
+        1.475
+      ]
+    },
+    {
+      "name": "Front_Right_Brake_Caliper_0",
+      "material": "Caliper_Red",
+      "min": [
+        1.1355,
+        0.407482,
+        1.534751
+      ],
+      "max": [
+        1.2005,
+        0.692518,
+        1.665249
+      ]
+    },
+    {
+      "name": "Front_Right_Rim_Base_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        1.1075,
+        0.208,
+        1.048
+      ],
+      "max": [
+        1.1925,
+        0.852,
+        1.692
+      ]
+    },
+    {
+      "name": "Front_Right_Spoke_1_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.510577,
+        1.360642
+      ],
+      "max": [
+        1.2345,
+        0.729423,
+        1.691127
+      ]
+    },
+    {
+      "name": "Front_Right_Spoke_2_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.53,
+        1.3425
+      ],
+      "max": [
+        1.2345,
+        0.89,
+        1.3975
+      ]
+    },
+    {
+      "name": "Front_Right_Spoke_3_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.510577,
+        1.048873
+      ],
+      "max": [
+        1.2345,
+        0.729423,
+        1.379358
+      ]
+    },
+    {
+      "name": "Front_Right_Spoke_4_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.330577,
+        1.048873
+      ],
+      "max": [
+        1.2345,
+        0.549423,
+        1.379358
+      ]
+    },
+    {
+      "name": "Front_Right_Spoke_5_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.17,
+        1.3425
+      ],
+      "max": [
+        1.2345,
+        0.53,
+        1.3975
+      ]
+    },
+    {
+      "name": "Front_Right_Spoke_6_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.1795,
+        0.330577,
+        1.360642
+      ],
+      "max": [
+        1.2345,
+        0.549423,
+        1.691127
+      ]
+    },
+    {
+      "name": "Front_Right_Hub_0",
+      "material": "Machined_Chrome",
+      "min": [
+        1.2025,
+        0.425,
+        1.265
+      ],
+      "max": [
+        1.2475,
+        0.635,
+        1.475
+      ]
+    },
+    {
+      "name": "Front_Right_Hub_Cap_0",
+      "material": "Badge_Gold",
+      "min": [
+        1.243,
+        0.485,
+        1.325
+      ],
+      "max": [
+        1.263,
+        0.575,
+        1.415
+      ]
+    },
+    {
+      "name": "Front_Right_Tire_Block_1_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        1.152,
+        0.718844,
+        1.726529
+      ],
+      "max": [
+        1.16,
+        0.765099,
+        1.784621
+      ]
+    },
+    {
+      "name": "Front_Right_Tire_Block_2_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        1.152,
+        0.909857,
+        1.511155
+      ],
+      "max": [
+        1.16,
+        0.968346,
+        1.552795
+      ]
+    },
+    {
+      "name": "Front_Right_Tire_Block_3_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        1.152,
+        0.919293,
+        1.214492
+      ],
+      "max": [
+        1.16,
+        0.977636,
+        1.253573
+      ]
+    },
+    {
+      "name": "Front_Right_Tire_Block_4_0",
+      "material": "Tire_Sidewall_Ink",
+      "min": [
+        1.152,
+        0.741618,
+        0.969722
+      ],
+      "max": [
+        1.16,
+        0.78991,
+        1.027269
+      ]
+    },
+    {
+      "name": "Cockpit_Floor_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.7,
+        0.685,
+        -1.305
+      ],
+      "max": [
+        0.7,
+        0.775,
+        0.945
+      ]
+    },
+    {
+      "name": "Center_Tunnel_0",
+      "material": "Carbon_Leather",
+      "min": [
+        -0.18,
+        0.76,
+        -0.77
+      ],
+      "max": [
+        0.18,
+        1.0,
+        0.41
+      ]
+    },
+    {
+      "name": "Dashboard_Core_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.74,
+        0.88,
+        0.43
+      ],
+      "max": [
+        0.74,
+        1.18,
+        0.85
+      ]
+    },
+    {
+      "name": "Dashboard_Accent_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        -0.64,
+        1.1525,
+        0.8375
+      ],
+      "max": [
+        0.64,
+        1.1875,
+        0.8825
+      ]
+    },
+    {
+      "name": "Center_Display_0",
+      "material": "Cockpit_Display",
+      "min": [
+        -0.24,
+        1.11297,
+        0.727584
+      ],
+      "max": [
+        0.24,
+        1.30703,
+        0.832416
+      ]
+    },
+    {
+      "name": "Dash_Vent_-0.42_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.51,
+        1.0825,
+        0.8925
+      ],
+      "max": [
+        -0.33,
+        1.1375,
+        0.9275
+      ]
+    },
+    {
+      "name": "Dash_Vent_-0.14_0",
+      "material": "Machined_Chrome",
+      "min": [
+        -0.23,
+        1.0825,
+        0.8925
+      ],
+      "max": [
+        -0.05,
+        1.1375,
+        0.9275
+      ]
+    },
+    {
+      "name": "Dash_Vent_0.14_0",
+      "material": "Machined_Chrome",
+      "min": [
+        0.05,
+        1.0825,
+        0.8925
+      ],
+      "max": [
+        0.23,
+        1.1375,
+        0.9275
+      ]
+    },
+    {
+      "name": "Dash_Vent_0.42_0",
+      "material": "Machined_Chrome",
+      "min": [
+        0.33,
+        1.0825,
+        0.8925
+      ],
+      "max": [
+        0.51,
+        1.1375,
+        0.9275
+      ]
+    },
+    {
+      "name": "Driver_Seat_Base_0",
+      "material": "Burgundy_Performance_Leather",
+      "min": [
+        -0.67,
+        0.8,
+        -0.67
+      ],
+      "max": [
+        -0.19,
+        0.94,
+        0.05
+      ]
+    },
+    {
+      "name": "Driver_Seat_Back_0",
+      "material": "Burgundy_Performance_Leather",
+      "min": [
+        -0.675,
+        0.843656,
+        -0.836893
+      ],
+      "max": [
+        -0.185,
+        1.456344,
+        -0.563107
+      ]
+    },
+    {
+      "name": "Driver_Seat_Bolster_Outer_0",
+      "material": "Carbon_Leather",
+      "min": [
+        -0.685,
+        0.88,
+        -0.63
+      ],
+      "max": [
+        -0.615,
+        1.06,
+        -0.05
+      ]
+    },
+    {
+      "name": "Driver_Seat_Bolster_Inner_0",
+      "material": "Carbon_Leather",
+      "min": [
+        -0.255,
+        0.88,
+        -0.63
+      ],
+      "max": [
+        -0.185,
+        1.06,
+        -0.05
+      ]
+    },
+    {
+      "name": "Driver_Headrest_0",
+      "material": "Burgundy_Performance_Leather",
+      "min": [
+        -0.71,
+        1.31,
+        -1.03
+      ],
+      "max": [
+        -0.15,
+        1.67,
+        -0.69
+      ]
+    },
+    {
+      "name": "Driver_Shoulder_Belt_0",
+      "material": "Indicator_Amber",
+      "min": [
+        -0.697,
+        0.890612,
+        -0.786489
+      ],
+      "max": [
+        -0.673,
+        1.379388,
+        -0.093511
+      ]
+    },
+    {
+      "name": "Passenger_Seat_Base_0",
+      "material": "Burgundy_Performance_Leather",
+      "min": [
+        0.19,
+        0.8,
+        -0.67
+      ],
+      "max": [
+        0.67,
+        0.94,
+        0.05
+      ]
+    },
+    {
+      "name": "Passenger_Seat_Back_0",
+      "material": "Burgundy_Performance_Leather",
+      "min": [
+        0.185,
+        0.843656,
+        -0.836893
+      ],
+      "max": [
+        0.675,
+        1.456344,
+        -0.563107
+      ]
+    },
+    {
+      "name": "Passenger_Seat_Bolster_Outer_0",
+      "material": "Carbon_Leather",
+      "min": [
+        0.615,
+        0.88,
+        -0.63
+      ],
+      "max": [
+        0.685,
+        1.06,
+        -0.05
+      ]
+    },
+    {
+      "name": "Passenger_Seat_Bolster_Inner_0",
+      "material": "Carbon_Leather",
+      "min": [
+        0.185,
+        0.88,
+        -0.63
+      ],
+      "max": [
+        0.255,
+        1.06,
+        -0.05
+      ]
+    },
+    {
+      "name": "Passenger_Headrest_0",
+      "material": "Burgundy_Performance_Leather",
+      "min": [
+        0.15,
+        1.31,
+        -1.03
+      ],
+      "max": [
+        0.71,
+        1.67,
+        -0.69
+      ]
+    },
+    {
+      "name": "Passenger_Shoulder_Belt_0",
+      "material": "Indicator_Amber",
+      "min": [
+        0.673,
+        0.890612,
+        -0.786489
+      ],
+      "max": [
+        0.697,
+        1.379388,
+        -0.093511
+      ]
+    },
+    {
+      "name": "Digital_Gauge_Cluster_0",
+      "material": "Cockpit_Display",
+      "min": [
+        -0.5025,
+        1.11,
+        0.42
+      ],
+      "max": [
+        -0.4775,
+        1.41,
+        0.72
+      ]
+    },
+    {
+      "name": "Shift_Selector_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -0.085,
+        0.906769,
+        -0.190124
+      ],
+      "max": [
+        0.085,
+        1.093231,
+        -0.049876
+      ]
+    },
+    {
+      "name": "Door_Panel_-0.72_0",
+      "material": "Carbon_Leather",
+      "min": [
+        -0.7575,
+        0.78,
+        -0.87
+      ],
+      "max": [
+        -0.6825,
+        1.06,
+        0.43
+      ]
+    },
+    {
+      "name": "Door_Accent_-0.72_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        -0.76,
+        1.0375,
+        -0.26
+      ],
+      "max": [
+        -0.73,
+        1.0625,
+        0.32
+      ]
+    },
+    {
+      "name": "Door_Panel_0.72_0",
+      "material": "Carbon_Leather",
+      "min": [
+        0.6825,
+        0.78,
+        -0.87
+      ],
+      "max": [
+        0.7575,
+        1.06,
+        0.43
+      ]
+    },
+    {
+      "name": "Door_Accent_0.72_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        0.73,
+        1.0375,
+        -0.26
+      ],
+      "max": [
+        0.76,
+        1.0625,
+        0.32
+      ]
+    },
+    {
+      "name": "Rear_View_Mirror_0",
+      "material": "Black_Glass_Display",
+      "min": [
+        -0.149458,
+        1.257881,
+        0.26
+      ],
+      "max": [
+        0.149458,
+        1.362118,
+        0.34
+      ]
+    },
+    {
+      "name": "Headlight_Housing_-1_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.88,
+        0.68449,
+        2.325397
+      ],
+      "max": [
+        -0.4,
+        0.87551,
+        2.434603
+      ]
+    },
+    {
+      "name": "Headlight_Main_-1_0",
+      "material": "Headlamp_White",
+      "min": [
+        -0.835,
+        0.742643,
+        2.425823
+      ],
+      "max": [
+        -0.445,
+        0.817357,
+        2.464176
+      ]
+    },
+    {
+      "name": "Headlight_LED_-1_1_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        -0.5225,
+        0.72,
+        2.46
+      ],
+      "max": [
+        -0.4975,
+        0.84,
+        2.48
+      ]
+    },
+    {
+      "name": "Headlight_LED_-1_2_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        -0.6525,
+        0.72,
+        2.46
+      ],
+      "max": [
+        -0.6275,
+        0.84,
+        2.48
+      ]
+    },
+    {
+      "name": "Headlight_LED_-1_3_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        -0.7825,
+        0.72,
+        2.46
+      ],
+      "max": [
+        -0.7575,
+        0.84,
+        2.48
+      ]
+    },
+    {
+      "name": "Tail_Light_Housing_-1_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.81,
+        0.665,
+        -2.435
+      ],
+      "max": [
+        -0.39,
+        0.795,
+        -2.345
+      ]
+    },
+    {
+      "name": "Tail_Light_Bar_-1_0",
+      "material": "Tail_Lamp_Red",
+      "min": [
+        -0.77,
+        0.7075,
+        -2.464
+      ],
+      "max": [
+        -0.43,
+        0.7525,
+        -2.436
+      ]
+    },
+    {
+      "name": "Tail_Light_Accent_-1_0",
+      "material": "Indicator_Amber",
+      "min": [
+        -0.72,
+        0.773,
+        -2.475
+      ],
+      "max": [
+        -0.48,
+        0.787,
+        -2.445
+      ]
+    },
+    {
+      "name": "Headlight_Housing_1_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        0.4,
+        0.68449,
+        2.325397
+      ],
+      "max": [
+        0.88,
+        0.87551,
+        2.434603
+      ]
+    },
+    {
+      "name": "Headlight_Main_1_0",
+      "material": "Headlamp_White",
+      "min": [
+        0.445,
+        0.742643,
+        2.425823
+      ],
+      "max": [
+        0.835,
+        0.817357,
+        2.464176
+      ]
+    },
+    {
+      "name": "Headlight_LED_1_1_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        0.4975,
+        0.72,
+        2.46
+      ],
+      "max": [
+        0.5225,
+        0.84,
+        2.48
+      ]
+    },
+    {
+      "name": "Headlight_LED_1_2_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        0.6275,
+        0.72,
+        2.46
+      ],
+      "max": [
+        0.6525,
+        0.84,
+        2.48
+      ]
+    },
+    {
+      "name": "Headlight_LED_1_3_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        0.7575,
+        0.72,
+        2.46
+      ],
+      "max": [
+        0.7825,
+        0.84,
+        2.48
+      ]
+    },
+    {
+      "name": "Tail_Light_Housing_1_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        0.39,
+        0.665,
+        -2.435
+      ],
+      "max": [
+        0.81,
+        0.795,
+        -2.345
+      ]
+    },
+    {
+      "name": "Tail_Light_Bar_1_0",
+      "material": "Tail_Lamp_Red",
+      "min": [
+        0.43,
+        0.7075,
+        -2.464
+      ],
+      "max": [
+        0.77,
+        0.7525,
+        -2.436
+      ]
+    },
+    {
+      "name": "Tail_Light_Accent_1_0",
+      "material": "Indicator_Amber",
+      "min": [
+        0.48,
+        0.773,
+        -2.475
+      ],
+      "max": [
+        0.72,
+        0.787,
+        -2.445
+      ]
+    },
+    {
+      "name": "Aero_Undertray_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.81,
+        0.38,
+        -1.925
+      ],
+      "max": [
+        0.81,
+        0.43,
+        1.925
+      ]
+    },
+    {
+      "name": "Front_Subframe_0",
+      "material": "Suspension_Black",
+      "min": [
+        -0.61,
+        0.52,
+        0.89
+      ],
+      "max": [
+        0.61,
+        0.6,
+        1.35
+      ]
+    },
+    {
+      "name": "Rear_Subframe_0",
+      "material": "Suspension_Black",
+      "min": [
+        -0.6,
+        0.52,
+        -1.59
+      ],
+      "max": [
+        0.6,
+        0.6,
+        -1.09
+      ]
+    },
+    {
+      "name": "Rear_Left_Lower_Control_Arm_0",
+      "material": "Suspension_Black",
+      "min": [
+        -0.987351,
+        0.556665,
+        -1.668723
+      ],
+      "max": [
+        -0.742649,
+        0.633335,
+        -1.291277
+      ]
+    },
+    {
+      "name": "Rear_Left_Upper_Control_Arm_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        -0.982574,
+        0.701561,
+        -1.611949
+      ],
+      "max": [
+        -0.747426,
+        0.818439,
+        -1.368052
+      ]
+    },
+    {
+      "name": "Rear_Left_Toe_Link_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.981388,
+        0.646084,
+        -1.78318
+      ],
+      "max": [
+        -0.748612,
+        0.683916,
+        -1.21682
+      ]
+    },
+    {
+      "name": "Rear_Left_Damper_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        -0.857907,
+        0.61,
+        -1.577907
+      ],
+      "max": [
+        -0.782093,
+        0.95,
+        -1.502093
+      ]
+    },
+    {
+      "name": "Rear_Left_Damper_Cap_0",
+      "material": "Caliper_Red",
+      "min": [
+        -0.867883,
+        0.9225,
+        -1.587883
+      ],
+      "max": [
+        -0.772117,
+        0.9775,
+        -1.492117
+      ]
+    },
+    {
+      "name": "Rear_Left_Coil_Spring_1_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.905,
+        0.630489,
+        -1.625
+      ],
+      "max": [
+        -0.735,
+        0.649511,
+        -1.455
+      ]
+    },
+    {
+      "name": "Rear_Left_Coil_Spring_2_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.905,
+        0.690489,
+        -1.625
+      ],
+      "max": [
+        -0.735,
+        0.709511,
+        -1.455
+      ]
+    },
+    {
+      "name": "Rear_Left_Coil_Spring_3_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.905,
+        0.750489,
+        -1.625
+      ],
+      "max": [
+        -0.735,
+        0.769511,
+        -1.455
+      ]
+    },
+    {
+      "name": "Rear_Left_Coil_Spring_4_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.905,
+        0.810489,
+        -1.625
+      ],
+      "max": [
+        -0.735,
+        0.829511,
+        -1.455
+      ]
+    },
+    {
+      "name": "Rear_Left_Coil_Spring_5_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.905,
+        0.870489,
+        -1.625
+      ],
+      "max": [
+        -0.735,
+        0.889511,
+        -1.455
+      ]
+    },
+    {
+      "name": "Rear_Left_Brake_Line_0",
+      "material": "Tail_Lamp_Red",
+      "min": [
+        -0.995235,
+        0.576939,
+        -1.435682
+      ],
+      "max": [
+        -0.814765,
+        0.883061,
+        -1.294318
+      ]
+    },
+    {
+      "name": "Rear_Right_Lower_Control_Arm_0",
+      "material": "Suspension_Black",
+      "min": [
+        0.742649,
+        0.556665,
+        -1.668723
+      ],
+      "max": [
+        0.987351,
+        0.633335,
+        -1.291277
+      ]
+    },
+    {
+      "name": "Rear_Right_Upper_Control_Arm_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        0.747426,
+        0.701561,
+        -1.611948
+      ],
+      "max": [
+        0.982574,
+        0.818439,
+        -1.368052
+      ]
+    },
+    {
+      "name": "Rear_Right_Toe_Link_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.748612,
+        0.646084,
+        -1.78318
+      ],
+      "max": [
+        0.981388,
+        0.683916,
+        -1.21682
+      ]
+    },
+    {
+      "name": "Rear_Right_Damper_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        0.782093,
+        0.61,
+        -1.577907
+      ],
+      "max": [
+        0.857907,
+        0.95,
+        -1.502093
+      ]
+    },
+    {
+      "name": "Rear_Right_Damper_Cap_0",
+      "material": "Caliper_Red",
+      "min": [
+        0.772117,
+        0.9225,
+        -1.587883
+      ],
+      "max": [
+        0.867883,
+        0.9775,
+        -1.492117
+      ]
+    },
+    {
+      "name": "Rear_Right_Coil_Spring_1_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.735,
+        0.630489,
+        -1.625
+      ],
+      "max": [
+        0.905,
+        0.649511,
+        -1.455
+      ]
+    },
+    {
+      "name": "Rear_Right_Coil_Spring_2_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.735,
+        0.690489,
+        -1.625
+      ],
+      "max": [
+        0.905,
+        0.709511,
+        -1.455
+      ]
+    },
+    {
+      "name": "Rear_Right_Coil_Spring_3_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.735,
+        0.750489,
+        -1.625
+      ],
+      "max": [
+        0.905,
+        0.769511,
+        -1.455
+      ]
+    },
+    {
+      "name": "Rear_Right_Coil_Spring_4_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.735,
+        0.810489,
+        -1.625
+      ],
+      "max": [
+        0.905,
+        0.829511,
+        -1.455
+      ]
+    },
+    {
+      "name": "Rear_Right_Coil_Spring_5_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.735,
+        0.870489,
+        -1.625
+      ],
+      "max": [
+        0.905,
+        0.889511,
+        -1.455
+      ]
+    },
+    {
+      "name": "Rear_Right_Brake_Line_0",
+      "material": "Tail_Lamp_Red",
+      "min": [
+        0.814765,
+        0.576939,
+        -1.435682
+      ],
+      "max": [
+        0.995235,
+        0.883061,
+        -1.294318
+      ]
+    },
+    {
+      "name": "Front_Left_Lower_Control_Arm_0",
+      "material": "Suspension_Black",
+      "min": [
+        -0.987351,
+        0.556665,
+        1.181277
+      ],
+      "max": [
+        -0.742649,
+        0.633335,
+        1.558723
+      ]
+    },
+    {
+      "name": "Front_Left_Upper_Control_Arm_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        -0.982574,
+        0.701561,
+        1.238052
+      ],
+      "max": [
+        -0.747426,
+        0.818439,
+        1.481949
+      ]
+    },
+    {
+      "name": "Front_Left_Toe_Link_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.981388,
+        0.646084,
+        1.06682
+      ],
+      "max": [
+        -0.748612,
+        0.683916,
+        1.63318
+      ]
+    },
+    {
+      "name": "Front_Left_Damper_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        -0.857907,
+        0.61,
+        1.272093
+      ],
+      "max": [
+        -0.782093,
+        0.95,
+        1.347907
+      ]
+    },
+    {
+      "name": "Front_Left_Damper_Cap_0",
+      "material": "Caliper_Red",
+      "min": [
+        -0.867883,
+        0.9225,
+        1.262117
+      ],
+      "max": [
+        -0.772117,
+        0.9775,
+        1.357883
+      ]
+    },
+    {
+      "name": "Front_Left_Coil_Spring_1_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.905,
+        0.630489,
+        1.225
+      ],
+      "max": [
+        -0.735,
+        0.649511,
+        1.395
+      ]
+    },
+    {
+      "name": "Front_Left_Coil_Spring_2_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.905,
+        0.690489,
+        1.225
+      ],
+      "max": [
+        -0.735,
+        0.709511,
+        1.395
+      ]
+    },
+    {
+      "name": "Front_Left_Coil_Spring_3_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.905,
+        0.750489,
+        1.225
+      ],
+      "max": [
+        -0.735,
+        0.769511,
+        1.395
+      ]
+    },
+    {
+      "name": "Front_Left_Coil_Spring_4_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.905,
+        0.810489,
+        1.225
+      ],
+      "max": [
+        -0.735,
+        0.829511,
+        1.395
+      ]
+    },
+    {
+      "name": "Front_Left_Coil_Spring_5_0",
+      "material": "Suspension_Spring",
+      "min": [
+        -0.905,
+        0.870489,
+        1.225
+      ],
+      "max": [
+        -0.735,
+        0.889511,
+        1.395
+      ]
+    },
+    {
+      "name": "Front_Left_Brake_Line_0",
+      "material": "Tail_Lamp_Red",
+      "min": [
+        -0.995235,
+        0.576939,
+        1.414318
+      ],
+      "max": [
+        -0.814765,
+        0.883061,
+        1.555682
+      ]
+    },
+    {
+      "name": "Front_Right_Lower_Control_Arm_0",
+      "material": "Suspension_Black",
+      "min": [
+        0.742649,
+        0.556665,
+        1.181277
+      ],
+      "max": [
+        0.987351,
+        0.633335,
+        1.558723
+      ]
+    },
+    {
+      "name": "Front_Right_Upper_Control_Arm_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        0.747426,
+        0.701561,
+        1.238052
+      ],
+      "max": [
+        0.982574,
+        0.818439,
+        1.481949
+      ]
+    },
+    {
+      "name": "Front_Right_Toe_Link_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.748612,
+        0.646084,
+        1.06682
+      ],
+      "max": [
+        0.981388,
+        0.683916,
+        1.63318
+      ]
+    },
+    {
+      "name": "Front_Right_Damper_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        0.782093,
+        0.61,
+        1.272093
+      ],
+      "max": [
+        0.857907,
+        0.95,
+        1.347907
+      ]
+    },
+    {
+      "name": "Front_Right_Damper_Cap_0",
+      "material": "Caliper_Red",
+      "min": [
+        0.772117,
+        0.9225,
+        1.262117
+      ],
+      "max": [
+        0.867883,
+        0.9775,
+        1.357883
+      ]
+    },
+    {
+      "name": "Front_Right_Coil_Spring_1_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.735,
+        0.630489,
+        1.225
+      ],
+      "max": [
+        0.905,
+        0.649511,
+        1.395
+      ]
+    },
+    {
+      "name": "Front_Right_Coil_Spring_2_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.735,
+        0.690489,
+        1.225
+      ],
+      "max": [
+        0.905,
+        0.709511,
+        1.395
+      ]
+    },
+    {
+      "name": "Front_Right_Coil_Spring_3_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.735,
+        0.750489,
+        1.225
+      ],
+      "max": [
+        0.905,
+        0.769511,
+        1.395
+      ]
+    },
+    {
+      "name": "Front_Right_Coil_Spring_4_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.735,
+        0.810489,
+        1.225
+      ],
+      "max": [
+        0.905,
+        0.829511,
+        1.395
+      ]
+    },
+    {
+      "name": "Front_Right_Coil_Spring_5_0",
+      "material": "Suspension_Spring",
+      "min": [
+        0.735,
+        0.870489,
+        1.225
+      ],
+      "max": [
+        0.905,
+        0.889511,
+        1.395
+      ]
+    },
+    {
+      "name": "Front_Right_Brake_Line_0",
+      "material": "Tail_Lamp_Red",
+      "min": [
+        0.814765,
+        0.576939,
+        1.414318
+      ],
+      "max": [
+        0.995235,
+        0.883061,
+        1.555682
+      ]
+    },
+    {
+      "name": "Engine_Bay_Core_0",
+      "material": "Soft_Touch_Black",
+      "min": [
+        -0.41,
+        0.73,
+        0.925
+      ],
+      "max": [
+        0.41,
+        0.95,
+        1.475
+      ]
+    },
+    {
+      "name": "Engine_Bay_Cover_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.34,
+        0.95,
+        1.14
+      ],
+      "max": [
+        0.34,
+        1.01,
+        1.52
+      ]
+    },
+    {
+      "name": "Engine_Intake_Runner_-1_0",
+      "material": "Coolant_Blue",
+      "min": [
+        -0.439052,
+        0.945248,
+        1.162526
+      ],
+      "max": [
+        -0.240948,
+        1.004752,
+        1.507474
+      ]
+    },
+    {
+      "name": "Engine_Turbo_-1_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        -0.45,
+        0.765,
+        1.525
+      ],
+      "max": [
+        -0.39,
+        0.915,
+        1.675
+      ]
+    },
+    {
+      "name": "Engine_Intake_Runner_1_0",
+      "material": "Coolant_Blue",
+      "min": [
+        0.240948,
+        0.945248,
+        1.162526
+      ],
+      "max": [
+        0.439052,
+        1.004752,
+        1.507474
+      ]
+    },
+    {
+      "name": "Engine_Turbo_1_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        0.39,
+        0.765,
+        1.525
+      ],
+      "max": [
+        0.45,
+        0.915,
+        1.675
+      ]
+    },
+    {
+      "name": "Front_Radiator_Core_0",
+      "material": "Engine_Machined_Metal",
+      "min": [
+        -0.36,
+        0.63,
+        2.09
+      ],
+      "max": [
+        0.36,
+        0.81,
+        2.15
+      ]
+    },
+    {
+      "name": "Radiator_Fin_-0.26_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -0.269,
+        0.645,
+        2.154
+      ],
+      "max": [
+        -0.251,
+        0.795,
+        2.166
+      ]
+    },
+    {
+      "name": "Radiator_Fin_-0.13_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -0.139,
+        0.645,
+        2.154
+      ],
+      "max": [
+        -0.121,
+        0.795,
+        2.166
+      ]
+    },
+    {
+      "name": "Radiator_Fin_0.0_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -0.009,
+        0.645,
+        2.154
+      ],
+      "max": [
+        0.009,
+        0.795,
+        2.166
+      ]
+    },
+    {
+      "name": "Radiator_Fin_0.13_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        0.121,
+        0.645,
+        2.154
+      ],
+      "max": [
+        0.139,
+        0.795,
+        2.166
+      ]
+    },
+    {
+      "name": "Radiator_Fin_0.26_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        0.251,
+        0.645,
+        2.154
+      ],
+      "max": [
+        0.269,
+        0.795,
+        2.166
+      ]
+    },
+    {
+      "name": "Door_Carbon_Insert_L_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -1.054,
+        0.77,
+        -0.49
+      ],
+      "max": [
+        -1.036,
+        0.89,
+        0.23
+      ]
+    },
+    {
+      "name": "Door_Light_Accent_L_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        -1.057,
+        0.971,
+        -0.18
+      ],
+      "max": [
+        -1.043,
+        0.989,
+        0.28
+      ]
+    },
+    {
+      "name": "Door_Skin_L_0",
+      "material": "Spectral_Blue_Clearcoat",
+      "min": [
+        -1.036,
+        0.575,
+        -0.82
+      ],
+      "max": [
+        -0.984,
+        1.005,
+        0.42
+      ]
+    },
+    {
+      "name": "Door_Carbon_Insert_R_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        1.036,
+        0.77,
+        -0.49
+      ],
+      "max": [
+        1.054,
+        0.89,
+        0.23
+      ]
+    },
+    {
+      "name": "Door_Light_Accent_R_0",
+      "material": "Ice_Blue_Emission",
+      "min": [
+        1.043,
+        0.971,
+        -0.18
+      ],
+      "max": [
+        1.057,
+        0.989,
+        0.28
+      ]
+    },
+    {
+      "name": "Door_Skin_R_0",
+      "material": "Spectral_Blue_Clearcoat",
+      "min": [
+        0.984,
+        0.575,
+        -0.82
+      ],
+      "max": [
+        1.036,
+        1.005,
+        0.42
+      ]
+    },
+    {
+      "name": "Hood_Center_Panel_0",
+      "material": "Spectral_Blue_Clearcoat",
+      "min": [
+        -0.725,
+        0.948829,
+        0.880185
+      ],
+      "max": [
+        0.725,
+        1.011171,
+        1.959815
+      ]
+    },
+    {
+      "name": "Hood_Vent_L_1_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.55,
+        1.001343,
+        1.409793
+      ],
+      "max": [
+        -0.33,
+        1.030657,
+        1.490207
+      ]
+    },
+    {
+      "name": "Hood_Vent_L_2_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.55,
+        1.001343,
+        1.559793
+      ],
+      "max": [
+        -0.33,
+        1.030657,
+        1.640207
+      ]
+    },
+    {
+      "name": "Hood_Vent_L_3_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        -0.55,
+        1.001343,
+        1.709793
+      ],
+      "max": [
+        -0.33,
+        1.030657,
+        1.790207
+      ]
+    },
+    {
+      "name": "Hood_Vent_R_1_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        0.33,
+        1.001343,
+        1.409793
+      ],
+      "max": [
+        0.55,
+        1.030657,
+        1.490207
+      ]
+    },
+    {
+      "name": "Hood_Vent_R_2_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        0.33,
+        1.001343,
+        1.559793
+      ],
+      "max": [
+        0.55,
+        1.030657,
+        1.640207
+      ]
+    },
+    {
+      "name": "Hood_Vent_R_3_0",
+      "material": "Carbon_Fiber_Directional_Weave",
+      "min": [
+        0.33,
+        1.001343,
+        1.709793
+      ],
+      "max": [
+        0.55,
+        1.030657,
+        1.790207
+      ]
+    },
+    {
+      "name": "Steering_Wheel_0",
+      "material": "Carbon_Leather",
+      "min": [
+        -0.525,
+        0.945,
+        0.165
+      ],
+      "max": [
+        -0.455,
+        1.415,
+        0.635
+      ]
+    },
+    {
+      "name": "Wheel_Hub_0",
+      "material": "Badge_Gold",
+      "min": [
+        -0.53,
+        1.125,
+        0.345
+      ],
+      "max": [
+        -0.5,
+        1.235,
+        0.455
+      ]
+    },
+    {
+      "name": "Wheel_Spoke_0_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -0.5075,
+        1.1625,
+        0.41
+      ],
+      "max": [
+        -0.4725,
+        1.1975,
+        0.59
+      ]
+    },
+    {
+      "name": "Wheel_Spoke_2.0943951023931953_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -0.5075,
+        1.182838,
+        0.292773
+      ],
+      "max": [
+        -0.4725,
+        1.350367,
+        0.407227
+      ]
+    },
+    {
+      "name": "Wheel_Spoke_4.1887902047863905_0",
+      "material": "Brushed_Aluminum",
+      "min": [
+        -0.5075,
+        1.009633,
+        0.292773
+      ],
+      "max": [
+        -0.4725,
+        1.177162,
+        0.407227
+      ]
+    }
+  ]
+}

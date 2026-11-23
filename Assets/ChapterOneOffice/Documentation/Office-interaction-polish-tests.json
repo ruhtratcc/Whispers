@@ -1,0 +1,38 @@
+{
+  "generatedUtc": "2026-10-01T22:11:59.042267+00:00",
+  "telephone": {
+    "total": 4,
+    "passed": 4,
+    "failed": 0,
+    "duration": 2.02,
+    "checks": [
+      "Two calls play one pickup and one placement each",
+      "Pause prevents premature placement",
+      "Death cancels silently",
+      "Restore allows a fresh pickup without false placement"
+    ]
+  },
+  "office": {
+    "status": "completed",
+    "duration": 42.4,
+    "summary": {
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "inconclusive": 0
+    },
+    "results": [
+      {
+        "FullName": "HorrorGame.Tests.PrologueOfficeCallsTests.AuthoredOfficeCallsCheckpointInterruptionResumeAndDeathRestart",
+        "Status": "Passed",
+        "Duration": 42.3892704,
+        "Message": null,
+        "StackTrace": null
+      }
+    ]
+  },
+  "total": 5,
+  "passed": 5,
+  "failed": 0
+}

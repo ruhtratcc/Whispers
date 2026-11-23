@@ -1,0 +1,98 @@
+{
+  "id": "ceiling_interior",
+  "name": "Ceiling Interior",
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "author": "Dimitrios Savva",
+  "url": "https://polyhaven.com/a/ceiling_interior",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://polyhaven.com/license",
+  "dimensionsMillimeters": [
+    2000,
+    2000
+  ],
+  "infoUrl": "https://api.polyhaven.com/info/ceiling_interior",
+  "filesUrl": "https://api.polyhaven.com/files/ceiling_interior",
+  "resolution": "1k",
+  "format": "JPG",
+  "use": "Tetos de concreto/reboco pintado, secos e descascados",
+  "sourceDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\assets\\textures\\ceiling_interior",
+  "preparedDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior",
+  "maps": {
+    "albedoOriginal": "work/SurfaceFixturePolish/Textures/Prepared/ceiling_interior/ceiling_interior_diff_1k.jpg",
+    "albedoColorPreserving": "work/SurfaceFixturePolish/Textures/Prepared/ceiling_interior/AlbedoColorPreserving.png",
+    "normalOpenGL": "work/SurfaceFixturePolish/Textures/Prepared/ceiling_interior/ceiling_interior_nor_gl_1k.jpg",
+    "metallicSmoothness": "work/SurfaceFixturePolish/Textures/Prepared/ceiling_interior/MetallicSmoothness.png",
+    "occlusion": "work/SurfaceFixturePolish/Textures/Prepared/ceiling_interior/Occlusion.png"
+  },
+  "absoluteMaps": {
+    "albedoOriginal": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior\\ceiling_interior_diff_1k.jpg",
+    "albedoColorPreserving": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior\\AlbedoColorPreserving.png",
+    "normalOpenGL": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior\\ceiling_interior_nor_gl_1k.jpg",
+    "metallicSmoothness": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior\\MetallicSmoothness.png",
+    "occlusion": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior\\Occlusion.png"
+  },
+  "recommended": {
+    "preserveExistingBaseColor": true,
+    "useAlbedo": "AlbedoColorPreserving.png",
+    "normalStrength": 0.27,
+    "smoothnessFactor": 0.12,
+    "occlusionStrength": 0.32,
+    "emission": false,
+    "environmentReflections": false,
+    "physicalRepeatMeters": [
+      2.0,
+      2.0
+    ]
+  },
+  "channelPacking": {
+    "MetallicSmoothness.R": "ARM.B metallic",
+    "MetallicSmoothness.GB": "0",
+    "MetallicSmoothness.A": "255 - ARM.G roughness",
+    "Occlusion.G": "ARM.R AO"
+  },
+  "sRGB": [
+    "albedoOriginal",
+    "albedoColorPreserving"
+  ],
+  "linear": [
+    "metallicSmoothness",
+    "occlusion"
+  ],
+  "normalImporter": "TextureImporterType.NormalMap; source is OpenGL tangent space",
+  "conversionVerified": true,
+  "neutralAlbedoFormula": ".82 + .66*(Rec709 luminance - median luminance), clamp .32..96",
+  "files": [
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/ceiling_interior/ceiling_interior_diff_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior\\ceiling_interior_diff_1k.jpg",
+      "bytes": 641403,
+      "sha256": "c1244254ba65f3a570dfc88bad740dffffb62c02eb4ff5cd9a981546d0d6f653"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/ceiling_interior/AlbedoColorPreserving.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior\\AlbedoColorPreserving.png",
+      "bytes": 679805,
+      "sha256": "ab356851353fefa053c93c511dbaa92330cc95dabe36def4e08fba322a91bc53"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/ceiling_interior/ceiling_interior_nor_gl_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior\\ceiling_interior_nor_gl_1k.jpg",
+      "bytes": 1263270,
+      "sha256": "9fc6773f2f87da578152a50350d5485fb0d96058b3367136e27e0c37abaa71f2"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/ceiling_interior/MetallicSmoothness.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior\\MetallicSmoothness.png",
+      "bytes": 1122913,
+      "sha256": "d6379af69d0a5bd4ae7c433fa2b5e73019d07dcc3fd0eddf99d92de94bbd5b24"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/ceiling_interior/Occlusion.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\ceiling_interior\\Occlusion.png",
+      "bytes": 731117,
+      "sha256": "88c8c538369259ff85a01768e7e24a41fd20c5b84822be3fd7e67916b656071e"
+    }
+  ]
+}

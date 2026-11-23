@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: room_113_key
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: room_113_key
+  title: Chave da Sala 113
+  description: Chave da Sala 113
+  frontText: "Chave de lat\xE3o. 113 gravado no metal."
+  backText: "Abre a Sala 113, no segundo andar do bloco Hosp\xEDcio."
+  detailText: "Chave de lat\xE3o. 113 gravado no metal."
+  alternateBackText: 
+  recordingText: 
+  model: {fileID: 7626646422788034002, guid: 4dfb0615c01d9dc45b7245dc4a08aaf4, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  recordInNotes: 1
+  canPlay: 0
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0.08
+  maximumStress: 3
+  pickupSound: {fileID: 11400000, guid: 3006a2c4d9f2d794a8cb65d783062973, type: 2}
+  whisper: {fileID: 11400000, guid: ae6eb24ea089d6a46af30914918cf529, type: 2}
+  recording: {fileID: 0}

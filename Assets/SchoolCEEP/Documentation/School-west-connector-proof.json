@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+  "validationChecks": 820,
+  "validationPaths": 23,
+  "westReturn": true,
+  "southReturnRoute": true,
+  "slopedMeshAssets": 4,
+  "clearOpeningMeters": 2.11666656,
+  "minimumRoofClearanceMeters": 2.5925,
+  "fixedGrilles": 2,
+  "lights": 2,
+  "positions": [
+    {
+      "x": 1286.48,
+      "y": 1013.0,
+      "expected": 0.04,
+      "height": 0.04,
+      "passed": true
+    },
+    {
+      "x": 1298.0,
+      "y": 1110.0,
+      "expected": 0.342,
+      "height": 0.342,
+      "passed": true
+    },
+    {
+      "x": 1308.6,
+      "y": 1023.0,
+      "expected": 0.644,
+      "height": 0.644,
+      "passed": true
+    },
+    {
+      "x": 1260.0,
+      "y": 830.0,
+      "expected": 0.025,
+      "height": 0.025,
+      "passed": true
+    }
+  ]
+}

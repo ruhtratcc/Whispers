@@ -1,0 +1,16 @@
+﻿ID;Legenda atual (s);Leitura estimada a 15 cps (s);Duração de clip atual (s);Situação;Origem / campo
+wp_ex_bd_four_intercom_01;11.0;6.3;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[0].lines.Array.data[0].voice
+wp_ex_bd_four_intercom_02;5.0;3.9;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[0].lines.Array.data[1].voice
+wp_ex_bd_loop_voice_01;4.0;1.6;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[1].lines.Array.data[0].voice
+wp_ex_bd_loop_phone_01;6.0;3.3;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[2].lines.Array.data[0].voice
+wp_ex_bd_mirror_offer_01;5.0;2.6;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[3].lines.Array.data[0].voice
+wp_ex_bd_mirror_offer_02;8.0;4.7;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[3].lines.Array.data[1].voice
+wp_ex_bd_mirror_offer_03;8.0;5.5;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[3].lines.Array.data[2].voice
+wp_ex_bd_mirror_offer_04;5.0;2.8;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[3].lines.Array.data[3].voice
+wp_ex_bd_ending_refuse_01;5.0;3.0;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[4].lines.Array.data[0].voice
+wp_ex_bd_ending_refuse_02;10.0;6.3;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[4].lines.Array.data[1].voice
+wp_ex_bd_ending_sign_01;5.0;3.0;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[5].lines.Array.data[0].voice
+wp_ex_bd_ending_sign_02;4.0;1.5;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/BeforeDemolitionStory.asset :: sequences.Array.data[5].lines.Array.data[1].voice
+wp_ex_bd_tape_01;27.0;22.7;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/School/Tape.asset :: recordingText
+wp_ex_bd_bia_tape;20.153846740722656;17.5;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Bia.asset :: recordingText
+wp_ex_bd_helena_tape;15.0;7.7;;NÃO VERIFICADO — falta voz humana;Assets/HorrorGameplay/Data/BeforeDemolition/Remaining/Helena2018.asset :: recordingText

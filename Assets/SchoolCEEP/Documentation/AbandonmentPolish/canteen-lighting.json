@@ -1,0 +1,18 @@
+{
+    "renderers": 8,
+    "materials": 8,
+    "poweredFixtures": 0,
+    "glossySkyReflections": 0,
+    "architecturePreserved": true,
+    "sceneOnly": true,
+    "materialPaths": [
+        "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryBlueTiles.mat",
+        "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryGranite.mat",
+        "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryCream.mat",
+        "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryStainless.mat",
+        "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryRubber.mat",
+        "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryServiceGlass.mat",
+        "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryNoticeBlue.mat",
+        "Assets/SchoolCEEP/Materials/AbandonmentPolish/Canteen/CanteenNight-PhotoRefectoryNoticePaper.mat"
+    ]
+}

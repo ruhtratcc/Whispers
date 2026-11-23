@@ -1,0 +1,99 @@
+{
+  "id": "wooden_planks",
+  "name": "Wooden Planks",
+  "authors": {
+    "Dario Barresi": "Processing",
+    "Charlotte Baglioni": "Photography"
+  },
+  "author": "Dario Barresi, Charlotte Baglioni",
+  "url": "https://polyhaven.com/a/wooden_planks",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://polyhaven.com/license",
+  "dimensionsMillimeters": [
+    2000,
+    2000
+  ],
+  "infoUrl": "https://api.polyhaven.com/info/wooden_planks",
+  "filesUrl": "https://api.polyhaven.com/files/wooden_planks",
+  "resolution": "1k",
+  "format": "JPG",
+  "use": "Forros de madeira seca e vigas com veios discretos",
+  "sourceDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\assets\\textures\\wooden_planks",
+  "preparedDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks",
+  "maps": {
+    "albedoOriginal": "work/SurfaceFixturePolish/Textures/Prepared/wooden_planks/wooden_planks_diff_1k.jpg",
+    "albedoColorPreserving": "work/SurfaceFixturePolish/Textures/Prepared/wooden_planks/AlbedoColorPreserving.png",
+    "normalOpenGL": "work/SurfaceFixturePolish/Textures/Prepared/wooden_planks/wooden_planks_nor_gl_1k.jpg",
+    "metallicSmoothness": "work/SurfaceFixturePolish/Textures/Prepared/wooden_planks/MetallicSmoothness.png",
+    "occlusion": "work/SurfaceFixturePolish/Textures/Prepared/wooden_planks/Occlusion.png"
+  },
+  "absoluteMaps": {
+    "albedoOriginal": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks\\wooden_planks_diff_1k.jpg",
+    "albedoColorPreserving": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks\\AlbedoColorPreserving.png",
+    "normalOpenGL": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks\\wooden_planks_nor_gl_1k.jpg",
+    "metallicSmoothness": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks\\MetallicSmoothness.png",
+    "occlusion": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks\\Occlusion.png"
+  },
+  "recommended": {
+    "preserveExistingBaseColor": true,
+    "useAlbedo": "AlbedoColorPreserving.png",
+    "normalStrength": 0.28,
+    "smoothnessFactor": 0.15,
+    "occlusionStrength": 0.32,
+    "emission": false,
+    "environmentReflections": false,
+    "physicalRepeatMeters": [
+      2.0,
+      2.0
+    ]
+  },
+  "channelPacking": {
+    "MetallicSmoothness.R": "ARM.B metallic",
+    "MetallicSmoothness.GB": "0",
+    "MetallicSmoothness.A": "255 - ARM.G roughness",
+    "Occlusion.G": "ARM.R AO"
+  },
+  "sRGB": [
+    "albedoOriginal",
+    "albedoColorPreserving"
+  ],
+  "linear": [
+    "metallicSmoothness",
+    "occlusion"
+  ],
+  "normalImporter": "TextureImporterType.NormalMap; source is OpenGL tangent space",
+  "conversionVerified": true,
+  "neutralAlbedoFormula": ".82 + .66*(Rec709 luminance - median luminance), clamp .32..96",
+  "files": [
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/wooden_planks/wooden_planks_diff_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks\\wooden_planks_diff_1k.jpg",
+      "bytes": 489587,
+      "sha256": "1273876d6f92fb1a1d29c1bb28f548a9256154187531e84f993b56e347f1d17b"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/wooden_planks/AlbedoColorPreserving.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks\\AlbedoColorPreserving.png",
+      "bytes": 490048,
+      "sha256": "758ba36268a3c522dafd9b5ad04e006785611fdd9a50d8d0dca1fe1fb7efe1b9"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/wooden_planks/wooden_planks_nor_gl_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks\\wooden_planks_nor_gl_1k.jpg",
+      "bytes": 705118,
+      "sha256": "6c85ff0a410a2993cc09d25859d7d735bc05e9f15dc51393d2e58aa2ce8a0916"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/wooden_planks/MetallicSmoothness.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks\\MetallicSmoothness.png",
+      "bytes": 775018,
+      "sha256": "fee7ac9b729e6e4549ff544d0380f79060fd19adb41659ccda202438fefd2203"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/wooden_planks/Occlusion.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\wooden_planks\\Occlusion.png",
+      "bytes": 570780,
+      "sha256": "de47329c96828e0eeb69463f25b5826fce51271a5767fead1e38e6d6e4a565d7"
+    }
+  ]
+}

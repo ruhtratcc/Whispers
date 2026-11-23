@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3e60f76d2dfc614cb2689bbb42ff14e, type: 3}
+  m_Name: PhoneProgression
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.PhoneProgressionConfig
+  gates:
+  - chapterId: bd.secretary-library
+    signal: bd.school.key
+    messageId: route.library.key
+    fallbackObjective: Pegar a chave dentro da lancheira.
+  - chapterId: bd.four-students
+    signal: bd.four.gathered
+    messageId: route.four.hint
+    fallbackObjective: Reunir os quatro objetos e ouvir a fita.
+  - chapterId: bd.two-voices
+    signal: bd.loop.escaped
+    messageId: route.loop.hint
+    fallbackObjective: Seguir os sons baixos pelas portas laterais.
+  zones:
+  - bounds:
+      m_Center: {x: 41.7, y: 1, z: 50.4}
+      m_Extent: {x: 6.4000015, y: 1, z: 5.9000015}
+    trigger: 14
+    chapterId: 
+  - bounds:
+      m_Center: {x: -2, y: 1.5, z: 49}
+      m_Extent: {x: 8, y: 2, z: 8}
+    trigger: 15
+    chapterId: 
+  - bounds:
+      m_Center: {x: -15.450001, y: 4.7, z: 63.3}
+      m_Extent: {x: 1.2750001, y: 1, z: 0.54999924}
+    trigger: 16
+    chapterId: 
+  - bounds:
+      m_Center: {x: -4, y: 1.2, z: 84}
+      m_Extent: {x: 3.5, y: 1.5, z: 3.5}
+    trigger: 20
+    chapterId: 
+  - bounds:
+      m_Center: {x: -69.1, y: 1.5, z: 50.2}
+      m_Extent: {x: 4, y: 2, z: 4}
+    trigger: 21
+    chapterId: 
+  - bounds:
+      m_Center: {x: -7, y: 4.8, z: 76.7}
+      m_Extent: {x: 1.5, y: 1.0500001, z: 1.300003}
+    trigger: 17
+    chapterId: 
+  pollSeconds: 0.25
+  reminderSeconds: 45
+  strongReminderSeconds: 90
+  missingDeliveryFallbackSeconds: 90

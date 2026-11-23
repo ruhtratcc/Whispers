@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80b3c7e9f7c341143b507c75926ee639, type: 3}
+  m_Name: foot_stairs_wood
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.SoundSet
+  overrideChannel: 1
+  channel: 1
+  caption: 
+  clips:
+  - {fileID: 8300000, guid: 4b1e22437c9370649aafa3c8d1f81f94, type: 3}
+  - {fileID: 8300000, guid: 35b246a9b536b9b41a7aae23e8032be7, type: 3}
+  - {fileID: 8300000, guid: cb5c36c919561d74b98a09bc71c261ef, type: 3}
+  pitch: {x: 0.96, y: 1.04}
+  volume: {x: 1, y: 1}
+  minimumDistance: 0.7
+  maximumDistance: 12

@@ -1,0 +1,507 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b74ca3c0cc8ce1b47b3e30198f4b6b93, type: 3}
+  m_Name: WhispersStory
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.StoryBook
+  revision: 2
+  chapters:
+  - id: prologue
+    title: O Telefone
+    heading: "CAP\xCDTULO 1"
+    sceneName: Chapter1Office
+    initialObjective: Atender o telefone.
+    completionPhrase: 
+    milestones:
+    - id: prologue.first-call
+      objectiveAfter: 'Registros de Daniel: biblioteca da escola. Antes de sair, atender o telefone novamente.'
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: prologue.second-call
+      objectiveAfter: Pegar os equipamentos na gaveta da mesa.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: prologue.equipment
+      objectiveAfter: "Sair do escrit\xF3rio."
+      automaticSequenceId: 
+      requiredItemIds:
+      - office_equipment
+    - id: prologue.exit
+      objectiveAfter: "Ir at\xE9 a escola abandonada."
+      automaticSequenceId: 
+      requiredItemIds: []
+  - id: road
+    title: A Chegada
+    heading: "CAP\xCDTULO 2"
+    sceneName: RoadJourney
+    initialObjective: "Chegar \xE0 escola e entrar na biblioteca."
+    completionPhrase: A porta estava esperando por ele.
+    milestones:
+    - id: road.context-shown
+      objectiveAfter: "Chegar \xE0 regi\xE3o indicada pelo telefone."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: road.car-parked
+      objectiveAfter: Atender o telefone antes de sair do carro.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: road.arrival-call
+      objectiveAfter: Olhar para a escola.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: road.window-lit
+      objectiveAfter: Pegar a lanterna.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: road.flashlight-taken
+      objectiveAfter: Sair do carro pela porta do motorista.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: road.car-exited
+      objectiveAfter: "Entrar pelo port\xE3o e seguir at\xE9 a biblioteca."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: road.school-gate
+      objectiveAfter: Entrar na biblioteca pela porta entreaberta.
+      automaticSequenceId: 
+      requiredItemIds: []
+  - id: school
+    title: A Biblioteca
+    heading: "CAP\xCDTULO 3"
+    sceneName: SchoolCEEP
+    initialObjective: "Encontrar a biblioteca, no fim da passarela \xE0 direita."
+    completionPhrase: "A chave esperava por uma m\xE3o conhecida."
+    milestones:
+    - id: school.entered
+      objectiveAfter: Investigar a biblioteca. Siga o barulho entre as estantes.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: library.book-fell
+      objectiveAfter: Ler o recorte de jornal sobre a mesa.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: library.newspaper
+      objectiveAfter: Examinar a foto da turma e seu verso.
+      automaticSequenceId: voice.library.newspaper
+      requiredItemIds:
+      - library_newspaper
+    - id: library.photo
+      objectiveAfter: "Procurar a Chave de Ferro junto ao livro ca\xEDdo."
+      automaticSequenceId: voice.library.photo
+      requiredItemIds:
+      - library_class_photo
+    - id: library.iron-key
+      objectiveAfter: "Usar a Chave de Ferro na sa\xEDda da biblioteca."
+      automaticSequenceId: voice.library.iron-key
+      requiredItemIds:
+      - iron_key
+    - id: library.passage-opened
+      objectiveAfter: "Atravessar o p\xE1tio e chegar ao bloco Hosp\xEDcio."
+      automaticSequenceId: voice.library.passage-opened
+      requiredItemIds: []
+  - id: left-behind
+    title: "Bloco Hosp\xEDcio \u2014 1\xBA andar"
+    heading: "CAP\xCDTULO 4"
+    sceneName: SchoolCEEP
+    initialObjective: "Seguir as placas at\xE9 o Hosp\xEDcio. Encontrar a chave da Sala 113."
+    completionPhrase: A voz da fita conhecia o caminho.
+    milestones:
+    - id: hospicio.arrived
+      objectiveAfter: Procurar o gravador na sala de aula aberta.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: hospicio.recorder
+      objectiveAfter: Examinar a fita infantil e clicar em OUVIR.
+      automaticSequenceId: voice.hospicio.recorder
+      requiredItemIds:
+      - hospicio_recorder
+    - id: hospicio.child-tape
+      objectiveAfter: "Investigar o di\xE1rio de classe na sala aberta."
+      automaticSequenceId: voice.hospicio.child-tape
+      requiredItemIds: []
+    - id: hospicio.register
+      objectiveAfter: Observar o fim do corredor.
+      automaticSequenceId: voice.hospicio.register
+      requiredItemIds:
+      - hospicio_register
+    - id: hospicio.figure
+      objectiveAfter: Procurar a fita do diretor na secretaria.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: hospicio.director-tape
+      objectiveAfter: Encontrar a Chave da Sala 113 na secretaria.
+      automaticSequenceId: voice.hospicio.director-tape
+      requiredItemIds: []
+    - id: hospicio.room-key
+      objectiveAfter: Subir a escada central e abrir a Sala 113.
+      automaticSequenceId: voice.hospicio.room-key
+      requiredItemIds:
+      - room_113_key
+  - id: memories
+    title: Sala 113
+    heading: "CAP\xCDTULO 5"
+    sceneName: SchoolCEEP
+    initialObjective: Subir a escada central e abrir a Sala 113.
+    completionPhrase: "Daniel era o nome escrito antes de Jo\xE3o."
+    milestones:
+    - id: memories.upstairs
+      objectiveAfter: Seguir o corredor do segundo andar.
+      automaticSequenceId: voice.memories.upstairs
+      requiredItemIds: []
+    - id: memories.corridor
+      objectiveAfter: Entrar na Sala 113 e olhar o espelho.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: memories.mirror
+      objectiveAfter: Examinar a ficha de aluno na Sala 113.
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: memories.truth
+      objectiveAfter: "Encontrar uma sa\xEDda."
+      automaticSequenceId: 
+      requiredItemIds:
+      - student_113_record
+  - id: last-exit
+    title: "A \xDAltima Sa\xEDda"
+    heading: "CAP\xCDTULO 6"
+    sceneName: SchoolCEEP
+    initialObjective: "Descer a escada e seguir a luz at\xE9 a entrada."
+    completionPhrase: "O telefone ainda n\xE3o terminou de tocar."
+    milestones:
+    - id: last-exit.stairs
+      objectiveAfter: Seguir a luz no corredor central.
+      automaticSequenceId: voice.last-exit.stairs
+      requiredItemIds: []
+    - id: last-exit.loop
+      objectiveAfter: "Voltar \xE0 porta principal. A escola n\xE3o pode escolher por voc\xEA."
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: last-exit.entrance-reached
+      objectiveAfter: Atravessar a entrada da escola.
+      automaticSequenceId: voice.last-exit.entrance-reached
+      requiredItemIds: []
+    - id: last-exit.outside
+      objectiveAfter: 
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: last-exit.awake
+      objectiveAfter: 
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: last-exit.phone-ringing
+      objectiveAfter: 
+      automaticSequenceId: 
+      requiredItemIds: []
+    - id: last-exit.ending
+      objectiveAfter: 
+      automaticSequenceId: 
+      requiredItemIds: []
+  sequences:
+  - id: prologue.call-one
+    lockPlayer: 1
+    completionSignal: prologue.first-call
+    lines:
+    - speaker: Homem idoso
+      text: "Senhor Claus... meu filho Daniel sumiu naquela escola h\xE1 trinta anos."
+      seconds: 5.48
+      voice: {fileID: 8300000, guid: 2cee4125314c68c4e96c56d71798c07f, type: 3}
+    - speaker: Homem idoso
+      text: "Hoje ele me ligou. Disse que ainda est\xE1 l\xE1 dentro, no Bloco Hosp\xEDcio."
+      seconds: 8.5
+      voice: {fileID: 8300000, guid: cac2aacd21886984487adce2fe22f2fe, type: 3}
+    - speaker: "Jo\xE3o"
+      text: "Por que voc\xEA ligou para mim?"
+      seconds: 1.98
+      voice: {fileID: 8300000, guid: 49c3a10956ce8bb4599783821417120f, type: 3}
+    - speaker: Homem idoso
+      text: "Ele disse que s\xF3 voc\xEA sabe qual porta abrir."
+      seconds: 3.74
+      voice: {fileID: 8300000, guid: 505434a299a0143458ba38e7e437c548, type: 3}
+    - speaker: "Jo\xE3o"
+      text: "Anotei o endere\xE7o."
+      seconds: 1.6800001
+      voice: {fileID: 8300000, guid: 40d49d4d77e5fa149a3148ed076f2a58, type: 3}
+    - speaker: "Jo\xE3o"
+      text: "Espera. Como Daniel conseguiu esse n\xFAmero?"
+      seconds: 2.9
+      voice: {fileID: 8300000, guid: 04dbbf98262b9ab45ab24932554350b8, type: 3}
+    - speaker: 
+      text: "[A liga\xE7\xE3o cai.]"
+      seconds: 2
+      voice: {fileID: 0}
+    - speaker: 
+      text: 
+      seconds: 1
+      voice: {fileID: 0}
+  - id: prologue.call-two
+    lockPlayer: 1
+    completionSignal: prologue.second-call
+    lines:
+    - speaker: 
+      text: 
+      seconds: 2
+      voice: {fileID: 0}
+    - speaker: Voz infantil
+      text: "Jo\xE3o..."
+      seconds: 3
+      voice: {fileID: 0}
+    - speaker: 
+      text: 
+      seconds: 1
+      voice: {fileID: 0}
+  - id: road.context
+    lockPlayer: 0
+    completionSignal: road.context-shown
+    lines:
+    - speaker: "R\xE1dio"
+      text: "A escola est\xE1 abandonada h\xE1 d\xE9cadas."
+      seconds: 3.38
+      voice: {fileID: 8300000, guid: 9ab386243c97e114aba482a1caacab13, type: 3}
+    - speaker: "R\xE1dio"
+      text: "O \xFAltimo registro dos alunos desaparecidos veio do chamado Bloco Hosp\xEDcio."
+      seconds: 6.9199996
+      voice: {fileID: 8300000, guid: bb73bcac97ad3e142994c26dde788994, type: 3}
+    - speaker: "Jo\xE3o"
+      text: "Hosp\xEDcio... S\xF3 um apelido de bloco escolar. Preciso come\xE7ar pela biblioteca."
+      seconds: 5.62
+      voice: {fileID: 8300000, guid: 113401251cf93f94c9c4fb8a9b821f39, type: 3}
+  - id: road.arrival-call
+    lockPlayer: 1
+    completionSignal: road.arrival-call
+    lines:
+    - speaker: 
+      text: "[Sons de crian\xE7as brincando.]"
+      seconds: 4
+      voice: {fileID: 0}
+    - speaker: Voz infantil
+      text: "Voc\xEA demorou."
+      seconds: 1.48
+      voice: {fileID: 8300000, guid: c7342a8adfb798648859caa61e5ba247, type: 3}
+    - speaker: 
+      text: 
+      seconds: 1
+      voice: {fileID: 0}
+  - id: library.book
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Esse livro... n\xE3o tinha ningu\xE9m ali."
+      seconds: 3.3400002
+      voice: {fileID: 8300000, guid: e0ecf20b3c77dce49ab003b1c07f5bae, type: 3}
+    - speaker: "P\xE1gina marcada"
+      text: O ferro abre o caminho de quem voltou.
+      seconds: 3
+      voice: {fileID: 0}
+  - id: hospicio.arrival
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Hosp\xEDcio. S\xF3 um apelido para o bloco... por que ele sabia que eu viria?"
+      seconds: 5.99
+      voice: {fileID: 8300000, guid: 83d77584b78984448a00d4c1c65b9665, type: 3}
+  - id: hospicio.figure-caption
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Eu acabei de ver algu\xE9m ali."
+      seconds: 1.98
+      voice: {fileID: 8300000, guid: 0a3148650503d3547a2efe6599509f27, type: 3}
+  - id: memories.corridor-caption
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: Voz distante
+      text: Daniel...
+      seconds: 3
+      voice: {fileID: 0}
+    - speaker: "Jo\xE3o"
+      text: "Eu j\xE1 passei por essa porta. N\xE3o \xE9 poss\xEDvel."
+      seconds: 3.48
+      voice: {fileID: 8300000, guid: 058880a2747010044892bef3cf322a22, type: 3}
+  - id: memories.mirror-caption
+    lockPlayer: 1
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Eu n\xE3o sorri."
+      seconds: 1.36
+      voice: {fileID: 8300000, guid: bda0f21afa9eba14c897ed5b743899be, type: 3}
+  - id: memories.truth-caption
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Daniel... essa letra \xE9 minha."
+      seconds: 3.06
+      voice: {fileID: 8300000, guid: 90b046c530088fa43a44a878e5885655, type: 3}
+    - speaker: "Jo\xE3o"
+      text: "Eu n\xE3o lembro de ter sa\xEDdo daquela noite."
+      seconds: 6.29
+      voice: {fileID: 8300000, guid: 76f9d417431e0f2479d54a165af35e40, type: 3}
+  - id: last-exit.loop-caption
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: Voz infantil
+      text: "Por aqui. N\xE3o olhe para tr\xE1s."
+      seconds: 4.3799996
+      voice: {fileID: 8300000, guid: 42c1d6db361f86a46818e987fc36c2ef, type: 3}
+    - speaker: "Jo\xE3o"
+      text: "A porta. S\xF3 preciso chegar \xE0 porta."
+      seconds: 4.58
+      voice: {fileID: 8300000, guid: 106009a5704554c489d4da92da84ed2e, type: 3}
+  - id: simplified.office-awake
+    lockPlayer: 1
+    completionSignal: last-exit.awake
+    lines:
+    - speaker: "Jo\xE3o"
+      text: Eu... voltei?
+      seconds: 1.96
+      voice: {fileID: 8300000, guid: 1bf0989e1edfc5f4baf24fe2a92edbb4, type: 3}
+  - id: simplified.office-ring
+    lockPlayer: 1
+    completionSignal: last-exit.phone-ringing
+    lines:
+    - speaker: 
+      text: 
+      seconds: 5
+      voice: {fileID: 0}
+  - id: ending
+    lockPlayer: 1
+    completionSignal: last-exit.ending
+    lines:
+    - speaker: 
+      text: 
+      seconds: 0.15
+      voice: {fileID: 0}
+  - id: voice.library.newspaper
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Trinta anos. A mesma \xE9poca que ele mencionou."
+      seconds: 3.5
+      voice: {fileID: 8300000, guid: 16a634c5782d5114494ea6d6f53ec1ed, type: 3}
+  - id: voice.library.photo
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: Turma cento e treze...
+      seconds: 1.8000001
+      voice: {fileID: 8300000, guid: d97a3b93df21f8f4397b453712c40baa, type: 3}
+    - speaker: "Jo\xE3o"
+      text: "Algu\xE9m fez quest\xE3o de apagar essa pessoa."
+      seconds: 2.98
+      voice: {fileID: 8300000, guid: cd2912eb34da6504fa3c014f72a6e60a, type: 3}
+  - id: voice.library.iron-key
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Uma chave. A etiqueta diz Hosp\xEDcio."
+      seconds: 3.71
+      voice: {fileID: 8300000, guid: cd8c0f5eefc6d3643bdc9f67d973b1dc, type: 3}
+    - speaker: "Jo\xE3o"
+      text: Deve abrir aquela porta trancada.
+      seconds: 2.54
+      voice: {fileID: 8300000, guid: 53e741ee343820a4793929527476cd5b, type: 3}
+  - id: voice.library.passage-opened
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Agora \xE9 s\xF3 atravessar o p\xE1tio."
+      seconds: 4.21
+      voice: {fileID: 8300000, guid: 2614115c3bf7e574aba6f35e94e341cf, type: 3}
+  - id: voice.hospicio.recorder
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: Vamos ver o que ficou registrado.
+      seconds: 2.1
+      voice: {fileID: 8300000, guid: 6539f6e8a0d2f17438413cca2802977d, type: 3}
+  - id: voice.hospicio.child-tape
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Daniel... \xC9 a voz do menino?"
+      seconds: 2.3300002
+      voice: {fileID: 8300000, guid: d0fd086606932a646bfaf507bf6d6a83, type: 3}
+  - id: voice.hospicio.register
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Daniel: presente. Jo\xE3o de Claus... anotado no mesmo registro."
+      seconds: 5.93
+      voice: {fileID: 8300000, guid: 7a7d41064fedd5c47b9da4c6a528beb8, type: 3}
+    - speaker: "Jo\xE3o"
+      text: "Por que meu nome est\xE1 aqui?"
+      seconds: 1.76
+      voice: {fileID: 8300000, guid: 74e672c50fad29c448a5d60bb441c241, type: 3}
+  - id: voice.hospicio.director-tape
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Eu vim atr\xE1s de uma crian\xE7a desaparecida. E agora encontro meu nome em tudo."
+      seconds: 4.7
+      voice: {fileID: 8300000, guid: 8f262d25b269aee4d9b93ede5a3baa0f, type: 3}
+  - id: voice.hospicio.room-key
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: Chave cento e treze.
+      seconds: 1.8000001
+      voice: {fileID: 8300000, guid: e8e5d00ce8f090d47b6d4f29c4fd3b86, type: 3}
+    - speaker: "Jo\xE3o"
+      text: A Sala 113 fica no andar de cima.
+      seconds: 2.9
+      voice: {fileID: 8300000, guid: ea5ec6ff9961e3a4a97c2dc0000f0a0b, type: 3}
+  - id: voice.memories.upstairs
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "S\xF3 mais um andar."
+      seconds: 1.4200001
+      voice: {fileID: 8300000, guid: 0a7d4915dbec24048a7ed47e87c0af59, type: 3}
+  - id: voice.last-exit.stairs
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Entrada principal. \xC9 s\xF3 seguir em frente."
+      seconds: 3.16
+      voice: {fileID: 8300000, guid: 03f5f2ae938ebd746a60bd324fa2a39d, type: 3}
+  - id: voice.last-exit.entrance-reached
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "L\xE1 est\xE1."
+      seconds: 0.97999996
+      voice: {fileID: 8300000, guid: 4d0ba14656d167d40a5ea7770a5823d6, type: 3}
+  - id: hospicio.figure-seen-caption
+    lockPlayer: 0
+    completionSignal: 
+    lines:
+    - speaker: "Jo\xE3o"
+      text: "Ei... voc\xEA est\xE1 perdido?"
+      seconds: 2.54
+      voice: {fileID: 8300000, guid: 83250dff9ebd5e747ada4518a46190ad, type: 3}

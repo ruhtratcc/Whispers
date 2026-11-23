@@ -1,0 +1,55 @@
+{
+  "status": "completed",
+  "duration": 4.04,
+  "summary": {
+    "total": 6,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.CollectedDrawingCheckpointResumesOnlyCaptionAndPausedBlackoutTimer",
+      "Status": "Passed",
+      "Duration": 1.3762883,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.EntireOpeningUsesPhysicalInteractionsAndEndsAtUnimplementedChapterBoundary",
+      "Status": "Passed",
+      "Duration": 0.8545217,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.EntryAndPhotographWaitDuringPauseThenContinueOnce",
+      "Status": "Passed",
+      "Duration": 1.1524295,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.ObservationRequiresClearSightAndLookingBackNearTheBoard",
+      "Status": "Passed",
+      "Duration": 0.3600079,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.PairedDoorSilentStoryPoseKeepsClosedBasisAndNoPlayerEvents",
+      "Status": "Passed",
+      "Duration": 0.2380144,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.SchoolOpeningFlowTests.RestoreIsSilentAndDoesNotOverwriteUnrelatedDoorState",
+      "Status": "Passed",
+      "Duration": 0.0426084,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

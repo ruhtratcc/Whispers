@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: Luan
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: bd.luan.lunch
+  title: Marmita do Luan
+  description: Marmita do Luan
+  frontText: Marmita do Luan
+  backText: "LUAN \u2014 10 ANOS\nMesa posta para quatro. Uma cadeira foi puxada para tr\xE1s. Falta um objeto no cord\xE3o: o apito que eu trouxe comigo."
+  detailText: 
+  alternateBackText: 
+  recordingText: 
+  model: {fileID: 8464394246154404544, guid: 7d25bbb57038f9f4584532c15bfe3f3f, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  recordInNotes: 1
+  canPlay: 0
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0
+  maximumStress: 0
+  pickupSound: {fileID: 11400000, guid: 77eac0f840ddeef43ae93160103632d3, type: 2}
+  whisper: {fileID: 0}
+  recording: {fileID: 0}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f623beddbf4372f4588287e41c65c94b, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.InspectionItemData
+  itemId: bd.library.key
+  title: Chave da biblioteca
+  description: 'Chave encontrada dentro da lancheira da Marta. Etiqueta: BIBLIOTECA.'
+  frontText: Chave da biblioteca
+  backText: 'Chave encontrada dentro da lancheira da Marta. Etiqueta: BIBLIOTECA.'
+  detailText: 
+  alternateBackText: 
+  recordingText: 
+  model: {fileID: 7680242870242426461, guid: dd058b1865aebe3468829674a444ffcb, type: 3}
+  frontTexture: {fileID: 0}
+  backTexture: {fileID: 0}
+  recordInNotes: 1
+  canPlay: 0
+  captionOnlyRecording: 0
+  captionRecordingSeconds: 20
+  stressPerSecond: 0
+  maximumStress: 0
+  pickupSound: {fileID: 11400000, guid: 3006a2c4d9f2d794a8cb65d783062973, type: 2}
+  whisper: {fileID: 0}
+  recording: {fileID: 0}

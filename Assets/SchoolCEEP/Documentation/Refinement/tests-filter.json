@@ -1,0 +1,55 @@
+{
+  "status": "completed",
+  "duration": 0.24,
+  "summary": {
+    "total": 6,
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.ExplicitRoadGradeCannotLeakIntoMenuOrChapterZero",
+      "Status": "Passed",
+      "Duration": 0.0209685,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.HorrorGradeStillExcludesTheOfficeAndFreezesWithGameplay",
+      "Status": "Passed",
+      "Duration": 0.0010325,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.NarrativeChapterGateEnablesRoadAndDisablesPrologue",
+      "Status": "Passed",
+      "Duration": 0.0004969,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.OfficeCannotReceiveFilterEvenAfterChapterIndexChanges",
+      "Status": "Passed",
+      "Duration": 0.0002851,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.SchoolTapePresetIsExplicitAndCannotBleedIntoAnotherScene",
+      "Status": "Passed",
+      "Duration": 0.0007352,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.VintageCameraEditTests.SchoolTrackingFreezesDuringPauseAndUsesBoundedBriefFaults",
+      "Status": "Passed",
+      "Duration": 0.0010981,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

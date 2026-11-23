@@ -1,0 +1,135 @@
+{
+    "revision": 3,
+    "changedRenderers": 82,
+    "texturedWallTriangles": 10469,
+    "retainedTriangles": 17143770,
+    "boxes": 21,
+    "rejectedBoxCandidates": 0,
+    "routeReservations": 422,
+    "routeSamples": 34368,
+    "supplementalRoutes": 40,
+    "removedObstructingBoxes": 0,
+    "sourceUVRepeatMeters": 1.7999999523162842,
+    "wallTextureScale": 0.6499999761581421,
+    "textureRepeatMeters": 2.769230842590332,
+    "maximumColliderBoundsDelta": 0.0000170599487319123,
+    "protectedArchitectureAndStoryPreserved": true,
+    "allBoxesSupported": true,
+    "reservedRoutesClear": true,
+    "protectedBefore": "4EA4DFC968FEE7812F51D055081711E49E8EA6046B84A4A05A9A2B4BE783B5BA",
+    "protectedAfter": "4EA4DFC968FEE7812F51D055081711E49E8EA6046B84A4A05A9A2B4BE783B5BA",
+    "boxPositions": [
+        {
+            "x": -22.10262680053711,
+            "y": 0.012000000104308128,
+            "z": 57.32806396484375
+        },
+        {
+            "x": -32.84513473510742,
+            "y": 4.00390100479126,
+            "z": 57.32806396484375
+        },
+        {
+            "x": -22.10262680053711,
+            "y": 3.822000503540039,
+            "z": 57.32806396484375
+        },
+        {
+            "x": 10.659768104553223,
+            "y": 0.0560000017285347,
+            "z": 60.14693069458008
+        },
+        {
+            "x": 24.653284072875977,
+            "y": 0.23790113627910614,
+            "z": 62.2669563293457
+        },
+        {
+            "x": 38.64680480957031,
+            "y": 0.0560000017285347,
+            "z": 60.14693069458008
+        },
+        {
+            "x": 52.640323638916016,
+            "y": 0.0560000017285347,
+            "z": 62.2669563293457
+        },
+        {
+            "x": 66.63383483886719,
+            "y": 0.23790113627910614,
+            "z": 60.14693069458008
+        },
+        {
+            "x": 80.62735748291016,
+            "y": 0.0560000017285347,
+            "z": 62.2669563293457
+        },
+        {
+            "x": 52.31494903564453,
+            "y": 0.05600001662969589,
+            "z": 74.67832946777344
+        },
+        {
+            "x": 63.29386520385742,
+            "y": 0.05600001662969589,
+            "z": 74.67832946777344
+        },
+        {
+            "x": 74.27278137207031,
+            "y": 0.23790115118026733,
+            "z": 74.67832946777344
+        },
+        {
+            "x": 79.76224517822266,
+            "y": 0.05600001662969589,
+            "z": 77.29832458496094
+        },
+        {
+            "x": 82.6927719116211,
+            "y": 0.23790113627910614,
+            "z": 35.60115432739258
+        },
+        {
+            "x": 80.5727767944336,
+            "y": 0.0560000017285347,
+            "z": 41.36319351196289
+        },
+        {
+            "x": 82.6927719116211,
+            "y": 0.0560000017285347,
+            "z": 47.12522888183594
+        },
+        {
+            "x": 80.5727767944336,
+            "y": 0.23790113627910614,
+            "z": 52.887264251708984
+        },
+        {
+            "x": 82.6927719116211,
+            "y": 0.0560000017285347,
+            "z": 58.6493034362793
+        },
+        {
+            "x": 81.17250061035156,
+            "y": 0.0560000017285347,
+            "z": 64.15263366699219
+        },
+        {
+            "x": 83.29249572753906,
+            "y": 0.23790113627910614,
+            "z": 69.44429779052734
+        },
+        {
+            "x": 81.17250061035156,
+            "y": 0.0560000017285347,
+            "z": 74.73596954345703
+        }
+    ],
+    "notes": [
+        "Broad walls use the matched approved Poly Haven mossy plaster PBR set: original metric UV repeat 1.8 m, material scale .65 gives a calibrated visible repeat about 2.77 m; gentle normals (.18/.24), AO (.22/.28) and matte response preserve old two-tone hues. Dense cracked source preserved but removed from broad-room albedo; existing localized damage decals remain.",
+        "Only vertical triangles backed by existing named masonry are reassigned. Native mesh vertices/colliders, horizontal ceilings, beams, windows, door panels and story components remain unchanged; mixed batches keep their other submeshes.",
+        "Existing approved cardboard_box_01 is placed at narrow circulation floor edges, with a matching fitted collider. Five-point level support, native penetration, actual door swings and clue clearance reject unsafe candidates.",
+        "Saved search routes and explicit authored stair/grade connectors are reserved at 1.28 m width and sampled against new boxes. Ramps, steps and landings receive no box clutter.",
+        "No map rebuild, runtime script, entity collision, new light or automatic scene save. Apply is idempotent through its owned scene group."
+    ]
+}

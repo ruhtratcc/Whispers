@@ -1,0 +1,13 @@
+{
+  "prefabMeshesValid": true,
+  "prefabPhysicsEmpty": true,
+  "twoLods": true,
+  "validMaterials": true,
+  "materialCount": 6,
+  "shaderErrors": [],
+  "chairFollows": true,
+  "chairRestores": true,
+  "chairColliders": 0,
+  "sceneClean": true,
+  "groupColliders": 0
+}

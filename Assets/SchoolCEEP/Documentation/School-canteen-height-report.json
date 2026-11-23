@@ -1,0 +1,17 @@
+{
+    "passed": true,
+    "dimensionsEstimated": true,
+    "doorIdentitiesPreserved": true,
+    "extendedWallPieces": 14,
+    "wallCollidersBefore": 154,
+    "wallCollidersAfter": 156,
+    "clearCeilingMeters": 4.199999809265137,
+    "roofTopMeters": 4.400000095367432,
+    "hallEaveMeters": 5.099999904632568,
+    "hallRidgeMeters": 6.400000095367432,
+    "notes": [
+        "Clear height increases from3.32m to an estimated4.20m. Only the canteen roof footprint west ofPDFX1464.16 is raised; adjoining service rooms keep their own roof.",
+        "The partition next to the hall rises to5.10m at the eave and6.40m at the ridge, matching the existing hall canopy after its0.60m grade adjustment.",
+        "Native opening positions, door heights, IDs and hinges stay intact. Tables and serving counters stay at their existing working heights. Dimensions are visual estimates authorized by the user."
+    ]
+}

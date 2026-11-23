@@ -1,0 +1,1945 @@
+{
+    "clocks": 11,
+    "clockBatchesDisabled": 11,
+    "ceilingFans": 27,
+    "originalFanParts": 378,
+    "originalFanTrianglesRemoved": 32400,
+    "bins": 5,
+    "brooms": 3,
+    "rejectedGroundCandidates": 27,
+    "addedColliders": 0,
+    "addedLights": 0,
+    "addedScripts": 0,
+    "lodGroups": 46,
+    "architecturePreserved": true,
+    "storyPreserved": true,
+    "allGroundPropsSupported": true,
+    "allFansMounted": true,
+    "alreadyApplied": false,
+    "architectureBefore": "9C80727280AD0B39FB58629747DC1726526E1678628A1EB868A9C6F3FB077854",
+    "architectureAfter": "9C80727280AD0B39FB58629747DC1726526E1678628A1EB868A9C6F3FB077854",
+    "storyBefore": "BF8FD2ECE97CC93C3AFF66F083F23FC9BAAE22EA6D4CDC296A844094855CE372",
+    "storyAfter": "BF8FD2ECE97CC93C3AFF66F083F23FC9BAAE22EA6D4CDC296A844094855CE372",
+    "clockBatchPaths": [
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_0_2_0",
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_-1_0_0",
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_1_1_0",
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_-1_1_0",
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_-1_2_0",
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_-1_3_0",
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_-1_3_1",
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_-2_2_0",
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_2_2_1",
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_-2_3_1",
+        "Escola — abandono do capítulo 3/Abandono — Relógio parado_-3_0_0"
+    ],
+    "fanSourcePaths": [
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala de uso múltiplo — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 07 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 6 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03A — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 5 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03B — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 4 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 03 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 02 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 20 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 19 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 18 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 15 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 17 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 14 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 16 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 13 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 12 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 52 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 51 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 50 — pavimento 0/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27B — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 27A — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 74 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 76 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 75 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — suporte do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — aro do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — motor do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — hélice do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — grade do ventilador",
+        "Acabamento das salas de aula/Salas de aula — padrão das fotografias/Sala 77 — pavimento 1/Sala — grade do ventilador"
+    ],
+    "notes": [
+        "Four publisher-verified CC0 Poly Haven models. No runtime importer, electricity, animation, collider or story component added.",
+        "Dedicated flat clock batches are hidden, not deleted. New clocks face the same supported wall; old shared rust hand marks remain behind the volumetric dial.",
+        "Every original fan face is proved before being removed from cloned static batches. Original holders/assets and replacement journal remain recoverable.",
+        "Ceiling fan mounts use existing coplanar classroom panel surfaces, proven at five footprint points. Uniform scales 1/.82/.70/.62 fit their actual bays without altering ceilings, beams, luminaires or projectors.",
+        "A small number of bins and brooms occupy supported room-edge footprints, outside saved aisles, door sweeps, clues and existing physical furniture.",
+        "Repeat application audits the existing group; it does not add duplicate props. Actual gameplay darkness and appearance require the caller's render inspection.",
+        "Clock backs use the retained original visual quad plane minus 2 mm, leaving the dial beyond existing wall finish/decals. Absolute source-derived poses make RetuneClocks idempotent."
+    ],
+    "pieces": [
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 00",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 00",
+            "room": "",
+            "position": {
+                "x": 14.275818824768066,
+                "y": 1.8997544050216675,
+                "z": 63.98287582397461
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": 14.275818824768066,
+                "y": 2.059999942779541,
+                "z": 63.95926284790039
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 01",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 01",
+            "room": "",
+            "position": {
+                "x": -13.296128273010254,
+                "y": 2.6797547340393066,
+                "z": 23.734888076782227
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": -13.319740295410156,
+                "y": 2.8400001525878906,
+                "z": 23.734888076782227
+            },
+            "supportNormal": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 02",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 02",
+            "room": "",
+            "position": {
+                "x": 44.894161224365234,
+                "y": 2.079754590988159,
+                "z": 43.40323257446289
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": 44.894161224365234,
+                "y": 2.240000009536743,
+                "z": 43.37961959838867
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 03",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 03",
+            "room": "",
+            "position": {
+                "x": -18.859718322753906,
+                "y": 2.6797547340393066,
+                "z": 30.15070152282715
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": -18.883329391479492,
+                "y": 2.8400001525878906,
+                "z": 30.15070152282715
+            },
+            "supportNormal": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 04",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 04",
+            "room": "",
+            "position": {
+                "x": -13.676397323608398,
+                "y": 2.079754590988159,
+                "z": 68.55934143066406
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": -13.7000093460083,
+                "y": 2.240000009536743,
+                "z": 68.55934143066406
+            },
+            "supportNormal": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 05",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 05",
+            "room": "",
+            "position": {
+                "x": -13.676397323608398,
+                "y": 2.079754590988159,
+                "z": 77.02442932128906
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": -13.7000093460083,
+                "y": 2.240000009536743,
+                "z": 77.02442932128906
+            },
+            "supportNormal": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 06",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 06",
+            "room": "",
+            "position": {
+                "x": -17.212541580200195,
+                "y": 5.889754772186279,
+                "z": 79.25973510742188
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": -17.18893051147461,
+                "y": 6.050000190734863,
+                "z": 79.25973510742188
+            },
+            "supportNormal": {
+                "x": -1.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 07",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 07",
+            "room": "",
+            "position": {
+                "x": -33.84256362915039,
+                "y": 2.079754590988159,
+                "z": 63.95183181762695
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": -33.84256362915039,
+                "y": 2.240000009536743,
+                "z": 63.928218841552734
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 08",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 08",
+            "room": "",
+            "position": {
+                "x": 68.9748306274414,
+                "y": 5.889754772186279,
+                "z": 52.329307556152344
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": 68.99844360351563,
+                "y": 6.050000190734863,
+                "z": 52.329307556152344
+            },
+            "supportNormal": {
+                "x": -1.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 09",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 09",
+            "room": "",
+            "position": {
+                "x": -41.706661224365234,
+                "y": 5.889754772186279,
+                "z": 89.26361083984375
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": -41.683048248291016,
+                "y": 6.050000190734863,
+                "z": 89.26361083984375
+            },
+            "supportNormal": {
+                "x": -1.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.7071068286895752,
+                "z": 0.0,
+                "w": 0.7071068286895752
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "wall_clock",
+            "name": "Relógio parado Poly Haven 10",
+            "path": "Escola — objetos Poly Haven do abandono/Relógio parado Poly Haven 10",
+            "room": "",
+            "position": {
+                "x": -59.46275329589844,
+                "y": 2.6797547340393066,
+                "z": 19.431276321411133
+            },
+            "size": {
+                "x": 0.3204909861087799,
+                "y": 0.3204909861087799,
+                "z": 0.04722309857606888
+            },
+            "supportPoint": {
+                "x": -59.46275329589844,
+                "y": 2.8400001525878906,
+                "z": 19.407665252685547
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala de uso múltiplo — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala de uso múltiplo — pavimento 0",
+            "room": "Sala de uso múltiplo — pavimento 0",
+            "position": {
+                "x": -70.5729751586914,
+                "y": 2.2985599040985107,
+                "z": 72.71283721923828
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -70.5729751586914,
+                "y": 2.6600003242492676,
+                "z": 72.71283721923828
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 07 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 07 — pavimento 0",
+            "room": "Sala 07 — pavimento 0",
+            "position": {
+                "x": -37.69767761230469,
+                "y": 3.0485599040985107,
+                "z": 80.84599304199219
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -37.69767761230469,
+                "y": 3.4100003242492676,
+                "z": 80.84599304199219
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 6 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 6 — pavimento 0",
+            "room": "Sala 6 — pavimento 0",
+            "position": {
+                "x": -23.023334503173828,
+                "y": 3.0485599040985107,
+                "z": 90.04117584228516
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -23.023334503173828,
+                "y": 3.4100003242492676,
+                "z": 90.04117584228516
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 03A — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 03A — pavimento 0",
+            "room": "Sala 03A — pavimento 0",
+            "position": {
+                "x": -9.14372730255127,
+                "y": 2.8936569690704346,
+                "z": 89.8736572265625
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -9.14372730255127,
+                "y": 3.4100003242492676,
+                "z": 89.8736572265625
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 5 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 5 — pavimento 0",
+            "room": "Sala 5 — pavimento 0",
+            "position": {
+                "x": -23.023334503173828,
+                "y": 3.0485599040985107,
+                "z": 80.84599304199219
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -23.023334503173828,
+                "y": 3.4100003242492676,
+                "z": 80.84599304199219
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 03B — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 03B — pavimento 0",
+            "room": "Sala 03B — pavimento 0",
+            "position": {
+                "x": -9.14372730255127,
+                "y": 2.8936569690704346,
+                "z": 83.64982604980469
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -9.14372730255127,
+                "y": 3.4100003242492676,
+                "z": 83.64982604980469
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 4 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 4 — pavimento 0",
+            "room": "Sala 4 — pavimento 0",
+            "position": {
+                "x": -23.023334503173828,
+                "y": 3.0485599040985107,
+                "z": 71.74150848388672
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -23.023334503173828,
+                "y": 3.4100003242492676,
+                "z": 71.74150848388672
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 03 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 03 — pavimento 0",
+            "room": "Sala 03 — pavimento 0",
+            "position": {
+                "x": -9.14372730255127,
+                "y": 2.8936569690704346,
+                "z": 77.59597778320313
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -9.14372730255127,
+                "y": 3.4100003242492676,
+                "z": 77.59597778320313
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 02 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 02 — pavimento 0",
+            "room": "Sala 02 — pavimento 0",
+            "position": {
+                "x": -9.14372730255127,
+                "y": 2.8936569690704346,
+                "z": 71.53667449951172
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -9.14372730255127,
+                "y": 3.4100003242492676,
+                "z": 71.53667449951172
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 20 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 20 — pavimento 1",
+            "room": "Sala 20 — pavimento 1",
+            "position": {
+                "x": -37.665061950683594,
+                "y": 6.658559799194336,
+                "z": 80.84599304199219
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -37.665061950683594,
+                "y": 7.019999980926514,
+                "z": 80.84599304199219
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 19 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 19 — pavimento 1",
+            "room": "Sala 19 — pavimento 1",
+            "position": {
+                "x": -37.665061950683594,
+                "y": 6.658559799194336,
+                "z": 71.74150848388672
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -37.665061950683594,
+                "y": 7.019999980926514,
+                "z": 71.74150848388672
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 18 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 18 — pavimento 1",
+            "room": "Sala 18 — pavimento 1",
+            "position": {
+                "x": -23.024028778076172,
+                "y": 6.658559799194336,
+                "z": 90.04117584228516
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -23.024028778076172,
+                "y": 7.019999980926514,
+                "z": 90.04117584228516
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 15 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 15 — pavimento 1",
+            "room": "Sala 15 — pavimento 1",
+            "position": {
+                "x": -9.10142707824707,
+                "y": 6.503656387329102,
+                "z": 89.8736572265625
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -9.10142707824707,
+                "y": 7.019999980926514,
+                "z": 89.8736572265625
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 17 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 17 — pavimento 1",
+            "room": "Sala 17 — pavimento 1",
+            "position": {
+                "x": -23.024028778076172,
+                "y": 6.658559799194336,
+                "z": 80.84599304199219
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -23.024028778076172,
+                "y": 7.019999980926514,
+                "z": 80.84599304199219
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 14 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 14 — pavimento 1",
+            "room": "Sala 14 — pavimento 1",
+            "position": {
+                "x": -9.10142707824707,
+                "y": 6.503656387329102,
+                "z": 83.64982604980469
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -9.10142707824707,
+                "y": 7.019999980926514,
+                "z": 83.64982604980469
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 16 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 16 — pavimento 1",
+            "room": "Sala 16 — pavimento 1",
+            "position": {
+                "x": -23.024028778076172,
+                "y": 6.658559799194336,
+                "z": 71.74150848388672
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -23.024028778076172,
+                "y": 7.019999980926514,
+                "z": 71.74150848388672
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 13 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 13 — pavimento 1",
+            "room": "Sala 13 — pavimento 1",
+            "position": {
+                "x": -9.10142707824707,
+                "y": 6.503656387329102,
+                "z": 77.59597778320313
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -9.10142707824707,
+                "y": 7.019999980926514,
+                "z": 77.59597778320313
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 12 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 12 — pavimento 1",
+            "room": "Sala 12 — pavimento 1",
+            "position": {
+                "x": -9.10142707824707,
+                "y": 6.503656387329102,
+                "z": 71.53667449951172
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -9.10142707824707,
+                "y": 7.019999980926514,
+                "z": 71.53667449951172
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 52 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 52 — pavimento 0",
+            "room": "Sala 52 — pavimento 0",
+            "position": {
+                "x": 10.021223068237305,
+                "y": 2.718559980392456,
+                "z": 91.67301940917969
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": 10.021223068237305,
+                "y": 3.080000400543213,
+                "z": 91.67301940917969
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 51 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 51 — pavimento 0",
+            "room": "Sala 51 — pavimento 0",
+            "position": {
+                "x": 10.021223068237305,
+                "y": 2.718559980392456,
+                "z": 84.46826171875
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": 10.021223068237305,
+                "y": 3.080000400543213,
+                "z": 84.46826171875
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 50 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 50 — pavimento 0",
+            "room": "Sala 50 — pavimento 0",
+            "position": {
+                "x": 10.021223068237305,
+                "y": 2.718559980392456,
+                "z": 77.27159118652344
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": 10.021223068237305,
+                "y": 3.080000400543213,
+                "z": 77.27159118652344
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 27B — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 27B — pavimento 1",
+            "room": "Sala 27B — pavimento 1",
+            "position": {
+                "x": -22.663908004760742,
+                "y": 6.503656387329102,
+                "z": 44.37662124633789
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -22.663908004760742,
+                "y": 7.019999980926514,
+                "z": 44.37662124633789
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1.0
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 27A — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 27A — pavimento 1",
+            "room": "Sala 27A — pavimento 1",
+            "position": {
+                "x": -20.201953887939453,
+                "y": 6.658559799194336,
+                "z": 54.040184020996094
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": -20.201953887939453,
+                "y": 7.019999980926514,
+                "z": 54.040184020996094
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.699999988079071
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 74 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 74 — pavimento 1",
+            "room": "Sala 74 — pavimento 1",
+            "position": {
+                "x": 62.71239471435547,
+                "y": 6.5965986251831055,
+                "z": 53.3855094909668
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": 62.71239471435547,
+                "y": 7.019999980926514,
+                "z": 53.3855094909668
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.8199999928474426
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 76 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 76 — pavimento 1",
+            "room": "Sala 76 — pavimento 1",
+            "position": {
+                "x": 71.68423461914063,
+                "y": 6.5965986251831055,
+                "z": 53.3855094909668
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": 71.68423461914063,
+                "y": 7.019999980926514,
+                "z": 53.3855094909668
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.8199999928474426
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 75 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 75 — pavimento 1",
+            "room": "Sala 75 — pavimento 1",
+            "position": {
+                "x": 62.71239471435547,
+                "y": 6.5965986251831055,
+                "z": 46.11975860595703
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": 62.71239471435547,
+                "y": 7.019999980926514,
+                "z": 46.11975860595703
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.8199999928474426
+        },
+        {
+            "id": "ceiling_fan",
+            "name": "Ventilador parado Poly Haven — Sala 77 — pavimento 1",
+            "path": "Escola — objetos Poly Haven do abandono/Ventilador parado Poly Haven — Sala 77 — pavimento 1",
+            "room": "Sala 77 — pavimento 1",
+            "position": {
+                "x": 71.68423461914063,
+                "y": 6.5965986251831055,
+                "z": 46.11975860595703
+            },
+            "size": {
+                "x": 1.4629170894622803,
+                "y": 0.516343355178833,
+                "z": 1.4629170894622803
+            },
+            "supportPoint": {
+                "x": 71.68423461914063,
+                "y": 7.019999980926514,
+                "z": 46.11975860595703
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.8199999928474426
+        },
+        {
+            "id": "metal_trash_can",
+            "name": "metal_trash_can — esquecido — Sala 02 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/metal_trash_can — esquecido — Sala 02 — pavimento 0",
+            "room": "Sala 02 — pavimento 0",
+            "position": {
+                "x": -13.222670555114746,
+                "y": 0.01600000075995922,
+                "z": 72.09722900390625
+            },
+            "size": {
+                "x": 0.6453573107719421,
+                "y": 0.906157374382019,
+                "z": 0.548606276512146
+            },
+            "supportPoint": {
+                "x": -13.222670555114746,
+                "y": 0.00800000037997961,
+                "z": 72.09722900390625
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.6600000262260437
+        },
+        {
+            "id": "metal_trash_can",
+            "name": "metal_trash_can — esquecido — Sala 03 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/metal_trash_can — esquecido — Sala 03 — pavimento 0",
+            "room": "Sala 03 — pavimento 0",
+            "position": {
+                "x": -13.222670555114746,
+                "y": 0.01600000075995922,
+                "z": 73.35446166992188
+            },
+            "size": {
+                "x": 0.6453573107719421,
+                "y": 0.906157374382019,
+                "z": 0.548606276512146
+            },
+            "supportPoint": {
+                "x": -13.222670555114746,
+                "y": 0.00800000037997961,
+                "z": 73.35446166992188
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.6600000262260437
+        },
+        {
+            "id": "metal_trash_can",
+            "name": "metal_trash_can — esquecido — Sala 03A — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/metal_trash_can — esquecido — Sala 03A — pavimento 0",
+            "room": "Sala 03A — pavimento 0",
+            "position": {
+                "x": -13.222670555114746,
+                "y": 0.01600000075995922,
+                "z": 90.44308471679688
+            },
+            "size": {
+                "x": 0.6453573107719421,
+                "y": 0.906157374382019,
+                "z": 0.548606276512146
+            },
+            "supportPoint": {
+                "x": -13.222670555114746,
+                "y": 0.00800000037997961,
+                "z": 90.44308471679688
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.6600000262260437
+        },
+        {
+            "id": "metal_trash_can",
+            "name": "metal_trash_can — esquecido — Sala 03B — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/metal_trash_can — esquecido — Sala 03B — pavimento 0",
+            "room": "Sala 03B — pavimento 0",
+            "position": {
+                "x": -13.222670555114746,
+                "y": 0.01600000075995922,
+                "z": 79.41093444824219
+            },
+            "size": {
+                "x": 0.6453573107719421,
+                "y": 0.906157374382019,
+                "z": 0.548606276512146
+            },
+            "supportPoint": {
+                "x": -13.222670555114746,
+                "y": 0.00800000037997961,
+                "z": 79.41093444824219
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.6600000262260437
+        },
+        {
+            "id": "metal_trash_can",
+            "name": "metal_trash_can — esquecido — Sala 07 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/metal_trash_can — esquecido — Sala 07 — pavimento 0",
+            "room": "Sala 07 — pavimento 0",
+            "position": {
+                "x": -37.75719451904297,
+                "y": 0.01600000075995922,
+                "z": 81.24404907226563
+            },
+            "size": {
+                "x": 0.6453573107719421,
+                "y": 0.906157374382019,
+                "z": 0.548606276512146
+            },
+            "supportPoint": {
+                "x": -37.75719451904297,
+                "y": 0.00800000037997961,
+                "z": 81.24404907226563
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.6600000262260437
+        },
+        {
+            "id": "plastic_broom",
+            "name": "plastic_broom — esquecido — Sala 02 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/plastic_broom — esquecido — Sala 02 — pavimento 0",
+            "room": "Sala 02 — pavimento 0",
+            "position": {
+                "x": -2.2147929668426514,
+                "y": 0.01600000075995922,
+                "z": 72.09722900390625
+            },
+            "size": {
+                "x": 0.41639259457588196,
+                "y": 1.1975233554840088,
+                "z": 0.5665929913520813
+            },
+            "supportPoint": {
+                "x": -2.2147929668426514,
+                "y": 0.00800000037997961,
+                "z": 72.09722900390625
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.800000011920929
+        },
+        {
+            "id": "plastic_broom",
+            "name": "plastic_broom — esquecido — Sala 03A — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/plastic_broom — esquecido — Sala 03A — pavimento 0",
+            "room": "Sala 03A — pavimento 0",
+            "position": {
+                "x": -2.2147929668426514,
+                "y": 0.01600000075995922,
+                "z": 90.44308471679688
+            },
+            "size": {
+                "x": 0.41639259457588196,
+                "y": 1.1975233554840088,
+                "z": 0.5665929913520813
+            },
+            "supportPoint": {
+                "x": -2.2147929668426514,
+                "y": 0.00800000037997961,
+                "z": 90.44308471679688
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.800000011920929
+        },
+        {
+            "id": "plastic_broom",
+            "name": "plastic_broom — esquecido — Sala 07 — pavimento 0",
+            "path": "Escola — objetos Poly Haven do abandono/plastic_broom — esquecido — Sala 07 — pavimento 0",
+            "room": "Sala 07 — pavimento 0",
+            "position": {
+                "x": -32.618125915527344,
+                "y": 0.01600000075995922,
+                "z": 81.24404907226563
+            },
+            "size": {
+                "x": 0.41639259457588196,
+                "y": 1.1975233554840088,
+                "z": 0.5665929913520813
+            },
+            "supportPoint": {
+                "x": -32.618125915527344,
+                "y": 0.00800000037997961,
+                "z": 81.24404907226563
+            },
+            "supportNormal": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.800000011920929
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+  "status": "completed",
+  "duration": 41.31,
+  "summary": {
+    "total": 7,
+    "passed": 7,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.DrivingAndWindowTimersFreezeWhilePaused",
+      "Status": "Passed",
+      "Duration": 1.9954285,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.JourneyUsesPhysicalPhoneAndFlashlightThenEndsAtGate",
+      "Status": "Passed",
+      "Duration": 1.6103166,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.RadioCaptionsDoNotStopTheCarOrSeatedCamera",
+      "Status": "Passed",
+      "Duration": 1.0441084,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.RestoredWalkKeepsSavedPositionAndDoesNotDragPlayerBackToTheCar",
+      "Status": "Passed",
+      "Duration": 0.0034689,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.SeatedCheckpointIsWritableAndRestoresParkedProgressWithoutReplayingEvents",
+      "Status": "Passed",
+      "Duration": 0.0074275,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.WindowRequiresClearSightAndCannotSkipArrivalCall",
+      "Status": "Passed",
+      "Duration": 0.6227623,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneySceneTests.RealRoadHasReachableCabinItemsWindowAndContinuousWalkToGate",
+      "Status": "Passed",
+      "Duration": 36.0027225,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

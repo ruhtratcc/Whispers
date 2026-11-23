@@ -1,0 +1,98 @@
+{
+  "id": "painted_plaster_wall",
+  "name": "Painted Plaster Wall",
+  "authors": {
+    "Amal Kumar": "All"
+  },
+  "author": "Amal Kumar",
+  "url": "https://polyhaven.com/a/painted_plaster_wall",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://polyhaven.com/license",
+  "dimensionsMillimeters": [
+    2000,
+    2000
+  ],
+  "infoUrl": "https://api.polyhaven.com/info/painted_plaster_wall",
+  "filesUrl": "https://api.polyhaven.com/files/painted_plaster_wall",
+  "resolution": "1k",
+  "format": "JPG",
+  "use": "Reboco pintado neutro e ocre; preservar cor do material existente",
+  "sourceDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\assets\\textures\\painted_plaster_wall",
+  "preparedDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall",
+  "maps": {
+    "albedoOriginal": "work/SurfaceFixturePolish/Textures/Prepared/painted_plaster_wall/painted_plaster_wall_diff_1k.jpg",
+    "albedoColorPreserving": "work/SurfaceFixturePolish/Textures/Prepared/painted_plaster_wall/AlbedoColorPreserving.png",
+    "normalOpenGL": "work/SurfaceFixturePolish/Textures/Prepared/painted_plaster_wall/painted_plaster_wall_nor_gl_1k.jpg",
+    "metallicSmoothness": "work/SurfaceFixturePolish/Textures/Prepared/painted_plaster_wall/MetallicSmoothness.png",
+    "occlusion": "work/SurfaceFixturePolish/Textures/Prepared/painted_plaster_wall/Occlusion.png"
+  },
+  "absoluteMaps": {
+    "albedoOriginal": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall\\painted_plaster_wall_diff_1k.jpg",
+    "albedoColorPreserving": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall\\AlbedoColorPreserving.png",
+    "normalOpenGL": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall\\painted_plaster_wall_nor_gl_1k.jpg",
+    "metallicSmoothness": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall\\MetallicSmoothness.png",
+    "occlusion": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall\\Occlusion.png"
+  },
+  "recommended": {
+    "preserveExistingBaseColor": true,
+    "useAlbedo": "AlbedoColorPreserving.png",
+    "normalStrength": 0.26,
+    "smoothnessFactor": 0.16,
+    "occlusionStrength": 0.32,
+    "emission": false,
+    "environmentReflections": false,
+    "physicalRepeatMeters": [
+      2.0,
+      2.0
+    ]
+  },
+  "channelPacking": {
+    "MetallicSmoothness.R": "ARM.B metallic",
+    "MetallicSmoothness.GB": "0",
+    "MetallicSmoothness.A": "255 - ARM.G roughness",
+    "Occlusion.G": "ARM.R AO"
+  },
+  "sRGB": [
+    "albedoOriginal",
+    "albedoColorPreserving"
+  ],
+  "linear": [
+    "metallicSmoothness",
+    "occlusion"
+  ],
+  "normalImporter": "TextureImporterType.NormalMap; source is OpenGL tangent space",
+  "conversionVerified": true,
+  "neutralAlbedoFormula": ".82 + .66*(Rec709 luminance - median luminance), clamp .32..96",
+  "files": [
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/painted_plaster_wall/painted_plaster_wall_diff_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall\\painted_plaster_wall_diff_1k.jpg",
+      "bytes": 686726,
+      "sha256": "440310f05af089f2c93353167573403cbc3f805948203237b5d26431eeb9e19c"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/painted_plaster_wall/AlbedoColorPreserving.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall\\AlbedoColorPreserving.png",
+      "bytes": 808978,
+      "sha256": "779fbefea7be1f9f9408f94fbea12571b57043aaf81a4b255a28b505aae1618a"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/painted_plaster_wall/painted_plaster_wall_nor_gl_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall\\painted_plaster_wall_nor_gl_1k.jpg",
+      "bytes": 900461,
+      "sha256": "8eb01647d126eb5341e2c325821ad48c8ca11349dbef53447c95422c5d91cc9d"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/painted_plaster_wall/MetallicSmoothness.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall\\MetallicSmoothness.png",
+      "bytes": 969236,
+      "sha256": "b81ccecc6d032792c32f4ba9d21f7ad91cb678dfc4182cfbf2eb9a3aa0b9ba63"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/painted_plaster_wall/Occlusion.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\painted_plaster_wall\\Occlusion.png",
+      "bytes": 637951,
+      "sha256": "d3f49e0dd0c782c713dbfd0d1004d88c2d24ceb6d7299d79d5cdb660e4f39bc6"
+    }
+  ]
+}

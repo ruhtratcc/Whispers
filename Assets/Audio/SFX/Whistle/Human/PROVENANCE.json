@@ -1,0 +1,32 @@
+{
+  "author": "Joseph SARDIN",
+  "title": "Whistling in the mouth",
+  "license": "CC0 1.0",
+  "source": "https://bigsoundbank.com/whistling-in-the-mouth-s1173.html",
+  "download": "https://bigsoundbank.com/UPLOAD/ogg/1173.ogg",
+  "sourceSHA256": "ee07d7684a06b2b4a771bbe0fcb450e857cabe675be14b7c091822ef68c73b65",
+  "recorded": true,
+  "synthesis": false,
+  "derivatives": [
+    {
+      "file": "whistle_human_tap.wav",
+      "start": 0.04,
+      "end": 0.66,
+      "seconds": 0.62,
+      "loop": false,
+      "peak": 0.3515844137498468,
+      "rms": 0.13999999999999999,
+      "seamStep": 0.0
+    },
+    {
+      "file": "whistle_human_hold.wav",
+      "start": 0.12,
+      "end": 0.55,
+      "seconds": 0.4050113378684807,
+      "loop": true,
+      "peak": 0.2380858980154327,
+      "rms": 0.11199999999999999,
+      "seamStep": 0.05407553947611411
+    }
+  ]
+}

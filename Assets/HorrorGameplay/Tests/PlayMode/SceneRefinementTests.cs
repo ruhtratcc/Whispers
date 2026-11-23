@@ -1,0 +1,51 @@
+// Verifica .
+
+#if UNITY_EDITOR
+using System;using System.IO;using System.Linq;using System.Collections;using System.Reflection;using NUnit.Framework;using UnityEngine;using UnityEngine.TestTools;
+namespace HorrorGame.Tests
+{
+ public sealed partial class BeforeDemolitionFourStudentsTests
+ {
+  const string RefinementOutput="C:/Users/ruhtra/Documents/Codex/2026-09-29/oi/outputs/SceneRefinements20261105";
+  void RefinementCapture(string name)
+  {
+   var type=AppDomain.CurrentDomain.GetAssemblies().Select(a=>a.GetType("HorrorGame.Editor.PresentationCapture")).First(t=>t!=null);
+   type.GetMethod("Capture",BindingFlags.Public|BindingFlags.Static).Invoke(null,new object[]{UnityEngine.SceneManagement.SceneManager.GetActiveScene(),game.player.view.playerCamera,Path.Combine(RefinementOutput,name+".png"),1280,720,null,true});
+  }
+  [UnityTest,Category("RefinementNative"),Timeout(240000)]
+  public IEnumerator IntactMirrorCoversTheOpeningBeforeItsChapterAndCinematicBeamWorksWithEmptyHands()
+  {
+   var mirror=UnityEngine.Object.FindAnyObjectByType<BeforeDemolitionMirrorFlow>();Assert.That(mirror.Data.stage,Is.Zero);Assert.That(mirror.IsActive,Is.False);Assert.That(mirror.glassVisual.activeInHierarchy,Is.True,"The wall cover and mirror must be present before chapter H, not a pre-broken hole");
+   var p=SchoolPrefix();p.chapterId=BeforeDemolitionMirrorFlow.ChapterId;p.completedChapters.AddRange(new[]{BeforeDemolitionFourStudentsFlow.ChapterId,BeforeDemolitionTwoVoicesFlow.ChapterId});p.milestones.AddRange(new[]{BeforeDemolitionFourStudentsFlow.GatheredSignal,BeforeDemolitionFourStudentsFlow.KeySignal,BeforeDemolitionFourStudentsFlow.UpstairsSignal,"bd.loop.escaped","bd.loop.tape","bd.loop.mirror"});p.sequences.Add("bd.loop.voice");p.sequences.Add(BeforeDemolitionFourStudentsFlow.IntercomSequenceId);
+   foreach(string id in BeforeDemolitionFourStudentsFlow.StudentItemIds)Add(id);foreach(string id in new[]{BeforeDemolitionFourStudentsFlow.BiaTapeHeardId,BeforeDemolitionFourStudentsFlow.StairKeyId,BeforeDemolitionTwoVoicesFlow.TapeId,BeforeDemolitionTwoVoicesFlow.TapeHeardId})Add(id);
+   game.narrative.RestoreProgress(p);game.narrative.InitializeAfterSession(true);yield return Until(()=>game.CanControl&&mirror.IsActive&&!game.narrative.SequencePlaying,"Fresh mirror chapter initializes",20);
+   var equipment=game.equipment;Assert.That(equipment.HasFlashlight,Is.True);Assert.That(equipment.RequestSlot(2),Is.True);equipment.Advance(1);yield return null;
+   game.player.Warp(new Vector3(-7,3.84f,76.25f),0);game.save.flashlight.Restore(0,false);game.DisableControl();yield return null;yield return null;
+   Assert.That(equipment.HandsVisible,Is.False);Assert.That(game.save.flashlight.handRig.gameObject.activeInHierarchy,Is.False);Assert.That(game.save.flashlight.IsOn,Is.True);Assert.That(game.save.flashlight.RequestedOn,Is.False);Assert.That(game.save.flashlight.BatterySeconds,Is.Zero);
+   yield return Until(()=>UnityEngine.Object.FindObjectsByType<Light>(FindObjectsInactive.Include,FindObjectsSortMode.None).Any(l=>l.name=="Lanterna — luz da apresentação"&&l.enabled),"The cinematic light is applied in LateUpdate",3);
+   var beam=UnityEngine.Object.FindObjectsByType<Light>(FindObjectsInactive.Include,FindObjectsSortMode.None).Single(l=>l.name=="Lanterna — luz da apresentação");Assert.That(beam.enabled&&beam.gameObject.activeInHierarchy,Is.True);Assert.That(beam.intensity,Is.GreaterThan(0));Assert.That(beam.type,Is.EqualTo(LightType.Spot));
+   Assert.That(mirror.glassVisual.activeInHierarchy,Is.True);Assert.That(mirror.revealVisual.activeInHierarchy,Is.False);var crop=mirror.GetComponent<MirrorReflectionMask>();Assert.That(crop&&crop.IsReady,Is.True);var meta=new {figureActive=mirror.reflectionVisual.activeInHierarchy,glassEnabled=crop.glass.enabled,glassActive=crop.glass.gameObject.activeInHierarchy,head=mirror.reflectionHead.position.ToString("F3"),glassCenter=crop.glass.bounds.center.ToString("F3"),materials=mirror.reflectionVisual.GetComponentsInChildren<Renderer>(true).Select(r=>new{name=r.name,active=r.gameObject.activeInHierarchy,enabled=r.enabled,shader=r.sharedMaterial.shader.name}).ToArray(),masks=mirror.GetComponentsInChildren<Renderer>(true).Where(r=>r.name=="Espelho — máscara apenas no vidro").Select(r=>new{r.enabled,active=r.gameObject.activeInHierarchy}).ToArray()};File.WriteAllText(RefinementOutput+"/mirror-runtime.txt","figureActive="+meta.figureActive+";glassEnabled="+meta.glassEnabled+";glassActive="+meta.glassActive+";head="+meta.head+";glassCenter="+meta.glassCenter+";\n"+string.Join("\n",meta.materials.Select(r=>r.name+":"+r.active+":"+r.enabled+":"+r.shader))+"\nMASK "+string.Join(";",meta.masks.Select(r=>r.enabled+":"+r.active)));
+   var reflectedLamp=mirror.GetComponentsInChildren<Light>(true).Single(l=>l.name=="Espelho — luz apenas do reflexo");Assert.That(reflectedLamp.enabled,Is.True);Assert.That(reflectedLamp.GetComponent<UnityEngine.Rendering.Universal.UniversalAdditionalLightData>().renderingLayers.value,Is.EqualTo(128));Assert.That(UnityEngine.Rendering.Universal.UniversalRenderPipeline.asset.useRenderingLayers,Is.True);
+   Assert.That(UnityEngine.Object.FindObjectsByType<Renderer>(FindObjectsInactive.Include,FindObjectsSortMode.None).Where(r=>!r.transform.IsChildOf(mirror.reflectionVisual.transform)).All(r=>(r.renderingLayerMask&128)==0),Is.True,"Reflection fill cannot illuminate real-room surfaces");
+   RefinementCapture("mirror-intact-cinematic-light");var reflectedRenderers=mirror.reflectionVisual.GetComponentsInChildren<Renderer>(true);var wasEnabled=reflectedRenderers.Select(r=>r.enabled).ToArray();foreach(var r in reflectedRenderers)r.enabled=false;yield return null;yield return null;RefinementCapture("mirror-without-reflection-baseline");for(int i=0;i<reflectedRenderers.Length;i++)reflectedRenderers[i].enabled=wasEnabled[i];yield return null;yield return null;
+   var withFigure=new Texture2D(2,2);var empty=new Texture2D(2,2);try{withFigure.LoadImage(File.ReadAllBytes(RefinementOutput+"/mirror-intact-cinematic-light.png"));empty.LoadImage(File.ReadAllBytes(RefinementOutput+"/mirror-without-reflection-baseline.png"));var a=withFigure.GetPixels32();var b=empty.GetPixels32();long difference=0;int samples=0;var low=game.player.view.playerCamera.WorldToViewportPoint(crop.glass.bounds.min);var high=game.player.view.playerCamera.WorldToViewportPoint(crop.glass.bounds.max);for(int y=Mathf.CeilToInt(low.y*withFigure.height);y<Mathf.FloorToInt(high.y*withFigure.height);y++)for(int x=Mathf.CeilToInt(low.x*withFigure.width);x<Mathf.FloorToInt(high.x*withFigure.width);x++){int i=y*withFigure.width+x;difference+=Math.Abs(a[i].r-b[i].r)+Math.Abs(a[i].g-b[i].g)+Math.Abs(a[i].b-b[i].b);samples++;}float mean=difference/(samples*765f);File.WriteAllText(RefinementOutput+"/native-reflection-visibility.txt",mean.ToString(System.Globalization.CultureInfo.InvariantCulture));Assert.That(mean,Is.GreaterThan(.0005f),"The reflected figure changes real school pixels with normal flashlight lighting");}finally{UnityEngine.Object.Destroy(withFigure);UnityEngine.Object.Destroy(empty);}
+   Assert.That(game.save.Save(),Is.True);Assert.That(game.save.TryReadCurrent(out var cinematicSave),Is.True);Assert.That(cinematicSave.flashlightOn,Is.False,"The temporary beam must not replace the player switch state in a checkpoint");
+   game.player.Warp(new Vector3(-7,3.84f,72.5f),180);game.EnableControl();yield return null;yield return null;Assert.That(game.save.flashlight.IsOn,Is.False);Assert.That(game.save.flashlight.RequestedOn,Is.False);Assert.That(game.save.flashlight.BatterySeconds,Is.Zero);Assert.That(!beam||!beam.gameObject.activeInHierarchy,Is.True,"The presentation light must not leak back into normal play");Assert.That(reflectedLamp.enabled,Is.False,"Reflection light follows the real flashlight switch state");
+   Assert.That(game.save.Save(),Is.True);Assert.That(game.save.TryReadCurrent(out var snapshot),Is.True);Assert.That(game.save.RestoreSnapshot(snapshot),Is.True);game.narrative.InitializeAfterSession(true);yield return null;Assert.That(mirror.Data.stage,Is.Zero);Assert.That(mirror.glassVisual.activeInHierarchy,Is.True);
+  }
+  [UnityTest,Category("RefinementNative"),Timeout(240000)]
+  public IEnumerator WhistleCannotRevealUpstairsItemsAndBatteriesStopAtEighteenMeters()
+  {
+   var tool=WhistleSystem.For(game);tool.LearnLore();Assert.That(tool.BlowTap(),Is.True);yield return new WaitForSeconds(1.8f);Assert.That(tool.SupernaturalActive,Is.True);var sense=game.GetComponent<WhistleSense>();var highlights=game.gameObject.scene.GetRootGameObjects().SelectMany(g=>g.GetComponentsInChildren<WhistleHighlightable>(true)).ToArray();
+   var battery=highlights.First(h=>h.gameObject.activeInHierarchy&&h.interactions.OfType<CollectibleItem>().Any(c=>c.kind==CollectibleKind.Battery)&&h.transform.position.y>3.5f);Assert.That(battery.range,Is.EqualTo(18));
+   game.player.Warp(new Vector3(battery.transform.position.x,0,battery.transform.position.z-1),0);Physics.SyncTransforms();yield return null;
+   var context=new WhistleContext(tool,game.player.view.playerCamera.transform.position,Vector3.forward,WhistleKind.Tap,0,20,"SchoolCEEP","test");Assert.That(battery.Eligible(context),Is.False);sense.Pulse(context);yield return new WaitForSeconds(1.8f);Assert.That(battery.Visible,Is.False,"An upstairs battery cannot show through the ground-floor ceiling");
+   game.player.Warp(battery.transform.position+new Vector3(0,0,-3),0);Physics.SyncTransforms();yield return null;context=new WhistleContext(tool,game.player.view.playerCamera.transform.position,Vector3.forward,WhistleKind.Tap,0,21,"SchoolCEEP","test");Assert.That(battery.Eligible(context),Is.True);sense.Pulse(context);yield return Until(()=>battery.Visible,"The same battery remains visible from its own floor",4);
+   game.player.Warp(battery.transform.position+new Vector3(0,0,-19),0);Physics.SyncTransforms();yield return null;context=new WhistleContext(tool,game.player.view.playerCamera.transform.position,Vector3.forward,WhistleKind.Tap,0,22,"SchoolCEEP","test");Assert.That(battery.Eligible(context),Is.False);sense.Pulse(context);Assert.That(battery.Visible,Is.False);
+   Assert.That(highlights.Where(h=>h.interactions.OfType<CollectibleItem>().Any(c=>c.kind==CollectibleKind.Battery)).All(h=>h.range==18),Is.True);
+  }
+ }
+}
+#endif
+
+

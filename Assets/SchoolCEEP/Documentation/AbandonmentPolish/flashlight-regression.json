@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "duration": 1.05,
+  "summary": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.FlashlightImmersionPlayTests.NearbyWallsReduceGlareAndTheDistantBeamRecoversWithoutRecharging",
+      "Status": "Passed",
+      "Duration": 1.0279592,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

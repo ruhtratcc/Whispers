@@ -1,0 +1,99 @@
+{
+  "id": "long_white_tiles",
+  "name": "Long White Tiles",
+  "authors": {
+    "Jenelle van Heerden": "processing",
+    "Sergej Majboroda": "photography"
+  },
+  "author": "Jenelle van Heerden, Sergej Majboroda",
+  "url": "https://polyhaven.com/a/long_white_tiles",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://polyhaven.com/license",
+  "dimensionsMillimeters": [
+    1269.9999809265137,
+    1269.9999809265137
+  ],
+  "infoUrl": "https://api.polyhaven.com/info/long_white_tiles",
+  "filesUrl": "https://api.polyhaven.com/files/long_white_tiles",
+  "resolution": "1k",
+  "format": "JPG",
+  "use": "Faixas inferiores e paredes azulejadas; preservar cor existente",
+  "sourceDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\assets\\textures\\long_white_tiles",
+  "preparedDirectory": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles",
+  "maps": {
+    "albedoOriginal": "work/SurfaceFixturePolish/Textures/Prepared/long_white_tiles/long_white_tiles_diff_1k.jpg",
+    "albedoColorPreserving": "work/SurfaceFixturePolish/Textures/Prepared/long_white_tiles/AlbedoColorPreserving.png",
+    "normalOpenGL": "work/SurfaceFixturePolish/Textures/Prepared/long_white_tiles/long_white_tiles_nor_gl_1k.jpg",
+    "metallicSmoothness": "work/SurfaceFixturePolish/Textures/Prepared/long_white_tiles/MetallicSmoothness.png",
+    "occlusion": "work/SurfaceFixturePolish/Textures/Prepared/long_white_tiles/Occlusion.png"
+  },
+  "absoluteMaps": {
+    "albedoOriginal": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles\\long_white_tiles_diff_1k.jpg",
+    "albedoColorPreserving": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles\\AlbedoColorPreserving.png",
+    "normalOpenGL": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles\\long_white_tiles_nor_gl_1k.jpg",
+    "metallicSmoothness": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles\\MetallicSmoothness.png",
+    "occlusion": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles\\Occlusion.png"
+  },
+  "recommended": {
+    "preserveExistingBaseColor": true,
+    "useAlbedo": "AlbedoColorPreserving.png",
+    "normalStrength": 0.34,
+    "smoothnessFactor": 0.28,
+    "occlusionStrength": 0.32,
+    "emission": false,
+    "environmentReflections": false,
+    "physicalRepeatMeters": [
+      1.27,
+      1.27
+    ]
+  },
+  "channelPacking": {
+    "MetallicSmoothness.R": "ARM.B metallic",
+    "MetallicSmoothness.GB": "0",
+    "MetallicSmoothness.A": "255 - ARM.G roughness",
+    "Occlusion.G": "ARM.R AO"
+  },
+  "sRGB": [
+    "albedoOriginal",
+    "albedoColorPreserving"
+  ],
+  "linear": [
+    "metallicSmoothness",
+    "occlusion"
+  ],
+  "normalImporter": "TextureImporterType.NormalMap; source is OpenGL tangent space",
+  "conversionVerified": true,
+  "neutralAlbedoFormula": ".82 + .66*(Rec709 luminance - median luminance), clamp .32..96",
+  "files": [
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/long_white_tiles/long_white_tiles_diff_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles\\long_white_tiles_diff_1k.jpg",
+      "bytes": 619644,
+      "sha256": "0aa70e14117e9b1fbf726868675f6afa8fd62a2691f7ba3964f47796df06cd9c"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/long_white_tiles/AlbedoColorPreserving.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles\\AlbedoColorPreserving.png",
+      "bytes": 612351,
+      "sha256": "74a75723e950aa0c5914f5faf6ec5d30847e411a7ea0204103809d7af9bfb3e8"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/long_white_tiles/long_white_tiles_nor_gl_1k.jpg",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles\\long_white_tiles_nor_gl_1k.jpg",
+      "bytes": 651009,
+      "sha256": "a488ee3a2dbb81f334e191b51a43567f4ee6bb8adce5fd3ed85d5a6958fddfc1"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/long_white_tiles/MetallicSmoothness.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles\\MetallicSmoothness.png",
+      "bytes": 978399,
+      "sha256": "bc2c61bde78dd6e9f1d0ab8939f6e3ecf58c30df927800dfaa21eb05bacdcce3"
+    },
+    {
+      "path": "work/SurfaceFixturePolish/Textures/Prepared/long_white_tiles/Occlusion.png",
+      "absolutePath": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\SurfaceFixturePolish\\Textures\\Prepared\\long_white_tiles\\Occlusion.png",
+      "bytes": 629297,
+      "sha256": "8678ebebd911414c2f2986a2c4fff496e0501a1d11d47c89aa0b58b46011cedd"
+    }
+  ]
+}

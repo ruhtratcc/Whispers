@@ -1,0 +1,147 @@
+{
+    "generatedUtc": "2026-10-01T16:11:17.5159750Z",
+    "passed": true,
+    "restoredTargets": [],
+    "hits": [
+        {
+            "button": "Continue",
+            "resolution": "1600x900",
+            "firstHit": "Label",
+            "received": true,
+            "graphicDepth": 5,
+            "registeredRaycasters": 0,
+            "graphicActive": true,
+            "graphicCulled": false,
+            "screenPoint": {
+                "x": 1339.500244140625,
+                "y": 537.5004272460938
+            }
+        },
+        {
+            "button": "New game",
+            "resolution": "1600x900",
+            "firstHit": "Label",
+            "received": true,
+            "graphicDepth": 6,
+            "registeredRaycasters": 0,
+            "graphicActive": true,
+            "graphicCulled": false,
+            "screenPoint": {
+                "x": 1339.4998779296875,
+                "y": 464.50018310546875
+            }
+        },
+        {
+            "button": "Settings",
+            "resolution": "1600x900",
+            "firstHit": "Label",
+            "received": true,
+            "graphicDepth": 7,
+            "registeredRaycasters": 0,
+            "graphicActive": true,
+            "graphicCulled": false,
+            "screenPoint": {
+                "x": 1339.500244140625,
+                "y": 391.500244140625
+            }
+        },
+        {
+            "button": "Quit",
+            "resolution": "1600x900",
+            "firstHit": "Label",
+            "received": true,
+            "graphicDepth": 8,
+            "registeredRaycasters": 0,
+            "graphicActive": true,
+            "graphicCulled": false,
+            "screenPoint": {
+                "x": 1339.4998779296875,
+                "y": 318.5003967285156
+            }
+        },
+        {
+            "button": "Continue",
+            "resolution": "1280x960",
+            "firstHit": "Label",
+            "received": true,
+            "graphicDepth": 5,
+            "registeredRaycasters": 0,
+            "graphicActive": true,
+            "graphicCulled": false,
+            "screenPoint": {
+                "x": 1039.3604736328125,
+                "y": 560.82958984375
+            }
+        },
+        {
+            "button": "New game",
+            "resolution": "1280x960",
+            "firstHit": "Label",
+            "received": true,
+            "graphicDepth": 6,
+            "registeredRaycasters": 0,
+            "graphicActive": true,
+            "graphicCulled": false,
+            "screenPoint": {
+                "x": 1039.3604736328125,
+                "y": 493.3951416015625
+            }
+        },
+        {
+            "button": "Settings",
+            "resolution": "1280x960",
+            "firstHit": "Label",
+            "received": true,
+            "graphicDepth": 7,
+            "registeredRaycasters": 0,
+            "graphicActive": true,
+            "graphicCulled": false,
+            "screenPoint": {
+                "x": 1039.3604736328125,
+                "y": 425.9603576660156
+            }
+        },
+        {
+            "button": "Quit",
+            "resolution": "1280x960",
+            "firstHit": "Label",
+            "received": true,
+            "graphicDepth": 8,
+            "registeredRaycasters": 0,
+            "graphicActive": true,
+            "graphicCulled": false,
+            "screenPoint": {
+                "x": 1039.36083984375,
+                "y": 358.5255126953125
+            }
+        },
+        {
+            "button": "Back",
+            "resolution": "1600x900",
+            "firstHit": "Label",
+            "received": true,
+            "graphicDepth": 40,
+            "registeredRaycasters": 0,
+            "graphicActive": true,
+            "graphicCulled": false,
+            "screenPoint": {
+                "x": 1102.0001220703125,
+                "y": 164.50006103515625
+            }
+        },
+        {
+            "button": "Back",
+            "resolution": "1280x960",
+            "firstHit": "Label",
+            "received": true,
+            "graphicDepth": 40,
+            "registeredRaycasters": 0,
+            "graphicActive": true,
+            "graphicCulled": false,
+            "screenPoint": {
+                "x": 819.967529296875,
+                "y": 216.26675415039063
+            }
+        }
+    ]
+}

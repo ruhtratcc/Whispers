@@ -1,0 +1,1 @@
+Grave os vídeos conforme Assets/Docs/Demos_Para_Gravar.md. Destinos: demo_whistle.mp4 e demo_lockpick.mp4. H.264, 960x540, 24 fps, 5–8 s, sem áudio.

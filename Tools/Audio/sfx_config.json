@@ -1,0 +1,210 @@
+{
+  "ffmpeg": "",
+  "minimum_rms": 0.0003,
+  "silence_db": -50,
+  "fade_seconds": 0.007,
+  "short_peak_db": -3,
+  "ambience_lufs": -30,
+  "stereo_channels": 2,
+  "rules": [
+    {
+      "prefixes": [
+        "drone_",
+        "tension_",
+        "amb_drone_"
+      ],
+      "categoria": "Ambience",
+      "mixer": "Ambience",
+      "spatial": false,
+      "volume": 0.4,
+      "pitchMin": 1,
+      "pitchMax": 1,
+      "lufs": -32
+    },
+    {
+      "prefixes": [
+        "breath",
+        "respir",
+        "heart",
+        "batimento"
+      ],
+      "categoria": "Player",
+      "mixer": "Voice",
+      "spatial": false,
+      "volume": 0.3,
+      "pitchMin": 1,
+      "pitchMax": 1,
+      "lufs": -28
+    },
+    {
+      "prefixes": [
+        "amb_",
+        "ambience_",
+        "wind_",
+        "rain_",
+        "room_",
+        "ambiente_"
+      ],
+      "categoria": "Ambience",
+      "mixer": "Ambience",
+      "spatial": false,
+      "volume": 0.4,
+      "pitchMin": 1,
+      "pitchMax": 1,
+      "lufs": -30
+    },
+    {
+      "prefixes": [
+        "ui_",
+        "interface_",
+        "menu_",
+        "card_",
+        "objective_",
+        "hud_",
+        "inspect_"
+      ],
+      "categoria": "UI",
+      "mixer": "UI",
+      "spatial": false,
+      "volume": 0.3,
+      "pitchMin": 1,
+      "pitchMax": 1,
+      "lufs": null
+    },
+    {
+      "prefixes": [
+        "pc_",
+        "crt_",
+        "computer_",
+        "hdd_",
+        "bios_",
+        "mouse_",
+        "keyboard_",
+        "error_",
+        "notify_",
+        "boot_"
+      ],
+      "categoria": "PC",
+      "mixer": "PC",
+      "spatial": false,
+      "volume": 0.35,
+      "pitchMin": 1,
+      "pitchMax": 1,
+      "lufs": null
+    },
+    {
+      "prefixes": [
+        "phone_",
+        "celular_"
+      ],
+      "categoria": "Phone",
+      "mixer": "Phone",
+      "spatial": false,
+      "volume": 0.4,
+      "pitchMin": 1,
+      "pitchMax": 1,
+      "lufs": null
+    },
+    {
+      "prefixes": [
+        "radio_"
+      ],
+      "categoria": "Radio",
+      "mixer": "SFX",
+      "spatial": false,
+      "volume": 0.4,
+      "pitchMin": 1,
+      "pitchMax": 1,
+      "lufs": null
+    },
+    {
+      "prefixes": [
+        "footstep_",
+        "steps_",
+        "passo_",
+        "jump_",
+        "land_",
+        "cloth_",
+        "foot_"
+      ],
+      "categoria": "Player",
+      "mixer": "SFX",
+      "spatial": true,
+      "volume": 0.7,
+      "pitchMin": 0.96,
+      "pitchMax": 1.04,
+      "lufs": null
+    },
+    {
+      "prefixes": [
+        "whistle_",
+        "apito_"
+      ],
+      "categoria": "Whistle",
+      "mixer": "SFX",
+      "spatial": true,
+      "volume": 0.38,
+      "pitchMin": 1,
+      "pitchMax": 1,
+      "lufs": null
+    },
+    {
+      "prefixes": [
+        "lockpick_",
+        "grampo_"
+      ],
+      "categoria": "Lockpick",
+      "mixer": "SFX",
+      "spatial": true,
+      "volume": 0.5,
+      "pitchMin": 0.98,
+      "pitchMax": 1.02,
+      "lufs": null
+    }
+  ],
+  "default": {
+    "categoria": "Environment",
+    "mixer": "SFX",
+    "spatial": true,
+    "volume": 0.65,
+    "pitchMin": 0.96,
+    "pitchMax": 1.04,
+    "lufs": null
+  },
+  "long_seconds": 8,
+  "priority": [
+    "foot_tile_walk",
+    "door_wood_open",
+    "door_wood_close",
+    "phone_notify",
+    "ui_click",
+    "pc_boot_jingle",
+    "mouse_click",
+    "flashlight_on",
+    "flashlight_off",
+    "lockpick_pin_set",
+    "drawer_open",
+    "drawer_close",
+    "whistle_blow",
+    "battery_pickup",
+    "paper_rustle",
+    "key_pickup",
+    "lockpick_success",
+    "radio_button",
+    "notify_soft",
+    "error_beep",
+    "bios_beep",
+    "mouse_click_double",
+    "pc_power_button",
+    "hdd_seek",
+    "keyboard_typing",
+    "phone_message_sent",
+    "phone_typing_dots",
+    "ui_hover",
+    "card_open",
+    "objective_check",
+    "hud_swap",
+    "inspect_open",
+    "phone_vibrate_soft"
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "objMaterialName": "Yellow",
+    "name": "Yellow",
+    "alphaMode": "OPAQUE",
+    "extras": {
+      "fromFBX": {
+        "shadingModel": "Phong",
+        "isTruePBR": false
+      }
+    },
+    "pbrMetallicRoughness": {
+      "baseColorFactor": [
+        0.219060733914375,
+        0.149523124098778,
+        0.0435208790004253,
+        1.0
+      ],
+      "metallicFactor": 0.400000005960464,
+      "roughnessFactor": 0.415087103843689
+    }
+  },
+  {
+    "objMaterialName": "Black",
+    "name": "Black",
+    "alphaMode": "OPAQUE",
+    "extras": {
+      "fromFBX": {
+        "shadingModel": "Phong",
+        "isTruePBR": false
+      }
+    },
+    "pbrMetallicRoughness": {
+      "baseColorFactor": [
+        0.0264810919761658,
+        0.0264810919761658,
+        0.0264810919761658,
+        1.0
+      ],
+      "metallicFactor": 0.400000005960464,
+      "roughnessFactor": 0.415087103843689
+    }
+  },
+  {
+    "objMaterialName": "LightBlue",
+    "name": "LightBlue",
+    "alphaMode": "OPAQUE",
+    "extras": {
+      "fromFBX": {
+        "shadingModel": "Phong",
+        "isTruePBR": false
+      }
+    },
+    "pbrMetallicRoughness": {
+      "baseColorFactor": [
+        0.297561883926392,
+        0.396650642156601,
+        0.510611772537231,
+        1.0
+      ],
+      "metallicFactor": 0.400000005960464,
+      "roughnessFactor": 0.415087103843689
+    }
+  },
+  {
+    "objMaterialName": "DarkYellow",
+    "name": "DarkYellow",
+    "alphaMode": "OPAQUE",
+    "extras": {
+      "fromFBX": {
+        "shadingModel": "Phong",
+        "isTruePBR": false
+      }
+    },
+    "pbrMetallicRoughness": {
+      "baseColorFactor": [
+        0.147573053836823,
+        0.101462118327618,
+        0.0305190570652485,
+        1.0
+      ],
+      "metallicFactor": 0.400000005960464,
+      "roughnessFactor": 0.415087103843689
+    }
+  }
+]

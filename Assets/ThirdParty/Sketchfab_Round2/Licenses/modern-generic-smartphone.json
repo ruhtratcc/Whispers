@@ -1,0 +1,45 @@
+{
+  "source": {
+    "uid": "f4d11e48cc52479c802ec2cf0d629f68",
+    "title": "Modern Generic Smartphone",
+    "author": "Ottto3d",
+    "url": "https://sketchfab.com/3d-models/modern-generic-smartphone-f4d11e48cc52479c802ec2cf0d629f68",
+    "api": "https://api.sketchfab.com/v3/models/f4d11e48cc52479c802ec2cf0d629f68",
+    "license": {
+      "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+      "label": "CC Attribution",
+      "fullName": "Creative Commons Attribution",
+      "requirements": "Author must be credited. Commercial use is allowed.",
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "slug": "by"
+    },
+    "triangles": 2706,
+    "vertices": 1453,
+    "downloadable": true,
+    "textures": 5,
+    "materials": 1,
+    "description": "**This is a cell phone model.**<br>\n<br>\nThis phone has a plastic back cover, and a screen. Also, there is a fingerprint sensor on the back cover. The screen is made in black color, but it can be replaced with any image you want: you just need to replace a uv island of the screen in diffuse texture. All cameras are made as a texture to save polygons. The model is made similar to one of the Huawei models. But there are no brand identification marks on the back cover. So, this model is suitable for use in games, as it contains a quite low polygon count. You can also use this phone in your projects, commercial animations and so on. Real size model, high resolution textures, this is a PBR model. The mesh consists of triangles, overlapping uv map to save uv space.<br>\n<br>\nTotal count of tris: 2,706<br>\nTotal count of vertices: 1,453<br>\n<br>\nDimensions:<br>\nHeight: 16 cm<br>\nWidth: 8 cm<br>\n<br>\nIncluding formats:<br>\nBlend<br>\nFbx<br>\nObj<br>\n<br>\nCreated in Blender 3.2<br>",
+    "htmlStatus": 200,
+    "format": "FBX/Blend/OBJ declarados pelo autor; glTF convertido da plataforma. Conteúdo do pacote original NÃO VERIFICADO.",
+    "geometryVisual": "NOT VERIFIED — no model download/import",
+    "authorDimensionsMeters": {
+      "height": 0.16,
+      "width": 0.08,
+      "thickness": null
+    },
+    "branding": "Autor declara ausência de marcas na tampa; conferir frente/bordas/texturas e cobrir qualquer logo antes de uso.",
+    "use": "RoadJourney — somente visual do celular; preservar root, coleta, vibração, tela/UI, colisor e ponto de interação."
+  },
+  "licenseEvidence": {
+    "embeddedLicenseCount": 0,
+    "source": "Cached official public Sketchfab API response checked 2026-10-30",
+    "proofFile": "C:\\Users\\ruhtra\\Documents\\Codex\\2026-09-29\\oi\\work\\ModelPass20261030\\SketchfabPropsEvidence\\f4d11e48cc52479c802ec2cf0d629f68.json",
+    "license": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "commercialAndModificationAllowed": true,
+    "creditRequired": true,
+    "requiredCredit": "Modern Generic Smartphone — Ottto3d — https://sketchfab.com/3d-models/modern-generic-smartphone-f4d11e48cc52479c802ec2cf0d629f68 — CC BY4.0. Adapted for Whispers of the Past."
+  },
+  "archiveSha256": "9264be082dbb7694ea2b9b05bda25079e11490b7ee33ad25c1862d39847ce23e",
+  "changes": "Static native-mesh conversion, URP1K maps. Car four taxi accessory nodes removed; cabinet single closed variant selected."
+}

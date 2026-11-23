@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c96f093987abbd34b866548570c938e1, type: 3}
+  m_Name: BeforeDemolitionEmails
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.EmailCatalog
+  messages:
+  - id: email.01
+    sender: Helena Souza
+    date: 14/03/2006
+    time: 
+    subject: Alunos da 7B, podemos conversar?
+    initiallyDelivered: 1
+    paragraphs:
+    - text: "Sr. Jo\xE3o, boa tarde. Meu nome \xE9 Helena Souza, sou secret\xE1ria do SEEPE. O senhor esteve aqui na quinta. Queria s\xF3 comentar que os quatro deixaram mochila, casaco e caderno na sala. A Marta nunca sai sem o caderno de desenho. N\xE3o sei se isso ajuda. Ramal da secretaria: 204."
+      child: 0
+    attachments: []
+  - id: email.02
+    sender: Helena Souza
+    date: 09/04/2007
+    time: 
+    subject: 'RE: Alunos da 7B'
+    initiallyDelivered: 1
+    paragraphs:
+    - text: "Sr. Jo\xE3o, j\xE1 faz mais de um ano. O diretor Aur\xE9lio mandou eu parar de ligar. Guardei a lancheira da Marta na minha gaveta porque ningu\xE9m veio buscar. Semana passada abri e tinha um desenho novo l\xE1 dentro, de giz de cera, num papel que n\xE3o \xE9 da escola. Uma casa, quatro bonequinhos e um homem alto na porta. Eu n\xE3o coloquei nada ali. Joguei fora. Voltou pra gaveta no dia seguinte."
+      child: 0
+    attachments: []
+  - id: email.03
+    sender: Helena Souza
+    date: 22/11/2010
+    time: 03:07
+    subject: "desculpa o hor\xE1rio"
+    initiallyDelivered: 1
+    paragraphs:
+    - text: "Sr. Jo\xE3o, n\xE3o consigo dormir. A energia da escola est\xE1 cortada desde 2008, mas ontem o sinal tocou e eu moro a duas quadras. Fui at\xE9 l\xE1. O rel\xF3gio da secretaria estava parado em tr\xEAs e sete. No ch\xE3o tinha pegadas pequenas na poeira, quatro pares, da porta at\xE9 a escada. Eu varro e na manh\xE3 seguinte elas voltam. Todas v\xE3o pro andar de cima e param no fim do corredor."
+      child: 0
+    attachments: []
+  - id: email.04
+    sender: Helena Souza
+    date: 03/06/2014
+    time: 03:07
+    subject: o senhor leu
+    initiallyDelivered: 1
+    paragraphs:
+    - text: "O aviso de leitura mostrou que o senhor abriu o email anterior \xE0s 03:07 de hoje. O senhor estava acordado, ent\xE3o. Sentado na cadeira que range pra esquerda."
+      child: 0
+    - text: "Eu sei porque a Bia me contou. Ela disse que o senhor l\xEA com a m\xE3o esquerda no mouse e que o polegar da direita fica na boca quando o senhor fica nervoso. Isso \xE9 verdade?"
+      child: 0
+    - text: "Eu moro na escola agora. N\xE3o vou mais pra casa."
+      child: 0
+    attachments: []
+  - id: email.05
+    sender: Helena Souza
+    date: 17/09/2016
+    time: 03:07
+    subject: eu to bem
+    initiallyDelivered: 1
+    paragraphs:
+    - text: "eu to bem to \xF3tima Jo\xE3o. Arranquei a unha do polegar ontem pra ver se do\xEDa. N\xE3o doeu. N\xE3o saiu sangue. Dentro tem giz."
+      child: 0
+    - text: o senhor lembra do apito
+      child: 0
+    - text: "n\xE3o responde ela"
+      child: 1
+    - text: "tem muita gente aqui dentro da minha cabe\xE7a e uma delas escreve melhor que eu"
+      child: 0
+    - text: "a gente t\xE1 atr\xE1s do espelho"
+      child: 1
+    - text: "ela n\xE3o dorme mais mas a gente dorme tudo junto"
+      child: 1
+    - text: Atenciosamente Helena (Helena) (Helena)
+      child: 0
+    attachments: []
+  - id: email.06
+    sender: Helena Souza
+    date: 08/05/2018
+    time: 03:07
+    subject: "Pe\xE7o desculpas pelos emails anteriores"
+    initiallyDelivered: 1
+    paragraphs:
+    - text: "Prezado Sr. Jo\xE3o,"
+      child: 0
+    - text: "Pe\xE7o sinceras desculpas pelos emails anteriores. Eu estava doente, mas estou muito melhor. Ningu\xE9m o culpa."
+      child: 0
+    - text: "O senhor ainda guarda o apito do Luan na segunda gaveta, atr\xE1s da garrafa? N\xE3o precisa responder."
+      child: 0
+    - text: 'Em resposta ao seu email de ontem:'
+      child: 0
+    - text: "> \"se eu abrir eu n\xE3o fecho mais\""
+      child: 0
+    - text: Compreendo perfeitamente. Estou com o senhor.
+      child: 0
+    - text: Atenciosamente, Helena Souza
+      child: 0
+    - text: "ela morreu hoje de manh\xE3"
+      child: 1
+    - text: "quem t\xE1 escrevendo \xE9 o que ficou no lugar"
+      child: 1
+    attachments: []
+  - id: email.07
+    sender: Helena Souza
+    date: 02/10/2022
+    time: 03:07
+    subject: "Demoli\xE7\xE3o programada"
+    initiallyDelivered: 1
+    paragraphs:
+    - text: "Prezado Sr. Jo\xE3o,"
+      child: 0
+    - text: "A demoli\xE7\xE3o do CEEP est\xE1 autorizada para 27 de outubro, \xE0s 8h. Gostaria muito que o senhor viesse antes. Tem uma coisa pra assinar, por formalidade."
+      child: 0
+    - text: "Seguem em anexo o relat\xF3rio de 2006, com a sua assinatura, e uma segunda via com a linha do aceite em branco. A caneta o senhor j\xE1 tem. Est\xE1 no bolso esquerdo do casaco."
+      child: 0
+    - text: "\xC9 r\xE1pido. Eles esperam o senhor. A Marta fez uma carteira nova com o seu nome. Ficou torta, ela tem s\xF3 12 anos."
+      child: 0
+    - text: Atenciosamente, Helena
+      child: 0
+    attachments:
+    - fileName: relatorio_2006.pdf
+      preview: {fileID: 0}
+      unavailable: 1
+    - fileName: relatorio_2via.pdf
+      preview: {fileID: 0}
+      unavailable: 1
+    - fileName: foto_escritorio.jpg
+      preview: {fileID: 2800000, guid: 73326d4e15dc804429ae33aca12b560a, type: 3}
+      unavailable: 0
+  - id: email.08
+    sender: Helena Souza
+    date: 26/10/2026
+    time: 03:07
+    subject: 
+    initiallyDelivered: 0
+    paragraphs:
+    - text: "A porta da secretaria est\xE1 aberta."
+      child: 0
+    - text: Eu deixei a luz acesa.
+      child: 0
+    - text: "n\xE3o vem"
+      child: 1
+    - text: Eu ouvi o senhor ligando o carro.
+      child: 0
+    attachments: []

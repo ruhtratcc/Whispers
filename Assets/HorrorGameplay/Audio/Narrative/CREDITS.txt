@@ -1,0 +1,49 @@
+WHISPERS OF PAST — NARRATIVE AUDIO
+
+HeavyBreathing.wav - "Male Heavy Breathing #2"
+Author: Sound Effects Factory
+Source: https://soundeffectsfactory.com/sounds/sound_1758171092082_bcdl1uw9z
+License: Sound Effects Factory Free License
+https://soundeffectsfactory.com/license
+The license permits editing and use in commercial video games. Attribution is
+not required; this credit is provided voluntarily. Do not redistribute the
+original/standalone sound file or include it in a competing sound library.
+Changes: continuous 90.925-second excerpt, mono 44.1kHz PCM16 conversion,
+constant level adjustment, quiet loop boundaries and 25ms edge fades.
+No EQ, denoising, pitch/time change, synthesized breath or repeated short cycles.
+The licensed original is retained outside Unity Assets for local preparation.
+Archived breathing sources below are unused by the current gameplay clip.
+
+No speech/voice acting has been generated or added to narrative conversations.
+
+Telephone: "Old Rotary Phone Ringing - Western Electric Bell 500 phone".
+Author: mycompasstv, 14 February 2019.
+Source: https://freesound.org/people/mycompasstv/sounds/456433/
+License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).
+Obtained from the public high-quality preview on the original source page.
+Changes: first ring excerpt, mono mix, DC removal, peak adjustment, 25ms edge fades.
+
+Original source files are kept alongside the imported game clips.
+All previously installed music, sound and font credits remain unchanged.
+
+Telephone receiver Foley
+"Rotary Phone Pick up and Hang up" — cookies+policy (Freesound).
+Source: https://freesound.org/people/cookies%2Bpolicy/sounds/556491/
+License: CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+Public HQ preview: https://cdn.freesound.org/previews/556/556491_10713160-hq.mp3
+Retrieved and license verified: 2026-10-01.
+Modified into ReceiverPickup.wav and ReceiverReplace.wav: separated the lift and
+replace recordings, removed DC/handling rumble, adjusted gain and added edge fades.
+Delivered as mono 44,100 Hz / 16-bit PCM. No synthesized beeps or dialogue voice.
+
+Archived, unused breathing source: "Panting.MP3", SoundsForHim, 16 June 2017.
+Source: https://freesound.org/people/SoundsForHim/sounds/395563/
+License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).
+This rejected recording is retained only for provenance and rollback; it contributes
+no samples to the gameplay breathing clip. The former denoising revisions are superseded.
+
+Archived, unused source: "Male Inhale Exhale 8", Geoff-Bremner-Audio.
+Sound by Geoff Bremner (https://linktr.ee/gbaudio).
+Source: https://freesound.org/people/Geoff-Bremner-Audio/sounds/847843/
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+This earlier replacement was rejected and contributes no gameplay samples.

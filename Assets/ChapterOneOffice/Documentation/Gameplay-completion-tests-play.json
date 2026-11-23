@@ -1,0 +1,90 @@
+{
+  "status": "completed",
+  "duration": 45.14,
+  "summary": {
+    "total": 11,
+    "passed": 11,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.CameraScarePlayTests.CutscenePoseRemainsUsableDuringScareAndRecovers",
+      "Status": "Passed",
+      "Duration": 1.6335791,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.CameraScarePlayTests.PauseFreezesScareAndSignal",
+      "Status": "Passed",
+      "Duration": 0.1656342,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.CameraScarePlayTests.ScareRollRecoversAndSmallLandingDoesNotEraseIt",
+      "Status": "Passed",
+      "Duration": 1.6150109,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.CallQueuedDuringPauseLocksControlOnlyAfterResume",
+      "Status": "Passed",
+      "Duration": 0.439482,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.EquipmentCollectedDuringNotePauseWaitsForResume",
+      "Status": "Passed",
+      "Duration": 0.1755421,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.MissingRoadMapKeepsOfficeProgressAndAllowsMenuState",
+      "Status": "Passed",
+      "Duration": 0.0262173,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.PauseDuringCallFreezesDialogueAndRestoresCutsceneState",
+      "Status": "Passed",
+      "Duration": 0.9242385,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.RestoredCallsDoNotReplayAndEquipmentGateSurvives",
+      "Status": "Passed",
+      "Duration": 0.175106,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.TwoCallsRequireAnswerThenEquipmentAndExit",
+      "Status": "Passed",
+      "Duration": 0.3591699,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.NarrativeRuntimeTests.WorldEventRestoresSilentlyWithoutReplayingScare",
+      "Status": "Passed",
+      "Duration": 0.0281212,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.PrologueOfficeCallsTests.AuthoredOfficeCallsCheckpointInterruptionResumeAndDeathRestart",
+      "Status": "Passed",
+      "Duration": 39.5602784,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

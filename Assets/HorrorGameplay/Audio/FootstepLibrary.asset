@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765a3f6f9912b174b8d90a2b7522acd4, type: 3}
+  m_Name: FootstepLibrary
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.FootstepLibrary
+  entries:
+  - surface: 0
+    steps: {fileID: 11400000, guid: 5566fc9b4425ee44295234cc58170e5c, type: 2}
+    landing: {fileID: 11400000, guid: 4673dc9b56d0d8140b7d98e5d43408ee, type: 2}
+    material: {fileID: 0}
+  - surface: 1
+    steps: {fileID: 11400000, guid: 3fc3067e93b81b84395ec4b9353f7b8a, type: 2}
+    landing: {fileID: 11400000, guid: 1935fb859e6d5114aa2736315a9794fc, type: 2}
+    material: {fileID: 0}
+  - surface: 2
+    steps: {fileID: 11400000, guid: 10695a72c84016442ac5d2d5f03889da, type: 2}
+    landing: {fileID: 11400000, guid: d3e2c0ada2d28f346ae7576e10848515, type: 2}
+    material: {fileID: 0}
+  - surface: 3
+    steps: {fileID: 11400000, guid: 007f79072e4db5c48a6cef51e579c82c, type: 2}
+    landing: {fileID: 11400000, guid: c5d15eeb92f8a744a8e4f9e3182f6037, type: 2}
+    material: {fileID: 0}
+  - surface: 4
+    steps: {fileID: 11400000, guid: 768fb1b50182212418427a30f22704e7, type: 2}
+    landing: {fileID: 11400000, guid: 169a52ca2207ad44db2fe081dd6d2511, type: 2}
+    material: {fileID: 0}
+  - surface: 5
+    steps: {fileID: 11400000, guid: 944ec84be1544514087d26c772073901, type: 2}
+    landing: {fileID: 11400000, guid: 3c29d59f13ecb7947a87d5802e4dba23, type: 2}
+    material: {fileID: 0}
+  - surface: 6
+    steps: {fileID: 11400000, guid: 029be0b96ec3f0244840e957fad95976, type: 2}
+    landing: {fileID: 11400000, guid: c09d09cfd9d55f346a8523038729caf1, type: 2}
+    material: {fileID: 0}
+  defaultSurface: 1

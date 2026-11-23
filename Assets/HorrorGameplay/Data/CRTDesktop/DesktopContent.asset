@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0de0c2aed365fc46a4e0d13d5b653b7, type: 3}
+  m_Name: DesktopContent
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.Desktop.DesktopContent
+  apps:
+  - id: documents
+    title: Meus Documentos
+    icon: {fileID: 6920466294134987867, guid: 56933f1f5821b69438999119f182a595, type: 3}
+    defaultSize: {x: 820, y: 510}
+  - id: computer
+    title: Meu Computador
+    icon: {fileID: -8981207468879790968, guid: 56933f1f5821b69438999119f182a595, type: 3}
+    defaultSize: {x: 500, y: 350}
+  - id: trash
+    title: Lixeira
+    icon: {fileID: 5815971181709527539, guid: 56933f1f5821b69438999119f182a595, type: 3}
+    defaultSize: {x: 800, y: 510}
+  - id: mail
+    title: Email
+    icon: {fileID: -2299576744683063708, guid: 56933f1f5821b69438999119f182a595, type: 3}
+    defaultSize: {x: 930, y: 655}
+  - id: browser
+    title: Jungfox
+    icon: {fileID: 4118268916693376051, guid: 56933f1f5821b69438999119f182a595, type: 3}
+    defaultSize: {x: 880, y: 560}
+  - id: notepad
+    title: Bloco de Notas
+    icon: {fileID: 7396661540011803083, guid: 56933f1f5821b69438999119f182a595, type: 3}
+    defaultSize: {x: 800, y: 500}
+  - id: media
+    title: Media Player
+    icon: {fileID: -6747669777418781115, guid: 56933f1f5821b69438999119f182a595, type: 3}
+    defaultSize: {x: 820, y: 520}
+  - id: images
+    title: Imagens
+    icon: {fileID: -8981207468879790968, guid: 56933f1f5821b69438999119f182a595, type: 3}
+    defaultSize: {x: 850, y: 550}
+  - id: mines
+    title: Campo Minado
+    icon: {fileID: 21300000, guid: f5993abea004d76468011712ed8dd152, type: 3}
+    defaultSize: {x: 500, y: 490}
+  - id: snake
+    title: Cobrinha
+    icon: {fileID: 21300000, guid: 2880de295ef05fd4cb2ebd29973ea4f1, type: 3}
+    defaultSize: {x: 620, y: 490}
+  notes:
+  - {fileID: 11400000, guid: acde5e21f26a61a41b2cf842fe8fba5d, type: 2}
+  - {fileID: 11400000, guid: 5e398126537e6754693504c1a4f083d2, type: 2}
+  - {fileID: 11400000, guid: 0b39b8450ef445848b736b0a0b891c32, type: 2}
+  - {fileID: 11400000, guid: 98b100bd5949ef54489d5e4e1750a64b, type: 2}
+  - {fileID: 11400000, guid: d1bde4f2daf80f24fa61b56790a3773f, type: 2}
+  pages:
+  - {fileID: 11400000, guid: 3d52735d64a443346acb6f162143c820, type: 2}
+  - {fileID: 11400000, guid: 1bfc660334500ac4d99aef056abd6f5b, type: 2}
+  - {fileID: 11400000, guid: 2cce2990f693bef4299ea8013ab1a925, type: 2}
+  errors:
+  - {fileID: 11400000, guid: d34ac96b5bd2d3b4db591dac85136578, type: 2}
+  - {fileID: 11400000, guid: 11f90c623eb49034bbd74d606aaade57, type: 2}
+  - {fileID: 11400000, guid: 36f4d77a001f9c24f902a9c6116d9e22, type: 2}
+  - {fileID: 11400000, guid: 4f582c7fbd659124586678546fc71c82, type: 2}
+  - {fileID: 11400000, guid: 07b92d3752e00614895351721e5d3430, type: 2}
+  - {fileID: 11400000, guid: 8fc4892a7c92e6441ba336ccda70dd31, type: 2}
+  - {fileID: 11400000, guid: 2e277862b0395474fbcd092d89b123f6, type: 2}
+  - {fileID: 11400000, guid: 0d11740f1b9375d429f9c3cc85146b8b, type: 2}
+  - {fileID: 11400000, guid: 0a497378a1cd419439d90478990f5c5c, type: 2}
+  files:
+  - id: report.2006
+    title: relatorio_2006.pdf
+    requiredFlag: email.07.read
+    text: "Conclus\xE3o: afastamento volunt\xE1rio.\nRespons\xE1vel pelo encerramento: Jo\xE3o de Claus.\n\nQuatro nomes. Uma assinatura. A minha."
+    emailId: 
+    kind: 1
+    texture: {fileID: 0}
+  - id: photo.office
+    title: foto_escritorio.jpg
+    requiredFlag: email.07.read
+    text: 
+    emailId: 
+    kind: 0
+    texture: {fileID: 2800000, guid: 73326d4e15dc804429ae33aca12b560a, type: 3}
+  - id: photo.school
+    title: escola.png
+    requiredFlag: email.06.read
+    text: 
+    emailId: 
+    kind: 0
+    texture: {fileID: 2800000, guid: 5e0a04b5833d4ee4b81a89ca3bc59bcd, type: 3}
+  - id: case.closed
+    title: CASO_ENCERRADO
+    requiredFlag: 
+    text: 
+    emailId: 
+    kind: 2
+    texture: {fileID: 0}
+  tracks:
+  - id: helena2006
+    title: "Recado de Helena \u2014 2006"
+    clip: {fileID: 0}
+    unlockVisit: 1
+    placeholderSeconds: 24
+  - id: cantiga
+    title: Cantiga de roda desafinada
+    clip: {fileID: 0}
+    unlockVisit: 2
+    placeholderSeconds: 28
+  wallpaper: {fileID: 2800000, guid: b969fc9feb8dad946b633d1d7b5974af, type: 3}
+  schoolWallpaper: {fileID: 2800000, guid: c8fecd348aeda5445b51b1e776da6edb, type: 3}
+  arrowCursor: {fileID: 21300000, guid: dc40a9167b0d4484e9697fe44a07e58d, type: 3}
+  handCursor: {fileID: 21300000, guid: e35d18597a69dc242b49815eb66ede5d, type: 3}
+  waitCursor: {fileID: 21300000, guid: 40eb28208accb9148a2bcd2aab721ead, type: 3}
+  textCursor: {fileID: 21300000, guid: 0bd19bd302e97bd41a80e272e81dcb68, type: 3}
+  windowSprite: {fileID: 21300000, guid: 84bdf5ec5c57f4648a890205e51b3dae, type: 3}
+  buttonSprite: {fileID: 21300000, guid: 80767d6a712ae0449a37985cf716b500, type: 3}
+  titleSprite: {fileID: 21300000, guid: 4492fac0e88ed5e4f934c7fe363f9658, type: 3}
+  taskbarSprite: {fileID: 21300000, guid: 02e3b5b13c895944a9d30ed99b607d41, type: 3}
+  frameSprite: {fileID: 21300000, guid: 39acf44e5887e8c4ba7642aa13f040d7, type: 3}
+  startSprite: {fileID: 21300000, guid: b1f472915b75e35419d8f2ee68d6399f, type: 3}
+  closeSprite: {fileID: 21300000, guid: 4cf3c03d7dcb936499e16a9bfba3d5ae, type: 3}
+  inactiveTitleSprite: {fileID: 21300000, guid: 04d34be8600894f44aea82f67b9b2d81, type: 3}
+  arrowHotspot: {x: 10, y: 6}
+  handHotspot: {x: 14, y: 0}
+  normalFont: {fileID: 11400000, guid: ba502ba0a8b2b83428782a7e0371c47b, type: 2}
+  childFont: {fileID: 11400000, guid: bcbdb225c1a3a0d4ea3d64e8319e489b, type: 2}
+  retroFont: {fileID: 11400000, guid: 558ec4eb0bc1a3749971dcb2d5d616f5, type: 2}
+  bootSound: {fileID: 11400000, guid: a9ae9ab701ff2f340964f18c05bf4d55, type: 2}
+  clickSound: {fileID: 11400000, guid: 63b2aa2ac9427ff48a4359a9ec8749c7, type: 2}
+  diskSound: {fileID: 11400000, guid: 8b15e5479e228fb49ae75e5f4fdc5655, type: 2}
+  errorSound: {fileID: 11400000, guid: 436f793c7eef3464097823bfbd50ea2e, type: 2}
+  notificationSound: {fileID: 11400000, guid: 8412b13c48f3ce6498e381d7b9622cd7, type: 2}
+  crtSound: {fileID: 11400000, guid: da750825ed05ef84aadc40a84f9cfcea, type: 2}
+  crtStrength: 0.35

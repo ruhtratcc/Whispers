@@ -1,0 +1,23 @@
+{
+  "scene": "Assets/SchoolCEEP/Scenes/SchoolCEEP.unity",
+  "fixtures": 256,
+  "unsupportedRemoved": 2,
+  "protectedStatePreserved": true,
+  "originalTransformsPreserved": true,
+  "allReplacementsMounted": true,
+  "remainingOriginalFaces": 0,
+  "addedLights": 0,
+  "addedColliders": 0,
+  "addedScripts": 0,
+  "surfaceRenderers": 90,
+  "surfaceTriangles": 15516,
+  "surfaceGeometryPreserved": true,
+  "surfacePhysicalStatePreserved": true,
+  "metricUVsVerified": true,
+  "noAddedRenderers": true,
+  "nightState": "applied",
+  "nightRenderers": 3074,
+  "nightGeometryPreserved": true,
+  "nightPhysicalStatePreserved": true,
+  "note": "All three Apply calls on already-applied journals performed their audits without duplicating scene objects."
+}

@@ -1,0 +1,97 @@
+{
+  "status": "completed",
+  "duration": 43.17,
+  "summary": {
+    "total": 12,
+    "passed": 12,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.DrivingAndWindowTimersFreezeWhilePaused",
+      "Status": "Passed",
+      "Duration": 1.9160709,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.HeldFlashlightCheckpointStaysSeatedUntilDoorInteraction",
+      "Status": "Passed",
+      "Duration": 0.0605902,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.JourneyUsesPhysicalPhoneFlashlightAndSeparateDoorThenEndsAtGate",
+      "Status": "Passed",
+      "Duration": 1.6522752,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.LegacyCompletedChapterRemainsCompleteWithNewDoorMilestone",
+      "Status": "Passed",
+      "Duration": 0.0324516,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.LegacyWalkingCheckpointAddsExitSilentlyAndKeepsOutsidePosition",
+      "Status": "Passed",
+      "Duration": 0.0350568,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.MovingSeatCameraTracksEveryLateFrameWithoutWorldLag",
+      "Status": "Passed",
+      "Duration": 1.0269268,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.RadioCaptionsDoNotStopTheCarOrSeatedCamera",
+      "Status": "Passed",
+      "Duration": 1.07557,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.RestoredWalkKeepsSavedPositionAndDoesNotDragPlayerBackToTheCar",
+      "Status": "Passed",
+      "Duration": 0.0300951,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.SeatedCheckpointIsWritableAndRestoresParkedProgressWithoutReplayingEvents",
+      "Status": "Passed",
+      "Duration": 0.0354592,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneyFlowTests.WindowRequiresClearSightAndCannotSkipArrivalCall",
+      "Status": "Passed",
+      "Duration": 0.6497342,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneySceneTests.CompletedOfficeCheckpointCarriesEquipmentIntoRealRoadSpawn",
+      "Status": "Passed",
+      "Duration": 0.6707674,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "HorrorGame.Tests.RoadJourneySceneTests.RealRoadHasReachableCabinItemsWindowAndContinuousWalkToGate",
+      "Status": "Passed",
+      "Duration": 35.9561568,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

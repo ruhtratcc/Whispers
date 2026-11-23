@@ -1,0 +1,43 @@
+{
+  "architectureBefore": "82E251C5DEE771F623A072CF2D80D100BD795AB4E3524AEDE0C935BBE747EACB",
+  "architectureAfter": "82E251C5DEE771F623A072CF2D80D100BD795AB4E3524AEDE0C935BBE747EACB",
+  "group": "Escola — capítulo 4 e arquivo antigo",
+  "clues": [
+    {
+      "title": "Relatório da noite dos desaparecimentos",
+      "position": [
+        -70.83315,
+        1.407,
+        33.5965157
+      ],
+      "visible": false,
+      "colliderEnabled": false
+    },
+    {
+      "title": "Fotografia de João — aluno",
+      "position": [
+        -70.83315,
+        1.407,
+        27.0746517
+      ],
+      "visible": false,
+      "colliderEnabled": false
+    },
+    {
+      "title": "Chave antiga do arquivo",
+      "position": [
+        -68.36212,
+        0.930033,
+        19.80278
+      ],
+      "visible": false,
+      "colliderEnabled": false
+    }
+  ],
+  "destination": "school.door.0.58",
+  "eventLights": 3,
+  "newColliders": 8,
+  "entitiesHaveColliders": 0,
+  "keySupportedByBox": true,
+  "wallFaceOffset": 0.01599884
+}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80b3c7e9f7c341143b507c75926ee639, type: 3}
+  m_Name: gate_metal_close
+  m_EditorClassIdentifier: HorrorGame.Runtime::HorrorGame.SoundSet
+  overrideChannel: 1
+  channel: 1
+  caption: 
+  clips:
+  - {fileID: 8300000, guid: 9b1a0c2ec89a6c84c911fe676db47f36, type: 3}
+  - {fileID: 8300000, guid: 6e53990164b620549b485ee032d327a9, type: 3}
+  - {fileID: 8300000, guid: b9a144dc3c1460c4d86915df2d9ec527, type: 3}
+  pitch: {x: 0.96, y: 1.04}
+  volume: {x: 1, y: 1}
+  minimumDistance: 0.7
+  maximumDistance: 12
